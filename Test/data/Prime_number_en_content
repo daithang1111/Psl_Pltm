@@ -1,0 +1,447 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{redirect|Prime}}
+A '''prime number''' (or a '''prime''') is a [[natural number]] greater than 1 that has no positive [[divisor]]s other than 1 and itself. A natural number greater than 1 that is not a prime number is called a [[composite number]]. For example, 5 is prime because only 1 and 5 evenly divide it, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and 6. The [[fundamental theorem of arithmetic]] establishes the central role of primes in [[number theory]]: any integer greater than 1 can be expressed as a product of primes that is unique [[up to]] ordering. The uniqueness in this theorem [[#Primality of one|requires excluding]] 1 as a prime because one can include arbitrarily many copies of 1 in any factorization, e.g., 3, 1 &amp;times; 3, 1 &amp;times; 1 &amp;times; 3, etc. are all valid factorizations of 3.
+
+The property of being prime is called primality. A simple but slow method of verifying the primality of a given number ''n'' is known as [[trial division]]. It consists of testing whether ''n'' is a multiple of any integer between 2 and &lt;math>\sqrt{n}&lt;/math>. Algorithms that are much more efficient than trial division have been devised to test the primality of large numbers. Particularly fast methods are available for numbers of special forms, such as [[Mersenne number]]s. {{As of|2013|2}}, the [[largest known prime number]] has 17,425,170 [[numerical digit|decimal digits]].
+
+There are [[Infinite set|infinitely many]] primes, as [[Euclid's theorem|demonstrated by Euclid]] around 300 BC. There is no known useful formula that sets apart all of the prime numbers from composites. However, the distribution of primes, that is to say, the statistical behaviour of primes in the large, can be modeled. The first result in that direction is the [[prime number theorem]], proven at the end of the 19th century, which says that the [[probability]] that a given, randomly chosen number {{math|''n''}} is prime is inversely [[Proportionality (mathematics)|proportional]] to its number of digits, or to the [[logarithm]] of ''n''.
+
+Many questions around prime numbers remain open, such as [[Goldbach's conjecture]], which proposes that every even integer greater than 2 can be expressed as the sum of two primes, and the [[twin prime]] conjecture, which says that there are infinitely many pairs of primes whose difference is 2. Such questions spurred the development of various branches of number theory, focusing on [[analytic number theory|analytic]] or [[algebraic number theory|algebraic]] aspects of numbers. Primes are used in several routines in [[information technology]], such as [[public-key cryptography]], which makes use of properties such as the difficulty of [[Integer factorization|factoring]] large numbers into their [[prime factor]]s. Prime numbers give rise to various generalizations in other mathematical domains, mainly [[algebra]], such as [[prime element]]s and [[prime ideal]]s.
+
+==Definition and examples==
+A [[natural number]] (i.e. 1, 2, 3, 4, 5, 6, etc.) is called a '''prime''' or a '''prime number''' ''if'' it has exactly two positive [[divisor]]s, 1 and the number itself.&lt;ref>{{Citation | last1=Dudley| first1=Underwood | title=Elementary number theory | publisher=W. H. Freeman and Co. | edition=2nd | isbn=978-0-7167-0076-0 | year=1978}}, p. 10, section 2&lt;/ref> Natural numbers greater than 1 that are not prime are called ''[[composite number|composite]]''.
+
+[[File:Prime rectangles.svg|thumb|The number 12 is not a prime, as 12 items can be placed into 3 equal-size columns of 4 each (among other ways). 11 items cannot be all placed into several equal-size columns of more than 1 item each without some extra items leftover (a remainder). Therefore the number 11 is a prime.]]
+Among the numbers 1 to 6, the numbers 2, 3, and 5 are the prime numbers, while 1, 4, and 6 are not prime. 1 is excluded as a prime number, for reasons explained below. 2 is a prime number, since the only natural numbers dividing it are 1 and 2. Next, 3 is prime, too: 1 and 3 do divide 3 without remainder, but 3 divided by 2 gives [[remainder]] 1. Thus, 3 is prime. However, 4 is composite, since 2 is another number (in addition to 1 and 4) dividing 4 without remainder:
+:4 = 2 · 2.
+5 is again prime: none of the numbers 2, 3, or 4 divide 5. Next, 6 is divisible by 2 or 3, since
+:6 = 2 · 3.
+Hence, 6 is not prime.  The image at the right illustrates that 12 is not prime: {{nowrap|12 {{=}} 3 · 4}}. No [[even number]] greater than 2 is prime because by definition, any such number {{math|''n''}} has at least three distinct divisors, namely 1, 2, and {{math|''n''}}. This implies that {{math|''n''}} is not prime. Accordingly, the term ''odd prime'' refers to any prime number greater than 2. In a similar vein, all prime numbers bigger than 5, written in the usual [[decimal]] system, end in 1, 3, 7, or 9, since even numbers are multiples of 2 and numbers ending in 0 or 5 are multiples of 5.
+
+If {{math|''n''}} is a natural number, then 1 and {{math|''n''}} divide {{math|''n''}} without remainder. Therefore, the condition of being a prime can also be restated as: a number is prime if it is greater than one and if none of
+:{{math|2, 3, ..., ''n'' − 1}}
+divides {{math|''n''}} (without remainder). Yet another way to say the same is: a number {{math|''n'' > 1}} is prime if it cannot be written as a product of two integers {{math|''a''}} and {{math|''b''}}, both of which are larger than&amp;nbsp;1:
+:{{math|1=''n'' = ''a'' · ''b''}}.
+In other words, {{math|''n''}} is prime if {{math|''n''}} items cannot be divided up into smaller equal-size groups of more than one item.
+
+The smallest 168 prime numbers (all the prime numbers under 1000) are:&lt;!--Do not add 1 to this list. Its exclusion from the list is addressed in the “History of prime numbers�? section below.-->
+:2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137, 139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199, 211, 223, 227, 229, 233, 239, 241, 251, 257, 263, 269, 271, 277, 281, 283, 293, 307, 311, 313, 317, 331, 337, 347, 349, 353, 359, 367, 373, 379, 383, 389, 397, 401, 409, 419, 421, 431, 433, 439, 443, 449, 457, 461, 463, 467, 479, 487, 491, 499, 503, 509, 521, 523, 541, 547, 557, 563, 569, 571, 577, 587, 593, 599, 601, 607, 613, 617, 619, 631, 641, 643, 647, 653, 659, 661, 673, 677, 683, 691, 701, 709, 719, 727, 733, 739, 743, 751, 757, 761, 769, 773, 787, 797, 809, 811, 821, 823, 827, 829, 839, 853, 857, 859, 863, 877, 881, 883, 887, 907, 911, 919, 929, 937, 941, 947, 953, 967, 971, 977, 983, 991, 997 {{OEIS|id=A000040}}.
+The [[set (mathematics)|set]] of all primes is often denoted {{math|'''P'''}}.
+
+==Fundamental theorem of arithmetic==
+{{Main|Fundamental theorem of arithmetic}}
+The crucial importance of prime numbers to [[number theory]] and mathematics in general stems from the ''fundamental theorem of arithmetic'', which states that every positive integer larger than 1 can be written as a product of one or more primes in a way that is unique except for the order of the prime [[divisor|factors]].&lt;ref>{{Harvard citations|author=Dudley|year=1978|nb=yes|loc=Section 2, Theorem 2}}&lt;/ref> Primes can thus be considered the “basic building blocks�? of the natural numbers. For example:
+
+:{|
+|-
+|23244 ||= 2 · 2 · 3 · 13 · 149
+|-
+|||= 2&lt;sup>2&lt;/sup> · 3 · 13 · 149. (2&lt;sup>2&lt;/sup> denotes the [[Square (algebra)|square]] or second power of 2.)
+|}
+
+As in this example, the same prime factor may occur multiple times. A decomposition:
+
+:{{math|1=''n'' = ''p''&lt;sub>1&lt;/sub> · ''p''&lt;sub>2&lt;/sub> · ... · ''p''&lt;sub>''t''&lt;/sub>}}
+
+of a number {{math|''n''}} into (finitely many) prime factors {{math|''p''&lt;sub>1&lt;/sub>}}, {{math|''p''&lt;sub>2&lt;/sub>}}, ... to {{math|''p''&lt;sub>''t''&lt;/sub>}} is called ''prime factorization'' of {{math|''n''}}. The fundamental theorem of arithmetic can be rephrased so as to say that any factorization into primes will be identical except for the order of the factors. So, albeit there are many [[Integer factorization|prime factorization]] algorithms to do this in practice for larger numbers, they all have to yield the same result.
+
+If {{math|''p''}} is a prime number and {{math|''p''}} divides a product {{math|''ab''}} of integers, then {{math|''p''}} divides {{math|''a''}} or {{math|''p''}} divides {{math|''b''}}. This proposition is known as [[Euclid's lemma]].&lt;ref>{{Harvard citations|author=Dudley|year=1978|nb=yes|loc=Section 2, Lemma 5}}&lt;/ref>  It is used in some proofs of the uniqueness of prime factorizations.
+
+===Primality of one===
+Most early Greeks did not even consider 1 to be a number,&lt;ref>See, for example, David E. Joyce's commentary on [[Euclid's Elements]], [http://aleph0.clarku.edu/~djoyce/java/elements/bookVII/defVII1.html Book VII, definitions 1 and 2].&lt;/ref> so did not consider it a prime. In the 19th century however, many mathematicians did consider the number 1 a prime. For example, [[Derrick Norman Lehmer]]'s list of primes up to 10,006,721, reprinted as late as 1956,&lt;ref>{{Harvard citations | last1=Riesel | year=1994|loc=p. 36|nb=yes}}&lt;/ref> started with 1 as its first prime.&lt;ref>{{Harvard citations | last1=Conway | last2=Guy | year=1996|loc=pp. 129–130|nb=yes }}&lt;/ref> [[Henri Lebesgue]] is said to be the last professional mathematician to call 1 prime.&lt;ref>
+{{Citation |last1=Derbyshire |first1=John  |title=Prime  Obsession: Bernhard Riemann and the Greatest  Unsolved Problem in  Mathematics  |accessdate=2008-03-11 |year=2003  |publisher=Joseph Henry Press |location=Washington,  D.C.  |isbn=978-0-309-08549-6 |oclc=249210614  |page=33  |chapter=The  Prime Number Theorem }}&lt;/ref> Although a large body of mathematical work is also valid when calling 1 a prime, the above fundamental theorem of arithmetic does not hold as stated. For example, the number 15 can be factored as {{nowrap|3 · 5}} or {{nowrap| 1 · 3 · 5}}. If 1 were admitted as a prime, these two presentations would be considered different factorizations of 15 into prime numbers, so the statement of that theorem would have to be modified. Furthermore, the prime numbers have several properties that the number 1 lacks, such as the relationship of the number to its corresponding value of [[Euler's totient function]] or the [[Sum-of-divisors function|sum of divisors function]].&lt;ref>"[http://primefan.tripod.com/Prime1ProCon.html "Arguments for and against the primality of 1]".&lt;/ref>&lt;ref>[http://primes.utm.edu/notes/faq/one.html "Why is the number one not prime?"]&lt;/ref>
+
+==History==
+[[File:Sieve of Eratosthenes animation.gif|thumb|430px|The [[Sieve of Eratosthenes]] is a simple [[algorithm]] for finding all prime numbers up to a specified integer. It was created in the 3rd century BC by [[Eratosthenes]], an [[ancient Greece|ancient Greek]] [[mathematician]].  (Click to see animation.)]]
+There are hints in the surviving records of the [[ancient Egypt]]ians that they had some knowledge of prime numbers: the [[Egyptian fraction]] expansions in the [[Rhind papyrus]], for instance, have quite different forms for primes and for composites. However, the earliest surviving records of the explicit study of prime numbers come from the [[Ancient Greece|Ancient Greeks]]. [[Euclid's Elements]] (circa 300 BC) contain important theorems about primes, including the [[Euclid's theorem|infinitude of primes]] and the [[fundamental theorem of arithmetic]]. Euclid also showed how to construct a [[perfect number]] from a [[Mersenne prime]]. The Sieve of Eratosthenes, attributed to Eratosthenes, is a simple method to compute primes, although the large primes found today with computers are not generated this way.
+
+After the Greeks, little happened with the study of prime numbers until the 17th century. In 1640 [[Pierre de Fermat]] stated (without proof) [[Fermat's little theorem]] (later proved by [[Gottfried Wilhelm Leibniz|Leibniz]] and [[Leonhard Euler|Euler]]). A special case of Fermat's theorem may have been known much earlier by the Chinese.  Fermat conjectured that all numbers of the form 2&lt;sup>2&lt;sup>''n''&lt;/sup>&lt;/sup>&amp;nbsp;+&amp;nbsp;1 are prime (they are called [[Fermat number]]s) and he verified this up to ''n''&amp;nbsp;=&amp;nbsp;4 (or 2&lt;sup>16&lt;/sup>&amp;nbsp;+&amp;nbsp;1). However, the very next Fermat number 2&lt;sup>32&lt;/sup>&amp;nbsp;+&amp;nbsp;1 is composite (one of its prime factors is&amp;nbsp;641), as Euler discovered later, and in fact no further Fermat numbers are known to be prime.  The French monk [[Marin Mersenne]] looked at primes of the form 2&lt;sup>''p''&lt;/sup>&amp;nbsp;−&amp;nbsp;1, with ''p'' a prime.  They are called Mersenne primes in his honor.
+
+Euler's work in number theory included many results about primes.  He showed the [[infinite sum|infinite series]] [[Proof that the sum of the reciprocals of the primes diverges|{{nowrap|1/2 + 1/3 + 1/5 + 1/7 + 1/11 + …}}]] is [[Divergent series|divergent]].
+In 1747 he showed that the even [[perfect numbers]] are precisely the integers of the form 2&lt;sup>''p''−1&lt;/sup>(2&lt;sup>''p''&lt;/sup>&amp;nbsp;−&amp;nbsp;1), where the second factor is a Mersenne prime.
+
+At the start of the 19th century, Legendre and Gauss independently conjectured that as ''x'' tends to infinity, the number of primes up to ''x'' is [[Asymptote|asymptotic]] to ''x''/ln(''x''), where ln(''x'') is the [[natural logarithm]] of ''x''.   Ideas of Riemann in his [[On the Number of Primes Less Than a Given Magnitude|1859 paper on the zeta-function]] sketched a program that would lead to a proof of the prime number theorem. This outline was completed by [[Jacques Hadamard|Hadamard]] and [[Charles de la Vallée-Poussin|de la Vallée Poussin]], who independently proved the [[prime number theorem]] in 1896.
+
+Proving a number is prime is not done (for large numbers) by trial division. Many mathematicians have worked on [[primality test]]s for large numbers, often restricted to specific number forms. This includes [[Pépin's test]] for Fermat numbers (1877), [[Proth's theorem]] (around 1878), the [[Lucas–Lehmer primality test]] (originated 1856),&lt;ref>[http://primes.utm.edu/notes/by_year.html The Largest Known Prime by Year: A Brief History] [http://primes.utm.edu/curios/page.php?number_id=135 Prime Curios!: 17014…05727 (39-digits)]&lt;/ref> and the generalized [[Lucas primality test]]. More recent algorithms like [[Adleman–Pomerance–Rumely primality test|APRT-CL]], [[Elliptic curve primality proving|ECPP]], and [[AKS primality test|AKS]] work on arbitrary numbers but remain much slower.
+
+For a long time, prime numbers were thought to have extremely limited application outside of [[pure mathematics]];{{Citation needed|date=August 2008}} this changed in the 1970s when the concepts of [[public-key cryptography]] were invented, in which prime numbers formed the basis of the first algorithms such as the [[RSA (algorithm)|RSA]] cryptosystem algorithm.
+
+Since 1951 all the [[largest known prime]]s have been found by [[computer]]s. The search for ever larger primes has generated interest outside mathematical circles. The [[Great Internet Mersenne Prime Search]] and other [[distributed computing]] projects to find large primes have become popular in the last ten to fifteen years, while mathematicians continue to struggle with the theory of primes.
+
+==Number of prime numbers==
+{{Main|Euclid's theorem}}
+There are [[infinitely]] many prime numbers. Another way of saying this is that the sequence
+:2, 3, 5, 7, 11, 13, ...
+of prime numbers never ends. This statement is referred to as ''Euclid's theorem'' in honor of the ancient Greek mathematician [[Euclid]], since the first known proof for this statement is attributed to him. Many more proofs of the infinitude of primes are known, including an [[mathematical analysis|analytical]] proof by [[Euler]], [[Christian Goldbach|Goldbach's]] [[Fermat number#Basic properties|proof]] based on  [[Fermat number]]s,&lt;ref>[http://www.math.dartmouth.edu/~euler/correspondence/letters/OO0722.pdf Letter] in [[Latin]] from Goldbach to Euler, July 1730.&lt;/ref> [[Harry Furstenberg|Furstenberg's]] [[Furstenberg's proof of the infinitude of primes|proof using general topology]],&lt;ref>{{Harvard citations | last1=Furstenberg | year=1955 | nb=yes}}&lt;/ref> and [[Ernst Kummer|Kummer's]] elegant proof.&lt;ref>{{Harvard citations | last1=Ribenboim |year=2004|nb=yes|loc=p. 4}}&lt;/ref>
+
+===Euclid's proof===
+Euclid's proof (Book IX, Proposition 20&lt;ref>James Williamson (translator and commentator), ''The Elements of Euclid, With Dissertations'', [[Clarendon Press]], Oxford, 1782, page 63, [http://aleph0.clarku.edu/~djoyce/java/elements/bookIX/propIX20.html English translation of Euclid's proof]&lt;/ref>) considers any finite set ''S'' of primes.  The key idea is to consider the product of all these numbers plus one:
+
+: &lt;math> N = 1 + \prod_{p\in S} p. &lt;/math>
+
+Like any other natural number, ''N'' is divisible by at least one prime number (it is possible that ''N'' itself is prime).
+
+None of the primes by which ''N'' is divisible can be members of the finite set ''S'' of primes with which we started, because dividing ''N'' by any one of these leaves a remainder of&amp;nbsp;1.  Therefore the primes by which ''N'' is divisible are additional primes beyond the ones we started with.  Thus any finite set of primes can be extended to a larger finite set of primes.
+
+It is often erroneously reported that Euclid begins with the assumption that the set initially considered contains all prime numbers, leading to a [[proof by contradiction|contradiction]], or that it contains precisely the ''n'' smallest primes rather than any arbitrary finite set of primes.&lt;ref>{{cite journal |first=Michael |last=Hardy |first2=Catherine |last2=Woodgold |title=Prime Simplicity |journal=[[Mathematical Intelligencer]] |volume=31 |issue=4 |year=2009 |pages=44–52 |doi= }}&lt;/ref>  Today, the product of the smallest ''n'' primes plus 1 is conventionally called the ''n''th [[Euclid number]].
+
+===Euler's analytical proof===
+[[Proof that the sum of the reciprocals of the primes diverges|Euler's proof]] uses the sum of the [[Multiplicative inverse|reciprocals]] of primes,
+
+:&lt;math>S(p) = \frac 1 2 + \frac 1 3 + \frac 1 5 + \frac 1 7 + \cdots + \frac 1 p.&lt;/math>
+
+This sum becomes bigger than any arbitrary [[real number]] provided that ''p'' is big enough.&lt;ref>{{Citation | last1=Apostol | first1=Tom M. | author1-link=Tom M. Apostol | title=Introduction to Analytic Number Theory | publisher=[[Springer-Verlag]] | location=Berlin, New York | isbn=978-0-387-90163-3 | year=1976}}, Section 1.6, Theorem 1.13&lt;/ref> This shows that there are infinitely many primes, since otherwise this sum would grow only until the biggest prime ''p'' is reached. The growth of ''S''(''p'') is quantified by [[Mertens' theorems|Mertens' second theorem]].&lt;ref>{{Harvard citations|year=1976|last1=Apostol|nb=yes|loc=Section 4.8, Theorem 4.12}}&lt;/ref> For comparison, the sum
+
+:&lt;math>\frac 1 {1^2} + \frac 1 {2^2} + \frac 1 {3^2} + \cdots + \frac 1 {n^2} = \sum_{i=1}^n \frac 1 {i^2}&lt;/math>
+
+does not grow to infinity as ''n'' goes to infinity. In this sense, prime numbers occur more often than squares of natural numbers. [[Brun's theorem]] states that the sum of the reciprocals of [[twin prime]]s,
+
+:&lt;math> \left( {\frac{1}{3} + \frac{1}{5}} \right) + \left( {\frac{1}{5} + \frac{1}{7}} \right) + \left( {\frac{1}{{11}} + \frac{1}{{13}}} \right) +  \cdots = \sum\limits_{ \begin{smallmatrix} p \text{ prime, } \\ p + 2 \text { prime} \end{smallmatrix}} {\left( {\frac{1}{p} + \frac{1}{{p + 2}}} \right)}, &lt;/math>
+is finite.
+
+==Testing primality and integer factorization==
+There are various methods to determine whether a given number ''n'' is prime. The most basic routine, trial division, is of little practical use because of its slowness. One group of modern primality tests is applicable to arbitrary numbers, while more efficient tests are available for particular numbers. Most such methods only tell whether ''n'' is prime or not. Routines also yielding one (or all) prime factors of ''n'' are called [[integer factorization|factorization]] algorithms.
+
+===Trial division===
+The most basic method of checking the primality of a given integer ''n'' is called ''[[trial division]]''. This routine consists of dividing ''n'' by each integer ''m'' that is greater than 1 and less than or equal to the [[square root]] of ''n''. If the result of any of these divisions is an integer, then ''n'' is not a prime, otherwise it is a prime. Indeed, if &lt;math>n=a b&lt;/math> is composite (with ''a'' and ''b'' ≠ 1) then one of the factors ''a'' or ''b'' is necessarily at most &lt;math>\sqrt{n}&lt;/math>. For example, for &lt;math> n = 37 &lt;/math>, the trial divisions are by {{nowrap|''m'' {{=}} 2, 3, 4, 5, and 6.}} None of these numbers divides 37, so 37 is prime. This routine can be implemented more efficiently if a complete list of primes up to &lt;math>\sqrt{n}&lt;/math> is known—then trial divisions need to be checked only for those ''m'' that are prime. For example, to check the primality of 37, only three divisions are necessary (''m'' = 2, 3, and 5), given that 4 and 6 are composite.
+
+While a simple method, trial division quickly becomes impractical for testing large integers because the number of possible factors grows too rapidly as ''n'' increases. According to the prime number theorem explained below, the number of prime numbers less than &lt;math>\sqrt{n}&lt;/math> is approximately given by &lt;math>\sqrt{n} / \ln(\sqrt{n})&lt;/math>, so the algorithm may need up to this number of trial divisions to check the primality of ''n''. For {{nowrap|''n'' {{=}} 10&lt;sup>20&lt;/sup>}}, this number is 450 million—too large for many practical applications.
+
+===Sieves===
+An algorithm yielding all primes up to a given limit, such as required in the trial division method, is called a prime number [[sieve theory|sieve]]. The oldest example, the [[sieve of Eratosthenes]] (see above) is useful for relatively small primes. The modern [[sieve of Atkin]] is more complicated, but faster when properly optimized. Before the advent of computers, lists of primes up to bounds like 10&lt;sup>7&lt;/sup> were also used.&lt;ref>{{Harvard citations|last=Lehmer|year=1909}}.&lt;/ref>
+
+===Primality testing versus primality proving===
+Modern primality tests for general numbers ''n'' can be divided into two main classes, [[probabilistic algorithm|probabilistic]] (or "Monte Carlo") and [[deterministic algorithm]]s. The former merely "test" whether ''n'' is prime in the sense that they declare ''n'' to be (definitely) composite or "[[probable prime|probably prime]]", the latter meaning that ''n'' may or may not be a prime number. Composite numbers that do pass a given primality test are referred to as [[pseudoprime]]s. For example, [[Fermat's primality test]] relies on [[Fermat's little theorem]]. This theorem says that for any prime number ''p'' and any integer ''a'' not divisible by ''p'',  {{nowrap|''a''&lt;sup>''p'' − 1&lt;/sup> − 1}} is divisible by ''p''. Thus, if {{nowrap|''a''&lt;sup>''n'' − 1&lt;/sup> − 1}} is not divisible by ''n'', ''n'' cannot be prime. However, ''n'' may be composite even if this divisibility holds. In fact, there are infinitely many composite numbers ''n'' that pass the Fermat primality test for every choice of ''a'' that is coprime with ''n'' ([[Carmichael number]]s), for example {{nowrap|''n'' {{=}} 561}}.
+
+Deterministic algorithms do not erroneously report composite numbers as prime. In practice, the fastest such method is known as [[elliptic curve primality proving]]. Analyzing its run time is based on [[heuristic argument]]s, as opposed to the [[mathematical proof|rigorously proven]] [[algorithmic complexity|complexity]] of the more recent [[AKS primality test]]. Deterministic methods are typically slower than probabilistic ones, so the latter ones are typically applied first before a more time-consuming deterministic routine is employed.
+
+The following table lists a number of prime tests. The running time is given in terms of ''n'', the number to be tested and, for probabilistic algorithms, the number ''k'' of tests performed. Moreover, ε is an arbitrarily small positive number, and log is the [[logarithm]] to an unspecified base. The [[big O notation]] means that, for example, elliptic curve primality proving requires a time that is bounded by a factor (not depending on ''n'', but on ε) times log&lt;sup>5+ε&lt;/sup>(''n'').
+
+{| class="wikitable sortable"
+|-
+! Test
+! Developed in
+! Type
+! Running time
+! Notes
+|-
+| [[AKS primality test]]
+| 2002
+| deterministic
+| O(log&lt;sup>6+ε&lt;/sup>(''n''))
+| computationally infeasible for moderately large ''n''
+|-
+| [[Elliptic curve primality proving]]
+| 1977
+| deterministic
+| O(log&lt;sup>5+ε&lt;/sup>(''n'')) ''heuristically''
+|
+|-
+| [[Miller–Rabin primality test]]
+| 1980
+| probabilistic
+| O(''k'' · log&lt;sup>2+ε&lt;/sup> (''n''))
+| error probability 4&lt;sup>−''k''&lt;/sup>
+|-
+| [[Solovay–Strassen primality test]]
+| 1977
+| probabilistic
+| O(''k'' · log&lt;sup>3&lt;/sup> ''n'')
+| error probability 2&lt;sup>−''k''&lt;/sup>
+|-
+| [[Fermat primality test]]
+|
+| probabilistic
+| O(''k'' · log&lt;sup>2+ε&lt;/sup> (''n''))
+| fails for Carmichael numbers
+|}
+
+===Special-purpose algorithms and the largest known prime===
+{{Further|List of prime numbers}}
+[[File:Pentagon construct.gif|Construction of a regular pentagon. 5 is a Fermat prime.|right|thumb]]
+In addition to the aforementioned tests applying to any natural number ''n'', a number of much more efficient primality tests is available for special numbers. For example, to run [[Lucas primality test|Lucas' primality test]] requires the knowledge of the prime factors of {{nowrap|''n'' − 1}}, while the [[Lucas–Lehmer primality test]] needs the prime factors of {{nowrap|''n'' + 1}} as input. For example, these tests can be applied to check whether
+:[[factorial|''n''!]] ± 1 = 1 · 2 · 3 · ... · ''n'' ± 1
+are prime. Prime numbers of this form are known as [[factorial prime]]s. Other primes where either ''p'' + 1 or ''p'' − 1 is of a particular shape include the [[Sophie Germain prime]]s (primes of the form 2''p'' + 1 with ''p'' prime), [[primorial prime]]s, [[Fermat prime]]s and [[Mersenne prime]]s, that is, prime numbers that are of the form {{nowrap|2&lt;sup>''p''&lt;/sup> − 1}}, where ''p'' is an arbitrary prime. The Lucas–Lehmer test is particularly fast for numbers of this form. This is why the [[largest known prime|largest ''known'' prime]] has almost always been a Mersenne prime since the dawn of electronic computers.
+
+Fermat primes are of the form 
+:{{nowrap|''F''&lt;sub>''k''&lt;/sub> {{=}} 2&lt;sup>2&lt;sup>''k''&lt;/sup>&lt;/sup> + 1}},
+with ''k'' an arbitrary natural number. They are named after [[Pierre de Fermat]] who conjectured that all such numbers ''F''&lt;sub>''k''&lt;/sub> are prime. This was based on the evidence of the first five numbers in this series—3, 5, 17, 257, and 65,537—being prime. However, ''F''&lt;sub>5&lt;/sub> is composite and so are all other Fermat numbers that have been verified as of 2011. A [[regular polygon|regular ''n''-gon]] is [[constructible polygon|constructible using straightedge and compass]] if and only if
+:''n'' = 2&lt;sup>''i''&lt;/sup> · ''m''
+where ''m'' is a product of any number of distinct Fermat primes and ''i'' is any natural number, including zero.
+
+The following table gives the largest known primes of the mentioned types. Some of these primes have been found using [[distributed computing]]. In 2009, the [[Great Internet Mersenne Prime Search]] project was awarded a US$100,000 prize for first discovering a prime with at least 10 million digits.&lt;ref>{{cite web | url= http://www.eff.org/press/archives/2009/10/14-0  | title= Record 12-Million-Digit Prime Number Nets $100,000 Prize | date= October 14, 2009 | publisher= Electronic Frontier Foundation | accessdate= 2010-01-04 }}&lt;/ref> The [[Electronic Frontier Foundation]] also offers $150,000 and $250,000 for primes with at least 100 million digits and 1 billion digits, respectively.&lt;ref>{{cite web  | url= http://www.eff.org/awards/coop | title= EFF Cooperative Computing Awards | date= | publisher= Electronic Frontier Foundation | accessdate= 2010-01-04 }}&lt;/ref> Some of the largest primes not known to have any particular form (that is, no simple formula such as that of Mersenne primes) have been found by taking a piece of semi-random binary data, converting it to a number &lt;var>n&lt;/var>, multiplying it by 256&lt;sup>&lt;var>k&lt;/var>&lt;/sup> for some positive integer &lt;var>k&lt;/var>, and searching for possible primes within the interval [256&lt;sup>''k''&lt;/sup>''n'' + 1, 256&lt;sup>''k''&lt;/sup>(''n'' + 1) − 1].
+
+{| class="wikitable"
+|-
+! Type
+! Prime
+! Number of decimal digits
+! Date
+! Found by
+|-
+| [[Mersenne prime]]
+| 2&lt;sup>57,885,161&lt;/sup> − 1
+| style="text-align:right;"| 17,425,170
+| January 25, 2013
+| [[Great Internet Mersenne Prime Search]]
+|-
+| not a Mersenne prime ([[Proth number]])
+| 19,249 × 2&lt;sup>13,018,586&lt;/sup> + 1
+| style="text-align:right;"| 3,918,990
+| March 26, 2007
+| [[Seventeen or Bust]]
+|-
+| [[factorial prime]]
+| 150209! + 1
+| style="text-align:right;"| 712,355
+| October 2011
+| [[PrimeGrid]]&lt;ref>{{cite web|author=Chris K. Caldwell |url=http://primes.utm.edu/top20/page.php?id=30 |title=The Top Twenty: Factorial |publisher=Primes.utm.edu |date= |accessdate=2013-02-05}}&lt;/ref>
+|-
+| [[primorial prime]]
+| 1098133# - 1
+| style="text-align:right;"| 476,311
+| March 2012
+| [[PrimeGrid]]&lt;ref>{{cite web|author=Chris K. Caldwell |url=http://primes.utm.edu/top20/page.php?id=5 |title=The Top Twenty: Primorial |publisher=Primes.utm.edu |date= |accessdate=2013-02-05}}&lt;/ref>
+|-
+| [[twin prime]]s
+| 3756801695685 × 2&lt;sup>666669&lt;/sup> ± 1
+| style="text-align:right;"| 200,700
+| December 2011
+| [[PrimeGrid]]&lt;ref>{{cite web|author=Chris K. Caldwell |url=http://primes.utm.edu/top20/page.php?id=1 |title=The Top Twenty: Twin Primes |publisher=Primes.utm.edu |date= |accessdate=2013-02-05}}&lt;/ref>
+|}
+
+===Integer factorization===
+{{main|Integer factorization}}
+Given a composite integer ''n'', the task of providing one (or all) prime factors is referred to as ''factorization'' of ''n''. [[Elliptic curve factorization]] is an algorithm relying on arithmetic on an [[elliptic curve]].
+
+==Distribution==
+In 1975, number theorist [[Don Zagier]] commented that primes both&lt;ref>{{Harvard citations | last1=Havil |year=2003|loc=p. 171|nb=yes}}&lt;/ref>
+{{Cquote|grow like weeds among the natural numbers, seeming to obey no other law than that of chance [but also] exhibit stunning regularity [and] that there are laws governing their behavior, and that they obey these laws with almost military precision.}}
+The distribution of primes in the large, such as the question how many primes are smaller than a given, large threshold, is described by the prime number theorem, but no efficient [[formula for primes|formula for the ''n''-th prime]] is known.
+
+There are arbitrarily long sequences of consecutive non-primes, as for every positive integer &lt;math>n&lt;/math> the &lt;math>n&lt;/math> consecutive integers from &lt;math>(n+1)! + 2&lt;/math> to &lt;math>(n+1)! + n + 1&lt;/math> (inclusive) are all composite (as &lt;math>(n+1)! + k&lt;/math> is divisible by &lt;math>k&lt;/math> for &lt;math>k&lt;/math> between &lt;math>2&lt;/math> and &lt;math>n + 1&lt;/math>).
+
+[[Dirichlet's theorem on arithmetic progressions]], in its basic form, asserts that linear polynomials
+:&lt;math>p(n) = a + bn\,&lt;/math>
+with [[coprime]] integers ''a'' and ''b'' take infinitely many prime values. Stronger forms of the theorem state that the sum of the reciprocals of these prime values diverges, and that different such polynomials with the same ''b'' have approximately the same proportions of primes.
+
+The corresponding question for quadratic polynomials is less well-understood.
+
+===Formulas for primes===
+{{main|formulas for primes}}
+There is no known efficient formula for primes. For example, [[Mills' theorem]] and a theorem of [[E. M. Wright|Wright]] assert that there are real constants ''A>1'' and μ such that
+:&lt;math>\left \lfloor A^{3^{n}}\right \rfloor \text{ and } \left \lfloor 2^{\dots^{2^{2^\mu}}} \right \rfloor&lt;/math>
+are prime for any natural number ''n''. Here &lt;math>\lfloor - \rfloor&lt;/math> represents the [[floor function]], i.e., largest integer not greater than the number in question. The latter formula can be shown using [[Bertrand's postulate]] (proven first by [[Chebyshev]]), which states that there always exists at least one prime number ''p'' with ''n''&amp;nbsp;&lt;&amp;nbsp;''p''&amp;nbsp;&lt;&amp;nbsp;2''n''&amp;nbsp;−&amp;nbsp;2, for any natural number&amp;nbsp;''n''&amp;nbsp;>&amp;nbsp;3. However, computing ''A'' or μ requires the knowledge of infinitely many primes to begin with.&lt;ref>http://books.google.com/books?id=oLKlk5o6WroC&amp;pg=PA13#v=onepage&amp;q&amp;f=false p. 15&lt;/ref> Another formula is based on [[Wilson's theorem]] and generates the number 2 many times and all other primes exactly once.
+
+There is no non-constant [[polynomial]], even in several variables, that takes ''only'' prime values. However, there is a set of [[Diophantine equations]] in 9 variables and one parameter with the following property: the parameter is prime if and only if the resulting system of equations has a solution over the natural numbers. This can be used to obtain a single formula with the property that all its ''positive'' values are prime.
+
+===Number of prime numbers below a given number===
+{{Main|Prime number theorem}}
+[[File:PrimeNumberTheorem.svg|A chart depicting π(''n'') (blue), ''n'' / ln (''n'') (green) and Li(''n'') (red)|right|thumb|300px]]
+The [[prime counting function]] π(''n'') is defined as the number of primes up to ''n''. For example π(11) = 5, since there are five primes less than or equal to 11. There are known [[algorithm]]s to compute exact values of π(''n'') faster than it would be possible to compute each prime up to ''n''. The ''prime number theorem'' states that π(''n'') is approximately given by
+:&lt;math>\pi(n) \approx \frac n {\ln n},&lt;/math>
+in the sense that the ratio of π(''n'') and the right hand fraction [[convergent sequence|approaches]] 1 when ''n'' grows to infinity. This implies that the likelihood that a number less than ''n'' is prime is (approximately) inversely proportional to the number of digits in ''n''. A more accurate estimate for π(''n'') is given by the [[offset logarithmic integral]]
+:&lt;math>\operatorname{Li}(n) = \int_2^n \frac{dt}{\ln t}.&lt;/math>
+
+The prime number theorem also implies [[Approximation|estimates]] for the size of the ''n''-th prime number ''p''&lt;sub>''n''&lt;/sub> (i.e., ''p''&lt;sub>1&lt;/sub> = 2, ''p''&lt;sub>2&lt;/sub> = 3, etc.): up to a bounded factor, ''p''&lt;sub>''n''&lt;/sub> grows like {{nowrap|''n'' log(''n'')}}.&lt;ref>{{Harvard citations | last1=Apostol | first1=Tom M. | year=1976}}, Section 4.6, Theorem 4.7&lt;/ref> In particular, the [[prime gap]]s, i.e. the differences {{nowrap|''p''&lt;sub>''n''&lt;/sub> − ''p''&lt;sub>''n''−1&lt;/sub>}} of two consecutive primes, become arbitrarily large. This latter statement can also be seen in a more elementary way by noting that the sequence {{nowrap| ''n''! + 2, ''n''! + 3, …, ''n''! + ''n''}} (for the notation ''n''! read [[factorial]]) consists of {{nowrap|''n'' − 1}} composite numbers, for any natural number ''n''.
+
+===Arithmetic progressions===
+An [[arithmetic progression]] is the set of natural numbers that give the same remainder when divided by some fixed number&amp;nbsp;''q'' called [[Modular arithmetic|modulus]]. For example,
+:3, 12, 21, 30, 39, ...,
+is an arithmetic progression modulo {{nowrap|''q'' {{=}} 9}}. Except for 3, none of these numbers is prime, since {{nowrap|3 + 9''n'' {{=}} 3(1 + 3''n'')}} so that the remaining numbers in this progression are all composite. (In general terms, all prime numbers above ''q'' are of the form [[primorial|''q''#]]·''n''&amp;nbsp;+&amp;nbsp;''m'', where 0&amp;nbsp;&lt;&amp;nbsp;''m''&amp;nbsp;&lt;&amp;nbsp;''q''#, and ''m'' has no prime factor&amp;nbsp;≤&amp;nbsp;''q''.)  Thus, the progression
+:''a'', {{nowrap|''a'' + ''q'',}} {{nowrap|''a'' + 2''q'',}} {{nowrap|''a'' + 3''q'', …}}
+can have infinitely many primes only when ''a'' and ''q'' are [[coprime]], i.e., their [[greatest common divisor]] is one. If this necessary condition is satisfied, ''[[Dirichlet's theorem on arithmetic progressions]]'' asserts that the progression contains infinitely many primes. The picture below illustrates this with {{nowrap|''q'' {{=}} 9}}: the numbers are "wrapped around" as soon as a multiple of 9 is passed. Primes are highlighted in red. The rows (=progressions) starting with {{nowrap|''a'' {{=}} 3}}, 6, or 9 contain at most one prime number. In all other rows ({{nowrap|''a'' {{=}} 1}}, 2, 4, 5, 7, and 8) there are infinitely many prime numbers. What is more, the primes are distributed equally among those rows in the long run—the [[Relative density (mathematics)|density]] of all primes congruent ''a'' modulo&amp;nbsp;9 is&amp;nbsp;1/6.
+[[File:Prime numbers in arithmetic progression mod&amp;nbsp;9 zoom in.png|center|Prime numbers (highlighted in red) in arithmetic progression modulo 9.|600px]]
+The [[Green–Tao theorem]] shows that there are arbitrarily long arithmetic progressions consisting of primes.&lt;ref>{{Harvard citations|first1=Ben|last1=Green|author1-link=Ben J. Green|first2=Terence|last2=Tao|author2-link=Terence Tao|arxiv=math.NT/0404188|title=The primes contain arbitrarily long arithmetic progressions|journal=[[Annals of Mathematics]]|volume=167|year=2008|pages=481–547}}.&lt;/ref>
+An odd prime ''p'' is expressible as the sum of two squares, {{nowrap|''p'' {{=}} ''x''&lt;sup>2&lt;/sup> + ''y''&lt;sup>2&lt;/sup>}}, exactly if ''p'' is congruent 1 modulo 4 ([[Fermat's theorem on sums of two squares]]).
+
+===Prime values of quadratic polynomials===
+[[File:Ulam 2.png|right|The Ulam spiral. Red pixels show prime numbers. Primes of the form 4''n''&lt;sup>2&lt;/sup>&amp;nbsp;&amp;minus;&amp;nbsp;2''n''&amp;nbsp;+&amp;nbsp;41 are highlighted in blue.|200px|thumb]]
+Euler noted that the function
+:&lt;math>n^2 + n + 41\,&lt;/math>
+gives prime numbers for {{nowrap|0 ≤ ''n'' &lt; 40}},&lt;ref>Hua (2009), {{Google books quote|id=H1jFySMjBMEC|page=177|text=41 takes on prime values|pp. 176–177}}"&lt;/ref>&lt;ref>See [http://www.wolframalpha.com/input/?i=evaluate+x^2%E2%88%92x%2B41+for+x+from+0..40 list of values], calculated by [[Wolfram Alpha]]&lt;/ref>  a fact leading into deep [[algebraic number theory]], more specifically [[Heegner number]]s. For bigger ''n'', it does take composite values. The [[Hardy-Littlewood conjecture F]] makes an asymptotic prediction about the density of primes among the values of [[quadratic polynomial]]s (with integer [[coefficient]]s ''a'', ''b'', and ''c'')
+:&lt;math>f(n) = a x^2 + bx + c\, &lt;/math>
+in terms of Li(''n'') and the coefficients ''a'', ''b'', and ''c''. However, progress has proved hard to come by: no quadratic polynomial (with {{nowrap|''a'' ≠ 0}}) is known to take infinitely many prime values. The [[Ulam spiral]] depicts all natural numbers in a spiral-like way. Surprisingly, prime numbers cluster on certain diagonals and not others, suggesting that some quadratic polynomials take prime values more often than other ones.
+
+==Open questions==
+===Zeta function and the Riemann hypothesis===
+{{Main|Riemann hypothesis}}
+[[File:Riemann zeta function absolute value.png|right|thumb|Plot of the zeta function ζ(''s''). At ''s''=1, the function has a [[pole (complex analysis)|pole]], that is to say, it tends to [[infinity]].]]
+
+The [[Riemann zeta function]] ζ(''s'') is defined as an [[series (mathematics)|infinite sum]]
+:&lt;math>\zeta(s)=\sum_{n=1}^\infin \frac{1}{n^s},&lt;/math>
+where ''s'' is a [[complex number]] with [[real part]] bigger than 1. It is a consequence of the fundamental theorem of arithmetic that this sum agrees with the [[infinite product]]
+:&lt;math>\prod_{p \text{ prime}} \frac{1}{1-p^{-s}}.&lt;/math>
+The zeta function is closely related to prime numbers. For example, the aforementioned fact that there are infinitely many primes can also be seen using the zeta function: if there were only finitely many primes then ζ(1) would have a finite value. However, the [[harmonic series (mathematics)|harmonic series]] {{nowrap|1 + 1/2 + 1/3 + 1/4 + ...}} [[divergent series|diverges]] (i.e., exceeds any given number), so there must be infinitely many primes. Another example of the richness of the zeta function and a glimpse of modern [[algebraic number theory]] is the following identity ([[Basel problem]]), due to Euler,
+:&lt;math>\zeta(2) = \prod_{p} \frac{1}{1-p^{-2}}= \frac{\pi^2}{6}.&lt;/math>
+The reciprocal of ζ(2), 6/π&lt;sup>2&lt;/sup>, is the [[probability]] that two numbers selected at random are [[coprime|relatively prime]].&lt;ref>C. S. Ogilvy &amp; J. T. Anderson ''Excursions in Number Theory'', pp. 29–35, Dover Publications Inc., 1988 ISBN 0-486-25778-9&lt;/ref>
+
+The unproven ''Riemann hypothesis'', dating from 1859, states that except for {{nowrap|''s'' {{=}} −2, −4, ...,}} all [[zero of a function|zeroes]] of the ζ-function have [[real part]] equal to 1/2. The connection to prime numbers is that it essentially says that the primes are as regularly distributed as possible.{{Clarify|date=June 2011}} From a physical viewpoint, it roughly states that the irregularity in the distribution of primes only comes from random noise. From a mathematical viewpoint, it roughly states that the asymptotic distribution of primes (about x/log ''x'' of numbers less than ''x'' are primes, the [[prime number theorem]]) also holds for much shorter intervals of length about the square root of ''x'' (for intervals near ''x''). This hypothesis is generally believed to be correct. In particular, the simplest assumption is that primes should have no significant irregularities without good reason.
+
+===Other conjectures===
+{{Further|:Category:Conjectures about prime numbers}}
+In addition to the Riemann hypothesis, many more conjectures revolving about primes have been posed. Often having an elementary formulation, many of these conjectures have withstood a proof for decades: all four of [[Landau's problems]] from 1912 are still unsolved. One of them is [[Goldbach's conjecture]], which asserts that every even integer ''n'' greater than 2 can be written as a sum of two primes. {{As of|February 2011}}, this conjecture has been verified for all numbers up to {{nowrap|''n'' {{=}} 2 · 10&lt;sup>17&lt;/sup>}}.&lt;ref>{{cite web|author=Tomás Oliveira e Silva |url=http://www.ieeta.pt/~tos/goldbach.html |title=Goldbach conjecture verification |publisher=Ieeta.pt |date=2011-04-09 |accessdate=2011-05-21}}&lt;/ref> Weaker statements than this have been proven, for example [[Vinogradov's theorem]] says that every sufficiently large odd integer can be written as a sum of three primes. [[Chen's theorem]] says that every sufficiently large even number can be expressed as the sum of a prime and a [[semiprime]], the product of two primes. Also, any even integer can be written as the sum of six primes.&lt;ref>{{Citation | first=O. | last=Ramaré | authorlink=Olivier Ramaré | title=On šnirel'man's constant | journal=Annali della Scuola Normale Superiore di Pisa. Classe di Scienze. Serie IV | volume=22 | year=1995 | issue=4 | pages=645–706 | url = http://www.numdam.org/item?id=ASNSP_1995_4_22_4_645_0 | accessdate = 2008-08-22 | ref=harv | postscript=. }}&lt;/ref> The branch of number theory studying such questions is called [[additive number theory]].
+
+Other conjectures deal with the question whether an infinity of prime numbers subject to certain constraints exists. It is conjectured that there are infinitely many [[Fibonacci prime]]s&lt;ref>Caldwell, Chris, [http://primes.utm.edu/top20/page.php?id=48 ''The Top Twenty: Lucas Number''] at The [[Prime Pages]].&lt;/ref> and infinitely many [[Mersenne prime]]s, but not [[Fermat prime]]s.&lt;ref>E.g., see {{Harvard citations | last1=Guy | year=1981|loc=problem A3, pp. 7–8|nb=yes}}&lt;/ref> It is not known whether or not there are an infinite number of [[Wieferich prime]]s and of prime [[Euclid number]]s.
+
+A third type of conjectures concerns aspects of the distribution of primes. It is conjectured that there are infinitely many [[twin prime]]s, pairs of primes with difference 2 ([[twin prime conjecture]]). [[Polignac's conjecture]] is a strengthening of that conjecture, it states that for every positive integer ''n'', there are infinitely many pairs of consecutive primes that differ by&amp;nbsp;2''n''.&lt;ref>{{Citation | last1=Tattersall | first1=J.J. | title=Elementary number theory in nine chapters | url=http://books.google.de/books?id=QGgLbf2oFUYC | publisher=[[Cambridge University Press]] | isbn=978-0-521-85014-8 | year=2005}}, p. 112&lt;/ref> It is conjectured there are infinitely many primes of the form&amp;nbsp;''n''&lt;sup>2&lt;/sup>&amp;nbsp;+&amp;nbsp;1.&lt;ref>{{MathWorld|urlname=LandausProblems|title=Landau's Problems}}&lt;/ref> These conjectures are special cases of the broad [[Schinzel's hypothesis H]]. [[Brocard's conjecture]] says that there are always at least four primes between the squares of consecutive primes greater than 2. [[Legendre's conjecture]] states that there is a prime number between ''n''&lt;sup>2&lt;/sup> and (''n''&amp;nbsp;+&amp;nbsp;1)&lt;sup>2&lt;/sup> for every positive integer&amp;nbsp;''n''. It is implied by the stronger [[Cramér's conjecture]].
+
+==Applications==
+For a long time, number theory in general, and the study of prime numbers in particular, was seen as the canonical example of pure mathematics, with no applications outside of the self-interest of studying the topic. In particular, number theorists such as [[United Kingdom|British]] mathematician [[G. H. Hardy]] prided themselves on doing work that had absolutely no military significance.&lt;ref>{{Harvard citations | last1=Hardy |year=1940|nb=yes}} "No one has yet discovered any warlike purpose to be served by the theory of numbers or relativity, and it seems unlikely that anyone will do so for many years."&lt;/ref> However, this vision was shattered in the 1970s, when it was publicly announced that prime numbers could be used as the basis for the creation of [[public key cryptography]] algorithms. Prime numbers are also used for [[hash table]]s and [[pseudorandom number generator]]s.
+
+Some [[rotor machine]]s were designed with a different number of pins on each rotor, with the number of pins on any one rotor either prime, or [[coprime]] to the number of pins on any other rotor. This helped generate the [[full cycle]] of possible rotor positions before repeating any position.
+
+The [[International Standard Book Number]]s work with a [[check digit]], which exploits the fact that 11 is a prime.
+
+===Arithmetic modulo a prime and finite fields===
+{{Main|Modular arithmetic}}
+''Modular arithmetic'' modifies usual arithmetic by only using the numbers
+:&lt;math>\{0, 1, 2, \dots, n-1 \}, \,&lt;/math>
+where ''n'' is a fixed natural number called modulus.
+Calculating sums, differences and products is done as usual, but whenever a negative number or a number greater than ''n''&amp;nbsp;−&amp;nbsp;1 occurs, it gets replaced by the [[remainder]] after division by ''n''. For instance, for ''n''&amp;nbsp;=&amp;nbsp;7, the sum 3&amp;nbsp;+&amp;nbsp;5 is 1 instead of 8, since 8 divided by 7 has remainder&amp;nbsp;1. This is referred to by saying "3&amp;nbsp;+&amp;nbsp;5 is congruent to&amp;nbsp;1 modulo&amp;nbsp;7" and is denoted
+:&lt;math>3 + 5 \equiv 1 \pmod 7.&lt;/math>
+Similarly, 6&amp;nbsp;+&amp;nbsp;1&amp;nbsp;≡&amp;nbsp;0&amp;nbsp;(mod&amp;nbsp;7), 2&amp;nbsp;−&amp;nbsp;5&amp;nbsp;≡&amp;nbsp;4&amp;nbsp;(mod&amp;nbsp;7), since −3&amp;nbsp;+&amp;nbsp;7&amp;nbsp;=&amp;nbsp;4, and 3&amp;nbsp;·&amp;nbsp;4&amp;nbsp;≡&amp;nbsp;5&amp;nbsp;(mod&amp;nbsp;7) as 12 has remainder 5. Standard properties of [[addition]] and [[multiplication]]  familiar from the [[integer]]s remain valid in modular arithmetic. In the parlance of [[abstract algebra]], the above set of integers, which is also denoted '''Z'''/''n'''''Z''', is therefore a [[commutative ring]] for any ''n''.
+[[Division (mathematics)|Division]], however, is not in general possible in this setting. For example, for ''n'' = 6, the equation
+
+:&lt;math>3 \cdot x \equiv 2 \pmod 6,&lt;/math>
+
+a solution ''x'' of which would be an analogue of 2/3, cannot be solved, as one can see by calculating 3 · 0, ..., 3 · 5 modulo 6. The distinctive feature of prime numbers is the following: division ''is'' possible in modular arithmetic [[if and only if]] ''n'' is a prime. Equivalently, ''n'' is prime if and only if all integers ''m'' satisfying {{nowrap|2 ≤ ''m'' ≤ ''n'' − 1}} are ''[[coprime]]'' to ''n'', i.e. their only [[Greatest common divisor|common divisor]] is one. Indeed, for ''n'' = 7, the equation
+:&lt;math>3 \cdot x \equiv 2 \ \ (\operatorname{mod}\ 7),&lt;/math>
+has a unique solution, {{nowrap|''x'' {{=}} 3}}. Because of this, for any prime ''p'', '''Z'''/''p'''''Z''' (also denoted '''F'''&lt;sub>''p''&lt;/sub>) is called a [[field (mathematics)|field]] or, more specifically, a [[finite field]] since it contains finitely many, namely ''p'', elements.
+
+A number of theorems can be derived from inspecting '''F'''&lt;sub>''p''&lt;/sub> in this abstract way. For example, [[Fermat's little theorem]], stating
+:&lt;math>a^{p-1} \equiv 1 (\operatorname{mod}\ p)&lt;/math>
+for any integer ''a'' not divisble by ''p'', may be proved using these notions. This implies
+:&lt;math>\sum_{a=1}^{p-1} a^{p-1} \equiv (p-1) \cdot 1 \equiv -1 \pmod p.&lt;/math>
+[[Giuga's conjecture]] says that this equation is also a sufficient condition for ''p'' to be prime. Another consequence of Fermat's little theorem is the following: if ''p'' is a prime number other than 2 and 5, &lt;sup>1&lt;/sup>/&lt;sub>''p''&lt;/sub> is always a [[recurring decimal]], whose period is {{nowrap|''p'' − 1}} or a divisor of {{nowrap|''p'' − 1}}.  The fraction &lt;sup>1&lt;/sup>/&lt;sub>''p''&lt;/sub> expressed likewise in base ''q'' (rather than base&amp;nbsp;10) has similar effect, provided that ''p'' is not a prime factor of&amp;nbsp;''q''. [[Wilson's theorem]] says that an integer ''p''&amp;nbsp;>&amp;nbsp;1 is prime if and only if the [[factorial]] (''p''&amp;nbsp;−&amp;nbsp;1)!&amp;nbsp;+&amp;nbsp;1 is divisible by ''p''. Moreover, an integer ''n'' > 4 is composite if and only if (''n''&amp;nbsp;−&amp;nbsp;1)&lt;nowiki>!&lt;/nowiki> is divisible by&amp;nbsp;''n''.
+
+===Other mathematical occurrences of primes===
+Many mathematical domains make great use of prime numbers. An example from the theory of [[finite group]]s are the [[Sylow theorems]]: if ''G'' is a finite group and ''p''&lt;sup>''n''&lt;/sup> is the [[p-adic order|highest power of the prime ''p'' that divides]] the [[order of a group|order]] of ''G'', then ''G'' has a subgroup of order ''p''&lt;sup>''n''&lt;/sup>. Also, any group of prime order is cyclic ([[Lagrange's theorem (group theory)|Lagrange's theorem]]).
+&lt;!--* If ''G'' is a finite group and ''p'' is a prime number dividing the order of ''G'', then ''G'' contains an element of order ''p''. ([[Cauchy's theorem (group theory)|Cauchy Theorem]])-->
+
+===Public-key cryptography===
+{{main|Public key cryptography}}
+Several public-key cryptography algorithms, such as [[RSA (algorithm)|RSA]] and the [[Diffie–Hellman key exchange]], are based on large prime numbers (for example 512 [[bit]] primes are frequently used for RSA and 1024 bit primes are typical for Diffie–Hellman.). RSA relies on the assumption that it is much easier (i.e., more efficient) to perform the multiplication of two (large) numbers ''x'' and ''y'' than to calculate ''x'' and ''y'' (assumed [[coprime]]) if only the product ''xy'' is known. The Diffie–Hellman key exchange relies on the fact that there are efficient algorithms for [[modular exponentiation]], while the reverse operation the [[discrete logarithm]] is thought to be a hard problem.
+
+===Prime numbers in nature===
+Inevitably, some of the numbers that occur in nature are prime. There are, however, relatively few examples of numbers that appear in nature ''because'' they are prime.
+
+One example of the use of prime numbers in nature is as an evolutionary strategy used by [[cicada]]s of the genus ''[[Magicicada]]''.&lt;ref>{{cite journal |last=Goles |first=E. |last2=Schulz |first2=O. |first3=M. |last3=Markus |year=2001 |title=Prime number selection of cycles in a predator-prey model |journal=[[Complexity (journal)|Complexity]] |volume=6 |issue=4 |pages=33–38 |doi=10.1002/cplx.1040 }}&lt;/ref> These insects spend most of their lives as [[larva|grubs]] underground. They only pupate and then emerge from their burrows after 13 or 17 years, at which point they fly about, breed, and then die after a few weeks at most. The logic for this is believed to be that the prime number intervals between emergences make it very difficult for predators to evolve that could specialize as predators on ''Magicicadas''.&lt;ref>{{Citation | author = Paulo R. A. Campos, Viviane M. de Oliveira, Ronaldo Giro, and Douglas S. Galvão. | journal = [[Physical Review Letters]] | title = Emergence of Prime Numbers as the Result of Evolutionary Strategy | volume = 93 | doi = 10.1103/PhysRevLett.93.098107 | issue = 9 | year = 2004 | accessdate = 2006-11-26 | page = 098107 | postscript = . | bibcode=2004PhRvL..93i8107C|arxiv = q-bio/0406017 }}&lt;/ref> If ''Magicicadas'' appeared at a non-prime number intervals, say every 12 years, then predators appearing every 2, 3, 4, 6, or 12 years would be sure to meet them. Over a 200-year period, average predator populations during hypothetical outbreaks of 14- and 15-year cicadas would be up to 2% higher than during outbreaks of 13- and 17-year cicadas.&lt;ref>{{cite news |work=[[The Economist]]| url=http://economist.com/PrinterFriendly.cfm?Story_ID=2647052 |title=Invasion of the Brood |date=May 6, 2004|accessdate=2006-11-26 }}&lt;/ref> Though small, this advantage appears to have been enough to drive natural selection in favour of a prime-numbered life-cycle for these insects.
+
+There is speculation that the zeros of the [[Riemann zeta function|zeta function]] are connected to the energy levels of complex quantum systems.&lt;ref>{{cite web |author=Ivars Peterson | work=[[MAA Online]]| url=http://www.maa.org/mathland/mathtrek_6_28_99.html |title=The Return of Zeta |date=June 28, 1999|accessdate=2008-03-14 }}&lt;/ref>
+
+==Generalizations==
+The concept of prime number is so important that it has been generalized in different ways in various branches of mathematics. Generally, "prime" indicates minimality or indecomposability, in an appropriate sense. For example, the [[prime field]] is the smallest subfield of a field ''F'' containing both 0 and 1. It is either '''Q''' or the [[finite field]] with ''p'' elements, whence the name.&lt;ref>{{Citation | last1=Lang | first1=Serge | author1-link=Serge Lang | title=Algebra | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Graduate Texts in Mathematics | isbn=978-0-387-95385-4 | mr=1878556 | year=2002 | volume=211}}, Section II.1, p. 90&lt;/ref> Often a second, additional meaning is intended by using the word prime, namely that any object can be, essentially uniquely, decomposed into its prime components. For example, in [[knot theory]], a [[prime knot]] is a [[knot (mathematics)|knot]] that is indecomposable in the sense that it cannot be written as the [[knot sum]] of two nontrivial knots. Any knot can be uniquely expressed as a connected sum of prime knots.&lt;ref>Schubert, H. "Die eindeutige Zerlegbarkeit eines Knotens in Primknoten". ''S.-B Heidelberger Akad. Wiss. Math.-Nat. Kl.'' 1949 (1949), 57–104.&lt;/ref> [[Prime model]]s and [[prime 3-manifold]]s are other examples of this type.
+
+===Prime elements in rings===
+{{Main|Prime element|Irreducible element}}
+Prime numbers give rise to two more general concepts that apply to elements of any [[commutative ring]] ''R'', an [[algebraic structure]] where addition, subtraction and multiplication are defined: ''prime elements'' and ''irreducible elements''. An element ''p'' of ''R'' is called prime element if it is neither zero nor a [[unit (ring theory)|unit]] (i.e., does not have a [[multiplicative inverse]]) and satisfies the following requirement: given ''x'' and ''y'' in ''R'' such that ''p'' divides the product ''xy'', then ''p'' divides ''x'' or ''y''. An element is irreducible if it cannot be written as a product of two ring elements that are not units. In the ring '''Z''' of integers, the set of prime elements equals the set of irreducible elements, which is
+
+:&lt;math>\{ \dots, -11, -7, -5, -3, -2, 2, 3, 5, 7, 11, \dots \}\, .&lt;/math>
+
+In any ring ''R'', any prime element is irreducible. The converse does not hold in general, but does hold for [[unique factorization domain]]s.
+
+The fundamental theorem of arithmetic continues to hold in unique factorization domains. An example of such a domain is the [[Gaussian integer]]s '''Z'''[''i''], that is, the set of complex numbers of the form ''a''&amp;nbsp;+&amp;nbsp;''bi'' where ''i'' denotes the [[imaginary unit]] and ''a'' and ''b'' are arbitrary integers. Its prime elements are known as [[Gaussian prime]]s. Not every prime (in '''Z''') is a Gaussian prime: in the bigger ring '''Z'''[''i''], 2 factors into the product of the two Gaussian primes (1&amp;nbsp;+&amp;nbsp;''i'') and (1&amp;nbsp;−&amp;nbsp;''i''). Rational primes (i.e. prime elements in '''Z''') of the form 4''k''&amp;nbsp;+&amp;nbsp;3 are Gaussian primes, whereas rational primes of the form 4''k''&amp;nbsp;+&amp;nbsp;1 are not.
+
+===Prime ideals===
+{{Main|Prime ideals}}
+In [[ring theory]], the notion of number is generally replaced with that of [[ideal (ring theory)|ideal]]. ''Prime ideals'', which generalize prime elements in the sense that the [[principal ideal]] generated by a prime element is a prime ideal, are an important tool and object of study in [[commutative algebra]], [[number theory|algebraic number theory]] and [[algebraic geometry]]. The prime ideals of the ring of integers are the ideals (0), (2), (3), (5), (7), (11), … The fundamental theorem of arithmetic generalizes to the [[Lasker–Noether theorem]], which expresses every ideal in a [[Noetherian ring|Noetherian]] [[commutative ring]] as an intersection of [[primary ideal]]s, which are the appropriate generalizations of [[prime power]]s.&lt;ref>{{Harvard citations | last1=Eisenbud | year=1995 |nb=yes|loc=section 3.3.}}&lt;/ref>
+
+Prime ideals are the points of algebro-geometric objects, via the notion of the [[spectrum of a ring]].&lt;ref>Shafarevich, Basic Algebraic Geometry volume 2 (Schemes and Complex Manifolds), p. 5, section V.1&lt;/ref> [[Arithmetic geometry]] also benefits from this notion, and many concepts exist in both geometry and number theory. For example, factorization or [[Splitting of prime ideals in Galois extensions|ramification]] of prime ideals when lifted to an [[field extension|extension field]], a basic problem of algebraic number theory, bears some resemblance with [[ramified cover|ramification in geometry]]. Such ramification questions occur even in number-theoretic questions solely concerned with integers. For example, prime ideals in the [[ring of integers]] of [[quadratic number field]]s can be used in proving [[quadratic reciprocity]], a statement that concerns the solvability of quadratic equations
+:&lt;math>x^2 \equiv p \ \ (\text{mod } q),\,&lt;/math>
+where ''x'' is an integer and ''p'' and ''q'' are (usual) prime numbers.&lt;ref>Neukirch, Algebraic Number theory, p. 50, Section I.8&lt;/ref> Early attempts to prove [[Fermat's Last Theorem]] climaxed when [[Kummer]] introduced [[regular prime]]s, primes satisfying a certain requirement concerning the failure of unique factorization in the ring consisting of expressions
+:&lt;math>a_0 + a_1 \zeta + \cdots + a_{p-1} \zeta^{p-1}\, , &lt;/math>
+where ''a''&lt;sub>0&lt;/sub>, ..., ''a''&lt;sub>''p''−1&lt;/sub> are integers and ζ is a complex number such that [[root of unity|{{nowrap|ζ&lt;sup>''p''&lt;/sup> {{=}} 1}}]].&lt;ref>Neukirch, Algebraic Number theory, p. 38, Section I.7&lt;/ref>
+
+===Valuations===
+[[Valuation theory]] studies certain functions from a field ''K'' to the real numbers '''R''' called [[Valuation (algebra)|valuations]].&lt;ref>Endler, Valuation Theory, p. 1&lt;/ref>  Every such valuation yields a [[topological field|topology on ''K'']], and two valuations are called equivalent if they yield the same topology. A ''prime of K'' (sometimes called a ''place of K'') is an [[equivalence class]] of valuations. For example, the [[p-adic order|''p''-adic valuation]] of a rational number ''q'' is defined to be the integer ''v''&lt;sub>''p''&lt;/sub>(''q''), such that
+:&lt;math>q = p^{v_p(q)} \frac {r}{s},&lt;/math>
+where both ''r'' and ''s'' are not divisible by ''p''. For example, {{nowrap|''v''&lt;sub>3&lt;/sub>(18/7) {{=}} 2.}} The ''p''-adic norm is defined as&lt;ref group=nb>Some sources also put &lt;math>\left| q \right|_p := e^{-v_p(q)}. \,&lt;/math>.&lt;/ref>
+:&lt;math>\left| q \right|_p := p^{-v_p(q)}. \,&lt;/math>
+In particular, this norm gets smaller when a number is multiplied by ''p'', in sharp contrast to the usual [[absolute value]] (also referred to as the [[infinite prime]]). While [[Completion (ring theory)|completing]] '''Q''' (roughly, filling the gaps) with respect to the absolute value yields the [[field (mathematics)|field]] of [[real (number)|real numbers]], completing with respect to the ''p''-adic norm |−|&lt;sub>''p''&lt;/sub> yields the field of [[p-adic number|''p''-adic numbers]].&lt;ref>Gouvea: p-adic numbers: an introduction, Chapter 3, p. 43&lt;/ref> These are essentially all possible ways to complete '''Q''', by [[Ostrowski's theorem]]. Certain arithmetic questions related to '''Q''' or more general [[global field]]s may be transferred back and forth to the completed (or [[local field|local]]) fields. This [[local-global principle]] again underlines the importance of primes to number theory.
+
+==In the arts and literature==
+Prime numbers have influenced many artists and writers.  The French [[composer]] [[Olivier Messiaen]] used prime numbers to create ametrical music through "natural phenomena". In works such as ''[[La Nativité du Seigneur]]'' (1935) and ''[[Quatre études de rythme]]'' (1949–50), he simultaneously employs motifs with lengths given by different prime numbers to create unpredictable rhythms: the primes 41, 43, 47  and 53 appear in the third étude, "Neumes rythmiques". According to Messiaen this way of composing was "inspired by the movements of nature, movements of free and unequal durations".&lt;ref>{{Harvard citations | editor1-last=Hill  | year=1995|nb=yes}}&lt;/ref>
+
+In his science fiction novel ''[[Contact (novel)|Contact]]'', [[NASA]] scientist [[Carl Sagan]] suggested that prime numbers could be used as a means of communicating with aliens, an idea that he had first developed informally with American astronomer [[Frank Drake]] in 1975.&lt;ref>[[Carl Pomerance]], [http://www.math.dartmouth.edu/~carlp/PDF/extraterrestrial.pdf Prime Numbers and the Search for Extraterrestrial Intelligence], Retrieved on December 22, 2007&lt;/ref> In the novel ''[[The Curious Incident of the Dog in the Night-Time]]'' by [[Mark Haddon]], the narrator arranges the sections of the story by consecutive prime numbers.&lt;ref>Mark Sarvas, [http://www.themodernword.com/reviews/haddon.html Book Review: ''The Curious Incident of the Dog in the Night-Time''], at [http://www.themodernword.com/site_info.html The Modern Word], Retrieved on March 30, 2012&lt;/ref>
+
+Many films, such as ''[[Cube (film)|Cube]]'', ''[[Sneakers (1992 film)|Sneakers]]'', ''[[The Mirror Has Two Faces]]'' and ''[[A Beautiful Mind (film)|A Beautiful Mind]]'' reflect a popular fascination with the mysteries of prime numbers and cryptography.&lt;ref>[http://www.musicoftheprimes.com/films.htm The music of primes], [[Marcus du Sautoy]]'s selection of films featuring prime numbers.&lt;/ref> Prime numbers are used as a metaphor for loneliness and isolation in the [[Paolo Giordano]] novel ''[[The Solitude of Prime Numbers]]'', in which they are portrayed as "outsiders" among integers.&lt;ref>{{cite web|title=Introducing Paolo Giordano|url=http://www.wbqonline.com/feature.do?featureid=342|publisher=Books Quarterly}}{{dead link|date=May 2011}}&lt;/ref>
+
+==See also==
+&lt;div style="-moz-column-count:3; column-count:3;">
+* [[Adleman–Pomerance–Rumely primality test]]
+* [[Bonse's inequality]]
+* [[Brun sieve]]
+* [[Burnside theorem]]
+* [[Chebotarev's density theorem]]
+* [[Chinese remainder theorem]]
+* [[Cullen number]]
+* [[List of prime numbers]]
+* [[Mersenne prime]]
+* [[Multiplicative number theory]]
+* [[Number field sieve]]
+* [[Pepin's test]]
+* [[Prime k-tuple]]
+* [[Primon gas]]
+* [[Quadratic residuosity problem]]
+* [[RSA number]]
+* [[Smooth number]]
+* [[Super-prime]]
+* [[Woodall number]]
+&lt;/div>
+
+==Notes==
+&lt;references group=nb/>
+{{reflist|30em}}
+
+==References==
+* {{Citation | last1=Apostol | first1=Thomas M. | author1-link=Thomas M. Apostol | title=Introduction to Analytic Number Theory | publisher=Springer | location=New York | isbn=0-387-90163-9 | year=1976}}
+* {{Citation | last1=Conway | first1=John Horton | author1-link=John Horton Conway | last2=Guy | first2=Richard K. | author2-link=Richard K. Guy | title=The Book of Numbers | publisher=Copernicus | location=New York | isbn=978-0-387-97993-9 | year=1996}}
+* {{Citation | last1=Crandall | first1=Richard | author1-link=Richard Crandall | last2=Pomerance | first2=Carl | author2-link=Carl Pomerance | title=Prime Numbers: A Computational Perspective | publisher=[[Springer-Verlag]] | location=Berlin, New York | edition=2nd | isbn=978-0-387-25282-7 | year=2005}}
+* {{Citation | last1=Derbyshire | first1=John | author1-link=John Derbyshire | title=Prime obsession | publisher=Joseph Henry Press, Washington, DC | isbn=978-0-309-08549-6 | mr=1968857 | year=2003}}
+* {{Citation | last1=Eisenbud | first1=David | author1-link= David Eisenbud | title=Commutative algebra | publisher=Springer-Verlag | location=Berlin, New York | series=Graduate Texts in Mathematics | isbn=978-0-387-94268-1| mr=1322960 | year=1995 | volume=150}}
+* {{Citation | last1=Furstenberg | first1=Harry | author1-link=Hillel Furstenberg | title=On the infinitude of primes | doi=10.2307/2307043 | year=1955 | journal=[[American Mathematical Monthly|The American Mathematical Monthly]]   | volume=62 | page=353 | jstor=2307043 | issue=5 | publisher=Mathematical Association of America}}
+* {{citation|first1=Ben|last1=Green|author1-link=Ben J. Green|first2=Terence|last2=Tao|author2-link=Terence Tao|title=The primes contain arbitrarily long arithmetic progressions|journal=[[Annals of Mathematics]]|volume=167|issue=2|year=2008|pages=481–547|doi=10.4007/annals.2008.167.481|arxiv=math.NT/0404188}}
+* {{Citation | last1=Gowers | first1=Timothy | author1-link=William Timothy Gowers | title=Mathematics: A Very Short Introduction | publisher=[[Oxford University Press]] | isbn=978-0-19-285361-5 | year=2002}}
+* {{Citation | last1=Guy | first1=Richard K. | author1-link=Richard K. Guy | title=Unsolved Problems in Number Theory | publisher=Springer-Verlag | location=Berlin, New York | isbn=978-0-387-90593-8 | year=1981}}
+* {{Citation | last1=Havil | first1=Julian | title=Gamma: Exploring Euler's Constant | publisher=[[Princeton University Press]] | isbn=978-0-691-09983-5 | year=2003}}
+* {{Citation | last1=Hardy | first1=Godfrey Harold | author1-link=G. H. Hardy | title=A Course of Pure Mathematics | publisher=[[Cambridge University Press]] | isbn=978-0-521-09227-2 | year=1908}}
+* {{Citation | last1=Hardy | first1=Godfrey Harold | author1-link=G. H. Hardy | title=[[A Mathematician's Apology]] | publisher=Cambridge University Press | isbn=978-0-521-42706-7 | year=1940}}
+* {{Citation | editor1-last=Hill | editor1-first=Peter Jensen | title=The Messiaen companion | publisher=Amadeus Press | location=Portland, Or | isbn=978-0-931340-95-6 | year=1995}}
+* {{Citation |last1=Hua |first1=L. K. |authorlink1= |last2= |first2= |authorlink2= |title=Additive Theory of Prime Numbers |url=http://www.ams.org/bookstore-getitem/item=MMONO/13.S |edition= |series=Translations of Mathematical Monographs |volume=13 |year=2009 |publisher=AMS Bookstore |location= |isbn=978-0-8218-4942-2 |id= }}
+* {{Citation | last1=Lehmer | first1=D. H. | author1-link=D. H. Lehmer | title=Factor table for the first ten millions containing the smallest factor of every number not divisible by 2, 3, 5, or 7 between the limits 0 and 10017000 | publisher=Carnegie Institution of Washington | location=Washington, D.C. | year=1909}}
+* {{Citation | last1=Narkiewicz | first1=Wladyslaw | title=The development of prime number theory: from Euclid to Hardy and Littlewood | publisher=Springer-Verlag | location=Berlin, New York | isbn=978-3-540-66289-1 | year=2000 |series=Springer Monographs in Mathematics}}
+* {{Citation | last1=Ribenboim | first1=Paulo | author1-link=Paulo Ribenboim | title=The little book of bigger primes | publisher=Springer-Verlag | location=Berlin, New York | isbn=978-0-387-20169-6 | year=2004}}
+* {{Citation | last1=Riesel | first1=Hans | title=Prime numbers and computer methods for factorization | publisher=Birkhäuser | location=Basel, Switzerland | isbn=978-0-8176-3743-9 | year=1994}}
+* {{Citation | last1=Sabbagh | first1=Karl | title=The Riemann hypothesis | publisher=Farrar, Straus and Giroux, New York | isbn=978-0-374-25007-2 | mr=1979664 | year=2003}}
+* {{Citation | last1=du Sautoy | first1=Marcus | title=The music of the primes | publisher=HarperCollins Publishers | isbn=978-0-06-621070-4 | mr=2060134 | year=2003|url=http://www.musicoftheprimes.com/}}
+
+===Further references===
+* {{Citation | editor1-last=Kelly | editor1-first=Katherine E. | title=The Cambridge companion to Tom Stoppard | publisher=[[Cambridge University Press]] | isbn=978-0-521-64592-8 | year=2001}}
+* {{Citation | last1=Stoppard | first1=Tom | title=Arcadia | publisher=Faber and Faber | location=London | isbn=978-0-571-16934-4 | year=1993}}
+
+==External links==
+{{Wikinews|Two largest known prime numbers discovered just two weeks apart, one qualifies for $100k prize}}
+{{Wikinews|Record size 17.4 million-digit prime found}}
+* {{springer|title=Prime number|id=p/p074530}}
+* Caldwell, Chris, The [[Prime Pages]] at [http://primes.utm.edu/ primes.utm.edu].
+* {{In Our Time|Prime Numbers|p003hyf5}}
+* [http://www.maths.ex.ac.uk/~mwatkins/zeta/vardi.html An Introduction to Analytic Number Theory, by Ilan Vardi and Cyril Banderier]
+* [http://plus.maths.org/issue49/package/index.html Plus teacher and student package: prime numbers] from Plus, the free online mathematics magazine produced by the Millennium Mathematics Project at the University of Cambridge
+
+===Prime number generators and calculators===
+* [http://www.had2know.com/academics/prime-composite.html Prime Number Checker] identifies the smallest prime factor of a number
+* [http://www.alpertron.com.ar/ECM.HTM Fast Online primality test] makes use of the Elliptic Curve Method (up to thousand-digits numbers, requires Java)
+* [http://publicliterature.org/tools/prime_number_generator Prime Number Generator] generates a given number of primes above a given start number.
+* [http://www.bigprimes.net/ Huge database of prime numbers]
+
+{{Divisor classes navbox}}
+{{Prime number classes}}
+
+[[Category:Integer sequences]]
+[[Category:Prime numbers|*]]
+[[Category:Articles containing proofs]]
+
+{{Link GA|es}}
+{{Link GA|ru}}
+{{Link FA|it}}
+{{Link FA|lmo}}

@@ -1,0 +1,391 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{For|Wikipedia's Peer Review area|Wikipedia:Peer review}}
+{{Other uses}}
+{{Use mdy dates|date=October 2012}}
+
+[[File:ScientificReview.jpg|thumb|right|A reviewer at the [[National Institutes of Health]] evaluates a [[Grant (money)|grant]] proposal.]]
+
+'''Peer review''' is the evaluation of work by one or more people of similar competence to the producers of the work ([[:wiktionary:peer#Etymology_2|peers]].) It constitutes a form of self-regulation by  qualified members of a profession within the relevant [[Field of study|field]]. Peer review methods are employed to maintain standards of quality, improve performance, and provide credibility. In [[academia]] peer review is often used to determine an [[academic paper]]'s [[#Prepublication reviews|suitability for publication]].
+
+Peer review can be categorized by the type of activity and by the field or profession in which the activity occurs. For example, '''medical peer review''' can refer to [[clinical peer review]], or the peer evaluation of clinical teaching skills for both physicians and nurses,&lt;ref>[http://medschool.ucsf.edu/academy/pdfs/Clinical-Peer-Review-Literature-Excerpts.pdf Medschool.ucsf.edu]&lt;/ref>&lt;ref>{{cite journal
+|author=Ludwick R, Dieckman BC, Herdtner S, Dugan M, Roche M
+|title=Documenting the scholarship of clinical teaching through peer review
+|journal=Nurse Educ. |volume=23 |issue=6 |pages=17–20 |year=1998
+|month=November–December |doi=10.1097/00006223-199811000-00008
+|pmid=9934106}}
+&lt;/ref> or scientific peer review of journal articles, or to a secondary round of peer review for the clinical value of articles concurrently published in [[medical journal]]s.&lt;ref>{{cite journal
+|author=Haynes RB, Cotoi C, Holland J, ''et al.''
+|title=Second-order peer review of the medical literature for clinical practitioners
+|journal=JAMA |volume=295 |issue=15 |pages=1801–8 |year=2006
+|doi=10.1001/jama.295.15.1801
+|pmid=16622142}}&lt;/ref>
+Moreover, "[[medical peer review]]" has been used by the [[American Medical Association]] to refer not only to the process of improving quality and safety in health care organizations, but also to the process of rating clinical behavior or compliance with professional society membership standards.&lt;ref>[http://www.ama-assn.org/ama1/pub/upload/mm/21/omss-bylaws-4thedition-final.pdf (page 131)]&lt;/ref>&lt;ref>[http://www.ama-assn.org/ama/pub/physician-resources/legal-topics/medical-peer-review.shtml Ama-assn.org]&lt;/ref> Thus, the terminology has poor standardization and specificity, particularly as a database search term.
+
+==Professional peer review==
+Professional peer review focuses on the performance of professionals, with a view to improving quality, upholding standards, or providing certification. Professional peer review activity is widespread in the field of health care, where it is best termed '''Clinical peer review'''.&lt;ref>
+
+{{cite journal
+|author=Dans PE
+|title=Clinical peer review: burnishing a tarnished image 
+|journal=Ann. Intern. Med.
+|volume=118
+|issue=7 |pages=566–8 |year=1993 |doi=
+|url=http://www.annals.org/content/118/7/566.full.pdf+html |pmid=8442628}}
+&lt;/ref>
+Further, since peer review activity is commonly segmented by clinical discipline, there is also [[physician peer review]], nursing peer review, dentistry peer review,&lt;ref>
+
+{{cite journal
+|author=Milgrom P, Weinstein P, Ratener P, Read WA, Morrison K
+|title=Dental Examinations for Quality Control: Peer Review versus Self-Assessment 
+|journal=[[Am. J. Public Health]]
+|volume=68 |issue=4 |pages=394–401 |year=1978
+|pmc=1653950
+|doi=10.2105/AJPH.68.4.394
+|pmid=645987}}
+&lt;/ref>
+etc. Many other professional fields have some level of peer review process: accounting,&lt;ref>
+
+{{cite web 
+|url=http://www.aicpa.org/INTERESTAREAS/PEERREVIEW/RESOURCES/PEERREVIEWPROGRAMMANUAL/Pages/default.aspx 
+|title=AICPA Peer Review Manual
+|publisher=American Institute of CPAs
+|accessdate=October 4, 2010}}
+*Also, please see [http://www.aicpa.org/INTERESTAREAS/PEERREVIEW/RESOURCES/PEERREVIEWPROGRAMMANUAL/2012/Pages/default.aspx 2012 Peer Review Program Manual].
+&lt;/ref> law,&lt;ref>
+
+{{cite web
+|url=http://www.legalservices.gov.uk/civil/how/mq_peerreview.asp 
+|title=Peer Review
+|publisher=UK Legal Services Commission
+|accessdate=October 4, 2010}}
+&lt;/ref>&lt;ref>
+
+{{cite web
+|url=http://www.martindale.com/Products_and_Services/Peer_Review_Ratings.aspx 
+|title=Peer Review Ratings
+|publisher=Martindale
+|accessdate=October 4, 2010}}&lt;/ref>
+engineering (e.g., [[software peer review]], [[technical peer review]]), aviation, and even forest fire management.&lt;ref name=fire>
+
+{{cite web
+|url=http://www.fs.fed.us/fire/doctrine/mgmt/briefing_papers/peer_review_panels.pdf 
+|title=Peer Review Panels – Purpose and Process |publisher=USDA Forest Service
+|date=February 6, 2006
+|accessdate=October 4, 2010}}
+&lt;/ref>
+In academia, peer review is common in decisions related to faculty advancement and tenure. Peer review is used in education to achieve certain learning objectives, particularly as a tool to reach higher order processes in the affective and cognitive domains as defined by ''Bloom's Taxonomy''. This may take a variety of forms, including closely mimicking the scholarly peer review processes used in science and medicine.&lt;ref name=sims>
+
+{{cite journal
+| author=Sims Gerald K.
+| year=1989
+| quote=Ther review process was double-blind to provide anonymity for both authors and reviewers, but was otherwise handled in a fashion similar to that used by scientific journals
+| title=Student Peer Review in the Classroom: A Teaching and Grading Tool
+| url= https://www.agronomy.org/files/publications/jnrlse/pdfs/jnr018/018-02-0105.pdf 
+| journal=[[Journal of Agronomic Education]]
+| volume=18
+| pages=105–108
+| format=Free PDF download}}
+&lt;/ref>&lt;ref name=Liu>
+
+{{cite journal
+ | doi= 10.1641/0006-3568(2002)052[0824:PRITC]2.0.CO;2
+ | url =http://chans-net.org/sites/chans-net.org/files/peer_review.pdf
+ | format= Free PDF download
+ | year= 2002
+ | volume= 52
+ | pages= 824
+ | title= Peer Review in the Classroom
+ | last1= Liu
+ | first1= Jianguo
+ | last2= Pysarchik
+ | first2= Dawn Thorndike
+ | last3= Taylor
+ | first3= William W.
+ | journal= BioScience
+ | issue= 9}}
+&lt;/ref>
+
+==Scholarly peer review==
+Scholarly peer review (also known as '''refereeing''') is the process of subjecting an author's [[Scholarly method|scholarly]] work, research, or [[idea]]s to the scrutiny of others who are [[expert]]s in the same field, before a paper describing this work is published in a journal. The work may be accepted, considered acceptable with revisions, or rejected. Peer review requires a community of experts in a given (and often narrowly defined) field, who are qualified and able to perform impartial review. Impartial review, especially of work in less narrowly defined or inter-disciplinary fields, may be difficult to accomplish; and the significance (good or bad) of an idea may never be widely appreciated among its contemporaries. Although generally considered essential to academic quality, and used in most important scientific publications, peer review has been [[Peer review#Criticisms|criticized]] as ineffective, slow, and misunderstood (also see [[anonymous peer review]] and [[open peer review]]). Other critiques of the current peer review process from concerned scholars has stemmed from [[Soon and Baliunas controversy|recent controversial studies]] published by the [[Harvard–Smithsonian Center for Astrophysics]] and NASA.&lt;ref>[http://www.slate.com/id/2276919/ The NASA study of arsenic-based life was fatally flawed, say scientists. – Slate Magazine&lt;!-- Bot generated title -->]&lt;/ref> These two published articles are now case studies of [[peer review failure]]. There have also recently been experiments with wiki-style, signed, peer reviews, for example in an issue of the ''Shakespeare Quarterly''.&lt;ref>
+{{cite news
+| url=http://www.nytimes.com/2010/08/24/arts/24peer.html?_r=1&amp;ref=arts 
+| work=The New York Times
+| title=For Scholars, Web Changes Sacred Rite of Peer Review
+| first=Patricia
+| last=Cohen
+| date=August 23, 2010}}&lt;/ref>
+
+Pragmatically, peer review refers to the work done during the screening of submitted [[Manuscript#Manuscripts today|manuscripts]] and funding applications. This process encourages authors to meet the accepted [[Norm (sociology)|standards]] of their discipline and prevents the dissemination of irrelevant findings, unwarranted claims, unacceptable interpretations, and personal views. Publications that have not undergone peer review are likely to be regarded with suspicion by scholars and professionals.
+
+===Justification===
+[[File:Easy Peer Review Gadget In Persian Wikinews.png|thumb|right|220px|Easy peer review gadget in Persian Wikinews]]
+
+It is difficult for authors and researchers, whether individually or in a team, to spot every mistake or flaw in a complicated piece of work. This is not necessarily a reflection on those concerned, but because with a new and perhaps eclectic subject, an opportunity for improvement may be more obvious to someone with special expertise or who simply looks at it with a fresh eye. Therefore, showing work to others increases the probability that weaknesses will be identified and improved. For both grant-funding and publication in a scholarly journal, it is also normally a requirement that the subject is both novel and substantial.&lt;ref name=fire/>&lt;ref name=sims/>
+
+Furthermore, the decision whether or not to publish a scholarly article, or what should be modified before publication, lies with the editor of the journal to which the manuscript has been submitted. Similarly, the decision whether or not to fund a proposed project rests with an official of the funding agency. These individuals usually refer to the opinion of one or more reviewers in making their decision. This is primarily for three reasons:
+* Workload. A small group of editors/assessors cannot devote sufficient time to each of the many articles submitted to many journals.
+* Diversity of opinion. Were the editor/assessor to judge all submitted material themselves, approved material would solely reflect their opinion.
+* Limited expertise. An editor/assessor cannot be expected to be sufficiently expert in all areas covered by a single journal or funding agency to adequately judge all submitted material.
+Thus it is normal for manuscripts and grant proposals to be sent to one or more external reviewers for comment.
+
+Reviewers are typically [[anonymity|anonymous]] and [[independence|independent]], to help foster unvarnished criticism, and to discourage [[cronyism]] in funding and publication decisions. However, US government guidelines governing peer review for federal regulatory agencies require that reviewer's identity be disclosed under some circumstances. Anonymity may be unilateral or reciprocal (single- or double-blinded reviewing).
+
+Since reviewers are normally selected from experts in the fields discussed in the article, the process of peer review is considered critical to establishing a reliable body of research and knowledge. Scholars reading the published articles can only be expert in a limited area; they rely, to some degree, on the peer-review process to provide reliable and credible research that they can build upon for subsequent or related research. As a result, significant scandal ensues when an author is found to have falsified the research included in an article, as many other scholars, and the field of study itself, may have relied upon the original research.
+
+===Procedure===
+In the case of proposed publications, an editor sends advance copies of an author's work or [[idea]]s to researchers or scholars who are [[expert]]s in the field (known as "referees" or "reviewers"), nowadays normally by e-mail or through a web-based manuscript processing system. Usually, there are two or three referees for a given article.
+
+These referees each return an evaluation of the work to the editor, noting weaknesses or problems along with suggestions for improvement. Typically, most of the referees' comments are eventually seen by the author; [[scientific journal]]s observe this convention universally. The editor, usually familiar with the field of the manuscript (although typically not in as much depth as the referees, who are specialists), then evaluates the referees' comments, her or his own opinion of the manuscript, and the context of the scope of the journal or level of the book and readership, before passing a decision back to the author(s), usually with the referees' comments.
+
+Referees' evaluations usually include an explicit recommendation of what to do with the manuscript or proposal, often chosen from options provided by the journal or funding agency. Most recommendations are along the lines of the following:
+* to unconditionally accept the manuscript or proposal,
+* to accept it in the event that its authors improve it in certain ways,
+* to reject it, but encourage revision and invite resubmission,
+* to reject it outright.
+
+During this process, the role of the referees is advisory, and the editor is typically under no formal obligation to accept the opinions of the referees. Furthermore, in scientific publication, the referees do not act as a group, do not communicate with each other, and typically are not aware of each other's identities or evaluations. There is usually no requirement that the referees achieve [[consensus]]. Thus the group dynamics are substantially different from that of a jury.
+
+In situations where the referees disagree substantially about the quality of a work, there are a number of strategies for reaching a decision. When an editor receives very positive and very negative reviews for the same manuscript, the editor often will solicit one or more additional reviews as a tie-breaker. As another strategy in the case of ties, editors may invite authors to reply to a referee's [[criticism]]s and permit a compelling rebuttal to break the tie. If an editor does not feel confident to weigh the persuasiveness of a rebuttal, the editor may solicit a response from the referee who made the original criticism. In rare instances, an editor will convey communications back and forth between authors and a referee, in effect allowing them to debate a point. Even in these cases, however, editors do not allow referees to confer with each other, though the reviewer may see earlier comments submitted by other reviewers. The goal of the process is explicitly not to reach consensus or to persuade anyone to change their opinions. Some medical journals, however (usually following the [[Open access (publishing)|open access]] model), have begun posting on the Internet the pre-publication history of each individual article, from the original submission to reviewers' reports, authors' comments, and revised manuscripts.
+
+Traditionally, reviewers would remain anonymous to the authors, but this standard is slowly changing. In some academic fields, most journals now offer the reviewer the option of remaining anonymous or not, or a referee may opt to sign a review, thereby relinquishing anonymity. Published papers sometimes contain, in the acknowledgments section, thanks to anonymous or named referees who helped improve the paper.
+
+Most university presses undertake peer review of books. After positive review by two or three independent referees, a university press sends the manuscript to the press's editorial board, a committee of faculty members, for final approval.&lt;ref>{{cite encyclopedia
+ | last = Arnold
+ | first = Gordon B.
+ | editor = James W. Guthrie
+ | encyclopedia = Encyclopedia of Education
+ | title = University presses
+ | edition = 2nd
+ | year = 2003
+ | publisher = Macmillan Reference USA
+ | volume =7
+ | location = New York
+ | isbn = 0-02-865601-6
+ | page = 2601
+}}&lt;/ref> Such a review process is a requirement for full membership of the [[Association of American University Presses]].&lt;ref>{{cite web
+ | title = AAUP Membership Benefits and Eligibility
+ | publisher = Association of American University Presses
+ | url = http://aaupnet.org/membership/
+ | accessdate =February 2, 2008}}
+&lt;/ref>
+
+In some disciplines there exist refereed venues (such as [[academic conference|conferences]] and workshops). To be admitted to speak, scholars and scientists must submit papers (generally short, often 15 pages or less) in advance. These papers are reviewed by a "program committee" (the equivalent of an editorial board), which generally requests inputs from referees. The hard deadlines set by the conferences tend to limit the options to either accepting or rejecting the paper.
+
+===Recruiting referees===
+At a journal or book publisher, the task of picking reviewers typically falls to an [[editing|editor]].&lt;ref name="OGorman2008Frustrating">{{Cite journal
+ | author = Lawrence O'Gorman
+ | title = The (Frustrating) State of Peer Review
+ | journal = IAPR Newsletter
+ | volume = 30
+ | issue = 1
+ | pages = 3–5
+ | month = January
+ | year = 2008
+ | url = http://iapr.org/docs/newsletter-2008-01.pdf
+}}&lt;/ref>
+When a manuscript arrives, an editor solicits reviews from scholars or other experts who may or may not have already expressed a willingness to referee for that [[academic journal|journal]] or book division. Granting agencies typically recruit a [[Committee|panel]] or [[committee]] of reviewers in advance of the arrival of applications.&lt;ref name="Schwartz1995PeerReviewProcess">{{Cite journal
+ | author = Samuel M. Schwartz, Donald W. Slater, Fred P. Heydrick, and Gillian R. Woolett
+ | title = A Report of the AIBS Peer-Review Process for the US Army's 1994 Breast Cancer Initiative
+ | journal = BioScience
+ | volume = 45
+ | issue = 8
+ | pages = 558–563
+ | month = September
+ | year = 1995
+ | jstor=1312702
+}}&lt;/ref>
+
+Typically referees are not selected from among the authors' close [[Collegiality|colleagues]], students, or friends. Referees are supposed to inform the editor of any [[conflict of interests]] that might arise. Journals or individual editors often invite a manuscript's authors to name people whom they consider qualified to referee their work. Indeed, for a number of journals this is a requirement of submission. Authors are sometimes also invited to name natural candidates who should be ''disqualified'', in which case they may be asked to provide justification (typically expressed in terms of conflict of interest). In some disciplines, scholars listed in an "acknowledgments" section are not allowed to serve as referees (hence the occasional practice of using this section to disqualify potentially negative reviewers).{{Citation needed|date=October 2008}}
+
+Editors solicit author input in selecting referees because [[academia|academic]] writing typically is very specialized. Editors often oversee many specialties, and can not be experts in all of them. But after an editor selects referees from the pool of candidates, the editor typically is obliged not to disclose the referees' identities to the authors, and in scientific journals, to each other (see [[Anonymous peer review]]). Policies on such matters differ among academic disciplines.
+
+Recruiting [[referee]]s is a political art, because referees, and often editors, are usually not paid, and reviewing takes time away from the referee's main activities, such as his or her own research. To the would-be recruiter's advantage, most potential referees are authors themselves, or at least readers, who know that the publication system requires that [[expert]]s donate their time. Referees also have the opportunity to prevent work that does not meet the standards of the field from being published, which is a position of some responsibility. Editors are at a special advantage in recruiting a scholar when they have overseen the publication of his or her work, or if the scholar is one who hopes to submit manuscripts to that editor's publication in the future. Granting agencies, similarly, tend to seek referees among their present or former grantees. Serving as a referee can even be a condition of a grant, or professional association membership.
+
+Another difficulty that peer review organizers face is that, with respect to some manuscripts or proposals, there may be few scholars who truly qualify as experts. Such a circumstance often frustrates the goals of reviewer anonymity and the avoidance of conflicts of interest. It also increases the chances that an organizer will not be able to recruit true experts – people who have themselves done work similar to that under review, and who can read between the lines. Low-prestige or local journals and granting agencies that award little money are especially handicapped with regard to recruiting experts.
+
+Finally, [[anonymity]] adds to the difficulty in finding reviewers in another way. In scientific circles, [[credentials]] and [[reputation]] are important, and while being a referee for a prestigious journal is considered an honor, the anonymity restrictions make it impossible to publicly state that one was a referee for a particular article. However, credentials and reputation are principally established by publications, not by refereeing; and in some fields refereeing may not be anonymous.
+
+===Different styles of review===
+In ""[[double-blind]]" review, the identity of the authors is concealed from the reviewers, and vice versa, lest the knowledge of authorship or concern about disapprobation from the author bias their review. Critics of the double-blind process point out that, despite the extra editorial effort to ensure anonymity, the process often fails to do so, since certain approaches, methods, writing styles, notations, etc., may point to a certain group of people in a research stream, and even to a particular person.&lt;ref>[http://blogs.nature.com/nn/actionpotential/2005/12/doubleblind_peer_review.html Action Potential: Double-blind peer review?&lt;!-- Bot generated title -->]&lt;/ref>&lt;ref>
+{{cite journal |title=Editorial: Working double-blind |journal=Nature |volume=451 |issue=7179 |pages=605–6 |year=2008 |month=February |pmid=18256621 |doi=10.1038/451605b |url=http://www.nature.com/nature/journal/v451/n7179/full/451605b.html}}&lt;/ref>
+Proponents of double-blind review argue that it performs at least as well as single-blind, and that it generates a better perception of fairness and equality in global scientific funding and publishing.&lt;ref>{{cite journal |author=Mainguy G, Motamedi MR, Mietchen D |title=Peer review—the newcomers' perspective |journal=PLoS Biol. |volume=3 |issue=9 |pages=e326 |year=2005 |month=September |pmid=16149851 |pmc=1201308 |doi=10.1371/journal.pbio.0030326 }}&lt;/ref>
+
+Proponents also argue that if the reviewers of a paper are unknown to each other, the associate editor responsible for the paper can easily verify the objectivity of the reviews. Single-blind review is thus strongly dependent upon the goodwill of the participants.
+
+A [[conflict of interest]] arises when a reviewer and author have a disproportionate amount of respect (or disrespect) for each other. As an alternative to single-blind and double-blind review, authors and reviewers are encouraged to declare their conflicts of interest when the names of authors and sometimes reviewers are known to the other. When conflicts are reported, the conflicting reviewer is prohibited from reviewing and discussing the manuscript. The incentive for reviewers to declare their conflicts of interest is a matter of professional ethics and individual integrity. While their reviews are not public, these reviews are a matter of record and the reviewer's credibility depends upon how they represent themselves among their peers. Some software engineering journals, such as the [[IEEE Transactions on Software Engineering]], use non-blind reviews with reporting to editors of conflicts of interest by both authors and reviewers.
+
+A more rigorous standard of accountability is known as an audit. Because reviewers are not paid, they cannot be expected to put as much time and effort into a review as an audit requires. Therefore, [[academic journal]]s such as [[Science (journal)|Science]], organizations such as the or the [[American Geophysical Union]], and agencies such as the [[National Institutes of Health]] and the [[National Science Foundation]] maintain and [[Scientific data archiving|archive scientific data and methods]] in the event another researcher wishes to replicate or audit the research after publication.&lt;ref name=sci-data>
+{{cite web
+ | last =
+ | first =
+ | authorlink =
+ | coauthors =
+ | title = Policy on Referencing Data in and Archiving Data for AGU Publications
+ | quote = The following policy has been adopted for AGU publications in order to ensure that they can effectively and efficiently perform an expanded role in making the underlying data for articles available to researchers now and in the future.
+ | publisher = [[American Geophysical Union]]
+ | year = 2012
+ | url = http://www.agu.org/pubs/authors/policies/data_policy.shtml
+ | accessdate =2012-09-08}}
+*This policy was first adopted by the AGU Publications Committee in November 1993 and then revised March 1994, December 1995, October 1996.
+*See also AGU [http://library.ucar.edu/content/events/data_workshop/presentations/Cook_BridgingDataLifecyclesWorkshop.pdf Data Policy] by Bill Cook. April 4, 2012.&lt;/ref>&lt;ref name=nsf-data>
+{{cite web
+ | title = Data Management &amp; Sharing Frequently Asked Questions
+ | work =
+ | publisher = [[National Science Foundation]]
+ | date = November 30, 2010
+ | url = http://www.nsf.gov/bfa/dias/policy/dmpfaqs.jsp
+ | accessdate =2012-09-08}}&lt;/ref>&lt;ref name=Moore>
+{{cite journal
+|doi=10.1109/JPROC.2004.842761
+|format=free PDF download
+|url=http://www.dsc.ufcg.edu.br/~sampaio/cursos/2006.1/PosGraduacao/BancoDeDados/Artigos/DataGrid/dataGridsDigitalLibraries.pdf}}&lt;/ref>
+
+===Prepublication reviews===
+====Anonymous peer review====
+'''Anonymous peer review''', also called '''blind review''', is a system of prepublication peer review of scientific articles or papers for [[Scientific journal|journals]] or [[academic conference]]s by reviewers who are known to the journal editor or conference organizer but whose names are not given to the article's author. The reviewers do not know the author's identity, as any identifying information is stripped from the document before review. The system is intended to reduce or eliminate bias, although this has been challenged – for example [[Eugene Koonin]], a senior investigator at the [[National Center for Biotechnology Information]], asserts that the system has "well-known ills"&lt;ref>
+[http://www.nature.com/nature/peerreview/debate/nature05005.html Nature (2006)] | {{doi|10.1038/nature05005}}&lt;/ref> and advocates "[[open peer review]]". Others support blind reviewing because no research has suggested that the methodology may be harmful and the cost of facilitating such reviews is minimal.&lt;ref>{{cite journal|url=http://marketing.wharton.upenn.edu/ideas/pdf/armstrong2/barriers.pdf | title = Barriers to Scientific Contributions: The Author's Formula | author = J. Scott Armstrong | journal = Behavioral and Brain Sciences | volume = 5 | pages = 197–199 | year = 1982|doi=10.1017/S0140525X00011201|issue=2 }}&lt;/ref>
+Some experts proposed blind review procedures for reviewing controversial research topics.&lt;ref>{{cite journal|url=http://www.forecastingprinciples.com/paperpdf/Research%20on%20Scientific%20Journals.pdf | title = Research on Scientific Journals: Implications for Editors and Authors | author = J. Scott Armstrong | journal = Journal of Forecasting | volume = 1 | pages = 83–104 | year = 1982|doi=10.1002/for.3980010109 }}&lt;/ref>
+
+====Open peer review====
+{{main|Open peer review}}
+
+'''Open peer review''' describes a [[scientific literature]] concept and process, central to which is the various transparency and disclosure of the identities of those reviewing scientific publications. The concept thus represents a departure from, and an alternative to, the incumbent [[anonymous peer review]] process, in which non-disclosure of these identities toward the public – and toward the authors of the work under review – is default practice. The open peer review concept appears to constitute a response to modern criticisms of the incumbent system; therefore, its emergence may be partially attributed to these phenomena.
+
+===Postpublication reviews===
+The process of peer review does not end after a paper completes the peer review process. After being put to press, and after 'the ink is dry', the process of peer review continues as publications are read. Readers will often send [[Letter to the editor|letters to the editor]] of a journal, or correspond with the editor via an on-line journal club. In this way, all 'peers' may offer review and critique of published literature. A variation on this theme is [[open peer commentary]]; journals using this process solicit and publish non-anonymous commentaries on the "target paper" together with the paper, and with original authors' reply as a matter of course. The introduction of the "[[Electronic article|epub]] ahead of print" practice in many journals has made possible the simultaneous publication of unsolicited letters to the editor together with the original paper in the print issue.
+
+==Criticism of peer review==
+Drummond Rennie, deputy editor of ''[[Journal of the American Medical Association]]'' is an organizer of the International Congress on Peer Review and Biomedical Publication, which has been held every four years since 1986. He remarks,
+&lt;blockquote>
+There seems to be no study too fragmented, no hypothesis too trivial, no literature too biased or too egotistical, no design too warped, no methodology too bungled, no presentation of results too inaccurate, too obscure, and too contradictory, no analysis too self-serving, no argument too circular, no conclusions too trifling or too unjustified, and no grammar and syntax too offensive for a paper to end up in print.&lt;ref>{{cite journal |author=Rennie D, Flanagin A, Smith R, Smith J |title=Fifth International Congress on Peer Review and Biomedical Publication: Call for Research |journal=JAMA |volume=289 |issue=11 |page=1438 |date=March 19, 2003 |url=http://jama.ama-assn.org/cgi/content/full/289/11/1438 |doi=10.1001/jama.289.11.1438}}&lt;/ref>
+&lt;/blockquote>
+
+[[Richard Horton (editor)|Richard Horton]], editor of the British medical journal ''[[The Lancet]]'', has said that
+&lt;blockquote>
+The mistake, of course, is to have thought that peer review was any more than a crude means of discovering the acceptability—not the validity—of a new finding. Editors and scientists alike insist on the pivotal importance of peer review. We portray peer review to the public as a quasi-sacred process that helps to make science our most objective truth teller. But we know that the system of peer review is biased, unjust, unaccountable, incomplete, easily fixed, often insulting, usually ignorant, occasionally foolish, and frequently wrong.&lt;ref>{{cite journal |author=Horton, Richard |title=Genetically modified food: consternation, confusion, and crack-up |journal=MJA |volume=172 |issue=4 |pages=148–9 |year=2000 |pmid=10772580 |doi= |url=http://www.mja.com.au/public/issues/172_04_210200/horton/horton.html}}&lt;/ref>
+&lt;/blockquote>
+
+===Allegations of bias and suppression===
+The interposition of editors and reviewers between authors and readers always raises the possibility that the intermediators may serve as [[gatekeepers]].&lt;ref>Bradley, (1981)&lt;/ref> Some [[Science and technology studies|sociologists of science]] argue that peer review makes the ability to publish susceptible to control by [[elite]]s and to personal jealousy.&lt;ref>"[http://www.eurekalert.org/pub_releases/2004-08/cu-bse081204.php British scientists exclude 'maverick' colleagues, says report]" (2004) EurekAlert Public release date: August 16, 2004&lt;/ref>&lt;ref>{{cite web| last =Higgs| first =Robert| title =Peer Review, Publication in Top Journals, Scientific Consensus, and So Forth| publisher =Independent Institute| date =May 7, 2007| url =http://www.independent.org/newsroom/article.asp?id=1963| accessdate =April 9, 2012}}&lt;/ref>
+The peer review process may [[Suppression of dissent|suppress dissent]] against "[[mainstream]]" theories.&lt;ref>[[Brian Martin (professor)|Brian Martin]], "[http://www.uow.edu.au/arts/sts/bmartin/dissent/documents/ss/ Suppression Stories]" (1997) in ''Fund for Intellectual Dissent'' ISBN 0-646-30349-X&lt;/ref>&lt;ref>See also Juan Miguel Campanario, "[http://www2.uah.es/jmc/nobel.html Rejecting Nobel class articles and resisting Nobel class discoveries]", cited in ''Nature'', October 16, 2003, Vol 425, Issue 6959, p.645&lt;/ref>&lt;ref>{{cite journal |author=Campanario, Juan Miguel; Martin, Brian |title=Challenging dominant physics paradigms |journal=[[Journal of Scientific Exploration]] |volume=18 |issue=3 |pages=421–38 |month=Fall |year=2004 |url=http://www.uow.edu.au/arts/sts/bmartin/pubs/04jse.html |bibcode=2008atcr.book...11C |last2=Martin}}&lt;/ref>
+Reviewers tend to be especially critical of conclusions that contradict their own [[Opinion|views]],&lt;ref>"... they may strongly resist a rival's hypothesis that challenges their own." [http://post.queensu.ca/~forsdyke/peerrev1.htm Malice's Wonderland: Research Funding and Peer Review] ''Journal of Neurobiology'' 14, No. 2., pp. 95–112 (1983).&lt;/ref> and lenient towards those that accord with them. At the same time, established scientists are more likely than less established ones to be sought out as referees, particularly by high-prestige journals or publishers. As a result, ideas that harmonize with the established experts' are more likely to see print and to appear in premier journals than are iconoclastic or revolutionary ones, which accords with [[Thomas Kuhn]]'s well-known observations regarding [[The Structure of Scientific Revolutions|scientific revolutions]].&lt;ref>See also: Sophie Petit-Zeman, "[http://www.guardian.co.uk/print/0,3858,4583809-111019,00.html Trial by peers comes up short]" (2003) The Guardian, Thursday January 16, 2003&lt;/ref> Experts have also argued that invited papers are more valuable to scientific research because papers that undergo the conventional system of peer review may not necessarily feature findings that are actually important.&lt;ref>{{cite journal|url=http://marketing.wharton.upenn.edu/ideas/pdf/Armstrong/MiserbyArmstrong.pdf | title = Reply by: J. Scott Armstrong, The Wharton School, University of Pennsylvania, "Democracy Does Not Make Good Science: On Reforming Review Procedures for Management Science Journals," | author = J. Scott Armstrong | journal = Interfaces | volume = 28 | pages = 88–91 }}&lt;/ref>
+
+===Peer review failures===
+{{Main|Peer review failure}}
+
+Peer review failures occur when a peer-reviewed article contains obvious fundamental errors that undermine at least one of its main conclusions. Many journals have no procedure to deal with peer review failures beyond publishing letters to the editor.&lt;ref>{{cite web |title=Reviewing the "Letter-to-editor" section in the Bulletin of the World Health Organization, 2000–2004 |author=Afifi, M |publisher=Bulletin of the World Health Organization |url=http://www.who.int/bulletin/bulletin_board/84/letters/en/index.html}}&lt;/ref>
+
+Peer review in scientific journals assumes that the article reviewed has been honestly written, and the process is not designed to detect fraud.&lt;ref>"Peer review is not currently designed to detect deception, nor does it guarantee the validity of research findings." [http://www.nature.com/nature/peerreview/debate/nature05007.html Ethics: Increasing accountability] – ''Nature'' (2006) – {{doi|10.1038/nature05007}}&lt;/ref>
+
+An experiment on peer review with a fictitious manuscript has found that peer reviewers may not detect all errors in a manuscript and the majority of reviewers may not realize the conclusions of the paper is unsupported by the results.&lt;ref>{{Cite journal
+ | author = [[W. G. Baxt]], [[J. F. Waeckerle]], [[J. A. Berlin]] &amp; [[M. L. Callaham]]
+ | title = Who reviews the reviewers? Feasibility of using a fictitious manuscript to evaluate peer reviewer performance
+ | journal = [[Annals of Emergency Medicine]]
+ | volume = 32
+ | issue = 3 Pt 1
+ | pages = 310–317
+ | year = 1998
+ | month = September
+ | pmid = 9737492
+ | doi = 10.1016/S0196-0644(98)70006-X
+}}&lt;/ref>
+
+When peer review fails and a paper is published with fraudulent or otherwise irreproducible data, the paper may be [[retraction|retracted]].
+
+===Dynamic and open peer review===
+{{Main|Open peer review}}
+
+It has been suggested that traditional anonymous peer review lacks accountability, can lead to abuse by reviewers, and may be biased and inconsistent,&lt;ref>{{cite journal |author= |title=Reproducibility of peer review in clinical neuroscience: Is agreement between reviewers any greater than would be expected by chance alone? |journal=Brain |volume=123 |issue=9 |page=1964 |year= 2000|url=http://brain.oxfordjournals.org/cgi/content/full/123/9/1964 |doi= 10.1093/brain/123.9.1964 |last1= Rothwell |first1= P. M. |pmid=10960059 |last2= Martyn |first2= CN |pages= 1964–9}}&lt;/ref> alongside other flaws.&lt;ref>[http://www.jisc.ac.uk/uploaded_documents/rowland.pdf The Peer Review Process&lt;!-- Bot generated title -->]&lt;/ref>&lt;ref>{{Cite journal
+ | author = Alison McCook
+ | title = Is Peer Review Broken?
+ | journal = [[The Scientist]]
+ | month = February
+ | year = 2006
+ | url = http://www.the-scientist.com/article/display/23061/
+ |authorlink=Alison McCook
+}}&lt;/ref>
+In response to these criticisms, other systems of peer review with various degrees of "openness" have been suggested.
+
+Starting in the 1990s, several scientific journals (including the high impact journal ''[[Nature (journal)|Nature]]'' in 2006) started experiments with hybrid peer review processes, often allowing open peer reviews in parallel to the traditional model. The initial evidence of the effect of open peer review upon the quality of reviews, the tone and the time spent on reviewing was mixed, although it does seem that under open peer review, more of those who are invited to review decline to do so.&lt;ref>{{cite journal |author= |title=Effect of open peer review on quality of reviews and on reviewers' recommendations: a randomised trial |journal=BMJ |volume=318 |issue=7175 |page=23 |year= 1999|url=http://www.bmj.com/cgi/content/abstract/318/7175/23 |pmid= 9872878 |last1= Van Rooyen |first1= S |last2= Godlee |first2= F |last3= Evans |first3= S |last4= Black |first4= N |last5= Smith |first5= R |pmc= 27670 |doi= 10.1136/bmj.318.7175.23 |pages= 23–7 }}&lt;/ref>&lt;ref>{{Cite journal
+ | doi = 10.1192/bjp.176.1.47
+ | title = Open peer review: a randomised controlled trial
+ | author = Elizabeth Walsh, Maeve Rooney, Louis Appleby, Greg Wilkinson
+ | volume = 176
+ | issue = 1
+ | pages = 47–51
+ | journal = The [[British Journal of Psychiatry]]
+ | year = 2000
+ | pmid = 10789326
+}}&lt;/ref>
+
+Throughout the 2000s first academic journals based solely on the concept of open peer review were launched (see e.g. ''[[Philica]]''). An extension of peer review beyond the date of publication is [[open peer commentary]], whereby expert commentaries are solicited on published articles, and the authors are encouraged to respond.
+
+==Peer review of government policy==
+The technique of peer review is also used to improve government policy. In particular, the [[European Union]] uses it as a tool in the 'Open Method of Co-ordination' of policies in the fields of employment and social inclusion.
+
+A program of peer reviews in [[active labour market policy]]&lt;ref>[http://www.mutual-learning-employment.net/peer-reviews/ Mutual Learning Programme – Peer Reviews]&lt;/ref> started in 1999, and was followed in 2004 by one in [[social inclusion]].&lt;ref>[http://www.peer-review-social-inclusion.net Peer Review and Assessment in Social Inclusion—Evaluations par les pairs&lt;!-- Bot generated title -->]&lt;/ref> Each program sponsors about eight peer review meetings in each year, in which a 'host country' lays a given policy or initiative open to examination by half a dozen other countries and relevant European-level NGOs. These usually meet over two days and include visits to local sites where the policy can be seen in operation. The meeting is preceded by the compilation of an [[expert report]] on which participating 'peer countries' submit comments. The results are published on the web.
+
+{{Further|U.S. Government peer review policies}}
+
+==History==
+The first recorded editorial prepublication peer-review process was at [[The Royal Society]] in 1665 by the founding editor of [[Philosophical Transactions of the Royal Society]], [[Henry Oldenburg]].&lt;ref>[http://books.google.com/books?id=VZ1axrolCpkC&amp;pg=PA220 GoogleBooks]&lt;/ref>&lt;ref>[http://books.nap.edu/readingroom/books/obas/contents/publication.html On Being a Scientist ''National Academies Press'']&lt;/ref>&lt;ref>[http://eprints.ecs.soton.ac.uk/13105/1/399we23.htm The Origin of the Scientific Journal and the Process of Peer Review ''House of Commons Select Committee Report'']&lt;/ref> In the 20th century, peer review became common for science funding allocations. This process appears to have developed independently from the editorial peer review.&lt;ref>[http://books.google.com/books?id=VZ1axrolCpkC&amp;pg=PA221 Google Books]&lt;/ref>
+
+The first peer-reviewed publication may have been the ''Medical Essays and Observations'' published by the [[Royal Society of Edinburgh]] in 1731. The present-day peer-review system evolved from this 18th-century process.&lt;ref name="Dale J. Benos et al., 145">{{cite journal |author=Benos, Dale J. ''et al.'' |title=The Ups and Downs of Peer Review |journal=Advances in Physiology Education |volume=31 |pages=145–152 |year=2007 |quote=p. 145 – Scientific peer review has been defined as the evaluation of ''research findings'' for competence, significance, and originality by qualified experts. These peers act as sentinels on the road of scientific discovery and publication. |doi=10.1152/advan.00104.2006 |pmid=17562902 |issue=2}}&lt;/ref>
+
+A professional peer-review process is found in the ''Ethics of the Physician'' written by Ishaq bin Ali al-Rahwi (854–931). His work states that a visiting physician must make duplicate notes of a patient's condition on every visit. When the patient was cured or had died, the notes of the physician were examined by a local medical council of other physicians, who would decide whether the treatment had met the required standards of medical care.&lt;ref>{{cite journal |author=Spier, Ray |title=The history of the peer-review process |journal=Trends in Biotechnology |volume=20 |issue=8 |pages=357–8 |year=2002 |doi=10.1016/S0167-7799(02)01985-6 |pmid=12127284}}&lt;/ref>
+
+Peer review has been a touchstone of modern [[scientific method]] only since the middle of the 20th century, the only exception being medicine. Before then, its application was lax in other scientific fields. For example, [[Albert Einstein]]'s revolutionary [[Annus Mirabilis papers|"Annus Mirabilis" papers]] in the 1905 issue of ''[[Annalen der Physik]]'' were not peer-reviewed by anyone other than the journal's editor-in-chief, [[Max Planck]], and its co-editor, [[Wilhelm Wien]]. A formal panel of reviewers was not sought, as is done for many scientific journals today. Established authors and editors were given more latitude in their journalistic discretion, back then. In a recent editorial in ''Nature'', it was stated that "in journals in those days, the burden of proof was generally on the opponents rather than the proponents of new ideas."&lt;ref>{{cite journal |author= |title=Coping with peer rejection |journal=Nature |volume=425 |issue=6959 |page=645 |date=October 16, 2003 |doi=10.1038/425645a |pmid= 14562060}}&lt;/ref>
+
+==See also==
+{{columns-list|3|
+* [[Academic authorship]]
+* [[Academic conference]]
+* [[Academic journal]]
+* [[Abstract management]]
+* [[Adversarial review]]
+* [[Coercive citation]]
+* [[Interdisciplinary peer review]]
+* [[Journal club]]
+* [[JournalReview.org]]
+* [[Objectivity (philosophy)]]
+* [[Open Peer Commentary]]
+* [[Physician peer review]]
+* [[Publication bias]]
+* [[Reporting bias]]
+* [[Scholarly method]]
+* [[Sham peer review]]
+* [[Software peer review]]
+* [[Sokal affair]]
+* [[Sternberg peer review controversy]]
+* [[Technical peer review]]
+}}
+
+==References==
+{{Citation style|date=September 2009}}
+
+{{Reflist|colwidth=30em}}
+
+===General references and further reading===
+* {{cite journal|first=James V. |last=Bradley |year=1981 |title=Pernicious Publication Practices |journal=[[Bulletin of the Psychonomic Society]] |volume=18 |pages=31–34}}
+* {{cite book |editor=Shatz, David |year=2004 |title=Peer Review: A Critical Inquiry |publisher=Rowland &amp; Littlefield |url=http://www.rowmanlittlefield.com/Catalog/TOC.shtml?command=Search&amp;db=^DB/CATALOG.db&amp;eqSKUdata=074251434X}}
+* {{cite book |first=Jaap |last=de Vries |year=2001 |contribution=Peer Review: The Holy Cow of Science |title=A Century of Science Publishing |editor=E.H. Frederiksson |publisher=[[IOS Press]] |isbn=1-58603-148-1}}
+* {{cite book |first=Ann C. |last=Weller |year=2001 |title=Editorial Peer Review: its Strengths and Weaknesses |location=Medford, New Jersey |publisher=[[American Society for Information Science and Technology]] |isbn=1-57387-100-1}} (extensive bibliography).
+* {{cite web |url=http://www.senseaboutscience.org.uk/pdf/ShortPeerReviewGuide.pdf |title=I don't know what to believe… – Making Sense of Science Stories |publisher=Sense About Science |date=October 31, 2005}}
+
+==External links==
+{{Spoken Wikipedia|Peer review.ogg|2005-04-02}}
+* {{cite web |url=http://www.nature.com/nature/peerreview/debate/ |title=Peer review debate |publisher=Nature |date=June 2006}}
+* {{cite web |url=http://blogs.nature.com/peer-to-peer/ |title=Peer-to-Peer blog |publisher=Nature |date=April 2012}}
+* {{cite web |url=http://boingboing.net/2011/04/22/meet-science-what-is.html |title=Meet Science: What is "peer review"? |publisher=BoingBoing |author=[[Maggie Koerth-Baker]]|date=April 22, 2012}}
+* {{cite web |url=http://www.ama-assn.org/public/peer/peerhome.htm |title=Fifth International Congress on Peer Review and Biomedical Publication |publisher=[[American Medical Association]]}}
+* [[Walter Noll]] (2009) [http://www.math.cmu.edu/~wn0g/noll/future%20of%20sc.pub.pdf The Future of Scientific Publication]
+* {{cite web |url=http://www.int-res.com/discussion-forums/meps-discussion-forum-2/ |title=Peer review system |work=Marine Ecology Progress Series |publisher=Inter-research Science Center |author=Hans Ulrik Riisgård }}
+* {{cite web |url=http://www.garfield.library.upenn.edu/histcomp/lock-difficult-bal_2/index-lcs.html |title=A Difficult Balance: Editorial Peer Review in Medicine |author=Eugene Garfield |publisher=University of Pennsylvania |authorlink=Eugene Garfield }} (Bibliography)
+* (January 23, 2012) [http://news.sciencemag.org/scienceinsider/2012/01/online-social-network-seeks-to.html Online Social Network Seeks to Overhaul Peer Review in Scientific Publishing]
+
+{{DEFAULTSORT:Peer Review}}
+[[Category:Academic literature]]
+[[Category:Peer review| ]]
+[[Category:Scientific method]]
+
+{{Link GA|ja}}
+[[ar:مراجعة الأقران]]

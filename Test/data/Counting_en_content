@@ -1,0 +1,78 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">'''Counting''' is the action of finding the number of elements of a [[finite set]] of objects. The traditional way of counting consists of continually increasing a (mental or spoken) counter by a unit for every element of the set, in some order, while marking (or displacing) those elements to avoid visiting the same element more than once, until no unmarked elements are left; if the counter was set to one after the first object, the value after visiting the final object gives the desired number of elements. The related term ''[[enumeration]]'' refers to uniquely identifying the elements of a [[Finite set|finite]] (combinatorial) [[Set (mathematics)|set]] or infinite set by assigning a number to each element.
+
+[[Image:Hanakapiai Beach Warning Sign Only.jpg|thumb|right|Counting using [[tally marks]] at [[Hanakapiai Beach]]]]
+Counting sometimes involves numbers other than one; for example, when counting money, counting out change, "counting by twos" (2, 4, 6, 8, 10, 12, ...), or "counting by fives" (5, 10, 15, 20, 25, ...).
+
+There is archeological evidence suggesting that humans have been counting for at least 50,000 years.&lt;ref>''An Introduction to the History of Mathematics'' (6th Edition) by [[Howard Eves]] (1990) p.9&lt;/ref> Counting was primarily used by ancient cultures to keep track of social and economic data such as number of group members, prey animals, property, or debts  (i.e., [[accountancy]]). The development of counting led to the development of [[mathematical notation]], [[numeral system]]s, and [[writing]].
+
+==Forms of counting==
+{{see|Prehistoric numerals|Numerical digit}}
+Counting can occur in a variety of forms.
+
+Counting can be verbal; that is, speaking every number out loud (or mentally) to keep track of progress. This is often used to count objects that are present already, instead of counting a variety of things over time.
+
+Counting can also be in the form of [[tally marks]], making a mark for each number and then counting all of the marks when done tallying. This is useful when counting objects over time, such as the number of times something occurs during the course of a day. Tallying is base 1 counting; normal counting is done in base 10. Computers use base 2 counting (0's and 1's).
+
+Counting can also be in the form of [[finger counting]], especially when counting small numbers. This is often used by children to facilitate counting and simple mathematical operations. &lt;!--Um, are you kidding? Your sentence above contains circular logic: "Counting is often used ... to facilitate counting..."--> Finger-counting uses unary notation (one finger = one unit), and is thus limited to counting 10 (unless you start in with your toes). Other hand-gesture systems are also in use, for example the Chinese system by which one can count 10 using only gestures of one hand. By using [[finger binary]] (base 2 counting), it is possible to keep a finger count up to {{nowrap|1=1023 = 2&lt;sup>10&lt;/sup> − 1}}.
+
+Various devices can also be used to facilitate counting, such as hand tally counters and abacuses.
+
+==Inclusive counting==
+Inclusive counting is usually encountered when counting days in a calendar. Normally when counting "8" days from Sunday, Monday will be ''day 1'', Tuesday ''day 2'', and the following Monday will be the ''eighth day''. When counting "inclusively," the Sunday (the start day) will be ''day 1'' and therefore the following Sunday will be the ''eighth day''. For example, the French phrase for "fortnight" is ''en quinze'' (in 15 [days]), and similar words are present in Greek (δεκαπενθήμε�?ο, ''dekapenthímero''), Spanish (''quincena'') and Portuguese (''quinzena'') - whereas "a fortnight" derives from "a fourteen-night", as the archaic "a sennight" does from "a seven-night".  This practice appears in other calendars as well; in the Roman calendar the ''nones'' (meaning "nine") is 8 days before the ''ides''; and in the Christian calendar [[Quinquagesima]] (meaning 50) is 49 days before Easter Sunday.
+
+The Jewish people also counted{{When|date=September 2011}} days inclusively. For instance, [[Jesus]] announced he would [[Death and resurrection of Jesus|die and resurrect]] "on the third day," i.e. two days later. Scholars{{who|date=January 2012}} most commonly place his crucifixion on a Friday afternoon and his resurrection on Sunday before sunrise, spanning three different days but a period of around 36–40 hours.{{Citation needed|date=July 2010}}
+
+Musical terminology also uses inclusive counting of [[interval (music)|intervals]] between notes of the standard scale: going up one note is a second interval, going up two notes is a third interval, etc., and going up seven notes is an octave.
+
+==Education and development==
+{{Main|Pre-math skills}}
+Learning to count is an important educational/developmental milestone in most cultures of the world. Learning to count is a child's very first step into mathematics, and constitutes the most fundamental idea of that discipline. However, some cultures in Amazonia and the Australian Outback do not count,&lt;ref>[[Brian Butterworth|Butterworth, B.]], Reeve, R., Reynolds, F., &amp; Lloyd, D. (2008). Numerical thought with and without words: Evidence from indigenous Australian children. Proceedings of the National Academy of Sciences, 105(35), 13179–13184.&lt;/ref>&lt;ref>Gordon, P. (2004). Numerical cognition without words: Evidence from Amazonia. Science, 306, 496–499.&lt;/ref> and their languages do not have number words.
+
+Many children at just 2 years of age have some skill in reciting the count list (i.e., saying "one, two, three, ..."). They can also answer questions of ordinality for small numbers, e.g., "What comes after ''three''?". They can even be skilled at pointing to each object in a set and reciting the words one after another. This leads many parents and educators to the conclusion that the child knows how to use counting to determine the size of a set.&lt;ref>Fuson, K.C. (1988). Children's counting and concepts of number. New York: Springer–Verlag.&lt;/ref> Research suggests that it takes about a year after learning these skills for a child to understand what they mean and why the procedures are performed.&lt;ref>Le Corre, M., &amp; Carey, S. (2007). One, two, three, four, nothing more: An investigation of the conceptual sources of the verbal counting principles. Cognition, 105, 395–438.&lt;/ref>&lt;ref>Le Corre, M., Van de Walle, G., Brannon, E. M., Carey, S. (2006). Re-visiting the competence/performance debate in the acquisition of the counting principles. Cognitive Psychology, 52(2), 130–169.&lt;/ref> In the mean time, children learn how to name cardinalities that they can [[subitize]].
+
+Children with [[Williams syndrome]] often display serious delays in learning to count.{{Citation needed|date=March 2009}}
+
+==Counting in mathematics==
+
+In mathematics, the essence of counting a set and finding a result ''n'', is that it establishes a [[one to one correspondence]] (or bijection) of the set with the set of numbers {1, 2, ..., ''n''}. A fundamental fact, which can be proved by [[mathematical induction]], is that no bijection can exist between {1, 2, ..., ''n''} and {1, 2, ..., ''m''} unless ''n''&amp;nbsp;=&amp;nbsp;''m''; this fact (together with the fact that two bijections can be [[function composition|composed]] to give another bijection) ensures that counting the same set in different ways can never result in different numbers (unless an error is made). This is the fundamental mathematical theorem that gives counting its purpose; however you count a (finite) set, the answer is the same. In a broader context, the theorem is an example of a theorem in the mathematical field of (finite) [[combinatorics]]—hence (finite) combinatorics is sometimes referred to as "the mathematics of counting."
+
+Many sets that arise in mathematics do not allow a bijection to be established with {1, 2, ..., ''n''} for ''any'' [[natural number]] ''n''; these are called [[infinite set]]s, while those sets for which such a bijection does exist (for some ''n'') are called [[finite set]]s. Infinite sets cannot be counted in the usual sense; for one thing, the mathematical theorems which underlie this usual sense for finite sets are false for infinite sets. Furthermore, different definitions of the concepts in terms of which these theorems are stated, while equivalent for finite sets, are inequivalent in the context of infinite sets.
+
+The notion of counting may be extended to them in the sense of establishing (the existence of) a bijection with some well understood set. For instance, if a set can be brought into bijection with the set of all natural numbers, then it is called "[[countably infinite]]." This kind of counting differs in a fundamental way from counting of finite sets, in that adding new elements to a set does not necessarily increase its size, because the possibility of a bijection with the original set is not excluded. For instance, the set of all [[integer]]s (including negative numbers) can be brought into bijection with the set of natural numbers, and even seemingly much larger sets like that of all finite sequences of rational numbers are still (only) countably infinite. Nevertheless there are sets, such as the set of [[real number]]s, that can be shown to be "too large" to admit a bijection with the natural numbers, and these sets are called "[[uncountable set|uncountable]]." Sets for which there exists a bijection between them are said to have the same [[cardinality]], and in the most general sense counting a set can be taken to mean determining its cardinality. Beyond the cardinalities given by each of the natural numbers, there is an infinite hierarchy of infinite cardinalities, although only very few such cardinalities occur in ordinary mathematics (that is, outside [[set theory]] that explicitly studies possible cardinalities).
+
+Counting, mostly of finite sets, has various applications in mathematics. One important principle is that if two sets ''X'' and ''Y'' have the same finite number of elements, and a function {{nowrap|''f'': ''X'' → ''Y''}} is known to be [[injective]], then it is also [[surjective]], and vice versa. A related fact is known as the [[pigeonhole principle]], which states that if two sets ''X'' and ''Y'' have finite numbers of elements ''n'' and ''m'' with ''n''&amp;nbsp;>&amp;nbsp;''m'', then any map {{nowrap|''f'': ''X'' → ''Y''}} is ''not'' injective (so there exist two distinct elements of ''X'' that ''f'' sends to the same element of ''Y''); this follows from the former principle, since if ''f'' were injective, then so would its [[Function (mathematics)#Restrictions and extensions|restriction]] to a strict subset ''S'' of ''X'' with ''m'' elements, which restriction would then be surjective, contradicting the fact that for ''x'' in ''X'' outside ''S'', ''f''(''x'') cannot be in the image of the restriction. Similar counting arguments can prove the existence of certain objects without explicitly providing an example. In the case of infinite sets this can even apply in situations where it is impossible to give an example; for instance there must exists real numbers that are not [[computable number]]s, because the latter set is only countably infinite, but by definition a non-computable number cannot be precisely specified.
+
+The domain of [[enumerative combinatorics]] deals with computing the number of elements of finite sets, without actually counting them; the latter usually being impossible because infinite families of finite sets are considered at once, such as the set of [[permutation]]s of {1, 2, ..., ''n''} for any natural number ''n''.
+
+==See also==
+&lt;div style="-moz-column-count:3; column-count:3;">
+* [[Kirby Lester Pharmacy Automation|Automated pill counter]]
+* [[Cardinal number]]
+* [[Combinatorics]]
+* [[Counting (music)]]
+* [[Counting problem (complexity)]]
+* [[Developmental psychology]]
+* [[Elementary arithmetic]]
+* [[Finger counting]]
+* [[History of mathematics]]
+* [[Jeton]]
+* [[Level of measurement]]
+* [[Ordinal number]]
+* [[Subitizing and counting]]
+* [[Tally mark]]
+* [[Unary numeral system]]
+* [[List of numbers]]
+* [[List of numbers in various languages]]
+&lt;/div>
+
+==References==&lt;!--CurrBiol17:R1004.-->
+{{Reflist}}
+
+==External links==
+* [http://www.plainmath.net/index.php?page=counting History of Counting-PlainMath.Net]
+
+[[Category:Elementary mathematics]]
+[[Category:Numeral systems]]
+[[Category:Mathematical logic]]
+
+[[ca:Comptar]]

@@ -1,0 +1,14 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">Die '''Numerische lineare Algebra''' ist ein Teilgebiet der [[Numerische Mathematik|Numerischen Mathematik]], welches sich mit [[Algorithmus|Algorithmen]] für Problemstellungen der [[Lineare Algebra|Linearen Algebra]] beschäftigt. Dabei liegt das Hauptaugenmerk bei der Lösung von [[Lineares Gleichungssystem|Linearen Gleichungssystemen]] und [[Eigenwertproblem]]en. Solche Probleme treten häufig in [[Ingenieurwissenschaften]], [[Physik]] oder [[Ökonomie]] auf.
+
+== Weblinks ==
+* Seite der [[TU Braunschweig]] zur NLA: http://www.tu-braunschweig.de/icm/numerik/forschung/nla
+
+[[Kategorie:Numerische lineare Algebra| ]]
+[[Kategorie:Teilgebiet der Mathematik]]
+
+[[en:Numerical linear algebra]]
+[[es:�?lgebra lineal numérica]]
+[[fa:جبر خطی عددی]]
+[[id:Aljabar linear numerik]]
+[[pt:�?lgebra linear numérica]]
+[[zh:数值线性代数]]

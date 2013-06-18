@@ -1,0 +1,129 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Zeichen|�?��}}
+Die (reellen) '''Oktaven''', auch '''Oktonionen''' oder '''Cayleyzahlen''', sind eine Erweiterung der [[Quaternion]]en und besitzen das Mengensymbol &lt;math>\mathbb{O}&lt;/math>. Sie entstehen durch die Anwendung des [[Verdopplungsverfahren]]s aus den Quaternionen und bilden einen [[Alternativkörper]]. Damit liefern sie als Koordinatenbereich ein Beispiel für eine echte, das heißt ''[[Satz von Desargues|nichtdesarguessche]]'' [[Moufangebene]] in der [[Synthetische Geometrie|synthetischen Geometrie]].
+
+==Geschichte==
+
+Die Oktonionen wurden im Jahr [[1843]] von [[John Thomas Graves]] in einem Brief an [[William Rowan Hamilton]] zum ersten Mal beschrieben. Unabhängig davon wurden sie [[1845]] von [[Arthur Cayley]] (als erstem) veröffentlicht.
+
+==Multiplikationstabelle==
+
+Die Oktonionen sind eine 8-dimensionale Algebra über den [[Reelle Zahl|reellen Zahlen]]. Eine mögliche Multiplikation ist – mit der Basis &lt;math>(1,i,j,k,l,m,n,o)&lt;/math> – wie folgt gegeben:
+
+&lt;center>&lt;math>\begin{matrix}
+ i^2=j^2=k^2=l^2=m^2=n^2=o^2=-1\\
+ i=jk=lm=on=-kj=-ml=-no\\
+ j=ki=ln=mo=-ik=-nl=-om\\
+ k=ij=lo=nm=-ji=-ol=-mn\\
+ l=mi=nj=ok=-im=-jn=-ko\\
+ m=il=oj=kn=-li=-jo=-nk\\
+ n=jl=io=mk=-lj=-oi=-km\\
+ o=ni=jm=kl=-in=-mj=-lk
+\end{matrix}&lt;/math>&lt;/center>
+
+Daraus errechnet sich das Produkt der Einheiten 
+
+&lt;center>&lt;math>ijklmno\,=\,-1&lt;/math>&lt;/center>
+
+==Eigenschaften==
+
+Die Oktonionen sind eine [[Divisionsalgebra]] mit Einselement.
+
+Sie bilden keinen [[Schiefkörper]] (und damit auch keinen Körper), denn sie verletzen das 
+: [[Assoziativgesetz]] der Multiplikation: &lt;math>a \cdot ( b \cdot c ) = ( a \cdot b ) \cdot c&lt;/math>.
+
+Es gilt jedoch für alle Oktaven ''a'' und ''b'':
+: &lt;math>a \cdot ( a \cdot b ) = ( a \cdot a ) \cdot b&lt;/math> und  &lt;math>a \cdot ( b \cdot b ) = ( a \cdot b ) \cdot b&lt;/math>.
+Diese Eigenschaft wird [[Alternativität]] genannt. Die Oktonionen bilden einen [[Alternativkörper]].
+
+Aus der Alternativität folgt die Beziehung
+: &lt;math>a \cdot (b \cdot a) = ( a \cdot b ) \cdot a&lt;/math>.
+Diese Beziehung wird auch [[Flexibilitätsgesetz]] genannt.
+
+Die Oktonionen erfüllen außerdem die [[Moufang-Identitäten]]
+: &lt;math>[a \cdot (b \cdot a)] \cdot c = a \cdot [b \cdot (a \cdot c)] &lt;/math>
+und
+: &lt;math>(a \cdot b) \cdot (c \cdot a) = a \cdot [(b \cdot c) \cdot a]&lt;/math>
+
+Anwendung des Verdopplungsverfahrens auf die Oktaven liefert die [[Sedenionen]].
+
+==Darstellungen==
+
+Jede Oktave kann dargestellt werden ...
+: ... als 8er-[[Tupel]] von [[reelle Zahlen|reellen Zahlen]]: 
+&lt;math>(r_1, r_2, \ldots, r_8)&lt;/math>
+: ... als 4er-Tupel von [[komplexe Zahlen|komplexen Zahlen]]: 
+&lt;math>(c_1, c_2, c_3,c_4)&lt;/math>
+: ... als geordnetes Paar von [[Quaternionen]]: 
+&lt;math>(h_1,h_2)&lt;/math>
+
+Der [[Körper (Algebra)|Körper]] der reellen Zahlen &lt;math>\mathbb{R}&lt;/math> kann als Unterstruktur von &lt;math>\mathbb{O}&lt;/math> betrachtet werden:
+: Für alle Zahlen &lt;math>r&lt;/math> aus &lt;math>\mathbb{R}&lt;/math> gilt: 
+&lt;math>r&lt;/math> entspricht &lt;math>(r, 0, \ldots , 0)&lt;/math>
+
+Der Körper der komplexen Zahlen &lt;math>\mathbb C&lt;/math> kann als Unterstruktur von &lt;math>\mathbb{O}&lt;/math> betrachtet werden:
+: Für alle Zahlen &lt;math>c&lt;/math> aus &lt;math>\mathbb C&lt;/math> gilt: 
+&lt;math>c&lt;/math> entspricht &lt;math>(c, 0, 0, 0)&lt;/math>
+
+Der [[Schiefkörper]] der Quaternionen &lt;math>\mathbb H&lt;/math> kann als Unterstruktur von &lt;math>\mathbb{O}&lt;/math> betrachtet werden:
+: Für alle Zahlen &lt;math>h&lt;/math> aus &lt;math>\mathbb H&lt;/math> gilt: 
+&lt;math>h&lt;/math> entspricht &lt;math>(h, 0)&lt;/math>
+
+Für die Oktaven sind [[Addition]] und [[Multiplikation]] so definiert, dass sie  abwärtskompatibel sind, das heißt ...
+: ... für alle reellen Zahlen &lt;math>r&lt;/math> und &lt;math>s&lt;/math> gilt:
+:: &lt;math>r + s = (r, 0, ... , 0) + (s, 0, ... , 0)&lt;/math>
+:: &lt;math>r \cdot s = (r, 0, ... , 0) \cdot (s, 0, ... ,0)&lt;/math>
+: ... für alle komplexen Zahlen &lt;math>c&lt;/math> und &lt;math>d&lt;/math> gilt:
+:: &lt;math>c + d = (c, 0, 0, 0) + (d, 0, 0, 0)&lt;/math>
+:: &lt;math>c \cdot d = (c, 0, 0, 0) \cdot (d, 0, 0, 0)&lt;/math>
+: ... für alle Quaternionen &lt;math>h&lt;/math> und &lt;math>i&lt;/math> gilt:
+:: &lt;math>h + i = (h, 0) + (i, 0)&lt;/math>
+:: &lt;math>h \cdot i = (h, 0) \cdot (i, 0)&lt;/math>
+
+== Mögliche Anwendungen ==
+
+Oktaven könnten zur Beschreibung einer achtdimensionalen [[Supersymmetrie]] dienen. Damit ergäben sich auch mögliche Anwendungen in Zusammenhang mit der [[Stringtheorie]] und der [[M-Theorie]], da beide auf der Supersymmetrie aufbauen.&lt;ref name="SdW20111005401">John C. Baez, John Huerta: Exotische Zahlen und die Stringtheorie. In: [[Spektrum der Wissenschaft]], Oktober 2011.  [[Spektrum der Wissenschaft Verlagsgesellschaft|Spektrum der Wissenschaft Verlagsgesellschaft mbH]], Heidelberg. {{ISSN|0170-2971}}&lt;/ref>
+
+== Literatur ==
+* Ebbinghaus et. al.: ''Zahlen.'' Springer, Berlin 1992, ISBN 3-54055-654-0.
+* [[Bartel Leendert van der Waerden]]: ''A history of Algebra.'' Springer, Heidelberg.
+* [[Ruth Moufang]]: ''Zur Struktur von Alternativkörpern.'' In: ''Math. Ann.'' 110, 1934, S. 416.
+* [[John Baez]]: ''The Octonions.'' In: ''Bull. Amer. Math. Soc.'' 39, 2002, S. 145–205 ([http://math.ucr.edu/home/baez/octonions/ online)].
+* [[John Horton Conway]], Derek A. Smith: ''On Octonions and Quaternions.'' , Natick, MA 2003, ISBN 1-56881-134-9.
+
+== Einzelnachweise ==
+
+&lt;references />
+
+== Verwandte Themen ==
+
+'''[[Hyperkomplexe Zahl]]en:'''
+* [[Biquaternion]]
+* [[Quaternion]]
+* [[Sedenion]]
+
+[[Kategorie:Zahl]]
+[[Kategorie:Verallgemeinerter Körper]]
+
+[[ar:أوكتونيون]]
+[[ca:Octonió]]
+[[cs:Oktonion]]
+[[en:Octonion]]
+[[es:Octonión]]
+[[eu:Oktonioi]]
+[[fa:اکتنیون]]
+[[fr:Octonion]]
+[[he:�?וקטוניוני�?]]
+[[it:Ottetto (matematica)]]
+[[ja:八元数]]
+[[ko:팔�?수]]
+[[la:Numerus octonus]]
+[[nl:Octonion]]
+[[pl:Oktawy Cayleya]]
+[[pt:Octoniões]]
+[[ru:�?лгебра К�?ли]]
+[[sl:Oktonion]]
+[[sv:Oktonion]]
+[[uk:Октоніони]]
+[[zh:八元数]]
+[[zh-classical:八元數]]
+[[zh-yue:八元數]]

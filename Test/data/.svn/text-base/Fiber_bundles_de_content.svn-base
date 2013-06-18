@@ -1,0 +1,87 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Dieser Artikel|beschäftigt sich mit dem Faserbündel in der Mathematik. Für die Bedeutung in der Medizin siehe [[Muskel #Aufbau und Funktion der quergestreiften Muskulatur]].}}
+
+Ein '''Faserbündel''' ist in der [[Mathematik]], speziell in der [[Topologie (Mathematik)|Topologie]], ein Raum, der lokal wie ein Produkt aussieht: Faserbündel kann man als [[stetig|stetige]] [[surjektiv|surjektive]] [[Abbildung (Mathematik)|Abbildungen]] &lt;math>\pi\colon E\to B&lt;/math> mit einer lokalen Trivialitätsbedingung auffassen: Für jeden Punkt von ''B'' gibt es eine Umgebung ''U'', für die die Einschränkung &lt;math>\pi|_{\pi^{-1}(U)}&lt;/math> Projektion eines [[Produkt (Mathematik)|Produkt]]s &lt;math>U\times F&lt;/math> mit einer [[Faser (Mathematik)|Faser]] ''F'' ist.
+
+Spezielle Faserbündel sind z.&amp;nbsp;B. [[Vektorbündel]], welche eine fundamentale Rolle bei der mathematischen Formulierung der physikalischen [[Eichtheorie]] spielen.
+
+== Definition ==
+
+Ein Faserbündel wird durch die Daten (''E'', ''B'', π, ''F'') spezifiziert, wobei ''E'', ''B'' und ''F'' [[topologischer Raum|topologische Räume]] sind und die [[Projektion (Mathematik)|Projektion]] π : ''E'' → ''B'' eine stetige surjektive Abbildung ist, welche lokal trivialisierbar ist, d.&amp;nbsp;h. es existiert für jeden Punkt ''x'' in ''B'' eine offene Umgebung ''U'', so dass π&lt;sup>−1&lt;/sup>(''U'') [[Homöomorphismus|homöomorph]] zum Raum ''U'' × ''F'', versehen mit der [[Produkttopologie]], ist, also das folgende Diagramm kommutiert:
+
+&lt;div style="text-align: center;">
+[[Datei:FiberBundle-01.png|Lokale Trivialität]]
+&lt;/div>
+
+wobei proj&lt;sub>1&lt;/sub>: ''U'' × ''F'' → ''U'' die natürliche Projektion auf den ersten Faktor und Φ: π&lt;sup>−1&lt;/sup>(''U'') → ''U'' × ''F'' ein Homöomorphismus ist. Die Menge aller {(''U''&lt;sub>''i''&lt;/sub>, Φ&lt;sub>''i''&lt;/sub>)} nennt man lokale Trivialisierung des Bündels.
+
+Für jedes ''x'' aus ''B'' ist das [[Urbild (Mathematik)|Urbild]] π&lt;sup>−1&lt;/sup>(''x'') homöomorph zu ''F'' und heißt Faser über ''x''. Ein Faserbündel (''E'', ''B'', π, ''F'') wird oft durch die [[kurze exakte Sequenz]]
+&lt;math>F \longrightarrow E \ \xrightarrow{\, \ \pi \ } \ B&lt;/math>
+dargestellt. Man beachte, dass jedes Faserbündel π: ''E'' → ''B'' eine offene [[Abbildung (Mathematik)|Abbildung]] ist, da Projektionen von Produkten offene Abbildungen sind. Daher trägt ''B'' die durch die Abbildung π induzierte [[Quotiententopologie]].
+
+Ein Faserbündel ist ein Spezialfall einer [[Faserung]], das heißt, es besitzt die sogenannte ''Homotopie-Hochhebungs-Eigenschaft''.
+
+== Beispiele ==
+
+[[Datei:MobiusStrip-01.png|thumb|left|Das [[Möbiusband]] ist ein nichttriviales Bündel über S&lt;sup>1&lt;/sup> mit Faser [0,1].]]
+[[Datei:KleinBottle-01.png|thumb|right|Die [[Kleinsche Flasche]] ist ein nichttriviales Bündel über S&lt;sup>1&lt;/sup> mit Faser S&lt;sup>1&lt;/sup>.]]
+Sei ''E'' = ''B'' × ''F'' und π: ''E'' → ''B'' die Projektion auf den ersten Faktor. Dann ist ''E'' ein Faserbündel über ''B'' mit Faser ''F''. In diesem Fall ist ''E'' nicht nur lokal ein Produktraum, sondern sogar ''global''. Solch ein Faserbündel bezeichnet man als ''triviales Bündel''.
+
+Das einfachste Beispiel eines nichttrivialen Bündels ist das [[Möbiusband]]. Die Basis ist hier &lt;math>S^1&lt;/math> (die [[Kreislinie]]), die Faser ein offenes Intervall. Das entsprechende triviale Bündel wäre ein [[Zylinder (Geometrie)|Zylinder]], von dem sich das Möbiusband durch ein ''Verdrehen'' der Faser unterscheidet. Diese Verdrehung ist nur global sichtbar, lokal sind Zylinder und Möbiusband identisch.
+
+Ein ähnliches nichttriviales Bündel ist die [[Kleinsche Flasche]], welche eine &lt;math>S^1&lt;/math>-Faserung über &lt;math>S^1&lt;/math> darstellt. Das entsprechende triviale Bündel wäre ein [[Torus]].
+
+Jede [[Überlagerung (Topologie)|Überlagerung]] ist ein Faserbündel mit einer [[Diskrete Topologie|diskreten]] Faser.
+
+Eine spezielle Klasse von Faserbündeln, die [[Vektorbündel]], sind dadurch ausgezeichnet, dass ihre Fasern [[Vektorraum|Vektorräume]] sind. Wichtige Beispiele sind hier die [[Tangentialbündel|Tangential-]] und [[Kotangentialbündel]] einer [[Mannigfaltigkeit]].
+
+Eine weitere spezielle Klasse von Faserbündeln sind die [[Prinzipalbündel]] oder Hauptfaserbündel.
+
+== Schnitte ==
+
+→ ''Hauptartikel: [[Schnitt (Faserbündel)]]''
+
+Unter einem ''globalen Schnitt'' versteht man eine stetige Abbildung &lt;math>f\colon B \to E&lt;/math>, so dass &lt;math>\pi(f(x))=x&lt;/math> für alle ''x'' aus ''B''. Die Theorie der [[Charakteristische Klasse|charakteristischen Klassen]] in der [[Algebraische Topologie|Algebraischen Topologie]] beschäftigt sich mit der Existenz von globalen Schnitten.
+
+Oft kann man Schnitte nur lokal definieren. Ein lokaler Schnitt ist eine stetige Abbildung &lt;math>f\colon U \to E&lt;/math>, wobei ''U'' eine offene Menge in ''B'' ist und &lt;math>\pi (f(x)) = x&lt;/math> für alle ''x'' aus ''U''. Für eine lokale Trivialisierung (''U'', φ) ist dies immer möglich. Diese Schnitte sind äquivalent mit stetigen Abbildungen &lt;math>U \to F&lt;/math>, welche eine [[Garbe (Mathematik)|Garbe]] bilden.
+
+== Strukturgruppen ==
+
+Faserbündel werden bis auf topologische Äquivalenz durch „Atlanten“ charakterisiert, die angeben, wie ihre lokalen Trivialisierungen „zusammengeklebt“ sind: Sei ''G'' eine [[topologische Gruppe]], die frei auf der Faser ''F'' von links [[Gruppenoperation|wirkt]].
+Ein ''G''-[[Atlas (Mathematik)|Atlas]] des Bündels (''E'', ''B'', π, ''F'') besteht aus lokalen Trivialisierungen, so dass für je zwei überlappende Karten (''U''&lt;sub>''i''&lt;/sub>, φ&lt;sub>''i''&lt;/sub>) und (''U''&lt;sub>''j''&lt;/sub>, φ&lt;sub>''j''&lt;/sub>) der Endomorphismus
+
+:&lt;math>\phi_i\phi_j^{-1} \colon (U_i \cap U_j) \times F \to (U_i \cap U_j) \times F&lt;/math>
+
+durch
+
+:&lt;math>\phi_i\phi_j^{-1}(x, \xi) = (x, t_{ij}(x)\xi)&lt;/math>
+
+gegeben ist, wobei &lt;math>t_{ij} \colon U_i \cap U_j \to G&lt;/math> eine stetige Abbildung ist. Zwei ''G''-Atlanten sind äquivalent, falls ihre Vereinigung ebenfalls ein ''G''-Atlas ist. Ein ''G''-Bündel ist ein Faserbündel zusammen mit einer Äquivalenzklasse von ''G''-Atlanten. Die Gruppe ''G'' bezeichnet man als die ''Strukturgruppe'' des Bündels. Jedes Faserbündel kann durch einen ''G''-Atlas beschrieben werden, wenn wir die [[Automorphismengruppe]] der Faser als Strukturgruppe wählen; wählen wir ''G'' kleiner, so gewinnt das Faserbündel zusätzliche Struktur.
+
+Weil die ''Kartenwechsel'' ''t''&lt;sub>''ij''&lt;/sub> den Übergang zwischen lokalen Trivialisierungen beschreiben, genügen sie der ''Cozykel-Bedingung'' &lt;math>t_{ik}(x) = t_{ij}(x)t_{jk}(x)&lt;/math> (siehe auch [[Čech-Cohomologie]]); insbesondere folgen
+&lt;math>t_{ii}(x) = \operatorname{id}_{U_i}&lt;/math> und &lt;math>t_{ij}(x) = t_{ji}(x)^{-1}&lt;/math>.
+
+Ein [[Prinzipalbündel]] ist ein ''G''-Bündel, bei dem die Faser mit ''G'' identifiziert wird und auf dem eine Fasern erhaltende Rechts-''G''-Wirkung auf dem Totalraum erklärt ist.
+
+== Literatur == 
+
+* [[Norman Steenrod]]: ''The Topology of Fibre Bundles.'' Princeton University Press, Princeton NJ 1951 (''Princeton Mathematical Series'' 14, {{ISSN|0079-5194}}), (7. printing, and 1. paperback printing. ebenda 1999, ISBN 0-691-00548-6 (''Princeton Landmarks in Mathematics and Physics.'' = ''Princeton Paperbacks'').
+* David Bleecker: ''Gauge Theory and Variational Principles.'' Addison-Wesley publishing, Reading MA 1981, ISBN 0-201-10096-7, Kapitel 1.
+* Martin Schottenloher: ''Geometrie und Symmetrie in der Physik. Leitmotiv der Mathematischen Physik.'' Vieweg, Braunschweig u. a. 1995, ISBN 3-528-06565-6 (''Vieweg-Lehrbuch Mathematische Physik'').
+
+== Weblinks ==
+
+* [http://planetmath.org/encyclopedia/FiberBundle.html PlanetMath: Fiber Bundle]
+* [http://mathworld.wolfram.com/FiberBundle.html MathWorld: Fiber Bundle]
+
+{{SORTIERUNG:Faserbundel}}
+
+[[Kategorie:Algebraische Topologie]]
+[[Kategorie:Differentialtopologie]]
+
+[[en:Fiber bundle]]
+[[es:Fibrado]]
+[[it:Fibrato]]
+[[ja:ファイ�?ー�?�]]
+[[ru:Локально тривиальное ра�?�?лоение]]
+[[zh:纤维丛]]
+[[zh-yue:纖維�?�]]

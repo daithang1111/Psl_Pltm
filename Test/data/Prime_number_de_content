@@ -1,0 +1,591 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">[[Datei:Prime rectangles.svg|miniatur|Die Zahl 12 ist keine Primzahl.]]
+
+Eine '''Primzahl''' ist eine [[natürliche Zahl]], die genau zwei natürliche Zahlen als [[Teilermenge|Teiler]] hat.&lt;ref>Armin Leutbecher: ''Zahlentheorie: Eine Einführung in die Algebra.'' Springer, 1996, ISBN 3-540-58791-8, S. 18, {{Google Buch|BuchID=DlgTIfMLdqMC|Seite=18|Hervorhebung=Definition Primzahl}}.&lt;/ref> Eine Primzahl ist also eine natürliche Zahl größer als eins, die ausschließlich durch sich selbst und durch eins ganzzahlig [[Teilbarkeit|teilbar]] ist. Die kleinsten Primzahlen sind 
+:2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97 … ({{OEIS|A000040}})
+
+Eine natürliche Zahl größer als 1 heißt ''prim'', wenn sie eine Primzahl ist, andernfalls heißt sie ''[[Zusammengesetzte Zahl|zusammengesetzt]]''. Die Zahlen 0 und 1 sind weder prim noch zusammengesetzt.
+
+Das Wort „Primzahl“ kommt aus dem Lateinischen (''numerus primus'') und bedeutet „die erste Zahl“. – Die Bedeutung der Primzahlen für viele Bereiche der [[Mathematik]] beruht auf drei Folgerungen aus dieser Definition:
+
+* ''Existenz und Eindeutigkeit der [[Primfaktorzerlegung]]:'' Jede natürliche Zahl lässt sich als [[Produkt (Mathematik)|Produkt]] von Primzahlen schreiben. Diese Produktdarstellung ist bis auf die Reihenfolge der Faktoren eindeutig. – Zum Beweis dient das
+* ''[[Lemma von Euklid]]:'' Ist ein Produkt zweier natürlicher Zahlen durch eine Primzahl teilbar, so ist bereits einer der Faktoren durch sie teilbar.
+* Primzahlen lassen sich nicht als Produkt zweier natürlicher Zahlen, die beide größer als 1 sind, darstellen. Diese Eigenschaft wird für [[#Verallgemeinerung|Verallgemeinerung]]en genutzt. 
+
+Bereits die [[Antike|antiken]] [[Antikes Griechenland|Griechen]] interessierten sich für die Primzahlen und entdeckten einige ihrer Eigenschaften. Obwohl sie über die Jahrhunderte stets einen großen Reiz auf die Menschen ausübten, sind bis heute viele die Primzahlen betreffende Fragen [[Ungelöste Probleme der Mathematik|ungeklärt]], darunter solche, die mehr als hundert Jahre alt und leicht darzustellen sind. Dazu gehören die [[Goldbachsche Vermutung]], wonach jede gerade Zahl &amp;gt;2 als Summe zweier Primzahlen darstellbar ist, und die Vermutung, dass es unendlich viele [[Primzahlzwilling]]e gibt (das sind Paare von Primzahlen, deren Differenz 2 ist).
+
+Über 2000 Jahre lang konnte man keinen praktischen Nutzen aus dem Wissen über die Primzahlen ziehen. Dies änderte sich erst mit dem Aufkommen elektronischer Rechenmaschinen, bei denen die Primzahlen beispielsweise in der [[Kryptographie]] eine zentrale Rolle spielen.
+
+== Primfaktorzerlegung ==
+
+→ ''Hauptartikel: [[Primfaktorzerlegung]]''
+
+Es gilt der [[Fundamentalsatz der Arithmetik]]: Jede [[Positive Zahl|positive]] [[ganze Zahl]] lässt sich als [[Multiplikation|Produkt]] von Primzahlen darstellen, und diese Darstellung ist bis auf die Reihenfolge der Primzahlen eindeutig. Diese Primzahlen nennt man die ''Primfaktoren'' der Zahl. Man kennt bisher keine Methode, um die Primfaktorzerlegung einer beliebigen gegebenen Zahl effizient zu bestimmen, d.&amp;nbsp;h. in einer Zeit, die [[Polynomialzeit|polynomiell]] mit der Länge der Zahl wächst. Die ''Faktorisierungsannahme'' besagt, dass es eine solche Methode auch nicht gibt. Man versucht, die Zeit mit geeigneten [[Faktorisierungsverfahren]] zu minimieren.
+
+Aufgrund dieses Satzes, also dass sich jede natürliche Zahl größer 0 durch Multiplikation von Primzahlen eindeutig darstellen lässt, nehmen die Primzahlen eine besondere atomare Stellung in der Mathematik ein. [[Alexander K. Dewdney]] bezeichnete diese als den [[Chemisches Element|Elementen]] der [[Chemie]] weitgehend ähnlich.
+
+== Eigenschaften von Primzahlen ==
+Mit Ausnahme der Zahl 2 sind alle Primzahlen &lt;math>p&lt;/math> ungerade, denn alle größeren geraden Zahlen lassen sich außer durch sich selbst und 1 auch noch (mindestens) durch 2 teilen. Damit hat jede Primzahl außer 2 die Form &lt;math>2k+1&lt;/math> mit einer natürlichen Zahl &lt;math>k&lt;/math>.
+
+Jede Primzahl &lt;math>p > 3&lt;/math> lässt sich einer der beiden Klassen „Primzahl der Form &lt;math>4k+1&lt;/math>“ oder „Primzahl der Form &lt;math>4k+3&lt;/math>“ zuordnen, wobei &lt;math>k&lt;/math> eine natürliche Zahl ist. Darüber hinaus hat jede Primzahl &lt;math>p > 3&lt;/math> die Form &lt;math>p = 6k+1&lt;/math> oder &lt;math>p = 6k-1&lt;/math>, wobei &lt;math>k&lt;/math> eine natürliche Zahl ist. Nach dem [[Dirichletscher Primzahlsatz|dirichletschen Primzahlsatz]] gibt es in jeder dieser vier Klassen unendlich viele Primzahlen.
+
+Jede natürliche Zahl der Form &lt;math>4m+3&lt;/math> mit einer nichtnegativen ganzen Zahl &lt;math>m&lt;/math> enthält mindestens einen Primfaktor der Form &lt;math>4k+3&lt;/math>. Eine entsprechende Aussage über Zahlen der Form &lt;math>4m+1&lt;/math> oder Primfaktoren der Form &lt;math>4k+1&lt;/math> ist nicht möglich.
+
+Eine Primzahl &lt;math>p>2&lt;/math> lässt sich genau dann in der Form &lt;math>a^2+b^2&lt;/math> mit ganzen Zahlen &lt;math>a,b&lt;/math> schreiben, wenn &lt;math>p&lt;/math> die Form &lt;math>4k+1&lt;/math> hat. In diesem Fall ist die Darstellung im Wesentlichen eindeutig, d.h. bis auf Reihenfolge und [[Vorzeichen (Zahl)|Vorzeichen]] von &lt;math>a,b&lt;/math>. Diese Darstellung entspricht der Primfaktorzerlegung
+
+: &lt;math>p=(a+b\mathrm i)(a-b\mathrm i)&lt;/math>
+
+im [[Ringtheorie|Ring]] der ganzen [[Gaußsche Zahl|gaußschen Zahlen]].
+
+Die Zahl −1 ist ein [[quadratischer Rest]] modulo jeder Primzahl der Form &lt;math>4k+1&lt;/math> und quadratischer Nichtrest modulo jeder Primzahl der Form &lt;math>4k+3&lt;/math>.
+
+=== Der kleine Satz von Fermat ===
+
+Es sei &lt;math>p&lt;/math> eine Primzahl. Für jede ganze Zahl &lt;math>a&lt;/math>, die nicht durch &lt;math>p&lt;/math> teilbar ist, gilt (für die Notation siehe [[Kongruenz (Zahlentheorie)|Kongruenz]]):
+
+: &lt;math>a^{p-1} \equiv 1 \mod p.&lt;/math>
+
+Für nicht durch &lt;math>p&lt;/math> teilbare Zahlen &lt;math>a&lt;/math> ist die folgende Formulierung äquivalent:
+
+: &lt;math>a^p\equiv a\mod p.&lt;/math>
+
+Es gibt Zahlen, die keine Primzahlen sind, sich aber dennoch zu einer Basis &lt;math>a&lt;/math> wie Primzahlen verhalten und somit den [[Kleiner fermatscher Satz|kleinen Satz von Fermat]] erfüllen. Solche zusammengesetzten Zahlen nennt man [[fermatsche Pseudoprimzahl]]en zur Basis &lt;math>a&lt;/math>. Eine fermatsche Pseudoprimzahl ''n'', die pseudoprim bezüglich ''aller'' zu ihr teilerfremden Basen &lt;math>a&lt;/math> ist, nennt man [[Carmichael-Zahl]].
+
+In diesem Zusammenhang zeigt sich die Problematik fermatscher Pseudoprimzahlen: sie werden von einem [[Primzahltest]], der den kleinen Satz von Fermat nutzt ([[Fermatscher Primzahltest]]), fälschlicherweise für Primzahlen gehalten. Wenn allerdings ein Verschlüsselungsverfahren wie [[RSA-Kryptosystem|RSA]] eine zusammengesetzte Zahl statt einer Primzahl verwendet, ist die Verschlüsselung nicht mehr sicher. Deshalb müssen bei solchen Verfahren bessere Primzahltests verwendet werden.
+
+=== Euler und das Legendre-Symbol ===
+
+Eine einfache Folge aus dem kleinen Satz von Fermat ist die folgende Aussage: Für jede ungerade Primzahl &lt;math>p&lt;/math> und jede ganze Zahl &lt;math>a&lt;/math>, die nicht durch &lt;math>p&lt;/math> teilbar ist, gilt entweder
+
+: &lt;math>a^{\frac{p-1}{2}} \equiv 1 \mod p&lt;/math>
+
+oder
+
+: &lt;math>a^{\frac{p-1}{2}} \equiv -1 \mod p.&lt;/math>
+
+Man kann zeigen, dass der erste Fall genau dann eintritt, wenn es eine Quadratzahl &lt;math>m^2&lt;/math> gibt, die kongruent zu &lt;math>a&lt;/math> modulo&amp;nbsp;&lt;math>p&lt;/math> ist, ''siehe'' [[Legendre-Symbol]].
+
+=== Binomialkoeffizient ===
+
+Für Primzahlen &lt;math>p&lt;/math> und &lt;math>1\leq k\leq p-1&lt;/math> gilt
+
+: &lt;math>p\,\Big|{p\choose k};&lt;/math>
+
+zusammen mit dem [[Binomischer Satz|binomischen Satz]] folgt daraus
+
+: &lt;math>(a+b)^p\equiv a^p+b^p\mod p.&lt;/math>
+
+Für ganze Zahlen &lt;math>a,b&lt;/math> folgt diese Aussage auch direkt aus dem kleinen fermatschen Satz, aber sie ist beispielsweise auch für Polynome mit ganzzahligen Koeffizienten anwendbar; im allgemeinen Kontext entspricht sie der Tatsache, dass die Abbildung &lt;math>x\mapsto x^p&lt;/math> in [[Ringtheorie|Ringen]] der [[Charakteristik (Mathematik)|Charakteristik]]&amp;nbsp;&lt;math>p&lt;/math> ein Homomorphismus ist, der so genannte [[Frobenius-Homomorphismus]].
+
+Aus dem [[Satz von Wilson]] (''p'' ist genau dann eine Primzahl, wenn &lt;math>(p-1)! \equiv -1 \pmod p&lt;/math> ist) folgt, dass für jede Primzahl ''p'' und jede natürliche Zahl ''n'' die Kongruenz
+
+: &lt;math>{{np-1}\choose{p-1}} \equiv 1 \pmod{p}&lt;/math>
+
+erfüllt ist.
+
+[[Charles Babbage]] bewies 1819, dass für jede Primzahl ''p'' > 2 diese Kongruenz gilt:
+
+: &lt;math>{{2p-1}\choose{p-1}} \equiv 1 \pmod{p^2}&lt;/math>
+
+Der Mathematiker [[Joseph Wolstenholme]] (1829–1891) bewies dann 1862, dass für jede Primzahl ''p'' > 3 die folgende Kongruenz gilt:
+
+: &lt;math>{{2p-1}\choose{p-1}} \equiv 1 \pmod{p^3}&lt;/math>
+
+=== Giuga ===
+
+Aus dem kleinen Satz von Fermat folgt, dass für eine Primzahl ''p'' gilt:
+
+:&lt;math> 1^{p-1} + 2^{p-1} + \dotsb + (p-1)^{p-1} \equiv -1 \pmod{p}&lt;/math>
+ 
+Beispiel &lt;math>p = 5&lt;/math>:
+
+: &lt;math>1^4 + 2^4 + 3^4 + 4^4 = 1 + 16 + 81 + 256 = 354 = 71\cdot 5 - 1\equiv -1 \pmod{5}&lt;/math>
+
+[[Giuseppe Giuga]] vermutete, dass auch die umgekehrte Schlussrichtung gilt, dass also eine Zahl mit dieser Eigenschaft stets prim ist. Es ist nicht geklärt, ob diese Vermutung richtig ist. Bekannt ist aber, dass ein Gegenbeispiel mehr als 10.000 Dezimalstellen haben müsste. Im Zusammenhang mit [[Giugas Vermutung]] werden die [[Giuga-Zahl]]en untersucht.
+
+=== Lineare Rekursionen ===
+
+Den kleinen fermatschen Satz kann man auch in der Form lesen: In der Folge &lt;math>a^n-a&lt;/math> ist das &lt;math>p&lt;/math>-te Folgenglied für eine Primzahl &lt;math>p&lt;/math> stets durch &lt;math>p&lt;/math> teilbar. Ähnliche Eigenschaften besitzen auch andere Folgen von exponentiellem Charakter, wie die [[Lucas-Folge]] (&lt;math>p\mid L_p-1&lt;/math>) und die [[Perrin-Folge]] (&lt;math>p\mid P_p&lt;/math>). Für andere lineare Rekursionen gelten analoge, aber kompliziertere Aussagen, beispielsweise für die [[Fibonacci-Folge]] &lt;math>(f_n)_{n=0,1,2,\ldots}=0,1,1,2,3,5,\ldots&lt;/math>: Ist &lt;math>p&lt;/math> eine Primzahl, so ist &lt;math>f_p-\Big(\frac p5\Big)&lt;/math> durch &lt;math>p&lt;/math> teilbar; dabei ist
+
+: &lt;math>\Big(\frac p5\Big)=\begin{cases}1&amp;p\equiv 1,4\mod 5\\-1&amp;p\equiv2,3\mod 5\\0&amp;p=5\end{cases}&lt;/math>
+
+das [[Legendre-Symbol]].
+
+=== Divergenz der Summe der Kehrwerte ===
+Die [[Reihe (Mathematik)|Reihe]] der Kehrwerte der Primzahlen ist divergent. Somit gilt:
+
+:&lt;math> \sum_{i=1}^\infty \frac{1}{p_i} = \frac{1}{2} + \frac{1}{3} + \frac{1}{5} + \frac{1}{7} + \frac{1}{11} + \cdots = \infty. &lt;/math>
+
+Das ist gleichbedeutend mit der Aussage, dass die [[Folge (Mathematik)|Folge]] &lt;math>\textstyle \left( a_n=\sum_{i=1}^{n} \frac{1}{p_i} \right)&lt;/math> keinen endlichen Grenzwert besitzt, was wiederum bedeutet, dass sich für ein genügend groß gewähltes ''n'' jede erdenkliche reelle Zahl übertreffen lässt. Dies ist zunächst einmal verblüffend, da die [[Primzahllücke]]n im Schnitt immer weiter zunehmen. Der [[Satz von Mertens (Zahlentheorie)|Satz von Mertens]] trifft eine Aussage über das genaue Wachstumsverhalten dieser divergenten Reihe.
+
+=== Weiteres ===
+
+Zwei natürliche Zahlen, deren Summe eine Primzahl ergibt, sind immer [[teilerfremd]]. Umgekehrt zeigt jedoch das einfache Gegenbeispiel 3 + 5 = 8, dass die Summe zweier teilerfremder Zahlen nicht zwingend eine Primzahl ergibt.
+
+== Primzahltests ==
+
+→ ''Hauptartikel:'' [[Primzahltest]]
+
+Ob eine Zahl eine Primzahl ist, kann man mit einem Primzahltest entscheiden. Es gibt mehrere solcher Verfahren, deren Grundlagen meist besondere Eigenschaften von Primzahlen sind. In der Praxis wird der [[Miller-Rabin-Test]] am häufigsten verwendet, der eine extrem kurze Laufzeit hat, allerdings mit kleiner Wahrscheinlichkeit falsch-positive Ergebnisse liefert. Mit dem [[AKS-Primzahltest]] ist es möglich, Zahlen in polynomialer Laufzeit zu testen. Allerdings ist er in der Praxis deutlich langsamer als der Miller-Rabin-Test.
+
+== Größte bekannte Primzahl ==
+
+Der Grieche [[Euklid]] hat im vierten Jahrhundert vor Christus logisch geschlussfolgert, dass es unendlich viele Primzahlen gibt; diese Aussage wird als ''[[Satz von Euklid]]'' bezeichnet. Euklid führte einen [[Widerspruchsbeweis]] für die Richtigkeit dieses Satzes (''Elemente'', Buch&amp;nbsp;IX, §&amp;nbsp;20): Ausgehend von der Annahme, dass es nur endlich viele Primzahlen gibt, lässt sich eine weitere Zahl konstruieren, die eine bisher nicht bekannte Primzahl als Teiler hat, oder selbst eine Primzahl ist, was einen Widerspruch zur Annahme darstellt. Somit kann eine endliche Menge niemals alle Primzahlen enthalten, also gibt es unendlich viele. Heute kennt man eine ganze Reihe von Beweisen für den Satz von Euklid.&lt;ref>Für Beweise des Satzes von Euklid siehe [[b:Beweisarchiv: Zahlentheorie: Elementare Zahlentheorie: Satz von Euklid|Beweisarchiv]].&lt;/ref>
+
+Der Satz von Euklid besagt, dass es keine größte Primzahl gibt. Es ist jedoch kein Verfahren bekannt, das effizient beliebig große Primzahlen generiert –&amp;nbsp;deshalb gab es stets eine jeweils ''größte bekannte'' Primzahl, seitdem sich die Menschen mit Primzahlen befassen. Derzeit ist es &lt;math>2^{57.885.161}-1,&lt;/math> eine Zahl mit 17.425.170 (dezimalen) Stellen, die am 25.&amp;nbsp;Januar 2013 mit einem CPU Cluster der mathematischen Fakultät an der [[University of Central Missouri]] berechnet wurde. Für den Entdecker Dr.&amp;nbsp;Curtis Cooper gab es für den Fund 3.000&amp;nbsp;US-Dollar.&lt;ref name="Gimps Projekt">[http://www.mersenne.org/various/57885161.htm GIMPS Project Discovers Largest Known Prime Number, 2&lt;sup>57665161&lt;/sup>-1] bei mersenne.org, abgerufen am 6.&amp;nbsp;Februar 2013.&lt;/ref>
+
+Die größte bekannte Primzahl war fast immer eine [[Mersenne-Primzahl]], also von der Form &lt;math>2^n-1,&lt;/math> da in diesem Spezialfall der [[Lucas-Lehmer-Test]] angewendet werden kann, ein im Vergleich zur allgemeinen Situation sehr schneller Primzahltest. Bei der Suche nach großen Primzahlen werden deshalb nur Zahlen dieses oder eines ähnlich geeigneten Typs auf Primalität untersucht.
+
+== Liste der Rekordprimzahlen nach Jahren ==
+
+{| class="wikitable"
+|- class="hintergrundfarbe6"
+! Zahl
+! Anzahl der&lt;br />[[Dezimalsystem|Dezimalziffern]]
+! Jahr 
+! Entdecker (genutzter Computer)
+|- align=right
+| 2&lt;sup>17&lt;/sup>−1
+| 6
+| 1588 
+| [[Pietro Cataldi|Cataldi]]
+|- align=right
+| 2&lt;sup>19&lt;/sup>−1
+| 6
+| 1588 
+| [[Pietro Cataldi|Cataldi]]
+|- align=right
+| 2&lt;sup>31&lt;/sup>−1
+| 10
+| 1772
+| [[Leonhard Euler|Euler]]
+|- align=right
+| (2&lt;sup>59&lt;/sup>−1)/179951
+| 13
+| 1867
+| Landry
+|- align=right
+| 2&lt;sup>127&lt;/sup>−1
+| 39
+| 1876
+| [[Édouard Lucas|Lucas]]
+|- align=right
+| (2&lt;sup>148&lt;/sup>+1)/17
+| 44	
+| 1951
+| Ferrier
+|- align=right
+| 180·(2&lt;sup>127&lt;/sup>−1)&lt;sup>2&lt;/sup>+1
+| 79
+| 1951
+| Miller &amp; Wheeler (EDSAC1)
+|- align=right
+| 2&lt;sup>521&lt;/sup>−1
+| 157
+| 1952
+| Robinson (SWAC)
+|- align=right
+| 2&lt;sup>607&lt;/sup>−1
+| 183
+| 1952
+| Robinson (SWAC)
+|- align=right
+| 2&lt;sup>1279&lt;/sup>−1
+| 386
+| 1952
+| Robinson (SWAC)
+|- align=right
+| 2&lt;sup>2203&lt;/sup>−1
+| 664
+| 1952
+| Robinson (SWAC)
+|- align=right
+| 2&lt;sup>2281&lt;/sup>−1
+| 687
+| 1952
+| Robinson (SWAC)
+|- align=right
+| 2&lt;sup>3217&lt;/sup>−1
+| 969
+| 1957
+| Riesel (BESK)
+|- align=right
+| 2&lt;sup>4423&lt;/sup>−1
+| 1332
+| 1961
+| Hurwitz (IBM7090)
+|- align=right
+| 2&lt;sup>9689&lt;/sup>−1
+| 2917
+| 1963
+| Gillies (ILLIAC 2)
+|- align=right
+| 2&lt;sup>9941&lt;/sup>−1
+| 2993
+| 1963
+| Gillies (ILLIAC 2)
+|- align=right
+| 2&lt;sup>11213&lt;/sup>−1
+| 3376
+| 1963
+| Gillies (ILLIAC 2)
+|- align=right
+| 2&lt;sup>19937&lt;/sup>−1
+| 6002
+| 1971
+| Tuckerman (IBM360/91)
+|- align=right
+| 2&lt;sup>21701&lt;/sup>−1
+| 6533
+| 1978
+| Noll &amp; Nickel (CDC Cyber 174)
+|- align=right
+| 2&lt;sup>23209&lt;/sup>−1
+| 6987
+| 1979
+| Noll (CDC Cyber 174)
+|- align=right
+| 2&lt;sup>44497&lt;/sup>−1
+| 13395
+| 1979
+| Nelson &amp; Slowinski (Cray 1)
+|- align=right
+| 2&lt;sup>86243&lt;/sup>−1
+| 25962
+| 1982
+| Slowinski (Cray 1)
+|- align=right
+| 2&lt;sup>132049&lt;/sup>−1
+| 39751
+| 1983
+| Slowinski (Cray X-MP)
+|- align=right
+| 2&lt;sup>216091&lt;/sup>−1
+| 65050
+| 1985
+| Slowinski (Cray X-MP/24)
+|- align=right
+| 2&lt;sup>216193&lt;/sup>−1
+| 65087
+| 1989
+| „Amdahler Sechs“ (Amdahl 1200)
+|- align=right
+| 2&lt;sup>756839&lt;/sup>−1
+| 227832
+| 1992
+| Slowinski &amp; Gage (Cray 2)
+|- align=right
+| 2&lt;sup>859433&lt;/sup>−1
+| 258716
+| 1994
+| Slowinski &amp; Gage (Cray C90)
+|- align=right
+| 2&lt;sup>1257787&lt;/sup>−1
+| 378632
+| 1996
+| Slowinski &amp; Gage (Cray T94)
+|- align=right
+| 2&lt;sup>1398269&lt;/sup>−1
+| 420921
+| 1996
+| Armengaud, Woltman (GIMPS, Pentium 90 MHz)
+|- align=right
+| 2&lt;sup>2976221&lt;/sup>−1
+| 895932
+| 1997
+| Spence, Woltman (GIMPS, Pentium 100 MHz)
+|- align=right
+| 2&lt;sup>3021377&lt;/sup>−1
+| 909526
+| 1998
+| Clarkson, Woltman, Kurowski (GIMPS, Pentium 200 MHz)
+|- align=right
+| 2&lt;sup>6972593&lt;/sup>−1
+| 2098960
+| 1999
+| Hajratwala, Woltman, Kurowski (GIMPS, Pentium 350 MHz)
+|- align=right
+| 2&lt;sup>13466917&lt;/sup>−1
+| 4053946
+| 2001
+| Cameron, Woltman, Kurowski (GIMPS, Athlon 800 MHz)
+|- align=right
+| 2&lt;sup>20996011&lt;/sup>−1
+| 6320430
+| 2003
+| Shafer (GIMPS, Pentium 4 2 GHz)
+|- align=right
+| 2&lt;sup>24036583&lt;/sup>−1
+| 7235733
+| 2004
+| Findley (GIMPS, Pentium 4 2,4 GHz)
+|- align=right
+| 2&lt;sup>25964951&lt;/sup>−1
+| 7816230
+| 2005
+| Nowak (GIMPS, Pentium 4 2,4 GHz)
+|- align=right
+| 2&lt;sup>30402457&lt;/sup>−1
+| 9152052
+| 2005
+| Cooper, Boone (GIMPS, Pentium 4 3 GHz)
+|- align=right
+| 2&lt;sup>32582657&lt;/sup>−1
+| 9808358
+| 2006
+| Cooper, Boone (GIMPS, Pentium 4 3 GHz)
+&lt;!-- Keine Rekordprimzahl, da gleichzeitig veröffentlicht
+|- align=right
+| 2&lt;sup>37156667&lt;/sup>−1
+| 11185272
+| 2008
+| Hans- Michael Elvenich, Woltman, Kurowski, et al. (GIMPS)
+-->
+|- align=right
+| 2&lt;sup>43112609&lt;/sup>−1
+| 12978189
+| 2008
+| Smith, Woltman, Kurowski, et al. (GIMPS, Core 2 Duo 2,4 GHz)
+|- align=right
+| 2&lt;sup>57885161&lt;/sup>−1
+| 17425170
+| 2013
+| Cooper, Woltman, Kurowski, et al. (GIMPS)
+|}
+
+== Verteilung und Wachstum ==
+
+=== Pi-Funktion und Primzahlsatz ===
+{{Hauptartikel|Primzahlsatz}}
+[[Datei:PrimeNumberTheorem.svg|miniatur|In der Grafik wird die &amp;pi;-Funktion in blau dargestellt. Die Funktion ''n'' / ln (''n'') in grün und das [[Integrallogarithmus]] Li(''n'') in rot sind Approximationen der &amp;pi;-Funktion.]]
+
+Zur Untersuchung der Verteilung der Primzahlen betrachtet man unter anderem die Funktion
+
+:&lt;math>\pi \colon \Bbb N\to \Bbb N,\;n\mapsto\pi(n)&lt;/math>,
+
+die die Anzahl der Primzahlen &lt;math>\leq n&lt;/math> angibt und auch ''Primzahlzählfunktion'' genannt wird.
+Zum Beispiel ist
+
+:&lt;math>\pi(10) = 4\ ;\ \pi(100) = 25\ ;\ \pi(1000) = 168 &lt;/math>.
+
+Diese Funktion und ihr Wachstumsverhalten ist ein beliebter Forschungsgegenstand in der Zahlentheorie. Mit der Zeit wurden einige Näherungsformeln entwickelt und verbessert.
+
+Der Primzahlsatz besagt, dass
+
+: &lt;math>\pi(x) \sim \frac{x}{\ln x}&lt;/math>
+
+gilt, das heißt dass der Quotient von linker und rechter Seite für &lt;math>x\to\infty&lt;/math> gegen 1 strebt:
+
+: &lt;math>\lim_{x \to \infty} \frac{\pi(x)} {\frac{x}{\ln x}} = 1&lt;/math> (siehe [[Asymptotische Analyse]])
+
+Der [[Dirichletscher Primzahlsatz|dirichletsche Primzahlsatz]] dagegen schränkt die Betrachtung auf [[Restklasse]]n ein: Es sei &lt;math>m&lt;/math> eine natürliche Zahl. Ist &lt;math>a&lt;/math> eine ganze Zahl, die zu &lt;math>m&lt;/math> nicht [[teilerfremd]] ist, so kann die [[arithmetische Folge]]
+
+: &lt;math>a,a+m,a+2m,a+3m,\ldots&lt;/math>
+
+höchstens eine Primzahl enthalten, weil alle Folgenglieder durch den größten gemeinsamen Teiler von &lt;math>a&lt;/math> und &lt;math>m&lt;/math> teilbar sind. Ist &lt;math>a&lt;/math> aber teilerfremd zu &lt;math>m&lt;/math>, so besagt der dirichletsche Primzahlsatz, dass die Folge unendlich viele Primzahlen enthält. Beispielsweise gibt es unendlich viele Primzahlen der Form &lt;math>4k+1&lt;/math> und unendlich viele der Form &lt;math>4k+3&lt;/math> (&lt;math>k&lt;/math> durchläuft jeweils die nichtnegativen natürlichen Zahlen).
+
+Diese Aussage kann noch in der folgenden Form präzisiert werden: Es gilt
+
+: &lt;math>\lim_{x\to\infty}\frac{\#\{p\ \mathrm{prim},\ p\leq x\ \mathrm{und}\ p\equiv a\pmod m\}}{\#\{p\ \mathrm{prim},\ p\leq x\}}=\frac1{\varphi(m)};&lt;/math>
+
+dabei ist &lt;math>\varphi(m)&lt;/math> die [[eulersche φ-Funktion]]. In diesem Sinne liegen also für ein festes &lt;math>m&lt;/math> in den Restklassen &lt;math>a+m\mathbb Z&lt;/math> mit &lt;math>\mathrm{ggT}(a,m)=1&lt;/math> jeweils „gleich viele“ Primzahlen.
+
+''Siehe auch:'' [[Ulam-Spirale]]
+
+=== Schranken ===
+
+Nach der (unbewiesenen) [[Legendresche Vermutung|Legendreschen Vermutung]] gibt es stets mindestens eine Primzahl zwischen &lt;math>n^2&lt;/math> und &lt;math>(n+1)^2&lt;/math>.
+
+Die (bewiesene) [[Bonsesche Ungleichung]] garantiert, dass das Quadrat einer Primzahl kleiner ist als das Produkt aller kleineren Primzahlen (ab der fünften Primzahl).
+
+Nach der (unbewiesenen) [[Andricasche Vermutung|Andricaschen Vermutung]] ist die Differenz der Wurzeln der &lt;math>n&lt;/math>-ten und der &lt;math>n+1&lt;/math>-ten Primzahl kleiner als 1.
+
+=== Primzahllücken ===
+→ ''Hauptartikel:'' [[Primzahllücke]]
+
+Die Differenz zwischen zwei benachbarten Primzahlen heißt Primzahllücke. Diese Differenz schwankt, und obwohl es unendlich viele Primzahlen gibt, lassen sich Primzahllücken beliebiger Mindestgröße finden.
+
+== Formeln zur Generierung von Primzahlen ==
+[[Datei:Sieve of Eratosthenes animation.gif|miniatur|Veranschaulich des Algorithmus Sieb des Eratosthenes.]]
+
+Einer der ältesten Algorithmen zur Bestimmung von Primzahlen ist das [[Sieb des Eratosthenes]], bei dem nacheinander aus einer Liste der natürlichen Zahlen >1 die Zahlen gestrichen werden, die Vielfache der jeweils kleinsten noch nicht gestrichenen Zahl sind. Dadurch bleiben die Primzahlen innerhalb der Ausgangsliste übrig.
+
+Man kennt keinen effizienten [[Primzahlgenerator]], also Formeln, die eine effiziente, direkte Berechnung der &lt;math>n&lt;/math>-ten Primzahl ermöglichen würden. Es gibt allerdings Formeln, bei denen eine gewisse Wahrscheinlichkeit besteht, dass die erzeugten Zahlen eine Primzahl sein könnten. Trotzdem müssen die erzeugten Zahlen auf ihre Eigenschaft als Primzahl getestet werden.
+
+Schon [[Leonhard Euler|Euler]] gab die Formeln &lt;math>n^2+n+17&lt;/math> und &lt;math>n^2-n+41&lt;/math> an, die für 0 &lt; n &lt; 16 bzw. 0 &lt; n &lt; 41 Primzahlen liefern. Auch für größere Werte von &lt;math>n&lt;/math> liefern die beiden Formeln viele Primzahlen, weil das Ergebnis nie durch Primzahlen p &lt; 17 bzw. p &lt; 41 ganzzahlig teilbar ist. Allgemein gibt es viele solche Formeln &lt;math>an^2+bn+c&lt;/math>, wodurch sich die auffällige [[Ulam-Spirale]] erklärt.
+
+Die beliebteste ist die der Mersenne-Zahl &lt;math>M_n = 2^n-1&lt;/math> bei der &lt;math>M_n&lt;/math> eine Primzahl ist. Durch die besonderen Eigenschaften der Teiler von Mersenne-Zahlen eignen sie sich für die Suche nach möglichst großen Primzahlen.
+
+[[Pierre de Fermat|Fermat]] vermutete, dass alle Zahlen der Form &lt;math>2^{2^n}+1&lt;/math> prim sind; man nennt sie [[Fermat-Zahl]]en. Tatsächlich ist aber für &lt;math>n>4&lt;/math> keine derartige Primzahl bekannt.
+
+Auch bekannt ist eine Anwendung des Satzes von Euklid, bei der zu dem [[Primorial]] eine 1 addiert wird:
+
+:&lt;math>p\# + 1 = p_1 \cdot p_2 \dotsm p_n + 1&lt;/math>
+
+Hierbei werden alle aufeinanderfolgenden Primzahlen von 2 bis &lt;math>p_n=p&lt;/math> miteinander multipliziert.
+
+&lt;math>p\# + 1&lt;/math> ist prim für ''p'' = 2, 3, 5, 7, 11, 31, 379, 1019, 1021, … 
+
+Weitere Formeln:
+
+* &lt;math>n! - 1 &lt;/math> ist prim für ''n'' = 3, 4, 6, 7, 12, 14, 30, 32, 33, 38, 94, 166, … ({{OEIS|A002982}})
+* &lt;math>n! + 1&lt;/math> ist prim für ''n'' = 1, 2, 3, 11, 27, 37, 41, 73, 77, 116, 154, … 
+* Primzahlen der Form &lt;math>\operatorname{kgV}(1,\dotsc,n)+1&lt;/math> sind: 2, 3, 7, 13, 61, 421, 2521, 232792561, …
+
+== Spezielle Primzahlen und Primzahlkonstellationen ==
+
+* [[Primzahlzwilling]]e
+* [[Primzahldrilling]]e
+* [[Primzahlvierling]]e
+* [[Primzahlsechsling]]e
+
+* [[Cullen-Zahl|Cullen- und Woodall-Zahlen]]
+* [[Cunningham-Kette]]n
+* [[Elitäre Primzahl]]en
+* [[Fastprimzahl]]en
+* [[Glückliche Zahl|glückliche Primzahlen]]
+* [[Gute Primzahl]]en
+* [[Mersenne-Primzahl]]en
+* [[Prothsche Primzahl]]en
+* [[Schwache Primzahl]]en
+* [[Sophie-Germain-Primzahl]]en
+* [[Streng nicht-palindromische Zahl]]en
+* [[Wall-Sun-Sun-Primzahl]]en
+
+Weitere spezielle Arten von Primzahlen finden sich in der [[:Kategorie:Primzahl]].
+
+== Verallgemeinerung ==
+
+In der [[Ringtheorie]] wird das Konzept der ''Primzahl'' auf die Elemente eines beliebigen kommutativen unitären [[Ringtheorie|Rings]] verallgemeinert. Die entsprechenden Begriffe sind ''[[Primelement]]'' und ''[[irreduzibles Element]]''.
+
+Die Primzahlen und deren Negative sind dann genau die Primelemente und auch genau die irreduziblen Elemente des Rings der [[Ganze Zahl|ganzen Zahlen]]. In [[Faktorieller Ring|faktoriellen Ringen]], das sind Ringe mit eindeutiger Primfaktorisierung, fallen die Begriffe ''Primelement'' und ''irreduzibles Element'' zusammen; im Allgemeinen ist die Menge der Primelemente jedoch nur eine [[Teilmenge]] der Menge der irreduziblen Elemente.
+
+Insbesondere im zahlentheoretisch bedeutsamen Fall der [[Dedekindring]]e übernehmen [[Primideal]]e die Rolle der Primzahlen.
+
+== Einzelnachweise ==
+&lt;references />
+
+== Literatur ==
+
+* Peter Bundschuh: ''Einführung in die Zahlentheorie''. 6. Auflage. Springer, Berlin 2008, ISBN 978-3-540-76490-8. 
+* Marcus du Sautoy: ''Die Musik der Primzahlen. Auf den Spuren des größten Rätsels der Mathematik''. Beck, München 2004, ISBN 3-406-52320-X.
+* [[Władysław Narkiewicz]]: ''The Development of Prime Number Theory. From Euclid to Hardy and Littlewood''. Springer, Berlin 2000, ISBN 3-540-66289-8.
+* [[Paulo Ribenboim]]: ''The New Book of Prime Number Records''. Springer, New York 1996, ISBN 0-387-94457-5.
+
+== Weblinks ==
+{{Wiktionary|Primzahl}}
+{{Wikibooks|Mathematik: Zahlentheorie: Fundamentalsatz der Arithmetik|Fundamentalsatz der Arithmetik}}
+{{Wikibooks|Primzahlen: Tabelle der Primzahlen (2 - 100.000)|Primzahlen von 2 bis 100.000}}
+{{Commonscat|Prime numbers}}
+* [http://www.utm.edu/research/primes/ The Prime Pages] (englisch)
+* [http://www.primzahlen.de/ Die Primzahlenseite] 
+
+{{Normdaten|TYP=s|GND=4047263-2}}
+
+[[Kategorie:Primzahl| ]]
+[[Kategorie:Wikipedia:Artikel-Feedback/Zusätzliche Artikel]]
+
+{{Link FA|it}}
+{{Link FA|lmo}}
+{{Link GA|es}}
+{{Link GA|ru}}
+
+[[af:Priemgetal]]
+[[als:Primzahl]]
+[[an:Numero primero]]
+[[ang:Frumtæl]]
+[[ar:عدد أولي]]
+[[arz:عدد اولى]]
+[[az:Sadə ədəd]]
+[[bat-smg:Pėrmėnis skaitlios]]
+[[be:Про�?ты лік]]
+[[be-x-old:Про�?ты лік]]
+[[bg:Про�?то чи�?ло]]
+[[bn:মৌলিক সংখ�?যা]]
+[[br:Niver kentael]]
+[[bs:Prost broj]]
+[[ca:Nombre primer]]
+[[cs:Prvo�?íslo]]
+[[cy:Rhif cysefin]]
+[[da:Primtal]]
+[[el:Π�?ώτος α�?ιθμός]]
+[[en:Prime number]]
+[[eo:Primo]]
+[[es:Número primo]]
+[[et:Algarv]]
+[[eu:Zenbaki lehen]]
+[[fa:عدد اول]]
+[[fi:Alkuluku]]
+[[fiu-vro:Algarv]]
+[[fr:Nombre premier]]
+[[ga:Uimhir phríomha]]
+[[gan:質數]]
+[[gl:Número primo]]
+[[haw:Helu kumu]]
+[[he:מספר ר�?שוני]]
+[[hi:अभाज�?य संख�?या]]
+[[hr:Prost broj]]
+[[hsb:Primowa li�?ba]]
+[[ht:Nonm premye]]
+[[hu:Prímszámok]]
+[[hy:Պարզ թիվ]]
+[[id:Bilangan prima]]
+[[is:Frumtala (stærðfræði)]]
+[[it:Numero primo]]
+[[ja:素数]]
+[[jbo:nalfendi kacna'u]]
+[[jv:Wilangan prima]]
+[[ka:მ�?რტივი რიცხვი]]
+[[kk:Жай �?ан]]
+[[km:ចំនួនបឋម]]
+[[kn:ಅವಿಭಾಜ�?ಯ ಸಂಖ�?ಯೆ]]
+[[ko:소수 (수론)]]
+[[ku:Hejmarên hîmî]]
+[[la:Numerus primus]]
+[[lb:Primzuel]]
+[[lmo:Nümar primm]]
+[[lt:Pirminis skai�?ius]]
+[[lv:Pirmskaitlis]]
+[[mk:Про�?т број]]
+[[ml:അഭാജ�?യസംഖ�?യ]]
+[[mn:Энгийн тоо]]
+[[mr:मूळ संख�?या]]
+[[ms:Nombor perdana]]
+[[nds:Primtall]]
+[[nl:Priemgetal]]
+[[nn:Primtal]]
+[[no:Primtall]]
+[[oc:Nombre primièr]]
+[[pl:Liczba pierwsza]]
+[[pms:Nùmer prim]]
+[[pnb:پرائم نمبر]]
+[[pt:Número primo]]
+[[ro:Număr prim]]
+[[ru:Про�?тое чи�?ло]]
+[[scn:Nùmmuru primu]]
+[[sh:Prost broj]]
+[[si:ප්�?රථමක සංඛ්�?ය�?]]
+[[simple:Prime number]]
+[[sk:Prvo�?íslo]]
+[[sl:Praštevilo]]
+[[sq:Numri i thjeshtë]]
+[[sr:Про�?т број]]
+[[sv:Primtal]]
+[[sw:Namba tasa]]
+[[szl:Pjyrszo nůmera]]
+[[ta:பகா எண�?]]
+[[th:จำนวนเฉพาะ]]
+[[tl:Pangunahing bilang]]
+[[tr:Asal sayı]]
+[[uk:Про�?те чи�?ло]]
+[[ur:اولی عدد]]
+[[uz:Tub son]]
+[[vi:Số nguyên tố]]
+[[vls:Priemgetal]]
+[[war:Panguna nga ihap]]
+[[xal:Экн тойг]]
+[[yi:פרימצ�?ל]]
+[[yo:N�?�?mbà àk�?�?k�?�?]]
+[[zh:素数]]
+[[zh-classical:質數]]
+[[zh-min-nan:Sò͘-sò͘]]
+[[zh-yue:質數]]

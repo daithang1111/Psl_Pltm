@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="client-nojs">
+<head>
+<title>„Schnelle Fourier-Transformation“ – Bearbeiten – Wikipedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=edit" />
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=edit" />
+<link rel="apple-touch-icon" href="//de.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)" />
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikipedia“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.CommonsDirekt%2CWikiMiniAtlas%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dewiki:resourceloader:filter:minify-css:7:202e0c15afe28e9879bea5c8d4c1f2ee */</style>
+
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Schnelle_Fourier-Transformation","wgTitle":"Schnelle Fourier-Transformation","wgCurRevisionId":111689528,"wgArticleId":8876,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"de","wgSeparatorTransformTable":[",	.",".	,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Schnelle_Fourier-Transformation","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"7db0be834daf13aa5294b0920925caa1","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgGuidedTourHelpGuiderUrl":"Help:Geführte Touren/Leiter","wgGuidedTourTestWikitextDescription":"Ein Leiter in deiner Wikitour kann Wikitext durch Verwendung von onShow und parseDescription beinhalten. Benutze es, um einen Wikilink zur \x3ca href=\"/w/index.php?title=Hilfe:Gef%C3%BChrte_Touren\x26amp;action=edit\x26amp;redlink=1\" class=\"new\" title=\"Hilfe:Geführte Touren (Seite nicht vorhanden)\"\x3eDokumentation\x3c/a\x3e oder einen externen Link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3ezu github\x3c/a\x3e zu erstellen.","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":111689528,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"variant":"de","language":"de","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"gadget-WikiMiniAtlas":1,"gadget-old-movepage":1,"gadget-CommonsDirekt":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: dewiki:resourceloader:filter:minify-js:7:63644c94a30babccab36c4bfde7bfa2c */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns ns-0 ns-subject page-Schnelle_Fourier-Transformation skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="de"><span dir="auto">„Schnelle Fourier-Transformation“ – Bearbeiten</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Wechseln zu:					<a href="#mw-head">Navigation</a>, 					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><table class='flaggedrevs_editnotice plainlinks'><tr><td><b>Deine Änderungen werden angezeigt, sobald sie gesichtet wurden. (<a href="/wiki/Wikipedia:Gesichtete_Versionen" title="Wikipedia:Gesichtete Versionen">Hilfe</a>)</b></td></tr></table><div id="editnotice-ns-0"></div>
+<div id="mw-anon-edit-warning">
+<p>Du bearbeitest diese Seite <a href="/wiki/Spezial:Anmelden" title="Spezial:Anmelden">unangemeldet</a>. Wenn du deine Änderung speicherst, wird deine aktuelle <a href="/wiki/IP-Adresse" title="IP-Adresse">IP-Adresse</a> in der <span class="plainlinks"><a class="external text" href="//de.wikipedia.org/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=history">Versionsgeschichte</a></span> aufgezeichnet und ist damit öffentlich einsehbar. Wenn du ein <a href="/wiki/Spezial:Benutzerkonto_anlegen" title="Spezial:Benutzerkonto anlegen">Benutzerkonto anlegst</a>, bleibt deine IP-Adresse verborgen.
+</p>
+<b>Speichere hier bitte keine Textversuche ab. Dafür haben wir unsere <a href="/wiki/Wikipedia:Spielwiese" title="Wikipedia:Spielwiese">Spielwiese</a>.</b></div>
+<div id="mw-edit-longpage-hint">
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Spamschutzprüfung.
+Hier <b>NICHTS</b> eintragen!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="111689528" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225072042" name="wpStarttime" />
+<input type='hidden' value="20121215113936" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">Eine '''schnelle Fourier-Transformation''' ({{EnS|fast Fourier transform}}, daher meist '''FFT''' abgekürzt) ist ein [[Algorithmus]] zur effizienten Berechnung der Werte einer [[Diskrete Fourier-Transformation|diskreten Fourier-Transformation]] (DFT). Bei solchen Algorithmen handelt es sich um [[Teile und herrsche (Informatik)|Teile-und-herrsche]]-Verfahren. Im Gegensatz zur direkten Berechnung verwendet eine schnelle Fourier-Transformation zuvor berechnete Zwischenergebnisse und spart arithmetische Rechenoperationen ein. Das bekannteste Verfahren wird [[James Cooley]] und [[John W. Tukey]] zugeschrieben, die es 1965 veröffentlichten. Genau genommen wurde eine Form des Algorithmus bereits 1805 von [[Carl Friedrich Gauß]] entworfen, der ihn zur Berechnung der Flugbahnen der [[Asteroid]]en [[(2) Pallas]] und [[(3) Juno]] verwendete. Zum ersten Male publiziert wurde eine Variante des Algorithmus von [[Carl Runge]] im Jahre 1903 und 1905. Darüber hinaus wurden eingeschränkte Formen des Algorithmus mehrfach vor Cooley und Tukey entwickelt, so z.&amp;nbsp;B. von [[Irving John Good]] (1960). Nach Cooley und Tukey hat es darüber hinaus zahlreiche Verbesserungsvorschläge und Variationen gegeben, so etwa von [[Georg Bruun]], [[C. M. Rader]] und [[Leo I. Bluestein]].
+
+Analog gibt es für die diskrete inverse Fourier-Transformation einen ''schnellen'' Algorithmus (inverse FFT – [[iFFT]]). Es kommen bei der iFFT identische Algorithmen mit anderen Koeffizienten in der Berechnung zur Anwendung.
+
+== Informelle Beschreibung des Algorithmus (Cooley und Tukey) ==
+Der Algorithmus von Cooley und Tukey ist ein klassisches [[Teile und herrsche (Informatik)|Teile-und-herrsche]]-Verfahren. Voraussetzung für seine Anwendung ist, dass die Anzahl der [[Stützstellendarstellung|Stützstellen]] bzw. Abtastpunkte eine Zweierpotenz ist. Da die Anzahl solcher Punkte im Rahmen von Messverfahren jedoch im Allgemeinen frei gewählt werden kann, handelt es sich dabei nicht um eine gravierende Einschränkung. 
+
+Die Idee hinter dem Algorithmus ist es nun, dass die Berechnung einer DFT der Größe ''2n'' nun zunächst in zwei Berechnungen der DFT der Größe ''n'' aufgeteilt – den Vektor mit den Einträgen der geraden bzw. der ungeraden Indizes – und die beiden Teilergebnisse nach der Transformation wieder zu einer Fouriertransformation der Größe ''2n'' zusammengefügt werden können. 
+
+Da die Berechnung einer DFT der halben Länge nur ein Viertel der komplexen Multiplikationen und Additionen der originalen DFT benötigt, und je nach Länge des Ausgangsvektors diese Vorschrift mehrfach hintereinander anwendbar ist, erlaubt die [[Rekursion|rekursive]] Anwendung dieser Grundidee schließlich eine Berechnung in [[Landau-Symbole#Definition|&lt;math>\mathcal{O}(n \log n)&lt;/math>]] Zeit; Zur Einsparung von [[Trigonometrie|trigonometrischen]] Rechenoperationen können bei der FFT zusätzlich die Eigenschaften der [[Einheitswurzel]]n aus der Fouriermatrix ausgenutzt werden.
+
+== Formelle Beschreibung des Algorithmus (Cooley und Tukey) ==
+Zunächst sei in Erinnerung gerufen, dass die [[Diskrete Fourier-Transformation|diskrete Fouriertransformation]] (im Folgenden DFT genannt) der Größe ''2n'' durch folgende Formel definiert ist:
+
+:&lt;math>f_m =  \sum_{k=0}^{2n-1} x_k \;e^{-\frac{2\pi i}{2n} mk }
+\qquad
+m = 0,\dots,2n-1. &lt;/math>
+
+Notieren wir die Einträge zu geraden Indizes als 
+:''x'&lt;sub>0&lt;/sub> = x&lt;sub>0&lt;/sub>'', ''x'&lt;sub>1&lt;/sub> = x&lt;sub>2&lt;/sub>, …, x'&lt;sub>n-1&lt;/sub> = x&lt;sub>2n-2&lt;/sub>'' 
+und bezeichnen deren Transformierte nach DFT der Größe ''n'' mit 
+:''f'&lt;sub>0&lt;/sub>, …, f'&lt;sub>n-1&lt;/sub>''; 
+die Einträge zu ungeraden Indizes notieren wir entsprechend als 
+:''x"&lt;sub>0&lt;/sub> = x&lt;sub>1&lt;/sub>, x"&lt;sub>1&lt;/sub> = x&lt;sub>3&lt;/sub>, …, x"&lt;sub>n-1&lt;/sub> = x&lt;sub>2n-1&lt;/sub>'' 
+und bezeichnen deren Transformierte nach DFT der Größe ''n'' mit 
+:''f"&lt;sub>0&lt;/sub>, …, f"&lt;sub>n-1&lt;/sub>''. 
+Dann folgt:
+
+:&lt;math>
+\begin{align}
+
+f_m &amp; =   \sum_{k=0}^{n-1} x_{2k  } e^{-\frac{2\pi i}{2n} m(2k  )}
+       +  \sum_{k=0}^{n-1} x_{2k+1} e^{-\frac{2\pi i}{2n} m(2k+1)} \\[0.5em]
+    &amp; =                         \sum_{k=0}^{n-1} x' _k e^{-\frac{2\pi i}{n} mk}
+       +  e^{-\frac{\pi i}{n}m} \sum_{k=0}^{n-1} x''_k e^{-\frac{2\pi i}{n} mk}\\[0.5em]
+&amp; =  \begin{cases}
+ f'_m     +  e^{-\frac{\pi i}{n} m   } f''_m     &amp; \text{ falls } m&lt;n \\[0.5em]
+ f'_{m-n} -  e^{-\frac{\pi i}{n}(m-n)} f''_{m-n} &amp; \text{ falls } m \geq n 
+\end{cases}
+\end{align}
+&lt;/math>
+
+== Mathematische Beschreibung (allgemeiner Fall) ==
+In der Mathematik wird die schnelle diskrete Fouriertransformation in einem wesentlich allgemeineren Kontext behandelt:
+
+Sei &lt;math>R&lt;/math> ein [[Kommutativität|kommutativer]] [[unitärer Ring]]. In &lt;math>R&lt;/math> sei die Zahl &lt;math>2=1+1&lt;/math> eine [[Einheit (Mathematik)|Einheit]] (d. h. invertierbar); ferner sei &lt;math>w \in R&lt;/math> eine &lt;math>2^n&lt;/math>-te Einheitswurzel mit &lt;math>w^{2^{n-1}}=-1&lt;/math>. Zum Beispiel ist im [[Restklassenring]] 
+:&lt;math>R=\Z/N\Z&lt;/math> mit &lt;math> N=2^{d2^n}+1&lt;/math>, &lt;math>d,n\in\N&lt;/math>, ''d'' ungerade (das ist gleichbedeutend mit der Forderung „teilerfremd zu &lt;math>2^n&lt;/math>“), 
+das Element &lt;math>w=2^{2d}&lt;/math> eine solche Einheitswurzel, die entsprechende FFT wird im [[Schönhage-Strassen-Algorithmus]] verwendet.
+
+Dann lässt sich im [[Modul (Mathematik)|Modul]] &lt;math>R^{2^n}&lt;/math> zu &lt;math>a\in R^{2^n}&lt;/math> die diskrete Fouriertransformierte &lt;math>\hat a&lt;/math> mit
+:&lt;math>\hat a_k = \sum_{j=0}^{2^n-1} a_j\cdot w^{j\cdot k}\qquad (k=0,\ldots, 2^n-1)&lt;/math>
+wie folgt optimiert berechnen:
+
+Zunächst stellen wir die Indizes &lt;math>j&lt;/math> und &lt;math>k&lt;/math> wie folgt dual dar:
+:&lt;math>k = \sum_{\nu=0}^{n-1} k_\nu 2^\nu,\quad j = \sum_{\nu=0}^{n-1} j_\nu 2^{n-1-\nu}&lt;/math>.
+
+Damit haben wir folgende Rekursion:
+:&lt;math> A_0(j_0,\ldots,j_{n-1}) = a_j\qquad (j=0,\ldots,2^n-1)&lt;/math>,
+:&lt;math>A_{r+1}(k_0,\ldots, k_r, j_{r+1},\ldots,j_{n-1}) = \sum_{j_r=0}^1 A_r(k_0,\ldots,k_{r-1},j_r,\ldots,
+ j_{n-1})\cdot w^{j_r\cdot 2^{n-1-r}\cdot (k_r 2^r+\ldots+k_0 2^0)}&lt;/math>.
+
+Wegen
+:&lt;math>A_n(k_0,\ldots,k_{n-1}) = \hat a_k&lt;/math>
+erhalten wir hieraus die diskrete Fouriertransformierte &lt;math>\hat a\in R^{2^n}&lt;/math>.
+
+== Komplexität ==
+Diese ''klassische'' Variante der FFT nach Cooley und Tukey ist im Gegensatz zur [[Diskrete Fourier-Transformation|DFT]] nur durchführbar, wenn die Länge des Eingangsvektors einer Zweierpotenz entspricht. Die Anzahl der [[Abtastung (Signalverarbeitung)|Abtastpunkte]] kann also beispielsweise 1, 2, 4, 8, 16, 32 usw. betragen. Man spricht hier von einer Radix-2-FFT. Andere Längen sind mit den unten angeführten alternativen Algorithmen möglich.
+
+Aus obiger Rekursion ergibt sich folgende Rekursionsgleichung für die Laufzeit der FFT:
+:&lt;math> T \left( N \right)= 2T \left( N/2 \right) + f (N)&lt;/math>
+Hierbei beschreibt der Term &lt;math>f(N)&lt;/math> den Aufwand, um die Ergebnisse mit einer Potenz der Einheitswurzel zu multiplizieren und die Ergebnisse zu addieren. Es werden ''N'' Paare von Zahlen addiert und ''N/2'' Zahlen mit Einheitswurzeln multipliziert. Insgesamt ist f(N) also linear beschränkt:
+:&lt;math> T \left( N \right)= 2T \left( N/2 \right) + \mathcal{O} \left(N\right)&lt;/math>
+Mit dem [[Master-Theorem]] ergibt sich eine Laufzeit von:
+:&lt;math> T \left( N \right)=\mathcal{O}(N \cdot \log(N))&lt;/math>
+Die Struktur des Datenflusses kann durch einen [[Schmetterlingsgraph]]en beschrieben werden, der die Reihenfolge der Berechnung festlegt.
+
+== Implementierung als rekursiver Algorithmus ==
+Die direkte Implementierung der FFT in [[Pseudocode]] nach obiger Vorschrift besitzt die Form eines [[Rekursion|rekursiven Algorithmus]]: 
+* Das Feld mit den Eingangswerten wird einer Funktion als Parameter übergeben, die es in zwei halb so lange Felder (eins mit den Werten mit geradem und eins mit den Werten mit ungeradem Index) aufteilt.
+* Diese beiden Felder werden nun an neue Instanzen dieser Funktion übergeben.
+* Am Ende gibt jede Funktion die FFT des ihr als Parameter übergebenen Feldes zurück. Diese beiden FFTs werden nun, bevor eine Instanz der Funktion beendet wird, nach der oben abgebildeten Formel zu einer einzigen FFT kombiniert - und das Ergebnis an den Aufrufer zurückgegeben.
+Dies wird nun fortgeführt, bis das Argument eines Aufrufs der Funktion nur noch aus einem einzigen Element besteht (Rekursionsabbruch): Die FFT eines einzelnen Wertes ist (er besitzt sich selbst als Gleichanteil, und keine weiteren Frequenzen) er selbst. Die Funktion, die nur noch einen einzigen Wert als Parameter erhält, kann also ganz ohne Rechnung die FFT dieses Wertes zurückliefern – die Funktion, die sie aufgerufen hat, kombiniert die beiden jeweils 1 Punkt langen FFTs, die sie zurückerhält, die Funktion, die diese wiederum aufgerufen hat, die beiden 2-Punkte-FFTs, und so weiter.
+
+&lt;math>\mathrm{function}\ \operatorname{fft}(n,\vec f): &lt;/math>
+
+:&lt;math>\mathrm{if}\ (n = 1)  &lt;/math>
+
+::&lt;math>\mathrm{return}\ \vec f  &lt;/math>
+
+:&lt;math>\mathrm{else} \ &lt;/math>
+
+::&lt;math>\vec g = \operatorname{fft}\left(\tfrac{n}{2},( f_0, f_2, \ldots ,f_{n-2})\right) &lt;/math>
+
+::&lt;math>\vec u = \operatorname{fft}\left(\tfrac{n}{2}, (f_1, f_3, \ldots ,f_{n-1})\right) &lt;/math>
+
+::&lt;math>\mathrm{for} \ k = 0 \ \mathrm{to} \ \tfrac{n}{2}-1 &lt;/math>
+
+:::&lt;math>
+\begin{align}
+c_k       = g_k + u_k \cdot e^{-2 \pi i k/n} \\
+c_{k+n/2} = g_k - u_k \cdot e^{-2 \pi i k/n} 
+\end{align}
+&lt;/math>
+
+::&lt;math>\mathrm{return}\ \vec c&lt;/math>
+
+Der Geschwindigkeitsvorteil der FFT gegenüber der DFT kann anhand dieses Algorithmus gut abgeschätzt werden:
+* Um die FFT eines &lt;math>2^N&lt;/math> Elemente langen Vektors zu berechnen, sind bei Verwendung dieses Algorithmus ''n'' Rekursionsebenen nötig. Dabei verdoppelt sich in jeder Ebene die Anzahl der zu berechnenden Vektoren - während sich deren Länge jeweils halbiert, so dass am Ende in jeder bis auf die letzte Rekursionsebene genau &lt;math>n&lt;/math> komplexe Multiplikationen und Additionen notwendig sind. Die Gesamtzahl der Additionen und Multiplikationen beträgt also &lt;math>N\cdot2^N&lt;/math>
+* Im Gegensatz benötigt die DFT für denselben Eingangsvektor &lt;math>(2^N )^2&lt;/math> komplexe Multiplikationen und Additionen.
+
+== Implementierung als nichtrekursiver Algorithmus ==
+Die Implementierung eines rekursiven Algorithmus ist im Regelfall vom Ressourcenverbrauch her nicht ideal, da die vielen dabei notwendigen Funktionsaufrufe Rechenzeit und Speicher für das Merken der Rücksprungadressen benötigen. In der Praxis wird daher meist ein nichtrekursiver Algorithmus verwendet, der gegenüber der hier abgebildeten auf einfaches Verständnis optimierten Form je nach Anwendung noch optimiert werden kann:
+* Wenn im obigen Algorithmus zuerst die beiden Hälften des Feldes miteinander vertauscht werden, und dann die beiden Hälften dieser Hälften, usw. – dann ist das Ergebnis am Ende dasselbe, wie wenn alle Elemente des Felds von 0 aufsteigend nummeriert werden - und dann die Reihenfolge der Bits der Nummern der Felder umgekehrt wird.
+* Nachdem die Eingangswerte solchermaßen umsortiert sind, bleibt nur noch die Aufgabe, die einzelnen kurzen FFTs von der letzten Rekursionsebene nach außen zu längeren FFTs zu kombinieren, z.&amp;nbsp;B. in Form dreier ineinandergeschachtelter Schleifen:
+** Die äußerste Schleife zählt die Rekursionsebene &lt;math>\mathit{Ebene}&lt;/math> durch (von 0 bis ''N-1'').
+** Die nächste Schleife zählt die &lt;math>2^{N-\mathrm{Ebene}-1}&lt;/math> FFT-Abschnitte durch, in der die FFT in dieser Rekursionsebene noch aufgeteilt ist. Der Zähler dieser Schleife wird im Folgenden als „&lt;math>\mathit{Abschnitt}&lt;/math>“ bezeichnet.
+** Die innerste Schleife zählt das Element innerhalb eines FFT-Abschnittes (im Folgenden &lt;math>\mathit{ElementDesAbschnitts}&lt;/math> genannt) durch (von 0 bis &lt;math>2^{\mathrm{Ebene}}-1&lt;/math>)
+** In der innersten dieser Schleifen werden nun immer die beiden Samples mit den folgenden beiden Indizes:
+
+::&lt;math>\scriptstyle links=2^{\mathrm{Ebene}+1}\cdot\mathrm{Abschnitt}+\mathrm{ElementDesAbschnitts}&lt;/math>
+
+::&lt;math>rechts=links+2^{\mathrm{Ebene}}&lt;/math>
+
+:über einen [[Schmetterlingsgraph]] kombiniert: 
+::&lt;math>
+\begin{array}{rcl}
+x_{\mathrm{links,neu}}&amp;=&amp;x_{\mathrm{rechts}}-e^{-i\pi\frac{\mathrm{ElementDesAbschnitts}}{\mathrm{2^{\mathrm{Ebene}}}}}\cdot x_{\mathrm{links}}\\
+x_{\mathrm{rechts,neu}}&amp;=&amp;x_{\mathrm{rechts}}+e^{-i\pi\frac{\mathrm{ElementDesAbschnitts}}{\mathrm{2^{\mathrm{Ebene}}}}}\cdot x_{\mathrm{links}}\end{array}
+&lt;/math>
+*
+
+== Alternative Formen der FFT ==
+Neben dem oben dargestellten FFT-Algorithmus von Cooley und Tukey, auch Radix-2-Algorithmus genannt, existieren noch eine Reihe weiterer Algorithmen zur schnellen Fourier-Transformation. Die Varianten unterscheiden sich darin, wie bestimmte Teile des „naiven“ Algorithmus so umgeformt werden, dass weniger (Hochpräzisions-)Multiplikationen notwendig sind. Dabei gilt meist, dass die Reduktion in der Anzahl der Multiplikationen eine erhöhte Anzahl von Additionen sowie von gleichzeitig im Speicher zu haltenden Zwischenergebnissen hervorruft.
+
+Im Folgenden sind übersichtsartig einige weitere Algorithmen dargestellt. Details und genaue mathematische Beschreibungen samt Herleitungen finden sich in der unten angegebenen Literatur. 
+
+=== Radix-4-Algorithmus ===
+Der Radix-4-Algorithmus ist, analog dazu der Radix-8-Algorithmus oder allgemein Radix-2&lt;sup>N&lt;/sup>-Algorithmus, eine Weiterentwicklung des obigen Radix-2-Algorithmus. Der Hauptunterschied besteht darin, dass die Anzahl der zu verarbeitenden Datenpunkte eine Potenz von 4 bzw. 4&lt;sup>N&lt;/sup> darstellen muss. Die Verarbeitungstruktur bleibt dabei gleich, nur dass in dem [[Schmetterlingsgraph]] pro Element statt zwei Datenpfade vier bzw. acht und allgemein 4&lt;sup>N&lt;/sup> Datenpfade miteinander verknüpft werden müssen. Der Vorteil besteht in einem weiter reduzierten Rechenaufwand und damit Geschwindigkeitsvorteil. So sind, verglichen mit dem obigen Algorithmus von Cooley und Tukey, bei dem Radix-4-Algorithmus ca. 25 % weniger Multiplikationen notwendig. Bei dem Radix-8-Algorithmus reduziert sich die Anzahl der Multiplikationen um ca. 40 %.
+
+Nachteil dieser Verfahren ist die gröbere Struktur und ein aufwendiger Programmcode. So lassen sich mit Radix-4-Algorithmus nur Blöcke der Längen 4, 16, 64, 256, 1024, 4096, … verarbeiten. Bei dem Radix-8-Algorithmus sind die Einschränkungen analog zu sehen. Wäre in einer bestimmten Anwendung eine Blocklänge von beispielsweise 2048 Stützstellen ideal und damit auch der Speicherplatz gering zu halten, können diese schnelleren Algorithmen daher nicht eingesetzt werden. Es müsste dann ein größerer Speicher eingesetzt werden und der Rechenaufwand gesteigert werden.
+
+=== Winograd-Algorithmus ===
+Bei diesem Algorithmus ist nur eine bestimmte, endliche Anzahl von Stützstellen der Anzahl &lt;math>N&lt;/math> möglich, nämlich:
+
+:&lt;math>N = \prod^{m}_{j=1}N_j \qquad N_j \in \{2,3,4,5,7,8,9,16\}&lt;/math>
+
+wobei alle Kombinationen von N&lt;sub>j&lt;/sub> zulässig sind, bei denen die verwendeten N&lt;sub>j&lt;/sub> [[Teilerfremdheit|teilerfremd]] sind. Dadurch ist nur eine maximale Blocklänge von 5040 möglich. Die möglichen Werte für &lt;math>N&lt;/math> liegen aber in dem Bereich bis 5040 dichter auf der Zahlengeraden als die Zweierpotenzen. Es ist damit eine bessere Feinabstimmung der Blocklänge möglich. Aufgebaut wird der Algorithmus aus Basisblöcken der DFT, deren Längen mit ''N''&lt;sub>j&lt;/sub> korrespondieren. Bei diesem Verfahren wird zwar die Anzahl der Multiplikationen gegenüber dem Radix-2-Algorithmus reduziert, gleichzeitig steigt aber die Anzahl der notwendigen Additionen. Außerdem ist am Eingang ''und'' Ausgang jeder DFT eine aufwendige Permutation der Daten notwendig, die nach den Regeln des [[Chinesischer Restsatz|Chinesischen Restsatzes]] gebildet wird. 
+
+Diese Art der schnellen Fourier-Transformation besitzt in praktischen Implementierungen dann Vorteile gegenüber der Radix-2-Methode, wenn der für die FFT verwendete [[Mikrocontroller]] keine eigene [[Multiplizierer (Digitaltechnik)|Multipliziereinheit]] besitzt und für die Multiplikationen sehr viel Rechenzeit aufgewendet werden muss. In heutigen [[Digitaler Signalprozessor|Signalprozessoren]] mit eigenen Multipliziereinheiten hat dieser Algorithmus keine wesentliche Bedeutung mehr.
+
+=== Primfaktor-Algorithmus ===
+Dieser FFT-Algorithmus basiert auf ähnlichen Ideen wie der Winograd-Algorithmus, allerdings ist die Struktur einfacher und damit der Aufwand an Multiplikationen höher als beim Winograd-Algorithmus. Der wesentliche Vorteil bei der Implementierung liegt in der effizienten Ausnutzung des zur Verfügung stehenden Speichers durch optimale Anpassung der Blocklänge. Wenn in einer bestimmten Anwendung zwar eine schnelle Multipliziereinheit verfügbar ist und gleichzeitig der Speicher knapp, kann dieser Algorithmus optimal sein. Die Ausführungszeit ist bei ähnlicher Blocklänge mit der des Algorithmus von Cooley und Tukey vergleichbar.
+
+=== Goertzel-Algorithmus ===
+Der [[Goertzel-Algorithmus]] stellt eine besondere Form zur effizienten Berechnung einzelner Spektralkomponenten dar und ist bei der Berechnung von nur einigen wenigen Spektralanteilen (engl. ''Bins'') effizienter als alle blockbasierenden FFT-Algorithmen, welche immer das komplette diskrete Spektrum berechnen.
+
+=== Chirp-z-Transformation ===
+[[Bluestein-FFT-Algorithmus]] für Datenmengen beliebiger Größe (einschließlich [[Primzahl]]en).
+
+== Interpretation der Ergebnisse ==
+=== Allgemein ===
+Die FFT generiert aus ''n'' komplexen Eingangswerten ''n'' komplexe Ergebniswerte.
+
+Der Betrag jedes dieser Ausgangswerte entspricht der Länge, und das Argument jedes Ausgangswerts dem Winkel eines Vektors zum Zeitpunkt ''t=0''. Wenn man nun alle Vektoren mit den richtigen Geschwindigkeiten um den Nullpunkt kreisen lässt, - und sie zueinander addiert, erhält man wieder die Eingangswerte. 
+
+Die Frequenz, mit der der ''m''-te Vektor des errechneten Spektrums dafür gegen den Uhrzeigersinn gedreht werden muss, ergibt sich durch die Formel
+:&lt;math>f_{\mathrm{Drehung}}=\left\{\begin{array}{ll}
+f_{\mathrm{Sample}}\cdot \frac{m}{n}&amp;;\ m\leq\frac{n}{2}\\[.5em]
+f_{\mathrm{Sample}}\cdot \frac{n-m}{n}&amp;;\ m>\frac{n}{2}
+\end{array}\right.&lt;/math>
+
+Vektoren müssen sich also mit einer um so höheren Frequenz drehen, je näher sie zur Mitte des Ergebnisses der FFT liegen, und jeder Vektor aus der oberen Hälfte des Ergebnisses dreht sich mit derselben Frequenz, aber in die umgekehrte Richtung, wie ein Vektor aus der unteren Hälfte des Ergebnisses dies tut. Zu erklären ist dies beispielsweise über das [[Nyquist-Shannon-Abtasttheorem]], das besagt, dass Frequenzen über der halben Abtastfrequenz durch die Abtastung in den Frequenzbereich darunter gespiegelt werden; Zu beachten ist, dass aus zwei sich in unterschiedlicher Richtung, aber mit der gleichen Geschwindigkeit drehenden Vektoren alle Kreisbewegungen, Elliptischen Bewegungen, Sinus- oder Kosinusschwingungen mit der entsprechenden Frequenz zusammengesetzt werden können.
+
+=== Für Eingangsdaten ohne Imaginärteil ===
+[[File:Fftsymreal.png|thumb|250px|Acht-Punkt FFT auf reellen Eingangsdaten]]
+Damit aus den beiden mit derselben Frequenz kreisenden Vektoren ein Signal mit dem Imaginärteil 0 zusammengesetzt werden kann, muss der Realteil der beiden mit derselben Frequenz rotierenden Vektoren identisch sein, - und müssen die beiden Imaginärteile der Vektoren zusammen stets Null ergeben.
+
+Hieraus folgt:
+:&lt;math>\left.\begin{array}{rcr}
+\mathrm{Re}(f_m)&amp;=&amp;\mathrm{Re}(f_{n-m})\\
+\mathrm{Img}(f_m)&amp;=&amp;-\mathrm{Img}(f_{n-m})
+\end{array}\right\}\ \Longrightarrow\ f_m=f_{n-m}^*&lt;/math>
+
+Ist bekannt, dass das Eingangssignal der FFT rein reell war, lohnt es sich daher nur, eine (im Regelfall die untere) Hälfte des Spektrums zu betrachten, wo der Betrag jedes Vektors der halben Amplitude einer Frequenz, und das Argument jedes Vektors der Phasenverschiebung einer Frequenz entspricht, aus der sich das Eingangssignal zusammensetzt.
+
+Besondere Beachtung verdienen allenfalls in einigen Fällen der Gleichanteil, und das Element, das der höchsten im errechneten Spektrum möglichen Frequenz entspricht.
+
+=== Genauigkeit ===
+Tendenziell ist das Quantisierungsrauschen bei der schnellen Fouriertransformation in den Fällen, in denen sie effektiver als die DFT ist, aufgrund der geringeren Zahl an fehlerbehafteten Rechenoperationen geringer&lt;ref>[http://www.dspguide.com/ch18.htm ''Steven W. Smith, Ph.D.'' The Scientist and Engineer's Guide to Digital Signal Processing]. Buch in der Online-Ausgabe. Abgerufen am 8. Dezember 2009.&lt;/ref> als bei der diskreten Faltung.
+
+== Die inverse FFT ==
+Die enge Verwandtschaft zwischen FFT und [[iFFT]] lässt sich bereits aufgrund der folgenden Überlegungen erahnen:
+* Ist das Eingangssignal der FFT ein mit einer konstanten Geschwindigkeit um den Nullpunkt rotierender Vektor, dann ist das Ergebnis der FFT bestimmungsgemäß ein Ausgangssignal, das bis auf den der Frequenz der Rotation entsprechenden Punkt, dessen Betrag der Amplitude und dessen Argument der Phase der Rotation zum Zeitpunkt ''t=0'' entspricht – konstant 0.
+* Ist das Eingangssignal der FFT konstant 0 mit Ausnahme eines einzigen Punktes, so ergibt die Grundgleichung der DFT in diesem Fall einen Vektor, der mit einer konstanten Geschwindigkeit um den Nullpunkt kreist.
+Für einen Vektor, in dem nur ein einziger Punkt eine Amplitude ungleich 0 besitzt, ähnelt also die zweimalige FFT des Ergebnisses dem Ausgangswert.
+* Zusätzlich besteht die FFT nur aus linearen Gleichungen. Dies bedeutet unter Anderem, dass, wenn verschiedene Ausgangsvektoren addiert und dann zwei Mal durch die FFT transformiert werden, das Ergebnis dieser Aktion identisch sein muss, wie, wenn die einzelnen Signale erst zweimal transformiert und dann addiert werden.
+Zusammen lässt dies vermuten, dass das Ergebnis einer zweimal hintereinander ausgeführten FFT für beliebige Signale dem Original ähneln wird.
+
+Allerdings ist die Amplitude des Ergebnisses der zweimaligen FFT eines Signals offensichtlich von dessen Länge &lt;math>L&lt;/math> abhängig, und ist in den obigen Überlegungen die Richtung der Rotation der Vektoren um den Nullpunkt nicht berücksichtigt worden.
+
+Tatsächlich gilt für jegliche Art der Fouriertransformation:
+
+:&lt;math>\frac{1}{\mathrm{L}}\left(\mathcal{F}\left\{\left(\mathcal{F}\left\{f(x)\right\}\right)^*\right\}\right)^*=f(x)&lt;/math>
+
+== Anwendung ==
+Die Anwendungsgebiete der FFT sind so vielseitig, dass hier nur eine Auswahl gegeben werden kann:
+* [[Computeralgebra]]
+** Implementierung schneller, Polynome verarbeitender Algorithmen (z.&amp;nbsp;B. Polynommultiplikation in &lt;math>O(n\, \log{n})&lt;/math>)
+* Finanzmathematik
+** Die Berechnung von Optionspreisen (vgl. Carr / Madan 1999)
+* [[Signalanalyse]]
+** Akustik (Audiomessungen). Eine triviale Anwendung sind viele Gitarrenstimm- oder ähnliche Programme, die von ihrer hohen Geschwindigkeit profitieren.
+** Berechnung vom [[Spektrogramm]]en (Diagramme mit der Darstellung der Amplituden von den jeweiligen Frequenzanteilen)
+** Rekonstruktion des Bildes beim [[Kernspintomograph]]en oder der Analyse von Kristallstrukturen mittels Röntgenstrahlen, bei denen jeweils die Fouriertransformierte des gewünschten Bildes, bzw. das Quadrat dieser Fouriertransformierten entsteht.
+* Messtechnik/ allgemein
+** Digitale Netzwerkanalysatoren, die das Verhalten einer Schaltung, eines Bauelementes oder einer Leitung auf einer Leiterbahn bei Betrieb mit beliebigen Frequenzgemischen zu ermitteln versuchen.
+* Signalverarbeitung
+** Synthese von Audiosignalen aus einzelnen Frequenzen über die inverse FFT
+** Zur Reduzierung des Berechnungsaufwandes bei der zirkularen Faltung im [[Zeitbereich]] von [[Filter mit endlicher Impulsantwort|FIR-Filtern]] und Ersatz durch die schnelle Fouriertransformation und einfache Multiplikationen im [[Frequenzspektrum|Frequenzbereich]]. (siehe auch [[Schnelle Faltung]]). Die Schnelle Faltung bietet z.&amp;nbsp;B. die Möglichkeit, beliebige Audio- oder ähnliche Signale mit wenig Rechenaufwand durch auch sehr komplexe Filter (Equalizer, etc.) zu transportieren.
+** [[Kompressionsalgorithmus|Kompressionsalgorithmen]] verwenden oft die FFT oder, wie das bekannte [[MP3]]-Format, die mit ihr verwandte [[diskrete Kosinustransformation]]: Die FFT von Bildern oder Tönen ergibt oft nur relativ wenige Frequenzanteile mit hohen Amplituden (Was, wenn ein Verfahren zur Speicherung der Ergebnisse verwendet wird, das für die Darstellung niedriger Zahlen weniger Bits benötigt, wie z.&amp;nbsp;B. die [[Huffman-Kodierung]], von Vorteil ist). In anderen Fällen wird ausgenutzt, dass einige der Frequenzen weggelassen werden können, ohne das Ergebnis stark zu beeinträchtigen, so dass die Menge der zu speichernden Daten auf diese Weise reduziert werden kann.
+* Telekommunikation
+** [[Längstwellen]]empfang mit dem PC
+** Breitbanddatenübertragung per [[OFDM]], die Grundlage für [[ADSL]] und [[WLAN]] (Internet), [[DVB-T]] (Fernsehen), [[Digital Radio Mondiale|DRM]], [[Digital Audio Broadcasting|DAB]] (Radio) und [[Long_Term_Evolution|LTE]] (Mobilfunk der 4. Generation) ist. Hier wird die hohe Geschwindigkeit dadurch erreicht, dass viele relativ langsame Datenübertragungen auf vielen Trägerfrequenzen gleichzeitig betrieben werden. Das komplexe Signal, das durch Überlagerung der einzelnen Signale entsteht, wird dann von der Gegenstelle mittels der FFT wieder in einzelne Signalträger zerlegt.
+
+== Literatur ==
+=== Zeitschriftenartikel ===
+&lt;!--(historische bedeutende)-->
+* James W. Cooley, John W. Tukey: ''An algorithm for the machine calculation of complex Fourier series.'' In: ''Math. Comput.'' 19, 1965, S. 297–301.
+* C. M. Rader: ''Discrete Fourier transforms when the number of data samples is prime.'' In: ''Proc. IEEE.'' 56, 1968, S. 1107–1108.
+* Leo I. Bluestein: ''A linear filtering approach to the computation of the discrete Fourier transform.'' In: ''Northeast Electronics Research and Engineering Meeting Record.'' 10, 1968, S. 218–219.
+* Georg Bruun: ''z-Transform DFT filters and FFTs.'' In: ''IEEE Trans. on Acoustics, Speech and Signal Processing (ASSP).'' 26, Nr. 1, 1978, S. 56–63.
+* M. T. Heideman, D. H. Johnson, C. S. Burrus : ''Gauss and the History of the Fast Fourier Transform.'' In: ''Arch. Hist. Sc.'' 34, Nr. 3, 1985.&lt;!-- Zuvor schon in IEEE Acoust. Speech Signal Process. Mag. Oktober 1984 veröffentlicht? -->
+=== Bücher ===
+* Alan V. Oppenheim, Ronald W. Schafer: ''Zeitdiskrete Signalverarbeitung.'' 3. Auflage. R. Oldenbourg Verlag, München/Wien 1999, ISBN 3-486-24145-1.
+* E. Oran Brigham: ''FFT. Schnelle Fourier-Transformation.'' R. Oldenbourg Verlag, München/Wien 1995, ISBN 3-486-23177-4.
+* {{Literatur
+ |Autor = Steven W. Smith
+ |Titel = The Scientist and Engineer's Guide to Digital Signal Processing
+ |Verlag = Elsevier Ltd, Oxford |Jahr = 2002 |Auflage = 1 |Kapitel = 18 |ISBN = 978-0750674447 | Online = [http://www.dspguide.com www.dspguide.com] |Originalsprache= Englisch
+}}
+
+== Weblinks ==
+* [http://www.inf.fh-flensburg.de/lang/algorithmen/fft/fft.htm www.inf.fh-flensburg.de/lang/algorithmen/fft/fft.htm] – Beschreibung der Fourier-Transformation und Einheitswurzeln (Deutsch)
+* [http://www.fairaudio.de/hifi-lexikon-begriffe/fourier-transformation.html] – Bedeutung der FFT-Analyse in der Audiotechnik (Beispiel-Grafik: Rechtecksignal) (Deutsch)
+* [http://www.sprut.de/electronic/pic/16bit/dsp/fft/fft.htm www.sprut.de/electronic/pic/16bit/dsp/fft/fft.htm] – Einführung in die FFT für Nichtstudierte, z.&amp;nbsp;B. Auszubildende (Deutsch)
+* [http://www.fftw.org/ www.fftw.org] (Englisch)
+* [http://www.nr.com/ www.nr.com] – Buch ''Numerical Recipes'', englisch, auch online verfügbar (Englisch)
+* [http://paulbourke.net/miscellaneous/dft/ Paul Bourke (1993):''D F T (Discrete Fourier Transform) - F F T (Fast Fourier Transform)''] (schöner FFT-Code in C, in 1D und 2D) (Englisch)
+* {{Internetquelle|autor = Kevin McGee |titel = An introduction to signal processing and fast fourier transform (FFT) |url=http://www.fftguru.com |zugriff=2010-04-27}}
+
+== Einzelnachweise ==
+&lt;references />
+
+[[Kategorie:Numerische Mathematik]]
+[[Kategorie:Digitale Signalverarbeitung]]
+[[Kategorie:Diskrete Transformation]]
+
+[[ar:تحويل �?وريي السريع]]
+[[ca:Transformada Ràpida de Fourier]]
+[[cs:Rychlá Fourierova transformace]]
+[[da:Fast Fourier Transform]]
+[[en:Fast Fourier transform]]
+[[es:Transformada rápida de Fourier]]
+[[fa:تبدیل سریع �?وریه]]
+[[fr:Transformée de Fourier rapide]]
+[[he:FFT]]
+[[hi:त�?वरित फ�?रिअर रूपान�?तर]]
+[[id:Transformasi Fourier cepat]]
+[[it:Trasformata di Fourier veloce]]
+[[ja:高速フーリエ変�?�]]
+[[ko:고�? 푸리�? 변환]]
+[[nl:Fast Fourier transform]]
+[[pl:Szybka transformacja Fouriera]]
+[[pt:Transformada rápida de Fourier]]
+[[ru:Бы�?трое преобразование Фурье]]
+[[sr:Брза Фуријеова тран�?формација]]
+[[sv:Snabb fouriertransform]]
+[[ta:விரைவ�? ஃபூரியே உர�?மாற�?றம�?]]
+[[tr:Hızlı Fourier dönüşümü]]
+[[uk:Швидке перетворенн�? Фур'є]]
+[[vi:Biến đổi Fourier nhanh]]
+[[zh:快速傅里�?��?��?�]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><a href="/wiki/Hilfe:Zusammenfassung_und_Quellen" title="Hilfe:Zusammenfassung und Quellen"><span title="Bitte die vorgenommenen Änderungen kurz beschreiben.">Zusammenfassung und Quellen</span></a>:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Gib eine kurze Zusammenfassung ein. [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<table cellspacing="4">
+
+<tr>
+<td align="center" style="font-size:110%"> <b><a href="/wiki/Wikipedia:Urheberrechte_beachten" title="Wikipedia:Urheberrechte beachten">Das Kopieren urheberrechtlich geschützter Werke ist verboten!</a></b>
+</td>
+<td> Mit dem Speichern dieser Seite versicherst du, dass du den Beitrag selbst verfasst hast bzw. dass er keine fremden Rechte verletzt, und willigst ein, ihn unter der <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution/Share-Alike Lizenz 3.0</a> und der <a rel="nofollow" class="external text" href="//www.gnu.org/copyleft/fdl.html">GNU-Lizenz für freie Dokumentation</a> zu veröffentlichen. Falls du den Text nicht selbst verfasst hast, muss er unter den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen" class="extiw" title="wmf:Nutzungsbedingungen">Nutzungsbedingungen</a> verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen. Du stimmst einer Autoren-Nennung mindestens durch URL oder Verweis auf den Artikel zu. <b>Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.</b>
+</td></tr>
+<tr>
+<td align="center"> <b><a href="/wiki/Wikipedia:Belege" title="Wikipedia:Belege">Bitte gib Belege für hinzugefügte Informationen an!</a></b>
+</td>
+<td> Wikipedia-Artikel sollen nur überprüfbare Informationen aus zuverlässigen Publikationen enthalten.
+</td></tr></table>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Seite speichern" accesskey="s" title="Deine &#xC4;nderungen zur Sichtung vorschlagen [s]"/>
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Vorschau zeigen" accesskey="p" title="Vorschau der Änderungen an dieser Seite. Bitte vor dem Speichern benutzen! [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Änderungen zeigen" accesskey="v" title="Änderungen am Text zeigen [v]" />
+	<span class='cancelLink'><a href="/wiki/Schnelle_Fourier-Transformation" title="Schnelle Fourier-Transformation" id="mw-editform-cancel">Abbrechen</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Hilfe:Bearbeiten">Bearbeitungshilfe</a> (wird in einem neuen Fenster geöffnet)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="mw-editTools"></div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Folgende <a href="/wiki/Hilfe:Vorlagen" title="Hilfe:Vorlagen">Vorlagen</a> werden von diesem Artikel verwendet:
+</p></div><ul>
+<li><a href="/wiki/Vorlage:Booland" title="Vorlage:Booland">Vorlage:Booland</a> (<a href="/w/index.php?title=Vorlage:Booland&amp;action=edit" title="Vorlage:Booland">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Booland3" title="Vorlage:Booland3">Vorlage:Booland3</a> (<a href="/w/index.php?title=Vorlage:Booland3&amp;action=edit" title="Vorlage:Booland3">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Boolandnot" title="Vorlage:Boolandnot">Vorlage:Boolandnot</a> (<a href="/w/index.php?title=Vorlage:Boolandnot&amp;action=edit" title="Vorlage:Boolandnot">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:COinS" title="Vorlage:COinS">Vorlage:COinS</a> (<a href="/w/index.php?title=Vorlage:COinS&amp;action=edit" title="Vorlage:COinS">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Datum" title="Vorlage:Datum">Vorlage:Datum</a> (<a href="/w/index.php?title=Vorlage:Datum&amp;action=edit" title="Vorlage:Datum">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:EnS" title="Vorlage:EnS">Vorlage:EnS</a> (<a href="/w/index.php?title=Vorlage:EnS&amp;action=edit" title="Vorlage:EnS">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:FormatDate" title="Vorlage:FormatDate">Vorlage:FormatDate</a> (<a href="/w/index.php?title=Vorlage:FormatDate&amp;action=edit" title="Vorlage:FormatDate">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Internetquelle" title="Vorlage:Internetquelle">Vorlage:Internetquelle</a> (<a href="/w/index.php?title=Vorlage:Internetquelle&amp;action=edit" title="Vorlage:Internetquelle">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Lang" title="Vorlage:Lang">Vorlage:Lang</a> (<a href="/w/index.php?title=Vorlage:Lang&amp;action=edit" title="Vorlage:Lang">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Literatur" title="Vorlage:Literatur">Vorlage:Literatur</a> (<a href="/w/index.php?title=Vorlage:Literatur&amp;action=edit" title="Vorlage:Literatur">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Monat_Name-Nummer" title="Vorlage:Monat Name-Nummer">Vorlage:Monat Name-Nummer</a> (<a href="/w/index.php?title=Vorlage:Monat_Name-Nummer&amp;action=edit" title="Vorlage:Monat Name-Nummer">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Str_len" title="Vorlage:Str len">Vorlage:Str len</a> (<a href="/w/index.php?title=Vorlage:Str_len&amp;action=edit" title="Vorlage:Str len">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Str_len/core" title="Vorlage:Str len/core">Vorlage:Str len/core</a> (<a href="/w/index.php?title=Vorlage:Str_len/core&amp;action=edit" title="Vorlage:Str len/core">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:TitelFormat/core" title="Vorlage:TitelFormat/core">Vorlage:TitelFormat/core</a> (<a href="/w/index.php?title=Vorlage:TitelFormat/core&amp;action=edit" title="Vorlage:TitelFormat/core">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:TitelFormat/core1" title="Vorlage:TitelFormat/core1">Vorlage:TitelFormat/core1</a> (<a href="/w/index.php?title=Vorlage:TitelFormat/core1&amp;action=edit" title="Vorlage:TitelFormat/core1">Quelltext anzeigen</a>) (schreibgeschützt)</li></ul></div><div class="hiddencats"></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Von „<a href="http://de.wikipedia.org/wiki/Schnelle_Fourier-Transformation">http://de.wikipedia.org/wiki/Schnelle_Fourier-Transformation</a>“				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigationsmenü</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Meine Werkzeuge</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Schnelle+Fourier-Transformation&amp;returntoquery=action%3Dedit&amp;type=signup">Benutzerkonto anlegen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Schnelle+Fourier-Transformation&amp;returntoquery=action%3Dedit" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namensräume</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Schnelle_Fourier-Transformation"  title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Diskussion:Schnelle_Fourier-Transformation"  title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Varianten</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Ansichten</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Schnelle_Fourier-Transformation" >Lesen</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=edit"  title="Seite bearbeiten. Bitte vor dem Speichern die Vorschaufunktion benutzen.">Bearbeiten</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Aktionen</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Suche</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Suche nach Seiten, die diesen Text enthalten" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Volltext" width="12" height="13" /></button>								<input type='hidden' name="title" value="Spezial:Suche"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/e/ec/Wikipedia-logo-v2-de.png);" href="/wiki/Wikipedia:Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li>
+			<li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li>
+			<li id="n-alphindex"><a href="/wiki/Spezial:Alle_Seiten">Von A bis Z</a></li>
+			<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" role="navigation" id='p-Mitmachen'>
+	<h3>Mitmachen</h3>
+	<div class="body">
+		<ul>
+			<li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li>
+			<li id="n-Neuerartikel"><a href="/wiki/Wikipedia:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li>
+			<li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Hilfeseite anzeigen">Hilfe</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Kontakt">Kontakt</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Werkzeuge</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Schnelle_Fourier-Transformation" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Schnelle_Fourier-Transformation" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+			<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Schnelle_Fourier-Transformation&amp;action=info">Seiteninformationen</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia:Datenschutz" title="Wikipedia:Datenschutz">Datenschutz</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+											<li id="footer-places-mobileview"><a href="http://de.m.wikipedia.org/wiki/Schnelle_Fourier-Transformation" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.WikiMiniAtlas","ext.gadget.CommonsDirekt","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","mw.PopUpMediaTransform","ext.flaggedRevs.advanced"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_bold.png", "Fetter Text", "\'\'\'", "\'\'\'", "Fetter Text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_italic.png", "Kursiver Text", "\'\'", "\'\'", "Kursiver Text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Interner Link", "[[", "]]", "Link-Text", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "Externer Link (http:// beachten)", "[", "]", "http://www.example.com Link-Text", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Überschrift", "\n== ", " ==\n", "Überschrift", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Dateilink", "[[Datei:", "]]", "Beispiel.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "Mediendatei-Link", "[[Medium:", "]]", "Beispiel.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematische Formel (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Formel hier einfügen", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Unformatierter Text", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Unformatierten Text hier einfügen", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Deine Signatur mit Zeitstempel", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontale Linie (sparsam verwenden)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1101 in 0.303 secs. -->
+	</body>
+</html>

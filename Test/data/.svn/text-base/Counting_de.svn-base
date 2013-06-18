@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="client-nojs">
+<head>
+<title>„Zählen“ – Bearbeiten – Wikipedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Z%C3%A4hlen&amp;action=edit" />
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Z%C3%A4hlen&amp;action=edit" />
+<link rel="apple-touch-icon" href="//de.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)" />
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikipedia“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.CommonsDirekt%2CWikiMiniAtlas%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dewiki:resourceloader:filter:minify-css:7:202e0c15afe28e9879bea5c8d4c1f2ee */</style>
+
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Zählen","wgTitle":"Zählen","wgCurRevisionId":109786743,"wgArticleId":297207,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"de","wgSeparatorTransformTable":[",	.",".	,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Zählen","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"3db2c7f10ea406ca56c457eda81e5994","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgGuidedTourHelpGuiderUrl":"Help:Geführte Touren/Leiter","wgGuidedTourTestWikitextDescription":"Ein Leiter in deiner Wikitour kann Wikitext durch Verwendung von onShow und parseDescription beinhalten. Benutze es, um einen Wikilink zur \x3ca href=\"/w/index.php?title=Hilfe:Gef%C3%BChrte_Touren\x26amp;action=edit\x26amp;redlink=1\" class=\"new\" title=\"Hilfe:Geführte Touren (Seite nicht vorhanden)\"\x3eDokumentation\x3c/a\x3e oder einen externen Link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3ezu github\x3c/a\x3e zu erstellen.","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":109786743,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"variant":"de","language":"de","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"gadget-WikiMiniAtlas":1,"gadget-old-movepage":1,"gadget-CommonsDirekt":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: dewiki:resourceloader:filter:minify-js:7:63644c94a30babccab36c4bfde7bfa2c */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns ns-0 ns-subject page-Zählen skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="de"><span dir="auto">„Zählen“ – Bearbeiten</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Wechseln zu:					<a href="#mw-head">Navigation</a>, 					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><table class='flaggedrevs_editnotice plainlinks'><tr><td><b>Deine Änderungen werden angezeigt, sobald sie gesichtet wurden. (<a href="/wiki/Wikipedia:Gesichtete_Versionen" title="Wikipedia:Gesichtete Versionen">Hilfe</a>)</b></td></tr></table><div id="editnotice-ns-0"></div>
+<div id="mw-anon-edit-warning">
+<p>Du bearbeitest diese Seite <a href="/wiki/Spezial:Anmelden" title="Spezial:Anmelden">unangemeldet</a>. Wenn du deine Änderung speicherst, wird deine aktuelle <a href="/wiki/IP-Adresse" title="IP-Adresse">IP-Adresse</a> in der <span class="plainlinks"><a class="external text" href="//de.wikipedia.org/w/index.php?title=Z%C3%A4hlen&amp;action=history">Versionsgeschichte</a></span> aufgezeichnet und ist damit öffentlich einsehbar. Wenn du ein <a href="/wiki/Spezial:Benutzerkonto_anlegen" title="Spezial:Benutzerkonto anlegen">Benutzerkonto anlegst</a>, bleibt deine IP-Adresse verborgen.
+</p>
+<b>Speichere hier bitte keine Textversuche ab. Dafür haben wir unsere <a href="/wiki/Wikipedia:Spielwiese" title="Wikipedia:Spielwiese">Spielwiese</a>.</b></div>
+<div id="mw-edit-longpage-hint">
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Z%C3%A4hlen&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Spamschutzprüfung.
+Hier <b>NICHTS</b> eintragen!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="109786743" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225072010" name="wpStarttime" />
+<input type='hidden' value="20121027073508" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Überarbeiten}}
+
+''Zählen'' ist eine Handlung zur Ermittlung der Anzahl Elemente in einer endlichen Menge von gleichwertigen Objekten. Das Zählen erfolgt in Zählschritten, oft in Einerschritten, wobei die entsprechende Zahlenfolge, als Folge von [[Zahlwort|Zahlwörtern]], zum Beispiel „eins, zwei, drei“ oder  „zwei, vier, sechs, sieben“ durchlaufen wird. Bei einer aufsteigenden Folge wird vorwärts gezählt, bei einer absteigenden Folge rückwärts. Auch das Bestimmen der Anzahl von unterscheidbaren Objekten durch Addition, die einer aufsteigenden Zahlenfolge zugrunde liegt, wird ''Zählen'' genannt.&lt;ref>[http://www.duden.de/rechtschreibung/zaehlen „zählen“] auf ''www.duden.de''&lt;/ref> Das zugehörige Substantiv '''Zählung''' bezeichnet den Zählvorgang oder dessen Ergebnis (z.&amp;nbsp;B. eine [[Volkszählung]]). Das Abzählen der Anzahl von definierten Einheiten ([[Normal]]en), Objekten oder Ereignissen ist eine Form der [[Messung]].
+
+Aufgrund von archäologischen Zeugnissen ist belegt, dass Menschen seit mindestens 50.000 Jahren über Zählverfahren verfügen&lt;ref>''An Introduction to the History of Mathematics'' (6th Edition) by [[Howard Eves]] (1990) p.&amp;nbsp;9&lt;/ref>. Zählen wurde bereits in alten Kulturen verwendet, um die Anzahl und Vollständigkeit von sozialen und ökonomischen Zählobjekten wie Gruppenmitgliedern, Beutetieren, Besitz oder Schulden zu erfassen. Das Zählen führte mit zur Entwicklung von [[Zahlen|Zahlennotation]], Zahlensystemen und der [[Schrift]].
+
+== Nähere Bestimmung ==
+
+Im Allgemeinen wird durch Zählen die [[Anzahl]] einer [[Endliche Menge|endlichen Menge]] von Objekten festgestellt, indem man, angefangen mit [[eins|1]], nacheinander jedem Objekt die [[Nachfolger (Mathematik)|nächste]] [[natürliche Zahl]] zuordnet, bis keine Objekte mehr übrig bleiben (mittels einer [[Bijektion]]). Die zuletzt zugeordnete Zahl liefert die gesuchte Anzahl. Manche Menschen, besonders Kinder, nehmen dabei die Hände zur Hilfe, um sich nicht zu verzählen. ''(siehe auch: [[Handzähler]])''
+
+Die Größe einer [[Unendliche Menge|unendlichen Menge]] kann nicht mehr durch Zählen festgestellt werden, als Ersatz dient das mathematische Konzept der [[Mächtigkeit (Mathematik)|Mächtigkeit]].
+
+Mathematisch wird dieser Aspekt im Artikel [[Kardinalzahl (Mathematik)|Kardinalzahl]]en behandelt.
+
+Der Mensch ist in der Lage, mehrere Objekte [[Simultanerfassung|simultan zu erfassen]], ohne sie abzählen zu müssen. Um das Zählen zu beschleunigen wird oft nicht jedem einzelnen Objekt die nächste Zahl zugeordnet (entsprechend der [[Addition]] von 1), sondern Zweier- oder Fünfer-Gruppen aufsummiert (Addition von 2 oder 5): „Fünf“, „zehn“, „fünfzehn“, „zwanzig“, ...
+
+Ist über die Anzahl auch die [[Reihenfolge]] oder der [[Rangordnung|Rang]] der Objekte von Bedeutung, spricht man von [[Ordinalzahl]]en.
+
+Beim [[Nummer]]ieren (im Gegensatz zum Zählen) werden Zahlen zum Unterscheiden und nicht zum Zählen verwendet, manchmal ist es dann zweckmäßig, Zahlen auszulassen. Die Nummer des Objekts ist dann jedoch nicht mehr identisch mit seinem Rang. Beispiel: In Identifikationsnummern für Personen (Versicherungen, Personalausweise etc.) werden Geburtsdaten in die Nummer kodiert, wie etwa 10000024121928. Nummern wie 10000032121928 werden nicht vergeben. Derart vergebene Nummern bilden eine [[Nominalskala]].
+
+== Zählen ab 0 ==
+
+In manchen Situationen in der [[Mathematik]] und [[Informatik]] erweist es sich als sinnvoll, mit dem Zählen oder Nummerieren bei [[Null|0]] zu beginnen, zum Beispiel bei [[Speicherzelle]]n oder bei [[Feld (Datentyp)|Arrays]] in den meisten [[Programmiersprache]]n. Man kennt das auch von Häusern: Das erste Geschoss steht über dem Erdgeschoss (der 0. Etage). Darunter befindet sich der Keller (-1. Etage). Raumnummern innerhalb einer Etage fangen bei 0 an (00 = Toilette). Wenn man 100 Räume pro Etage hat, und man die Räume in der untersten mit 0 bis 99 durchnummeriert und die darüber mit 100 bis 199, ist die 100er-Stelle der Raumnummern gleich der Etage, ohne dass man Nummern auslassen muss.
+
+== Zählen von Distanzen ==
+
+Beim Zählen von [[Abstand|Distanzen]] innerhalb einer Folge von Elementen verfährt man, anders als beim Zählen der Elemente selbst, üblicherweise so, dass man beim ''zweiten'' Element mit 1 zu zählen beginnt. Auf diese Weise ergibt sich die korrekte Distanz. Beispiel:
+
+{| class="prettytable" 
+|Element:
+|&lt;center>1||&amp;nbsp;2||&amp;nbsp;3||&amp;nbsp;4||&amp;nbsp;5||&amp;nbsp;6||&amp;nbsp;7||&amp;nbsp;8||&amp;nbsp;9||10
+|-
+|Distanz zum ersten Element:||(0)||&amp;nbsp;1||&amp;nbsp;2||&amp;nbsp;3||&amp;nbsp;4||&amp;nbsp;5||&amp;nbsp;6||&amp;nbsp;7||&amp;nbsp;8||&amp;nbsp;9
+|}
+
+Die Distanz eines Elements zu sich selbst ist 0. Sind die Elemente fortlaufend durchnummeriert, so kann die Distanz auch berechnet werden, indem die Differenz zwischen den beiden Zahlen gebildet wird ([[Subtraktion]]).
+
+Eine mögliche Alternative dazu ist die historische Inklusivzählung (siehe unten).
+
+== Zur Biosoziologie des Zählens ==
+
+[[Datei:Memogeste_geld5.jpg|miniatur|250px|Zählen mit Geld.]]
+Zählen ist eine [[Sprache|sprachliche]] Fertigkeit, die im strengen Sinn vermutlich erst der [[Anthropologie|Mensch]] im Lauf seiner [[Biosoziologie|biosozialen]] [[Phylogenese]] (Stammesentwicklung) erworben hat. Tiere, etwa Vögel, können nach dieser Annahme wohl bemerken, dass bei kleinen Anzahlen (z. B. ihrer Eier) eins ‚fehlt‘, aber sie können noch nicht durchzählen. Da - nach [[Dieter Claessens]] - für den Menschen diesseits des Tier-Mensch-Übergangsfeldes zunächst buchstäblich „kein Ei wie das andere aussah“,&lt;ref>Dieter Claessens: ''Das Konkrete und das Abstrakte. Soziologische Skizzen zur Anthropologie.'' Suhrkamp, Frankfurt am Main 1980, ISBN 3-518-07329-X&lt;/ref> gehört zum Zählen ein geschärftes [[Abstraktion]]svermögen (siehe auch [[Biosoziologie]]).
+
+Dass etwas paarweise auftritt (Augen, Ohren, Hände), musste noch nicht notwendig dazu führen, dass Menschen auf das „Zählen“ mit Hilfe von [[Zahl]]en kamen. Denn als Erstes musste sich ihnen die Doppelung - die Zwei - körperlich und konkret aufdrängen. Eine sprachliche Alternative zum Zählen sind hier der [[Paral]] oder der [[Dual (Grammatik)|Dual]], zwei Formen der „Zweizahl“, die neben den [[Singular]] (die „Einzahl“) treten und alle Substantiv- und Verbformen entsprechend durchziehen. Die (zunächst anzunehmende) enge Bindung dieser Form der Zweizahl an den achsensymmetrischen menschlichen Leib und das allgemeine Auftreten des Duals in allen insoweit erschlossenen indoeuropäischen Sprachen lassen darauf folgern, dass man in seiner Entstehungszeit noch nicht oder nur mühsam über die Zwei hinaus „''bis [[Drei]] zählen''“ konnte. Vielerlei ''gleich'' zu setzen, um es dann zu zählen, erfordert eine neuartige Abstraktionsleistung. Daraus folgt wiederum, dass vermutlich der Dual historisch älter als der Plural (die „Mehrzahl“) ist.
+
+Auch liegt, wenn sich die „Zweizahl“ in der Überlebenspraxis als unzureichend bemerkbar macht, die alsbaldige ‚Erfindung‘ des „Plurals“ immer noch nicht zwingend nahe. In einigen Sprachen wurden als [[Numerus]] analog zum Dual erst noch die „Dreizahl“ (der [[Trial (Grammatik)|Trial]]), sogar dann noch die „Vierzahl“ (der [[Quadral]]) und der „kleine Plural“ (der [[Paukal]]) entwickelt.
+
+== Die Inklusivzählung ==
+
+[[Abstand|Abstände]] (Distanzen) und [[Zeit]]räume wurden von der [[Antike]] bis in nachmittelalterliche Zeit hinein nach der ''Inklusivzählung'' gezählt; dabei wird sowohl das Start- als auch das Endelement einer Folge mitgezählt. 
+Insbesondere bei Zeiträumen verursacht diese Zählweise manchmal Verwirrung: Die alle 4 Jahre stattfindenden [[Olympische Spiele der Antike|Olympischen Spiele]] wurden z.&amp;nbsp;B. als ''penteterisch'' (''πεντητη�?ικός'', ‚alle fünf Jahre zu feiern‘) bezeichnet, alle 2 Jahre stattfindende Wettkämpfe wurden als ''trieterisch'' (''τ�?ιετη�?ικός'', ‚alle drei Jahre zu feiern‘) bezeichnet usw. Siehe dazu auch den Artikel [[Zaunpfahlproblem]]. 
+
+Diese Vorgehensweise, die beim Zählen von ''Dingen'' korrekt ist, ergibt beim Zählen von ''Distanzen'' Werte, die für uns immer um 1 zu groß sind. Man kann jedoch mit den so gezählten Distanzen problemlos arbeiten, solange man sich der Inklusivzählung bewusst bleibt und ihre besonderen Eigenschaften berücksichtigt – zum Beispiel, dass beim Addieren zweier aufeinanderfolgender Distanzen 1 abgezogen werden muss, da das Mittelelement sonst doppelt gezählt wird.
+
+Beispiele für die historische Inklusivzählung, die noch heute unseren Sprachgebrauch bestimmen, sind:
+
+=== Zählung von Tagen ===
+
+Normalerweise gilt heute für Angaben wie ''in n Tagen'', dass der laufende Tag nicht mitgerechnet wird. Man sagt zum Beispiel nicht ''in zwei Tagen'' wenn ‚morgen‘ gemeint ist. Dagegen ist es im deutschen Sprachraum weit verbreitet, ''in acht Tagen'' zu sagen, wenn eine [[Woche]] (sieben Tage) gemeint ist. Eine Analogie existiert im Französischen mit ''quinze jours'', zu deutsch ‚fünfzehn Tage‘, als Bezeichnung für zwei Wochen, ebenso im Griechischen (''δεκαπενθήμε�?ο'') und im Spanischen (''quincena'').
+
+Der aktuelle Wochentag wird bei der Inklusivzählung mitgezählt:
+{| class="prettytable"
+! Wochentag:                     
+!width="10"  style="padding:5px;"| Montag
+!width="10"  style="padding:5px;"| Dienstag
+!width="10"  style="padding:5px;"| Mittwoch
+!width="10"  style="padding:5px;"| Donnerstag
+!width="10"  style="padding:5px;"| Freitag
+!width="10"  style="padding:5px;"| Samstag
+!width="10"  style="padding:5px;"| Sonntag
+!width="10"  style="padding:5px;"| Montag
+|-
+| "Nummer" des Tages:||&lt;center>1.||&lt;center>2.||&lt;center>3.||&lt;center>4.||&lt;center>5.||&lt;center>6.||&lt;center>7.||&lt;center>1. 
+|-
+| Distanz:|| ||1 Tag||2 Tage||3 Tage||4 Tage||5 Tage||6 Tage||7 Tage  
+|-
+| Distanz bei Inklusivzählung:|| ||2 Tage||3 Tage||4 Tage||5 Tage||6 Tage||7 Tage||8 Tage
+|}
+
+Weitere Beispiele:
+* Im [[Kalender (Römisches Reich)|Römischen Kalender]] waren die [[Nonen]] (‚die neunten Tage‘) acht Tage vor den [[Iden (Kalender)|Iden]] (und nicht neun)
+* [[Christi Himmelfahrt]] wird 39 Tage nach [[Ostern]] gefeiert, die jedoch als ''40 Tage'' bezeichnet werden, da der Ostersonntag mitgezählt wird
+* [[Pfingsten]] wird 49 Tage nach Ostern gefeiert und nicht 50
+* Umgekehrt werden bei einem Hotelaufenthalt, etwa ''Samstag–Sonntag'' zwar zwei Tage genannt, doch nur der Anreisetag als übernachtungswirksam gezählt: ''bleibt einen Tag'' (oder: ''mit einer Übernachtung'').
+
+=== Zählung von Jahren und Jahrhunderten ===
+
+In der [[Historische Chronologie|Historischen Chronologie]] gibt es das Problem der Inklusivzählung. So können beispielsweise die überlieferten Regierungsjahre von Herrschern nicht einfach addiert werden, weil diejenigen Jahre, an denen ein Herrscherwechsel stattfand, doppelt gezählt wurden.
+
+=== Intervalle in der Musik ===
+
+Auch bei [[Intervall (Musik)|musikalischen Intervallen]] wird sowohl der Anfangs- als auch der Endeton bei der Benennung mitgezählt. Daher hat die [[Prime]] den Abstand 0 Töne, die [[Sekunde (Musik)|Sekunde]] den Abstand 1 Ton, die [[Terz (Musik)|Terz]] den Abstand 2 Töne, die [[Quarte]] den Abstand 3 Töne, die [[Quinte]] den Abstand 4 Töne, die [[Sexte]] den Abstand 5 Töne, die [[Septime]] den Abstand 6 Töne und [[Oktave]] den Abstand von 7 Tönen.
+
+Sprachlich verwirrend kommt hinzu, dass das lateinische Wort ''intervallum'' "Zwischenraum" bedeutet, was eher eine Exklusiv- als eine Inklusivzählung suggeriert.
+
+Beispiel der [[C-Dur]]-[[Tonleiter]]:
+{|class="prettytable" 
+|Tonname:||length="20"  style="padding:5px;"|C||length="20"  style="padding:5px;"|D||length="20"  style="padding:5px;"|E||length="20"  style="padding:5px;"|F||length="20"  style="padding:5px;"|G||length="20"  style="padding:5px;"|A||length="20"  style="padding:5px;"|H||length="20"  style="padding:5px;"|C
+|-
+|Tonname als Zahl:||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7||align="center"|1
+|-
+|Abstand zum Grundton:||align="center"|0||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7
+|-
+|Abstand bei Inklusivzählung:||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7||align="center"|8
+|}
+
+Dass der in der Musik übliche Name jedes Intervalls um 1 größer ist, sieht man unter anderem bei der Addition von Intervallen. Eine Quarte und eine Quinte ergeben zusammen eine Oktave. Aber 4 + 5 ist nicht 8 – vielmehr ist 3 + 4 = 7. Dies deckt sich mit der Tatsache, dass die Oktave in 7 (und nicht etwa in 8) [[Stammton|Stammtöne]] eingeteilt wird.
+
+Dass die Inklusivzählung dennoch sinnvoll sein kann, sieht man daran, dass beim Ausdruck einer Prime ein Ton beteiligt ist. Die musikalischen Intervallnamen geben immer die richtige Anzahl Töne an, wenn sowohl der Anfangs- als auch der Endeton einer Folge mitgespielt werden. Zum Beispiel werden beim Durchspielen einer [[Heptatonik|heptatonischen]] (siebentönigen) Tonleiter vom [[Grundton]] bis zu seiner Oktave 8 Töne gespielt. Der achte Ton, der Oktavton, wird mitgespielt, da die Tonleiter nur so eine wohlklingende, vollständige Tonfolge bildet. Spielt man nur 7 Töne, fehlt der Schlusston der Tonleiter.
+
+== Quellen ==
+&lt;references />
+
+== Literatur ==
+*H. Wiese: ''Zahl und Numerale. Eine Untersuchung zur Korrelation konzeptueller und sprachlicher Strukturen'' (studia grammatica 44). Berlin 1997.
+*H. Wiese: ''Numbers, Language, and the Human Mind''. Cambridge 2003.
+*M. Wedell: ''Zählen. Semantische und praxeologische Studien zum numerischen Wissen im Mittelalter'' (Historische Semantik 14). Göttingen 2011.
+
+== Siehe auch ==
+
+* [[Zahlentheorie]]
+* [[Mengenunterscheidung bei Tieren]]
+
+{{Wiktionary|zählen}}
+
+{{DEFAULTSORT:Zahlen}}
+[[Kategorie:Biosoziologie und Soziobiologie]]
+[[Kategorie:Messtechnik]]
+
+[[ar:عد (رياضيات)]]
+[[ca:Comptar]]
+[[ceb:Ihap]]
+[[en:Counting]]
+[[es:Contar]]
+[[eu:Zenbaketaren oinarriak]]
+[[fa:شمارش]]
+[[fr:Compte]]
+[[he:מנייה]]
+[[id:Pencacahan]]
+[[ko:셈]]
+[[ms:Membilang]]
+[[nl:Tellen]]
+[[simple:Counting]]
+[[sv:Räknande]]
+[[th:�?ารนับ]]
+[[vo:Numam]]
+[[zh:計數]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><a href="/wiki/Hilfe:Zusammenfassung_und_Quellen" title="Hilfe:Zusammenfassung und Quellen"><span title="Bitte die vorgenommenen Änderungen kurz beschreiben.">Zusammenfassung und Quellen</span></a>:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Gib eine kurze Zusammenfassung ein. [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<table cellspacing="4">
+
+<tr>
+<td align="center" style="font-size:110%"> <b><a href="/wiki/Wikipedia:Urheberrechte_beachten" title="Wikipedia:Urheberrechte beachten">Das Kopieren urheberrechtlich geschützter Werke ist verboten!</a></b>
+</td>
+<td> Mit dem Speichern dieser Seite versicherst du, dass du den Beitrag selbst verfasst hast bzw. dass er keine fremden Rechte verletzt, und willigst ein, ihn unter der <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution/Share-Alike Lizenz 3.0</a> und der <a rel="nofollow" class="external text" href="//www.gnu.org/copyleft/fdl.html">GNU-Lizenz für freie Dokumentation</a> zu veröffentlichen. Falls du den Text nicht selbst verfasst hast, muss er unter den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen" class="extiw" title="wmf:Nutzungsbedingungen">Nutzungsbedingungen</a> verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen. Du stimmst einer Autoren-Nennung mindestens durch URL oder Verweis auf den Artikel zu. <b>Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.</b>
+</td></tr>
+<tr>
+<td align="center"> <b><a href="/wiki/Wikipedia:Belege" title="Wikipedia:Belege">Bitte gib Belege für hinzugefügte Informationen an!</a></b>
+</td>
+<td> Wikipedia-Artikel sollen nur überprüfbare Informationen aus zuverlässigen Publikationen enthalten.
+</td></tr></table>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Seite speichern" accesskey="s" title="Deine &#xC4;nderungen zur Sichtung vorschlagen [s]"/>
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Vorschau zeigen" accesskey="p" title="Vorschau der Änderungen an dieser Seite. Bitte vor dem Speichern benutzen! [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Änderungen zeigen" accesskey="v" title="Änderungen am Text zeigen [v]" />
+	<span class='cancelLink'><a href="/wiki/Z%C3%A4hlen" title="Zählen" id="mw-editform-cancel">Abbrechen</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Hilfe:Bearbeiten">Bearbeitungshilfe</a> (wird in einem neuen Fenster geöffnet)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="mw-editTools"></div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Folgende <a href="/wiki/Hilfe:Vorlagen" title="Hilfe:Vorlagen">Vorlagen</a> werden von diesem Artikel verwendet:
+</p></div><ul>
+<li><a href="/wiki/Vorlage:Bausteindesign3" title="Vorlage:Bausteindesign3">Vorlage:Bausteindesign3</a> (<a href="/w/index.php?title=Vorlage:Bausteindesign3&amp;action=edit" title="Vorlage:Bausteindesign3">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Wiktionary" title="Vorlage:Wiktionary">Vorlage:Wiktionary</a> (<a href="/w/index.php?title=Vorlage:Wiktionary&amp;action=edit" title="Vorlage:Wiktionary">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:%C3%9Cberarbeiten" title="Vorlage:Überarbeiten">Vorlage:Überarbeiten</a> (<a href="/w/index.php?title=Vorlage:%C3%9Cberarbeiten&amp;action=edit" title="Vorlage:Überarbeiten">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>Diese Seite gehört zu 1 Wartungskategorie:
+</p></div><ul>
+<li><a href="/wiki/Kategorie:Wikipedia:%C3%9Cberarbeiten" title="Kategorie:Wikipedia:Überarbeiten">Kategorie:Wikipedia:Überarbeiten</a></li>
+</ul></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Von „<a href="http://de.wikipedia.org/wiki/Zählen">http://de.wikipedia.org/wiki/Zählen</a>“				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigationsmenü</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Meine Werkzeuge</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Z%C3%A4hlen&amp;returntoquery=action%3Dedit&amp;type=signup">Benutzerkonto anlegen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Z%C3%A4hlen&amp;returntoquery=action%3Dedit" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namensräume</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Z%C3%A4hlen"  title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Diskussion:Z%C3%A4hlen"  title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Varianten</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Ansichten</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Z%C3%A4hlen" >Lesen</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Z%C3%A4hlen&amp;action=edit"  title="Seite bearbeiten. Bitte vor dem Speichern die Vorschaufunktion benutzen.">Bearbeiten</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Z%C3%A4hlen&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Aktionen</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Suche</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Suche nach Seiten, die diesen Text enthalten" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Volltext" width="12" height="13" /></button>								<input type='hidden' name="title" value="Spezial:Suche"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/e/ec/Wikipedia-logo-v2-de.png);" href="/wiki/Wikipedia:Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li>
+			<li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li>
+			<li id="n-alphindex"><a href="/wiki/Spezial:Alle_Seiten">Von A bis Z</a></li>
+			<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" role="navigation" id='p-Mitmachen'>
+	<h3>Mitmachen</h3>
+	<div class="body">
+		<ul>
+			<li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li>
+			<li id="n-Neuerartikel"><a href="/wiki/Wikipedia:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li>
+			<li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Hilfeseite anzeigen">Hilfe</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Kontakt">Kontakt</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Werkzeuge</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Z%C3%A4hlen" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Z%C3%A4hlen" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+			<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Z%C3%A4hlen&amp;action=info">Seiteninformationen</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia:Datenschutz" title="Wikipedia:Datenschutz">Datenschutz</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+											<li id="footer-places-mobileview"><a href="http://de.m.wikipedia.org/wiki/Z%C3%A4hlen" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.WikiMiniAtlas","ext.gadget.CommonsDirekt","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","mw.PopUpMediaTransform","ext.flaggedRevs.advanced"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_bold.png", "Fetter Text", "\'\'\'", "\'\'\'", "Fetter Text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_italic.png", "Kursiver Text", "\'\'", "\'\'", "Kursiver Text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Interner Link", "[[", "]]", "Link-Text", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "Externer Link (http:// beachten)", "[", "]", "http://www.example.com Link-Text", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Überschrift", "\n== ", " ==\n", "Überschrift", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Dateilink", "[[Datei:", "]]", "Beispiel.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "Mediendatei-Link", "[[Medium:", "]]", "Beispiel.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematische Formel (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Formel hier einfügen", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Unformatierter Text", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Unformatierten Text hier einfügen", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Deine Signatur mit Zeitstempel", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontale Linie (sparsam verwenden)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1017 in 0.242 secs. -->
+	</body>
+</html>

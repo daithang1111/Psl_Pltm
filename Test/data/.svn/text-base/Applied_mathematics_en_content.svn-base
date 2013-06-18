@@ -1,0 +1,137 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{For|the bioinformatics company|Applied Maths}}
+[[File:Vehicle Routing Problem Example.svg|thumb|right|Efficient solutions to the [[vehicle routing problem]] require tools from [[combinatorial optimization]] and [[integer programming]].]]
+'''Applied mathematics''' is a branch of [[mathematics]] that concerns itself with [[mathematical model|mathematical method]]s that are typically used in science, engineering, business, and industry. Thus, "applied mathematics" is a [[mathematical science]] with specialized knowledge. The term "applied mathematics" also describes the [[professional]] specialty in which mathematicians work on practical problems; as a profession focused on practical problems, ''applied mathematics'' focuses on the formulation and study of mathematical models. In the past, practical applications have motivated the development of mathematical theories, which then became the subject of study in [[pure mathematics]], where mathematics is developed primarily for its own sake. Thus, the activity of applied mathematics is vitally connected with research in pure mathematics.
+
+==History==
+[[File:Elmer-pump-heatequation.png|thumb|right|A numerical solution to the [[heat equation]] on a pump casing [[Mathematical model|model]] using the [[finite element method]].]]
+Historically, applied mathematics consisted principally of [[Mathematical analysis|applied analysis]], most notably [[differential equations]]; [[approximation theory]] (broadly construed, to include [[Representation (mathematics)|representation]]s, [[Asymptotic analysis|asymptotic]] methods, [[Calculus of variations|variational methods]], and [[numerical analysis]]); and applied [[probability]].  These areas of mathematics were intimately tied to the development of [[Newtonian physics]], and in fact the distinction between mathematicians and physicists was not sharply drawn before the mid-19th century.  This history left a legacy as well: until the early 20th century subjects such as [[classical mechanics]] were often taught in applied mathematics departments at American universities rather than in [[physics]] departments, and [[fluid mechanics]] may still be taught in applied mathematics departments.&lt;ref name=Stolz2002>{{Citation
+ | title = The History Of Applied Mathematics And The History Of Society
+ | url = http://www.springerlink.com/index/T152575218M865W4.pdf
+ | year = 2002
+ | author = Stolz, M.
+ | journal = Synthese
+ | pages = 43–57
+ | volume = 133
+ | issue = 1
+ | accessdate = 2009-07-07
+ | doi = 10.1023/A:1020823608217
+}}&lt;/ref> [[Engineering]] and [[computer science]] departments have traditionally made use of applied mathematics.
+
+==Divisions==
+[[File:HD-Rayleigh-Taylor.gif|left|thumb|[[Fluid mechanics]] is often considered a branch of applied mathematics.]]
+Today, the term "applied mathematics" is used in a broader sense. It includes the classical areas above, as well as other areas that have become increasingly important in applications. Even fields such as [[number theory]] that are part of [[pure mathematics]] are now important in applications (such as [[cryptography]]), though they are not generally considered to be part of the field of applied mathematics ''per se''. Sometimes, the term "applicable mathematics" is used to distinguish between the traditional applied mathematics that developed alongside physics and the many areas of mathematics that are applicable to real-world problems today.
+
+There is no consensus as to what the various branches of applied mathematics are. Such categorizations are made difficult by the way mathematics and science change over time, and also by the way universities organize departments, courses, and degrees.
+
+Many mathematicians distinguish between "applied mathematics", which is concerned with mathematical methods, and the "applications of mathematics" within science and engineering. A [[biology|biologist]] using a [[Matrix population models|population model]] and applying known mathematics would not be ''doing'' applied mathematics, but rather ''using'' it; however, mathematical biologists have posed problems that have stimulated the growth of pure mathematics. Mathematicians such as [[Henri Poincaré|Poincaré]] and [[Vladimir Arnold|Arnold]] deny the existence of "applied mathematics" and claim that there are only "applications of mathematics"; similarly, non-mathematicians blend applied mathematics and applications of mathematics. The use and development of mathematics to solve industrial problems is also called "industrial mathematics".&lt;ref>{{citation | author=University of Strathclyde | title=Industrial Mathematics | url=http://www.maths.strath.ac.uk/applying/postgraduate/research_topics/industrial_mathematics | date=17 January 2008 | accessdate=8 January 2009}}&lt;/ref>
+
+The success of modern numerical mathematical methods and software has led to the emergence of [[computational mathematics]], [[computational science]], and [[computational engineering]], which use [[supercomputer|high-performance computing]] for the [[simulation]] of phenomena and the solution of problems in the sciences and engineering. These are often considered interdisciplinary disciplines.
+
+==Utility==
+[[File:Market Data Index NYA on 20050726 202628 UTC.png|right|thumb|[[Mathematical finance]] is concerned with the modelling of financial markets.]]
+Historically, mathematics was most important in the [[natural sciences]] and [[engineering]]. However, since [[World War II]], fields outside of the physical sciences have spawned the creation of new areas of mathematics, such as [[game theory]] and [[social choice theory]], which grew out of economic considerations, or [[neural networks]], which arose out of the study of the brain in [[neuroscience]].
+
+The advent of the computer has created new applications: studying and using the new computer technology itself ([[computer science]]), using computers to study problems arising in other areas of science ([[computational science]]), and studying the mathematics of computation (for example, [[theoretical computer science]], [[computer algebra]], [[numerical analysis]]).  [[Statistics]] is probably the most widespread [[mathematical science]] used in the [[social sciences]], but other areas of mathematics are proving increasingly useful in these disciplines, most notably in [[economics]].
+
+==Status in academic departments==
+{{Unreferenced section|date=February 2008}}
+Academic institutions are not consistent in the way they group and label courses, programs, and degrees in applied mathematics.  At some schools, there is a single mathematics department, whereas others have separate departments for Applied Mathematics and (Pure) Mathematics.  It is very common for Statistics departments to be separate at schools with graduate programs, but many undergraduate-only institutions include statistics under the mathematics department.
+
+Many applied mathematics programs (as opposed to departments) consist of primarily cross-listed courses and jointly appointed faculty in departments representing applications.  Some Ph.D. programs in applied mathematics require little or no coursework outside of mathematics, while others require substantial coursework in a specific area of application.  In some respects this difference reflects the distinction between "application of mathematics" and "applied mathematics".
+
+Some universities in the [[United Kingdom|UK]] host departments of ''Applied Mathematics and Theoretical Physics'',&lt;ref>For example see, [http://www.tait.ac.uk/History.html  The Tait Institute: History (2nd par.)]. Accessed Nov 2012.&lt;/ref> but it is now much less common to have separate departments of pure and applied mathematics. A notable exception to this is the [[Faculty of Mathematics, University of Cambridge|Department of Applied Mathematics and Theoretical Physics]] at the [[University of Cambridge]], housing the [[Lucasian Professor of Mathematics]] whose past holders include [[Isaac Newton]], [[Charles Babbage]], [[James Lighthill]], [[Paul Dirac]] and [[Stephen Hawking]].
+
+Schools with separate applied mathematics departments range from [[Brown University]], which has a well-known and large Division of Applied Mathematics that offers degrees through the [[doctorate]], to [[Santa Clara University]], which offers only the [[Master of Science|M.S.]] in applied mathematics.&lt;ref>{{Citation
+ | title = Santa Clara University Dept of Applied Mathematics
+ | url = http://www.scu.edu/academics/bulletins/undergraduate/Department-of-Applied-Mathematics.cfm | accessdate = 2011-03-05}}&lt;/ref>  Research universities dividing their mathematics department into pure and applied sections include [[Harvard]] and [[MIT]].
+
+==Other associated mathematical sciences==
+[[File:Oldfaithful3.png|thumb|right|Applied mathematics has substantial overlap with [[statistics]].]]
+Applied mathematics is closely related to other mathematical sciences.
+
+===Scientific computing===
+[[Scientific computing]] includes applied mathematics (especially [[numerical analysis]]), [[computing science]] (especially [[high-performance computing]]), and mathematical modelling in a scientific discipline.
+
+===Computer science===
+[[Computer science]] relies on [[logic]], [[algebra]], and [[combinatorics]].
+
+===Operations research and management science===
+[[Operations research]] and [[management science]] are often taught in faculties of engineering, business, public policy.
+
+===Statistics===
+Applied mathematics has substantial overlap with the discipline of [[statistics]]. [[Statisticians|Statistical theorists]] study and improve statistical procedures with mathematics, and statistical research often raises mathematical questions. Statistical theory relies on [[Probability theory|probability]] and [[optimal decision|decision theory]], and makes extensive use of [[scientific computing]], [[mathematical analysis|analysis]], and [[Mathematical optimization|optimization]]; for the [[design of experiments]], statisticians use [[algebraic statistics|algebra]] and [[combinatorial design]]. Applied mathematicians and [[statistician]]s often work in a department of mathematical sciences (particularly at colleges and small universities).
+
+===Actuarial science===
+[[Actuarial science]] uses [[probability]], [[statistics]], and [[economic theory]].
+
+===Economics===
+{{Main|Mathematical economics}}
+According to the [[Mathematics Subject Classification]] (MSC), mathematical economics falls into the [[Mathematics Subject Classification#Applied mathematics / other|Applied mathematics/other]] classification of category 91:
+:Game theory, economics, social and behavioral sciences
+
+with [http://msc2010.org/mscwiki/index.php?title=MSC2010 MSC2010] classifications for '[[Game theory]]' at codes [http://msc2010.org/mscwiki/index.php?title=91Axx 91Axx] and for '[[Mathematical economics]]' at codes [http://msc2010.org/mscwiki/index.php?title=91Bxx  91Bxx]. 
+
+The ''Handbook of Mathematical Economics'' series (Elsevier), currently 4 volumes, distinguishes between mathematical methods in economics per 1st-page chapter links in the accompanying footnote&lt;ref>[[Kenneth J. Arrow]] and Michael D. Intriligator, ed. (1981),  ''Handbook of Mathematical Economics'', v.  [http://www.sciencedirect.com/science/handbooks/15734382/1 1].&lt;/ref> and mathematical approaches to different subjects in in economic theory.&lt;ref>• Kenneth J. Arrow and Michael D. Intriligator, ed. (1982).  ''Handbook of Mathematical Economics'', v. [http://www.sciencedirect.com/science/handbooks/15734382/2 2].&lt;br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• _____ (1986).   ''Handbook of Mathematical Economics'', v. [http://www.sciencedirect.com/science/handbooks/15734382/3 3].&lt;br/>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;• [[Werner Hildenbrand|Hildenbrand, Werner]], and [[Hugo Sonnenschein]], ed. (1991). ''Handbook of Mathematical Economics'', v. [http://www.sciencedirect.com/science/handbooks/15734382 4].&lt;/ref>
+
+Another source with a similar distinction is ''[[The New Palgrave: A Dictionary of Economics]]'' (1987, 4 vols., 1,300 subject entries).  In it, a "Subject Index" includes mathematical entries under 2 headings (vol. IV, pp.&amp;nbsp;982–3): 
+:Mathematical Economics (24 listed, such as "acyclicity", "[[aggregation problem]]", "[[comparative statics]]", "[[lexicographic ordering]]s", "[[linear models]]", "[[order (mathematics)|order]]ings", and "[[qualitative economics]]")
+:Mathematical Methods (42 listed, such as "[[calculus of variations]]", "[[catastrophe theory]]", "[[combinatorics]]," "[[Computable general equilibrium|computation of general equilibrium]]", "[[convexity in economics|convexity]]", "[[convex programming]]", and "stochastic [[optimal control]]").
+
+A widely used system in [[economics]] that includes mathematical methods on the subject is the [[JEL classification codes]].  It originated in the ''[[Journal of Economic Literature]]'' for classifying new books and articles. The relevant categories are listed below (simplified below to omit "Miscellaneous" and "Other" JEL codes), as reproduced from [[JEL classification codes#Mathematical and quantitative methods JEL: C Subcategories]]. ''[[The New Palgrave Dictionary of Economics]]'' (2008, 2nd ed.) also uses the JEL codes to classify its entries.  The corresponding footnotes below have links to [[Abstract (summary)|abstracts]] of ''The New Palgrave [http://www.dictionaryofeconomics.com/dictionary Online]'' for each JEL category (10 or fewer per page, similar to [[Google]] searches).
+ 
+:JEL: C02 - [[Mathematical economics|Mathematical Methods]] (following JEL: C00 - General and JEL: C01 - [[Econometrics]])
+
+:JEL: C6 - [[Mathematical economics|Mathematical Methods]];  [[Mathematical programming|&lt;!-- Math Programming means optimization --> Programming]] [[Programming model|Models]]; [[Mathematical modeling|Mathematical]] and [[Simulation modeling|Simulation Modeling]] &lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C6. The JEL Classification Codes Guide for JEL: 6 has this comment: "Covers studies about general issues related to mathematical methods that are of interest to economists."&lt;/ref>
+::JEL: C60 - [[Mathematical economics|General]]
+::JEL: C61 - [[Optimization (mathematics)|Optimization techniques]]; [[Operations research|Programming models]]; [[Dynamical systems|Dynamic analysis]]&lt;!--Please do not use link to "[[Dynamic analysis]]," which  to Dynamic scoring: 0 hits for Google Scholar search of: JEL: C61 "Dynamic scoring")-->&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C61&lt;/ref>
+::JEL: C62 - [[Existence theorem|Existence]] and [[Stability theory|stability]] conditions of [[economic equilibrium|equilibrium]]&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C62&lt;/ref>
+::[[:Category:Computational economics|JEL: C63]] - [[Computational economics|Computational techniques]]; [[Simulation modeling]]&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C63&lt;/ref>
+::JEL: C67 - [[Input-output model|Input–output models]]
+::JEL: C68 - [[Computable general equilibrium|Computable General Equilibrium models]]&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C68&lt;/ref>
+
+:JEL: C7 - [[Game theory]] and [[Bargaining|Bargaining theory]]&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C7&lt;/ref>
+::JEL: C70 - General&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C70&lt;/ref>
+::JEL: C71 - [[Cooperative game]]s&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C71&lt;/ref>
+::JEL: C72 - [[Noncooperative game]]s&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C72&lt;/ref>
+::JEL: C73 - [[Stochastic game|Stochastic]] and [[Dynamic game]]s; [[Evolutionary game theory|Evolutionary games]]; Repeated Games&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C73&lt;/ref>
+::JEL: C78 - [[Bargaining|Bargaining theory]]; [[Matching (graph theory)|Matching theory]]&lt;ref>http://www.dictionaryofeconomics.com/search_results?q=&amp;field=content&amp;edition=all&amp;topicid=C78&lt;/ref>
+
+Mathematical methods as delineated in related economics texts include:
+* Alpha C. Chiang and Kevin Wainwright, [1967] 2005. ''Fundamental Methods of Mathematical Economics'', McGraw-Hill Irwin. [http://www.mhprofessional.com/product.php?isbn=0070109109 Contents.]
+* [[E. Roy Weintraub]], 1982. ''Mathematics for Economists'',  Cambridge.  [http://books.google.com/books?id=kJAoyAIms_4C&amp;printsec=find&amp;pg=PR5=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false Contents].
+* [[Stephen Glaister]], 1984. ''Mathematical Methods for Economists'', 3rd ed., Blackwell. [http://books.google.com/books?id=Ct2nrJSHxsQC&amp;printsec=find&amp;pg=PR5=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false Contents.]
+* Akira Takayama, 1985. ''Mathematical Economics'', 2nd ed. Cambridge. [http://books.google.com/books?id=685iPEaLAEcC&amp;printsec=find&amp;pg=PR9=onepage&amp;q&amp;f=false#v=onepage&amp;q&amp;f=false Contents].
+* [[Nancy Stokey|Nancy L. Stokey]] and [[Robert E. Lucas]] with [[Edward Prescott]], 1989. ''Recursive Methods in Economic Dynamics'', Harvard University Press. [http://www.hup.harvard.edu/catalog.php?isbn=9780674750968 Desecription] and chapter-preview [http://books.google.com/books?hl=en&amp;lr=&amp;id=tWYo0QolyLAC&amp;oi=fnd&amp;pg=PR11&amp;dq=#v=onepage&amp;q=f%3Dfalse&amp;f=false links].
+* [[Avinash Dixit|A. K. Dixit]], [1976] 1990.  ''Optimization in Economic Theory'', 2nd ed., Oxford. [http://books.google.com/books?id=dHrsHz0VocUC&amp;pg=find&amp;pg=PA194=false#v=onepage&amp;q&amp;f=false Description] and contents [http://books.google.com/books?id=dHrsHz0VocUC&amp;pg=PR7&amp;lpg=PR6&amp;dq=false&amp;lr=#v=onepage&amp;q=false&amp;f=false preview].
+* [[Kenneth L. Judd]], 1998. ''Numerical Methods in Economics'', MIT Press.  [http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=3257 Description] and chapter-preview [http://books.google.com/books?id=9Wxk_z9HskAC&amp;pg=PR7&amp;source=gbs_toc_r&amp;cad=3#v=onepage&amp;q&amp;f=false links].
+* Michael Carter, 2001. ''Foundations of Mathematical Economics'', MIT Press. [http://books.google.com/books?id=KysvrGGfzq0C&amp;printsec=find&amp;pg=PR7=onepage&amp;q&amp;f=false Contents].
+* D. Wade Hands, 2004. ''Introductory Mathematical Economics'', 2nd ed. Oxford. [http://www.oup.com/us/catalog/he/subject/Economics/OtherCourses/MathematicalEconomics/?view=usa&amp;sf=toc&amp;ci=9780195133783 Contents].
+* Giancarlo Gandolfo, [1997] 2009. ''Economic Dynamics'', 4th ed., Springer.   [http://www.springer.com/economics/economic+theory/book/978-3-642-03862-4 Description] and [http://books.google.com/books?id=ZMwXi67nhHQC&amp;printsec=find&amp;pg=PR9#v=onepage&amp;q&amp;f=false preview].
+* John Stachurski, 2009. ''Economic Dynamics: Theory and Computation'', MIT Press. [http://johnstachurski.net/book/book.html  Description] and [http://books.google.com/books?id=IzW5rSzlluIC&amp;printsec=find&amp;pg=PR7#v=onepage&amp;q&amp;f=false preview].
+
+===Other disciplines===
+The line between applied mathematics and specific areas of application is often blurred.  Many universities teach mathematical and statistical courses outside of the respective departments, in departments and areas including [[business]], [[engineering]], [[physics]], [[chemistry]], [[psychology]], [[biology]], [[computer science]], [[scientific computation]], and [[mathematical physics]].
+
+== See also ==
+{{Portal|Mathematics}}
+{{Wikipedia books|Applied science}}
+
+* [[Pure mathematics]]
+*[[Society for Industrial and Applied Mathematics]]
+{{-}}
+
+==References==
+&lt;references/>
+
+==External links==
+{{Wikiversity|School of Mathematics}}
+* The [http://www.siam.org/ Society for Industrial and Applied Mathematics] (SIAM) is a professional society dedicated to promoting the interaction between mathematics and  other scientific and technical communities. Aside from organizing and sponsoring numerous conferences, [[Society for Industrial and Applied Mathematics|SIAM]] is a major publisher of research journals and books in applied mathematics.
+
+{{Applied-footer}}
+{{Mathematics-footer}}
+
+{{DEFAULTSORT:Applied Mathematics}}
+[[Category:Applied mathematics| ]]
+
+[[be-x-old:Прыкладна�? мат�?матыка]]
+[[bn:প�?রয়োগমূলক গণিত]]

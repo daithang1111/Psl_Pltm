@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Editing Octonion - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Octonion&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Octonion&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Octonion","wgTitle":"Octonion","wgCurRevisionId":539751097,"wgArticleId":51436,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Octonion","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"ef35d11a99bf7b5b801bb966ba99c2e9","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false,"enableSectionEditLinks":false},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgGuidedTourTestWikitextDescription":"A guider in your on-wiki tour can contain wikitext using onShow and parseDescription. Use it to create a wikilink to the \x3ca href=\"/wiki/Help:Guided_tours\" title=\"Help:Guided tours\"\x3eGuided tours documentation\x3c/a\x3e. Or an external link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3eto GitHub\x3c/a\x3e, for instance.","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-email-notificationspagetriage-mark-as-reviewed":true,"echo-web-notificationspagetriage-mark-as-reviewed":true,"echo-email-notificationspagetriage-add-maintenance-tag":true,"echo-web-notificationspagetriage-add-maintenance-tag":true,"echo-email-notificationspagetriage-add-deletion-tag":true,"echo-web-notificationspagetriage-add-deletion-tag":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,
+"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:b879f67219ff7270fa82da054ada6414 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Octonion skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Editing Octonion</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><div id="editnotice-area" class="editnotice-area" style="clear: both; width: 100%;"><div class="editnotice-namespace" style="width: 100%;">  </div><div class="editnotice-link editnotice-redlink sysop-show accountcreator-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/Octonion&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/Octonion (page does not exist)">Page notice</a></small> </div><div style="clear: both;"></div> </div>
+<div id="mw-anon-edit-warning">
+<table id="anoneditwarningtest" class="plainlinks fmbox fmbox-editnotice" style="background-color:#F8F5C1; font-family:Arial; border:none; height:38px;">
+<tr>
+<td class="mbox-image">
+  <a href="/wiki/File:AnonEditWarning.png" class="image"><img alt="AnonEditWarning.png" src="//upload.wikimedia.org/wikipedia/commons/6/6d/AnonEditWarning.png" width="10" height="20" /></a></td>
+<td class="mbox-text" style=""> <b>You are not logged in</b>. Your <a href="/wiki/IP_address" title="IP address">IP address</a> will be publicly visible if you make any edits. Please <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Octonion&amp;returntoquery=action%3Dedit">log in</a></b> or <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;returnto=Octonion&amp;returntoquery=action%3Dedit">sign up</a></b> to have your edits associated with a user name, among <a href="/wiki/Wikipedia:Why_create_an_account%3F#Summary_of_benefits" title="Wikipedia:Why create an account?">other benefits</a>. </td>
+</tr>
+</table></div>
+<div class="editpage-head-copywarn">
+<p><i>Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">verifiable</a>. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to <a href="/wiki/Wikipedia:REUSE" title="Wikipedia:REUSE" class="mw-redirect">certain terms and conditions</a>.</i>
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Octonion&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Anti-spam check.
+Do <b>NOT</b> fill this in!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="539751097" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225072026" name="wpStarttime" />
+<input type='hidden' value="20130222205846" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">In [[mathematics]], the '''octonions''' are a [[normed division algebra]] over the real numbers, usually represented by the capital letter O, using boldface '''O''' or [[blackboard bold]] &lt;math>\mathbb O&lt;/math>. There are only four such algebras, the other three being the [[real number]]s '''R''', the [[complex number]]s '''C''', and the [[quaternion]]s '''H'''. The octonions are the largest such algebra, with eight dimensions, double the number of the quaternions from which they are an extension. They are [[commutative property|noncommutative]] and [[associative property|nonassociative]], but satisfy a weaker form of associativity, namely they are [[alternative algebra|alternative]].
+
+Octonions are not as well known as the quaternions and complex numbers, which are much more widely studied and used. Despite this they have some interesting properties and are related to a number of exceptional structures in mathematics, among them the [[Simple Lie group#Exceptional cases|exceptional Lie group]]s. Additionally, octonions have applications in fields such as [[string theory]], [[special relativity]], and [[quantum logic]].
+
+The octonions were discovered in 1843 by [[John T. Graves]], inspired by his friend [[William Rowan Hamilton|William Hamilton]]'s discovery of quaternions. Graves called his discovery '''octaves'''. They were discovered independently by [[Arthur Cayley]]&lt;ref>{{harvs|txt|first=Arthur |last=Cayley|authorlink=Arthur Cayley|year=1845}}&lt;/ref> and are sometimes referred to as '''Cayley numbers''' or the '''Cayley algebra'''.
+
+== Definition ==
+
+The octonions can be thought of as octets (or 8-tuples) of real numbers. Every octonion is a real [[linear combination]] of the '''unit octonions''':
+
+:&lt;math>\{e_0, e_1, e_2, e_3, e_4, e_5, e_6, e_7\},\,&lt;/math>
+
+where ''e''&lt;sub>0&lt;/sub> is the scalar or real element; it may be identified with the real number 1. That is, every octonion ''x'' can be written in the form
+:&lt;math>x = x_0e_0 + x_1e_1 + x_2e_2 + x_3e_3 + x_4e_4 + x_5e_5 + x_6e_6 + x_7e_7,\,&lt;/math>
+with real coefficients {''x''&lt;sub>''i''&lt;/sub>}.
+
+Addition and subtraction of octonions is done by adding and subtracting corresponding terms and hence their coefficients, like quaternions. Multiplication is more complex. Multiplication is [[Distributive property|distributive]] over addition, so the product of two octonions can be calculated by summing the product of all the terms, again like quaternions. The product of each term can be given by multiplication of the coefficients and a [[multiplication table]] of the unit octonions, like this one:&lt;ref name=Cayley>
+
+This table is due to [[Arthur Cayley]] (1845) and [[John T. Graves]] (1843). See {{Citation |title=Hypercomplex analysis |edition=Conference on quaternionic and Clifford analysis; proceedings |url=http://books.google.com/?id=H-5v6pPpyb4C&amp;pg=PA168 |page=168 |author=G Gentili, C Stoppato, DC Struppa and F Vlacci |chapter=Recent developments for regular functions of a hypercomplex variable|editor= Irene Sabadini, M Shapiro, F Sommen |isbn=978-3-7643-9892-7 |year=2009 |publisher=Birkaüser}}
+
+&lt;/ref>
+
+&lt;center>
+{| class="wikitable" style="text-align: center;"   
+|-
+  !{{math|&amp;nbsp;×&amp;nbsp;}}
+  !{{math|&amp;nbsp;'''&lt;var>e&lt;/var>'''&lt;sub>0&lt;/sub>&amp;nbsp;}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>1&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>2&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>3&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>4&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>5&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>6&lt;/sub>}}
+  !{{math|'''&lt;var>e&lt;/var>'''&lt;sub>7&lt;/sub>}}
+ |-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+ |-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>1&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+ |-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+|-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>3&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+|-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>4&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+ |-
+!{{math|'''e'''&lt;sub>5&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+|-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}&lt;/td>
+|-
+!{{math|'''&lt;var>e&lt;/var>'''&lt;sub>7&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>7&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>6&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>5&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>4&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>3&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>2&lt;/sub>}}
+  |{{math|&lt;var>e&lt;/var>&lt;sub>1&lt;/sub>}}
+  |{{math|−&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}}
+|-
+ |}
+&lt;/center>
+Most off-diagonal elements of the table are antisymmetric, making it almost a [[skew-symmetric matrix]] except for the elements on the main diagonal, the row and the column for which {{math|&lt;var>e&lt;/var>&lt;sub>0&lt;/sub>}} is an operand.
+
+The table can be summarized by the relations:&lt;ref name= Shestakov>
+
+{{Citation |title=Non-associative algebra and its applications |author=Lev Vasilʹevitch Sabinin, Larissa Sbitneva, I. P. Shestakov |page=235 |chapter=§17.2 Octonion algebra and its regular bimodule representation |url=http://books.google.com/?id=_PEWt18egGgC&amp;pg=PA235 |isbn=0-8247-2669-3 |year=2006|publisher=CRC Press |postscript=&lt;!--none-->}} 
+
+&lt;/ref>
+
+:&lt;math>e_i e_j = - \delta_{ij}e_0 + \varepsilon _{ijk} e_k,\, &lt;/math>
+
+where &lt;math>\varepsilon _{ijk}&lt;/math> is a [[completely antisymmetric tensor]] with value +1 when ''ijk'' = 123, 145, 176, 246, 257, 347, 365, and:
+
+:&lt;math>e_ie_0 = e_0e_i = e_i;\,\,\,\,e_0e_0 = e_0,\,&lt;/math>
+
+with ''e''&lt;sub>0&lt;/sub> the scalar element, and ''i'', ''j'', ''k'' = 1 ... 7.
+
+The above definition though is not unique, but is only one of 480 possible definitions for octonion multiplication. The others can be obtained by permuting the non-scalar elements, so can be considered to have different [[basis (linear algebra)|bases]]. Alternately they can be obtained by fixing the product rule for a few terms, and deducing the rest from the other properties of the octonions. The 480 different algebras are isomorphic, so are in practice identical, and there is rarely a need to consider which particular multiplication rule is used.&lt;ref name=Parra>
+
+{{Citation |title=Clifford algebras with numeric and symbolic computations |author=Rafał Abłamowicz, Pertti Lounesto, Josep M. Parra |url=http://books.google.com/?id=OpbY_abijtwC&amp;pg=PA202 |page=202 |chapter=§ Four ocotonionic basis numberings |publisher=Birkhäuser |year=1996 |isbn=0-8176-3907-1}}
+
+&lt;/ref>&lt;ref name=Manogue>
+
+{{Citation |title=Octonionic representations of Clifford algebras and triality |author=Jörg Schray, Corinne A. Manogue |url=http://www.springerlink.com/content/w1884mlmj88u5205/ |journal=Foundations of physics |pages=17–70 |volume=26 |year=1996 |issue=Number 1/January |doi=10.1007/BF02058887 |publisher=Springer |postscript=.}} Available as [http://arxiv.org/abs/hep-th/9407179v1 ArXive preprint] Figure 1 is located [http://arxiv.org/PS_cache/hep-th/ps/9407/9407179v1.fig1-1.png here].
+
+&lt;/ref>
+
+===Cayley&amp;ndash;Dickson construction===
+A more systematic way of defining the octonions is via the [[Cayley&amp;ndash;Dickson construction]]. Just as quaternions can be defined as pairs of complex numbers, the octonions can be defined as pairs of quaternions. Addition is defined pairwise. The product of two pairs of quaternions (''a'', ''b'') and (''c'', ''d'') is defined by
+:&lt;math>\ (a,b)(c,d)=(ac-d^{*}b,da+bc^{*})&lt;/math>
+where &lt;math>z^{*}&lt;/math> denotes the [[Quaternion#Conjugation, the norm, and reciprocal|conjugate of the quaternion]] ''z''. This definition is equivalent to the one given above when the eight unit octonions are identified with the pairs
+:(1,0), (''i'',0), (''j'',0), (''k'',0), (0,1), (0,''i''), (0,''j''), (0,''k'')
+
+===Fano plane mnemonic===
+[[File:FanoMnemonic.PNG|thumb|A mnemonic for the products of the unit octonions.&lt;ref>{{Harv|Baez|2002|loc=p. 6}}&lt;/ref>]]
+A convenient [[mnemonic]] for remembering the products of unit octonions is given by the diagram at the right, which represents the multiplication table of Cayley and Graves.&lt;ref name=Cayley>
+
+[[Arthur Cayley]] (1845) and [[John T. Graves]] (1843). See {{Citation |title=Hypercomplex analysis |edition=Conference on quaternionic and Clifford analysis; proceedings |url=http://books.google.com/?id=H-5v6pPpyb4C&amp;pg=PA168 |page=168 |author=G Gentili, C Stoppato, DC Struppa and F Vlacci |chapter=Recent developments for regular functions of a hypercomplex variable|editor= Irene Sabadini, M Shapiro, F Sommen |isbn=978-3-7643-9892-7 |year=2009 |publisher=Birkaüser}}
+
+&lt;/ref>&lt;ref name=Lounesto>
+
+{{Citation |title=Clifford algebras: applications to mathematics, physics, and engineering |editor=Pertti Lounesto, Rafał Abłamowicz |page=452 |url=http://books.google.com/?id=b6mbSCv_MHMC&amp;pg=PA452 |chapter=Chapter 29: Using octonions to describe fundamental particles |author=Tevian Dray &amp; Corinne A Manogue
+|isbn=0-8176-3525-4 |year=2004 |publisher=Birkhäuser |postscript=&lt;!--none-->}} Figure 29.1: Representation of multiplication table on projective plane.
+
+&lt;/ref> This diagram with seven points and seven lines (the circle through 1, 2, and 3 is considered a line) is called the [[Fano plane]]. The lines are oriented. The seven points correspond to the seven standard basis elements of Im('''O''') (see definition [[#Conjugate, norm, and inverse|below]]). Each pair of distinct points lies on a unique line and each line runs through exactly three points.
+
+Let (''a'', ''b'', ''c'') be an ordered triple of points lying on a given line with the order specified by the direction of the arrow. Then multiplication is given by
+:''ab'' = ''c'' and ''ba'' = −''c''
+together with [[cyclic permutation]]s. These rules together with
+*1 is the multiplicative identity,
+*''e''&lt;sub>''i''&lt;/sub>&lt;sup>2&lt;/sup> = −1 for each point in the diagram
+completely defines the multiplicative structure of the octonions. Each of the seven lines generates a subalgebra of '''O''' isomorphic to the quaternions '''H'''.
+
+===Conjugate, norm, and inverse===
+The ''conjugate'' of an octonion
+:&lt;math>x = x_0\,e_0 + x_1\,e_1 + x_2\,e_2 + x_3\,e_3 + x_4\,e_4 + x_5\,e_5 + x_6\,e_6 + x_7\,e_7&lt;/math>
+is given by
+:&lt;math>x^* = x_0\,e_0 - x_1\,e_1 - x_2\,e_2 - x_3\,e_3 - x_4\,e_4 - x_5\,e_5 - x_6\,e_6 - x_7\,e_7.&lt;/math>
+Conjugation is an [[involution (mathematics)|involution]] of '''O''' and satisfies ''(xy)''*=''y''* ''x''* (note the change in order).
+
+The ''real part'' of ''x'' is given by 
+:&lt;math>\frac{x + x^*}{2} = x_0\,e_0&lt;/math>
+and the ''imaginary part'' by
+:&lt;math>\frac{x - x^*}{2} = x_1\,e_1 + x_2\,e_2 + x_3\,e_3 + x_4\,e_4 + x_5\,e_5 + x_6\,e_6 + x_7\,e_7.&lt;/math>
+
+The set of all purely imaginary octonions span a 7 dimension subspace of '''O''', denoted Im('''O''').
+
+Conjugation of octonions satisfies the equation
+: &lt;math>x^* =-\frac{1}{6} (x+(e_1x)e_1+(e_2x)e_2+(e_3x)e_3+(e_4x)e_4+(e_5x)e_5+(e_6x)e_6+(e_7x)e_7).&lt;/math>
+
+The product of an octonion with its conjugate, ''x''* ''x'' = ''x'' ''x''*, is always a nonnegative real number:
+
+:&lt;math>x^*x = x_0^2 + x_1^2 + x_2^2 + x_3^2 + x_4^2 + x_5^2 + x_6^2 + x_7^2.&lt;/math>
+
+Using this the norm of an octonion can be defined, as
+
+:&lt;math>\|x\| = \sqrt{x^*x}.&lt;/math>
+
+This norm agrees with the standard [[Euclidean norm]] on '''R'''&lt;sup>8&lt;/sup>.
+
+The existence of a norm on '''O''' implies the existence of [[inverse element|inverses]] for every nonzero element of '''O'''. The inverse of ''x'' ≠ 0 is given by
+:&lt;math>x^{-1} = \frac {x^*}{\|x\|^2}.&lt;/math>
+It satisfies ''x'' ''x''&lt;sup>−1&lt;/sup> = ''x''&lt;sup>−1&lt;/sup> ''x'' = 1.
+
+== Properties ==
+Octonionic multiplication is neither [[commutative]]:
+:&lt;math>e_ie_j = -e_je_i \neq e_je_i\,&lt;/math> if &lt;math>i, j \neq 0&lt;/math>
+nor [[associative]]:
+:&lt;math>(e_ie_j)e_k = -e_i(e_je_k) \neq e_i(e_je_k)\,&lt;/math> if &lt;math>i, j, k \neq 0&lt;/math>
+The octonions do satisfy a weaker form of associativity: they are [[alternative algebra|alternative]]. This means that the [[subalgebra]] generated by any two elements is [[associative]]. Actually, one can show that the subalgebra generated by any two elements of '''O''' is [[isomorphic]] to '''R''', '''C''', or '''H''', all of which are associative. Because of their non-associativity, octonions don't have matrix representations, unlike [[quaternions]].
+
+The octonions do retain one important property shared by '''R''', '''C''', and '''H''': the norm on '''O''' satisfies
+:&lt;math>\|xy\| = \|x\|\|y\|&lt;/math>
+This implies that the octonions form a nonassociative [[normed division algebra]]. The higher-dimensional algebras defined by the [[Cayley–Dickson construction]] (e.g. the [[sedenion]]s) all fail to satisfy this property. They all have [[zero divisor]]s.
+
+Wider number systems exist which have a multiplicative modulus (e.g. 16 dimensional conic [[sedenion]]s). Their modulus is defined differently from their norm, and they also contain [[zero divisor]]s.
+
+It turns out that the only normed division algebras over the reals are '''R''', '''C''', '''H''', and '''O'''. These four algebras also form the only alternative, finite-dimensional [[division algebra]]s over the reals ([[up to]] isomorphism).
+
+Not being associative, the nonzero elements of '''O''' do not form a group. They do, however, form a [[loop (algebra)|loop]], indeed a [[Moufang loop]].
+
+===Commutator and cross product===
+The [[commutator]] of two octonions ''x'' and ''y'' is given by
+
+:&lt;math>[x, y] = xy - yx.\,&lt;/math>
+
+This is antisymmetric and imaginary. If it is considered only as a product on the imaginary subspace Im('''O''') it defines a product on that space, the [[seven-dimensional cross product]], given by
+
+:&lt;math>x \times y = \frac{1}{2}(xy - yx).&lt;/math>
+
+Like the [[cross product]] in three dimensions this is a vector orthogonal to ''x'' and ''y'' with magnitude
+
+:&lt;math>\|x \times y\| = \|x\| \|y\| \sin \theta.&lt;/math>
+
+But like the octonion product it is not uniquely defined. Instead there are many different cross products, each one dependent on the choice of octonion product.&lt;ref>{{Harv|Baez|2002|loc=pp. 37–38}}&lt;/ref>
+
+===Automorphisms===
+An [[automorphism]], ''A'', of the octonions is an invertible [[linear transformation]] of '''O''' which satisfies
+:&lt;math>A(xy) = A(x)A(y).\,&lt;/math>
+The set of all automorphisms of '''O''' forms a [[Group (mathematics)|group]] called [[G2 (mathematics)|''G''&lt;sub>2&lt;/sub>]]. The group ''G''&lt;sub>2&lt;/sub> is a [[simply connected]], [[Compact group|compact]], real [[Lie group]] of dimension 14. This group is the smallest of the [[exceptional Lie group]]s and is isomorphic to the subgroup of Spin(7) that preserves any chosen particular vector in its 8-dimensional real spinor representation.
+
+''See also'': [[PSL(2,7)]] - the [[automorphism group]] of the Fano plane.
+
+==In-line sources and notes==
+{{Reflist}}
+
+==See also==
+&lt;div style="-moz-column-count:2; column-count:2;">
+*[[Split-octonion]]s
+*[[Octonion algebra]]
+*[[Hypercomplex number]]s
+*[[Triality]]
+*[[Spin(8)]]
+*[[Composition algebra]]
+&lt;/div>
+
+==References==
+* {{cite doi|10.1090/S0273-0979-01-00934-X}}
+* {{cite doi|10.1090/S0273-0979-05-01052-9}}
+*{{Citation|first=Arthur |last=Cayley|title= On Jacobi's elliptic functions, in reply to the Rev..; and on quaternions|journal= Philos. Mag. |volume=26 |year=1845|pages=208–211|postscript=&lt;!--none-->}}. Appendix reprinted in ''The Collected Mathematical Papers'', Johnson Reprint Co., New York, 1963, p.&amp;nbsp;127.
+* {{Citation|authorlink=John Horton Conway|last1=Conway|first1=John Horton|last2=Smith|first2=Derek A.|year=2003|title=On Quaternions and Octonions: Their Geometry, Arithmetic, and Symmetry|publisher=A. K. Peters, Ltd.|isbn=1-56881-134-9|postscript=&lt;!--none-->}}. ([http://nugae.wordpress.com/2007/04/25/on-quaternions-and-octonions/ Review]).
+
+==External links==
+* {{springer|title=Cayley numbers|id=p/c021070}}
+*[http://www.youtube.com/watch?v=5sLnYi_AbEI Octonions and the Fano Plane Mnemonic (video demonstration)]
+
+{{Number Systems}}
+
+[[Category:Octonions| ]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe the changes you have made)</small></span></label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>By clicking the "Save page" button, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC-BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>.<br/> You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Save page" accesskey="s" title="Save your changes [s]" />
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes; please use this before saving. [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]" />
+	<span class='cancelLink'><a href="/wiki/Octonion" title="Octonion" id="mw-editform-cancel">Cancel</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Wikipedia:Cheatsheet">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ″ ′ ≈ ≠ ≤ ≥ ± − × ÷ �? → · §   <b>Sign your posts on talk pages:</b> ~~~~
+</p>
+<hr />
+<p><small>
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &amp;nbsp;   &lt;s&gt;&lt;/s&gt;   &lt;sup&gt;&lt;/sup&gt;   &lt;sub&gt;&lt;/sub&gt;   &lt;code&gt;&lt;/code&gt;   &lt;pre&gt;&lt;/pre&gt;   &lt;blockquote&gt;&lt;/blockquote&gt;   &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt;   {{Reflist}}   &lt;references /&gt;   &lt;includeonly&gt;&lt;/includeonly&gt;   &lt;noinclude&gt;&lt;/noinclude&gt;   {{DEFAULTSORT:}}   &lt;nowiki&gt;&lt;/nowiki&gt;   &lt;!-- --&gt;   &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+</small>
+</p>
+<hr />
+<p><small>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ �? «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™<br/>
+<b>Latin:</b> A a �? á À à Â â Ä ä �? ǎ Ă ă Ā �? Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č �? Ç ç   D d Ď �? �? đ Ḍ �? �? ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ �? ɛ �? ə   F f   G g Ġ ġ Ĝ �? Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı �? í Ì ì Î î �? ï �? �? Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ �? ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ �? Ō �? Õ õ Ǫ ǫ Ọ �? �? ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ �?   S s Ś ś Ŝ �? Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y �? ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß �? ð Þ þ Ŋ ŋ �? ə   {{Unicode|}} <br/>
+<b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ �? �? ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   �? ν Ξ ξ Ο ο Π π   Ρ �? Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} <br/>
+<b>Cyrillic:</b> �? а Б б В в Г г   �? ґ Ѓ ѓ Д д Ђ ђ   Е е �? ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   �? н Њ њ О о П п   Р р С �? Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч �? џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э �? Ю ю Я �?   �? <br/>
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ �? ç �? ɣ χ �? ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ �? ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ �?   ɨ ʉ ɯ   ɪ �? ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ �? ɞ ʌ ɔ   æ   �? ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ �?� ˡ   ˈ ˌ �? ˑ ̪   {{IPA|}}
+</small>
+</p>
+</div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages <a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">transcluded</a> onto the current version of this page:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:%3D" title="Template:=">Template:=</a> (<a href="/w/index.php?title=Template:%3D&amp;action=edit" title="Template:=">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation" title="Template:Citation">Template:Citation</a> (<a href="/w/index.php?title=Template:Citation&amp;action=edit" title="Template:Citation">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/core" title="Template:Citation/core">Template:Citation/core</a> (<a href="/w/index.php?title=Template:Citation/core&amp;action=edit" title="Template:Citation/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/identifier" title="Template:Citation/identifier">Template:Citation/identifier</a> (<a href="/w/index.php?title=Template:Citation/identifier&amp;action=edit" title="Template:Citation/identifier">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/make_link" title="Template:Citation/make link">Template:Citation/make link</a> (<a href="/w/index.php?title=Template:Citation/make_link&amp;action=edit" title="Template:Citation/make link">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_doi" title="Template:Cite doi">Template:Cite doi</a> (<a href="/w/index.php?title=Template:Cite_doi&amp;action=edit" title="Template:Cite doi">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_doi/10.1090.2FS0273-0979-01-00934-X" title="Template:Cite doi/10.1090.2FS0273-0979-01-00934-X">Template:Cite doi/10.1090.2FS0273-0979-01-00934-X</a> (<a href="/w/index.php?title=Template:Cite_doi/10.1090.2FS0273-0979-01-00934-X&amp;action=edit" title="Template:Cite doi/10.1090.2FS0273-0979-01-00934-X">edit</a>) </li><li><a href="/wiki/Template:Cite_doi/10.1090.2FS0273-0979-05-01052-9" title="Template:Cite doi/10.1090.2FS0273-0979-05-01052-9">Template:Cite doi/10.1090.2FS0273-0979-05-01052-9</a> (<a href="/w/index.php?title=Template:Cite_doi/10.1090.2FS0273-0979-05-01052-9&amp;action=edit" title="Template:Cite doi/10.1090.2FS0273-0979-05-01052-9">edit</a>) </li><li><a href="/wiki/Template:Cite_journal" title="Template:Cite journal">Template:Cite journal</a> (<a href="/w/index.php?title=Template:Cite_journal&amp;action=edit" title="Template:Cite journal">view source</a>) (protected)</li><li><a href="/wiki/Template:Harv" class="mw-redirect" title="Template:Harv">Template:Harv</a> (<a href="/w/index.php?title=Template:Harv&amp;action=edit" class="mw-redirect" title="Template:Harv">view source</a>) (protected)</li><li><a href="/wiki/Template:Harvard_citation" title="Template:Harvard citation">Template:Harvard citation</a> (<a href="/w/index.php?title=Template:Harvard_citation&amp;action=edit" title="Template:Harvard citation">view source</a>) (protected)</li><li><a href="/wiki/Template:Harvard_citation/core" title="Template:Harvard citation/core">Template:Harvard citation/core</a> (<a href="/w/index.php?title=Template:Harvard_citation/core&amp;action=edit" title="Template:Harvard citation/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Harvard_citations" title="Template:Harvard citations">Template:Harvard citations</a> (<a href="/w/index.php?title=Template:Harvard_citations&amp;action=edit" title="Template:Harvard citations">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Harvard_citations/core" title="Template:Harvard citations/core">Template:Harvard citations/core</a> (<a href="/w/index.php?title=Template:Harvard_citations/core&amp;action=edit" title="Template:Harvard citations/core">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Harvs" class="mw-redirect" title="Template:Harvs">Template:Harvs</a> (<a href="/w/index.php?title=Template:Harvs&amp;action=edit" class="mw-redirect" title="Template:Harvs">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Hide_in_print" title="Template:Hide in print">Template:Hide in print</a> (<a href="/w/index.php?title=Template:Hide_in_print&amp;action=edit" title="Template:Hide in print">view source</a>) (protected)</li><li><a href="/wiki/Template:Math" title="Template:Math">Template:Math</a> (<a href="/w/index.php?title=Template:Math&amp;action=edit" title="Template:Math">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/w/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) (protected)</li><li><a href="/wiki/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/w/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) (protected)</li><li><a href="/wiki/Template:Number_Systems" class="mw-redirect" title="Template:Number Systems">Template:Number Systems</a> (<a href="/w/index.php?title=Template:Number_Systems&amp;action=edit" class="mw-redirect" title="Template:Number Systems">edit</a>) </li><li><a href="/wiki/Template:Number_systems" title="Template:Number systems">Template:Number systems</a> (<a href="/w/index.php?title=Template:Number_systems&amp;action=edit" title="Template:Number systems">edit</a>) </li><li><a href="/wiki/Template:Only_in_print" title="Template:Only in print">Template:Only in print</a> (<a href="/w/index.php?title=Template:Only_in_print&amp;action=edit" title="Template:Only in print">view source</a>) (protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (protected)</li><li><a href="/wiki/Template:Springer" class="mw-redirect" title="Template:Springer">Template:Springer</a> (<a href="/w/index.php?title=Template:Springer&amp;action=edit" class="mw-redirect" title="Template:Springer">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:SpringerEOM" title="Template:SpringerEOM">Template:SpringerEOM</a> (<a href="/w/index.php?title=Template:SpringerEOM&amp;action=edit" title="Template:SpringerEOM">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Str_left" title="Template:Str left">Template:Str left</a> (<a href="/w/index.php?title=Template:Str_left&amp;action=edit" title="Template:Str left">view source</a>) (protected)</li><li><a href="/wiki/Template:Template_other" title="Template:Template other">Template:Template other</a> (<a href="/w/index.php?title=Template:Template_other&amp;action=edit" title="Template:Template other">view source</a>) (protected)</li><li><a href="/wiki/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/w/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) (protected)</li></ul></div><div class="hiddencats"></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/wiki/Octonion">http://en.wikipedia.org/wiki/Octonion</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Octonion&amp;returntoquery=action%3Dedit&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Octonion&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Octonion"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Octonion"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Octonion" >Read</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Octonion&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving.">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Octonion&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" role="navigation" id='p-interaction'>
+	<h3>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Octonion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Octonion" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Octonion&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/Octonion" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.markAsHelpful","ext.Experiments.experiments","wikibase.client.init","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_bold.png", "Bold text", "\'\'\'", "\'\'\'", "Bold text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_italic.png", "Italic text", "\'\'", "\'\'", "Italic text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Internal link", "[[", "]]", "Link title", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "External link (remember http:// prefix)", "[", "]", "http://www.example.com link title", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Level 2 headline", "\n== ", " ==\n", "Headline text", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Embedded file", "[[File:", "]]", "Example.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "File link", "[[Media:", "]]", "Example.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematical formula (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Insert formula here", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Ignore wiki formatting", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Insert non-formatted text here", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Your signature with timestamp", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontal line (use sparingly)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1182 in 0.456 secs. -->
+	</body>
+</html>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/topics/!svn/ver/4966/topicmod/projects/psl_pltm/Psl_Pltm/src/edu/umd/umiacs/clip/tn/data
+END
+generateTrainData.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Psl_Pltm/src/edu/umd/umiacs/clip/tn/data/generateTrainData.java
+END
+generatePSLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Psl_Pltm/src/edu/umd/umiacs/clip/tn/data/generatePSLData.java
+END
+generateSampleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/topics/!svn/ver/4824/topicmod/projects/psl_pltm/Psl_Pltm/src/edu/umd/umiacs/clip/tn/data/generateSampleData.java
+END
+generateTrainDataFromFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/topics/!svn/ver/4966/topicmod/projects/psl_pltm/Psl_Pltm/src/edu/umd/umiacs/clip/tn/data/generateTrainDataFromFile.java
+END

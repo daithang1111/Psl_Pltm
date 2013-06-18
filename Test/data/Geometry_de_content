@@ -1,0 +1,201 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Überarbeiten|grund=Einleitung ist nicht aussagekräftig und verletzt den [[wp:Neutraler Standpunkt|neutralen Standpunkt]].}}
+
+[[Datei:Descartes La-Geometrie 1637.png|thumb|right|[[René Descartes]], La Géometrie (Erstausgabe 1637)]]
+Die '''Geometrie''' ({{ELSalt2|γεωμετ�?ία}} ''geometria'' ‚Erdmaß‘, ‚Landmessung‘) ist ein [[Teilgebiete der Mathematik|Teilgebiet]] der [[Mathematik]].
+
+Einerseits versteht man unter ''Geometrie'' die zwei- und dreidimensionale [[euklidische Geometrie]], die '''Elementargeometrie''', die auch im Schulunterricht gelehrt wird und die sich mit Punkten, Geraden, Ebenen, Abständen, Winkeln etc. beschäftigt, sowie diejenigen Begriffsbildungen und Methoden, die im Zuge einer systematischen und mathematischen Behandlung dieses Themas entwickelt wurden.
+
+Andererseits umfasst der Begriff ''Geometrie'' eine Reihe von großen Teilgebieten der Mathematik, deren Bezug zur Elementargeometrie für Laien nur mehr schwer erkennbar ist.
+
+== Themenbereiche ==
+
+=== Geometrien ===
+Die Verwendung des Plurals weist darauf hin, dass der Begriff Geometrie in einem ganz bestimmten Sinn gebraucht wird, nämlich Geometrie als mathematische Struktur, deren Elemente traditionellerweise Punkte, Geraden, Ebenen, .... heißen, und deren Beziehungen untereinander durch [[Axiom]]e geregelt sind. Dieser Standpunkt geht zurück auf [[Euklid]], der versucht hat, die Sätze der ebenen euklidischen Elementargeometrie auf einige wenige Postulate (d. h. Axiome) zurückzuführen. Die folgende Liste soll einen Überblick über verschiedene Typen von Geometrien, die in dieses Schema passen, geben:
+
+* [[Projektive Geometrie]] und [[Affine Geometrie]]: Solche Geometrien bestehen meist aus Punkten und Geraden, und die Axiome betreffen Verbindungsgeraden von Punkten und die Schnittpunkte von Geraden. Affine und projektive Geometrien kommen meist in Paaren: Das Hinzufügen von [[Fernelement]]en macht eine affine Geometrie zu einer projektiven, und das Entfernen einer Geraden bzw. einer Ebene mit ihren Punkten macht aus einer zwei- bzw. dreidimensionalen projektiven Geometrie eine affine. In wichtigen Fällen können die Punkte auf einer Geraden in der affinen Geometrie so [[Seiteneinteilung|angeordnet]] werden, dass sich [[Halbgerade]]n und [[Strecke (Geometrie)|Strecken]] definieren lassen. In diesen Fällen nennt man die affine Geometrie und ihren projektiven Abschluss ''angeordnet''.
+
+* [[Euklidische Geometrie]]: Darunter versteht man üblicherweise die aus den Axiomen und Postulaten Euklids abgeleitete Geometrie. Weil der seit Euklid überlieferte Aufbau der Theorie noch Genauigkeitslücken enthielt, hat David Hilbert in seinen ''Grundlagen der Geometrie'' (1899 und viele weitere Auflagen) ein [[Hilberts Axiomensystem der euklidischen Geometrie|Axiomensystem]] aufgestellt, aus dem er die euklidische Geometrie bis auf Isomorphie eindeutig aufbauen konnte. Danach kann diese eindeutig beschrieben werden als der dreidimensionale reelle Vektorraum, in dem die Punkte durch die Vektoren dargestellt werden und die Geraden durch die Nebenklassen der eindimensionalen Unterräume. Strecken, Senkrechtstehen, Winkel usw. werden wie in der seit Descartes üblichen [[Analytische Geometrie|analytischen Geometrie]] erklärt. 
+
+* [[Nichteuklidische Geometrie]]: Geometrien, deren Eigenschaften in vielem analog zur euklidischen Geometrie sind, in denen jedoch das [[Parallelenpostulat]] (auch Parallelenaxiom genannt) nicht gilt. Man unterscheidet [[Elliptische Geometrie|elliptische]] und [[Hyperbolische Geometrie|hyperbolische]] Geometrien.
+
+* [[Absolute Geometrie]]: ist der gemeinsame Unterbau der euklidischen und der nichteuklidischen Geometrien, d. h. die Menge aller Sätze, die ohne das Parallelenpostulat bewiesen werden.
+
+In jeder Geometrie interessiert man sich für diejenigen Transformationen, die bestimmte Eigenschaften nicht zerstören (also ihre Automorphismen): Zum Beispiel ändern weder eine Parallelverschiebung noch eine Drehung oder Spiegelung in einer zweidimensionalen euklidischen Geometrie die Abstände von Punkten. Umgekehrt ist jede Transformation, die die Abstände von Punkten nicht ändert, eine Zusammensetzung von Parallelverschiebungen, Drehungen und Spiegelungen. Man sagt, dass diese Abbildungen die Transformationsgruppe bilden, die zu einer ebenen euklidischen Geometrie gehört, und dass der Abstand zweier Punkte eine euklidische Invariante darstellt. [[Felix Klein]] hat in seinem [[Erlanger Programm]] Geometrie allgemein als die Theorie der Transformationsgruppen und ihrer Invarianten definiert (vgl. [[Abbildungsgeometrie]]); jedoch ist das keineswegs die einzig mögliche Definition. Im Folgenden sind Geometrien und prominente Invarianten aufgezählt:
+
+* [[Projektive Geometrie]]: Invarianten sind die Kollinearität von Punkten und das Doppelverhältnis (Verhältnis von [[Teilverhältnis]]sen) von vier Punkten einer Geraden (in der komplexen Zahlenebene von beliebigen vier Punkten; wenn diese auf einem Kreis liegen, ist es reell) 
+
+* [[Affine Geometrie]]: Die Parallelität von Geraden, das Teilverhältnis von drei Punkten einer Geraden, Flächeninhaltsverhältnisse.
+
+* [[Ähnlichkeit (Geometrie)|Ähnlichkeitsgeometrie]], zusätzlich zur affinen Geometrie sind Streckenverhältnisse und Winkel invariant.
+
+* [[Euklidische Geometrie]]; zusätzliche Invarianten sind die Abstände von Punkten und die Winkel.
+
+* [[Nichteuklidische Geometrie]]: Invariant sind die Kollinearität von Punkten, die Abstände von Punkten und die Winkel. Die beiden nichteuklidischen Geometrien passen jedoch nicht in die obige Hierarchie.
+
+=== Gebiete der Mathematik, die zur Geometrie zählen ===
+Die folgende Liste umfasst sehr große und weitreichende Gebiete
+mathematischer Forschung.
+* Elementargeometrie
+* Die [[Differentialgeometrie]] ist das Teilgebiet der Geometrie, in dem insbesondere Methoden der [[Analysis]] und der [[Topologie (Mathematik)|Topologie]] zur Anwendung kommen. Die [[Elementare Differentialgeometrie]], die [[Differentialtopologie]], die [[Riemannsche Geometrie]] und die Theorie der [[Lie-Gruppe]]n sind unter anderem Teilgebiete der Differentialgeometrie.
+* [[Algebraische Geometrie]]. Man könnte sie auch als Gebiet der Algebra betrachten. Sie benutzt seit Bernhard Riemann auch Kenntnisse aus der Funktionentheorie.
+* [[Konvexgeometrie]], die im Wesentlichen von Hermann Minkowski begründet wurde.
+* [[Synthetische Geometrie]] führt den klassischen Ansatz der ''reinen'' Geometrie fort, indem anstelle algebraischer Objekte (Koordinaten, Morphismen ...) abstrakte geometrische Objekte (Punkte, Geraden) und deren Beziehungen (Schnitt, Parallelität, Orthogonalität ...) zugrunde gelegt werden. Die [[Inzidenzgeometrie]] gehört hier heute zu den allgemeinsten Ansätzen.
+* [[Algorithmische Geometrie]] (computational geometry)
+* [[Diskrete Geometrie]] die als weiteres, ältestes Untergebiet die [[kombinatorische Geometrie]] enthält, und sich mit Polyedern, Pflasterungen, Packungen der Ebene und des Raumes, [[Matroid]]en, im Teilgebiet der [[Endliche Geometrie|endlichen Geometrie]] mit [[Inzidenzstruktur]]en, [[Blockplan|Blockplänen]] und Ähnlichem beschäftigt.
+
+=== Geometrie in Schule und Unterricht ===
+Traditionellerweise werden im Geometrieunterricht Geräte wie [[Zirkel (Gerät)|Zirkel]], [[Lineal]] und [[Geodreieck]], aber auch der [[Computer]] (siehe auch: [[Dynamische Geometrie]]) verwendet. Die Anfangsgründe des Geometrieunterrichts befassen sich etwa mit geometrischen Transformationen oder dem Messen von geometrischen Größen wie [[Länge (Mathematik)|Länge]], [[Winkel]], [[Flächeninhalt|Fläche]], [[Volumen]], [[Verhältnis (Mathematik)|Verhältnisse]] usw. Auch komplexere Objekte wie spezielle [[Kurve (algebraische Geometrie)|Kurven]] oder [[Kegelschnitt]]e kommen vor. [[Darstellende Geometrie]] ist die zeichnerische Darstellung der dreidimensionalen euklidischen Geometrie in der (zweidimensionalen) Ebene.
+
+== Siehe auch ==
+* [[Sphärische Geometrie]]
+* [[Formelsammlung Geometrie]] und [[Formelsammlung Analytische Geometrie]]
+
+== Literatur ==
+* [[Harold Scott MacDonald Coxeter|H. S. M. Coxeter]]: ''Introduction to Geometry''.
+* [[Harold Scott MacDonald Coxeter|H. S. M. Coxeter]], L. Greitzer: ''Geometry Revisited''.
+* [[Euklid]]: ''[[Euklids Elemente|Die Elemente]]''.
+* [[Georg Glaeser]]: ''Geometrie und ihre Anwendungen in Kunst, Natur und Technik'', 2. Aufl., Elsevier, Spektrum Akademischer Verlag, Heidelberg (2007), ISBN 3-8274-1797-X 
+* [[David Hilbert]]: ''[[Grundlagen der Geometrie]]''
+* [[Max Koecher]], [[Aloys Krieg]]: ''Ebene Geometrie'', 3. Aufl., Springer, Berlin (2007), ISBN 978-3-540-49327-3
+* Hans Schupp: ''Elementargeometrie'', UTB Schoeningh, Paderborn (1977), ISBN 3-506-99189-2
+* Georg Ulrich, Paul Hoffmann: ''Geometrie zum Selbstunterricht'', 5 Bände, 26. Aufl., C. Bange Verlag, Hollfeld (1977), ISBN 3-8044-0576-2 (Band 1)
+
+== Weblinks ==
+{{Wiktionary|Geometrie}}
+{{Wikiquote|Geometrie}}
+* [http://www.schule-bw.de/unterricht/faecher/mathematik/3material/sek1/geometrie/beweis Geometrische Beweise für die Sekundarstufe 1] Landesbildungsserver Baden-Württemberg
+* [http://www.mathepower.com/geometrie.php Geometrie-Portal - Erklärungen, Beweise, Animationen, Berechnungsskripte]
+* [http://www.didmath.ewf.uni-erlangen.de/madin/geo/video/Interview_Vollrath.avi Interview] (67 MB) zum Thema ''Geometrie'' mit Hans-Joachim Vollrath
+
+[[Kategorie:Geometrie| ]]
+[[Kategorie:Teilgebiet der Mathematik]]
+
+{{Link FA|ia}}
+{{Link GA|cs}}
+
+[[af:Meetkunde]]
+[[an:Cheometría]]
+[[ar:هندسة رياضية]]
+[[as:জ�?যামিতি]]
+[[ast:Xeometría]]
+[[az:Həndəsə]]
+[[ba:Геометри�?]]
+[[bat-smg:Geuometrėjė]]
+[[be:Геаметры�?]]
+[[be-x-old:Геам�?тры�?]]
+[[bg:Геометри�?]]
+[[bn:জ�?যামিতি]]
+[[bo:དབྱིབས་རྩིས་རིག་པ�?]]
+[[br:Mentoniezh]]
+[[bs:Geometrija]]
+[[ca:Geometria]]
+[[chr:�?��?��??�?� �?��??�?��?��?�]]
+[[ckb:ئەندازە]]
+[[cs:Geometrie]]
+[[cv:Геометри]]
+[[da:Geometri]]
+[[diq:Geometri]]
+[[el:Γεωμετ�?ία]]
+[[eml:Geometrî]]
+[[en:Geometry]]
+[[eo:Geometrio]]
+[[es:Geometría]]
+[[et:Geomeetria]]
+[[eu:Geometria]]
+[[ext:Geometria]]
+[[fa:هندسه]]
+[[fi:Geometria]]
+[[fiu-vro:Geomeetriä]]
+[[fr:Géométrie]]
+[[gan:幾何學]]
+[[gd:Geoimeatras]]
+[[gl:Xeometría]]
+[[gu:ભૂમિતિ]]
+[[gv:Towse-oaylleeaght]]
+[[he:ג�?ומטריה]]
+[[hi:ज�?यामिति]]
+[[hif:Geometry]]
+[[hr:Geometrija]]
+[[ht:Jewometri]]
+[[hu:Geometria]]
+[[hy:Երկրաչափություն]]
+[[ia:Geometria]]
+[[id:Geometri]]
+[[io:Geometrio]]
+[[is:Rúmfræði]]
+[[it:Geometria]]
+[[ja:幾何学]]
+[[jv:Géomètri]]
+[[ka:გე�?მეტრი�?]]
+[[kab:Ta nzeggit]]
+[[kk:Геометри�?]]
+[[km:ធរណីមា�?្រ]]
+[[ko:기하학]]
+[[ku:Geometrî]]
+[[ky:Геометри�?]]
+[[la:Geometria]]
+[[lb:Geometrie]]
+[[lmo:Geometrìa]]
+[[lo:ເລຂາຄະນິດ]]
+[[lt:Geometrija]]
+[[lv:Ģeometrija]]
+[[mg:Jeometria]]
+[[mhr:Геометрий]]
+[[mk:Геометрија]]
+[[ml:ജ�?യാമിതി]]
+[[mn:Геометр]]
+[[mr:भूमिती]]
+[[ms:Geometri]]
+[[mt:Ġeometrija]]
+[[mwl:Geometrie]]
+[[my:ဂျီသြမေ�?ြီ]]
+[[nds:Geometrie]]
+[[new:रेखागणित]]
+[[nl:Meetkunde]]
+[[nn:Geometri]]
+[[no:Geometri]]
+[[nov:Geometria]]
+[[oc:Geometria euclidiana]]
+[[pl:Geometria]]
+[[pms:Geometrìa]]
+[[pnb:جیومیٹری]]
+[[ps:م�?چپوهنه]]
+[[pt:Geometria]]
+[[qu:Pacha tupuy]]
+[[ro:Geometrie]]
+[[ru:Геометри�?]]
+[[rue:�?еометрі�?]]
+[[sah:Геометри�?]]
+[[scn:Giometrìa]]
+[[sco:Geometry]]
+[[sh:Geometrija]]
+[[si:ජ්�?ය�?මිතිය]]
+[[simple:Geometry]]
+[[sk:Geometria]]
+[[sl:Geometrija]]
+[[sn:Pimanyika]]
+[[so:Joomitiri]]
+[[sq:Gjeometria]]
+[[sr:Геометрија]]
+[[stq:Geometrie]]
+[[su:Élmu ukur]]
+[[sv:Geometri]]
+[[szl:Geůmetryjo]]
+[[ta:வடிவவியல�?]]
+[[te:రేఖాగణితం]]
+[[tg:Геометри�?]]
+[[th:เรขาคณิต]]
+[[tk:Geometriýa]]
+[[tl:Heometriya]]
+[[tr:Geometri]]
+[[uk:Геометрі�?]]
+[[ur:�?ندس�?]]
+[[uz:Geometriya]]
+[[vec:Giometria]]
+[[vi:Hình h�?c]]
+[[war:Heyometriya]]
+[[yi:גע�?מעטריע]]
+[[zh:几何学]]
+[[zh-classical:幾何]]
+[[zh-min-nan:Kí-hô-ha�?k]]
+[[zh-yue:幾何學]]

@@ -1,0 +1,148 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Überarbeiten}}
+
+''Zählen'' ist eine Handlung zur Ermittlung der Anzahl Elemente in einer endlichen Menge von gleichwertigen Objekten. Das Zählen erfolgt in Zählschritten, oft in Einerschritten, wobei die entsprechende Zahlenfolge, als Folge von [[Zahlwort|Zahlwörtern]], zum Beispiel „eins, zwei, drei“ oder  „zwei, vier, sechs, sieben“ durchlaufen wird. Bei einer aufsteigenden Folge wird vorwärts gezählt, bei einer absteigenden Folge rückwärts. Auch das Bestimmen der Anzahl von unterscheidbaren Objekten durch Addition, die einer aufsteigenden Zahlenfolge zugrunde liegt, wird ''Zählen'' genannt.&lt;ref>[http://www.duden.de/rechtschreibung/zaehlen „zählen“] auf ''www.duden.de''&lt;/ref> Das zugehörige Substantiv '''Zählung''' bezeichnet den Zählvorgang oder dessen Ergebnis (z.&amp;nbsp;B. eine [[Volkszählung]]). Das Abzählen der Anzahl von definierten Einheiten ([[Normal]]en), Objekten oder Ereignissen ist eine Form der [[Messung]].
+
+Aufgrund von archäologischen Zeugnissen ist belegt, dass Menschen seit mindestens 50.000 Jahren über Zählverfahren verfügen&lt;ref>''An Introduction to the History of Mathematics'' (6th Edition) by [[Howard Eves]] (1990) p.&amp;nbsp;9&lt;/ref>. Zählen wurde bereits in alten Kulturen verwendet, um die Anzahl und Vollständigkeit von sozialen und ökonomischen Zählobjekten wie Gruppenmitgliedern, Beutetieren, Besitz oder Schulden zu erfassen. Das Zählen führte mit zur Entwicklung von [[Zahlen|Zahlennotation]], Zahlensystemen und der [[Schrift]].
+
+== Nähere Bestimmung ==
+
+Im Allgemeinen wird durch Zählen die [[Anzahl]] einer [[Endliche Menge|endlichen Menge]] von Objekten festgestellt, indem man, angefangen mit [[eins|1]], nacheinander jedem Objekt die [[Nachfolger (Mathematik)|nächste]] [[natürliche Zahl]] zuordnet, bis keine Objekte mehr übrig bleiben (mittels einer [[Bijektion]]). Die zuletzt zugeordnete Zahl liefert die gesuchte Anzahl. Manche Menschen, besonders Kinder, nehmen dabei die Hände zur Hilfe, um sich nicht zu verzählen. ''(siehe auch: [[Handzähler]])''
+
+Die Größe einer [[Unendliche Menge|unendlichen Menge]] kann nicht mehr durch Zählen festgestellt werden, als Ersatz dient das mathematische Konzept der [[Mächtigkeit (Mathematik)|Mächtigkeit]].
+
+Mathematisch wird dieser Aspekt im Artikel [[Kardinalzahl (Mathematik)|Kardinalzahl]]en behandelt.
+
+Der Mensch ist in der Lage, mehrere Objekte [[Simultanerfassung|simultan zu erfassen]], ohne sie abzählen zu müssen. Um das Zählen zu beschleunigen wird oft nicht jedem einzelnen Objekt die nächste Zahl zugeordnet (entsprechend der [[Addition]] von 1), sondern Zweier- oder Fünfer-Gruppen aufsummiert (Addition von 2 oder 5): „Fünf“, „zehn“, „fünfzehn“, „zwanzig“, ...
+
+Ist über die Anzahl auch die [[Reihenfolge]] oder der [[Rangordnung|Rang]] der Objekte von Bedeutung, spricht man von [[Ordinalzahl]]en.
+
+Beim [[Nummer]]ieren (im Gegensatz zum Zählen) werden Zahlen zum Unterscheiden und nicht zum Zählen verwendet, manchmal ist es dann zweckmäßig, Zahlen auszulassen. Die Nummer des Objekts ist dann jedoch nicht mehr identisch mit seinem Rang. Beispiel: In Identifikationsnummern für Personen (Versicherungen, Personalausweise etc.) werden Geburtsdaten in die Nummer kodiert, wie etwa 10000024121928. Nummern wie 10000032121928 werden nicht vergeben. Derart vergebene Nummern bilden eine [[Nominalskala]].
+
+== Zählen ab 0 ==
+
+In manchen Situationen in der [[Mathematik]] und [[Informatik]] erweist es sich als sinnvoll, mit dem Zählen oder Nummerieren bei [[Null|0]] zu beginnen, zum Beispiel bei [[Speicherzelle]]n oder bei [[Feld (Datentyp)|Arrays]] in den meisten [[Programmiersprache]]n. Man kennt das auch von Häusern: Das erste Geschoss steht über dem Erdgeschoss (der 0. Etage). Darunter befindet sich der Keller (-1. Etage). Raumnummern innerhalb einer Etage fangen bei 0 an (00 = Toilette). Wenn man 100 Räume pro Etage hat, und man die Räume in der untersten mit 0 bis 99 durchnummeriert und die darüber mit 100 bis 199, ist die 100er-Stelle der Raumnummern gleich der Etage, ohne dass man Nummern auslassen muss.
+
+== Zählen von Distanzen ==
+
+Beim Zählen von [[Abstand|Distanzen]] innerhalb einer Folge von Elementen verfährt man, anders als beim Zählen der Elemente selbst, üblicherweise so, dass man beim ''zweiten'' Element mit 1 zu zählen beginnt. Auf diese Weise ergibt sich die korrekte Distanz. Beispiel:
+
+{| class="prettytable" 
+|Element:
+|&lt;center>1||&amp;nbsp;2||&amp;nbsp;3||&amp;nbsp;4||&amp;nbsp;5||&amp;nbsp;6||&amp;nbsp;7||&amp;nbsp;8||&amp;nbsp;9||10
+|-
+|Distanz zum ersten Element:||(0)||&amp;nbsp;1||&amp;nbsp;2||&amp;nbsp;3||&amp;nbsp;4||&amp;nbsp;5||&amp;nbsp;6||&amp;nbsp;7||&amp;nbsp;8||&amp;nbsp;9
+|}
+
+Die Distanz eines Elements zu sich selbst ist 0. Sind die Elemente fortlaufend durchnummeriert, so kann die Distanz auch berechnet werden, indem die Differenz zwischen den beiden Zahlen gebildet wird ([[Subtraktion]]).
+
+Eine mögliche Alternative dazu ist die historische Inklusivzählung (siehe unten).
+
+== Zur Biosoziologie des Zählens ==
+
+[[Datei:Memogeste_geld5.jpg|miniatur|250px|Zählen mit Geld.]]
+Zählen ist eine [[Sprache|sprachliche]] Fertigkeit, die im strengen Sinn vermutlich erst der [[Anthropologie|Mensch]] im Lauf seiner [[Biosoziologie|biosozialen]] [[Phylogenese]] (Stammesentwicklung) erworben hat. Tiere, etwa Vögel, können nach dieser Annahme wohl bemerken, dass bei kleinen Anzahlen (z. B. ihrer Eier) eins ‚fehlt‘, aber sie können noch nicht durchzählen. Da - nach [[Dieter Claessens]] - für den Menschen diesseits des Tier-Mensch-Übergangsfeldes zunächst buchstäblich „kein Ei wie das andere aussah“,&lt;ref>Dieter Claessens: ''Das Konkrete und das Abstrakte. Soziologische Skizzen zur Anthropologie.'' Suhrkamp, Frankfurt am Main 1980, ISBN 3-518-07329-X&lt;/ref> gehört zum Zählen ein geschärftes [[Abstraktion]]svermögen (siehe auch [[Biosoziologie]]).
+
+Dass etwas paarweise auftritt (Augen, Ohren, Hände), musste noch nicht notwendig dazu führen, dass Menschen auf das „Zählen“ mit Hilfe von [[Zahl]]en kamen. Denn als Erstes musste sich ihnen die Doppelung - die Zwei - körperlich und konkret aufdrängen. Eine sprachliche Alternative zum Zählen sind hier der [[Paral]] oder der [[Dual (Grammatik)|Dual]], zwei Formen der „Zweizahl“, die neben den [[Singular]] (die „Einzahl“) treten und alle Substantiv- und Verbformen entsprechend durchziehen. Die (zunächst anzunehmende) enge Bindung dieser Form der Zweizahl an den achsensymmetrischen menschlichen Leib und das allgemeine Auftreten des Duals in allen insoweit erschlossenen indoeuropäischen Sprachen lassen darauf folgern, dass man in seiner Entstehungszeit noch nicht oder nur mühsam über die Zwei hinaus „''bis [[Drei]] zählen''“ konnte. Vielerlei ''gleich'' zu setzen, um es dann zu zählen, erfordert eine neuartige Abstraktionsleistung. Daraus folgt wiederum, dass vermutlich der Dual historisch älter als der Plural (die „Mehrzahl“) ist.
+
+Auch liegt, wenn sich die „Zweizahl“ in der Überlebenspraxis als unzureichend bemerkbar macht, die alsbaldige ‚Erfindung‘ des „Plurals“ immer noch nicht zwingend nahe. In einigen Sprachen wurden als [[Numerus]] analog zum Dual erst noch die „Dreizahl“ (der [[Trial (Grammatik)|Trial]]), sogar dann noch die „Vierzahl“ (der [[Quadral]]) und der „kleine Plural“ (der [[Paukal]]) entwickelt.
+
+== Die Inklusivzählung ==
+
+[[Abstand|Abstände]] (Distanzen) und [[Zeit]]räume wurden von der [[Antike]] bis in nachmittelalterliche Zeit hinein nach der ''Inklusivzählung'' gezählt; dabei wird sowohl das Start- als auch das Endelement einer Folge mitgezählt. 
+Insbesondere bei Zeiträumen verursacht diese Zählweise manchmal Verwirrung: Die alle 4 Jahre stattfindenden [[Olympische Spiele der Antike|Olympischen Spiele]] wurden z.&amp;nbsp;B. als ''penteterisch'' (''πεντητη�?ικός'', ‚alle fünf Jahre zu feiern‘) bezeichnet, alle 2 Jahre stattfindende Wettkämpfe wurden als ''trieterisch'' (''τ�?ιετη�?ικός'', ‚alle drei Jahre zu feiern‘) bezeichnet usw. Siehe dazu auch den Artikel [[Zaunpfahlproblem]]. 
+
+Diese Vorgehensweise, die beim Zählen von ''Dingen'' korrekt ist, ergibt beim Zählen von ''Distanzen'' Werte, die für uns immer um 1 zu groß sind. Man kann jedoch mit den so gezählten Distanzen problemlos arbeiten, solange man sich der Inklusivzählung bewusst bleibt und ihre besonderen Eigenschaften berücksichtigt – zum Beispiel, dass beim Addieren zweier aufeinanderfolgender Distanzen 1 abgezogen werden muss, da das Mittelelement sonst doppelt gezählt wird.
+
+Beispiele für die historische Inklusivzählung, die noch heute unseren Sprachgebrauch bestimmen, sind:
+
+=== Zählung von Tagen ===
+
+Normalerweise gilt heute für Angaben wie ''in n Tagen'', dass der laufende Tag nicht mitgerechnet wird. Man sagt zum Beispiel nicht ''in zwei Tagen'' wenn ‚morgen‘ gemeint ist. Dagegen ist es im deutschen Sprachraum weit verbreitet, ''in acht Tagen'' zu sagen, wenn eine [[Woche]] (sieben Tage) gemeint ist. Eine Analogie existiert im Französischen mit ''quinze jours'', zu deutsch ‚fünfzehn Tage‘, als Bezeichnung für zwei Wochen, ebenso im Griechischen (''δεκαπενθήμε�?ο'') und im Spanischen (''quincena'').
+
+Der aktuelle Wochentag wird bei der Inklusivzählung mitgezählt:
+{| class="prettytable"
+! Wochentag:                     
+!width="10"  style="padding:5px;"| Montag
+!width="10"  style="padding:5px;"| Dienstag
+!width="10"  style="padding:5px;"| Mittwoch
+!width="10"  style="padding:5px;"| Donnerstag
+!width="10"  style="padding:5px;"| Freitag
+!width="10"  style="padding:5px;"| Samstag
+!width="10"  style="padding:5px;"| Sonntag
+!width="10"  style="padding:5px;"| Montag
+|-
+| "Nummer" des Tages:||&lt;center>1.||&lt;center>2.||&lt;center>3.||&lt;center>4.||&lt;center>5.||&lt;center>6.||&lt;center>7.||&lt;center>1. 
+|-
+| Distanz:|| ||1 Tag||2 Tage||3 Tage||4 Tage||5 Tage||6 Tage||7 Tage  
+|-
+| Distanz bei Inklusivzählung:|| ||2 Tage||3 Tage||4 Tage||5 Tage||6 Tage||7 Tage||8 Tage
+|}
+
+Weitere Beispiele:
+* Im [[Kalender (Römisches Reich)|Römischen Kalender]] waren die [[Nonen]] (‚die neunten Tage‘) acht Tage vor den [[Iden (Kalender)|Iden]] (und nicht neun)
+* [[Christi Himmelfahrt]] wird 39 Tage nach [[Ostern]] gefeiert, die jedoch als ''40 Tage'' bezeichnet werden, da der Ostersonntag mitgezählt wird
+* [[Pfingsten]] wird 49 Tage nach Ostern gefeiert und nicht 50
+* Umgekehrt werden bei einem Hotelaufenthalt, etwa ''Samstag–Sonntag'' zwar zwei Tage genannt, doch nur der Anreisetag als übernachtungswirksam gezählt: ''bleibt einen Tag'' (oder: ''mit einer Übernachtung'').
+
+=== Zählung von Jahren und Jahrhunderten ===
+
+In der [[Historische Chronologie|Historischen Chronologie]] gibt es das Problem der Inklusivzählung. So können beispielsweise die überlieferten Regierungsjahre von Herrschern nicht einfach addiert werden, weil diejenigen Jahre, an denen ein Herrscherwechsel stattfand, doppelt gezählt wurden.
+
+=== Intervalle in der Musik ===
+
+Auch bei [[Intervall (Musik)|musikalischen Intervallen]] wird sowohl der Anfangs- als auch der Endeton bei der Benennung mitgezählt. Daher hat die [[Prime]] den Abstand 0 Töne, die [[Sekunde (Musik)|Sekunde]] den Abstand 1 Ton, die [[Terz (Musik)|Terz]] den Abstand 2 Töne, die [[Quarte]] den Abstand 3 Töne, die [[Quinte]] den Abstand 4 Töne, die [[Sexte]] den Abstand 5 Töne, die [[Septime]] den Abstand 6 Töne und [[Oktave]] den Abstand von 7 Tönen.
+
+Sprachlich verwirrend kommt hinzu, dass das lateinische Wort ''intervallum'' "Zwischenraum" bedeutet, was eher eine Exklusiv- als eine Inklusivzählung suggeriert.
+
+Beispiel der [[C-Dur]]-[[Tonleiter]]:
+{|class="prettytable" 
+|Tonname:||length="20"  style="padding:5px;"|C||length="20"  style="padding:5px;"|D||length="20"  style="padding:5px;"|E||length="20"  style="padding:5px;"|F||length="20"  style="padding:5px;"|G||length="20"  style="padding:5px;"|A||length="20"  style="padding:5px;"|H||length="20"  style="padding:5px;"|C
+|-
+|Tonname als Zahl:||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7||align="center"|1
+|-
+|Abstand zum Grundton:||align="center"|0||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7
+|-
+|Abstand bei Inklusivzählung:||align="center"|1||align="center"|2||align="center"|3||align="center"|4||align="center"|5||align="center"|6||align="center"|7||align="center"|8
+|}
+
+Dass der in der Musik übliche Name jedes Intervalls um 1 größer ist, sieht man unter anderem bei der Addition von Intervallen. Eine Quarte und eine Quinte ergeben zusammen eine Oktave. Aber 4 + 5 ist nicht 8 – vielmehr ist 3 + 4 = 7. Dies deckt sich mit der Tatsache, dass die Oktave in 7 (und nicht etwa in 8) [[Stammton|Stammtöne]] eingeteilt wird.
+
+Dass die Inklusivzählung dennoch sinnvoll sein kann, sieht man daran, dass beim Ausdruck einer Prime ein Ton beteiligt ist. Die musikalischen Intervallnamen geben immer die richtige Anzahl Töne an, wenn sowohl der Anfangs- als auch der Endeton einer Folge mitgespielt werden. Zum Beispiel werden beim Durchspielen einer [[Heptatonik|heptatonischen]] (siebentönigen) Tonleiter vom [[Grundton]] bis zu seiner Oktave 8 Töne gespielt. Der achte Ton, der Oktavton, wird mitgespielt, da die Tonleiter nur so eine wohlklingende, vollständige Tonfolge bildet. Spielt man nur 7 Töne, fehlt der Schlusston der Tonleiter.
+
+== Quellen ==
+&lt;references />
+
+== Literatur ==
+*H. Wiese: ''Zahl und Numerale. Eine Untersuchung zur Korrelation konzeptueller und sprachlicher Strukturen'' (studia grammatica 44). Berlin 1997.
+*H. Wiese: ''Numbers, Language, and the Human Mind''. Cambridge 2003.
+*M. Wedell: ''Zählen. Semantische und praxeologische Studien zum numerischen Wissen im Mittelalter'' (Historische Semantik 14). Göttingen 2011.
+
+== Siehe auch ==
+
+* [[Zahlentheorie]]
+* [[Mengenunterscheidung bei Tieren]]
+
+{{Wiktionary|zählen}}
+
+{{DEFAULTSORT:Zahlen}}
+[[Kategorie:Biosoziologie und Soziobiologie]]
+[[Kategorie:Messtechnik]]
+
+[[ar:عد (رياضيات)]]
+[[ca:Comptar]]
+[[ceb:Ihap]]
+[[en:Counting]]
+[[es:Contar]]
+[[eu:Zenbaketaren oinarriak]]
+[[fa:شمارش]]
+[[fr:Compte]]
+[[he:מנייה]]
+[[id:Pencacahan]]
+[[ko:셈]]
+[[ms:Membilang]]
+[[nl:Tellen]]
+[[simple:Counting]]
+[[sv:Räknande]]
+[[th:�?ารนับ]]
+[[vo:Numam]]
+[[zh:計數]]

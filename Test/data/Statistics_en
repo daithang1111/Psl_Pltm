@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Editing Statistics - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Statistics&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Statistics&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Statistics","wgTitle":"Statistics","wgCurRevisionId":539927617,"wgArticleId":26685,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Statistics","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"0884b287c7b5af76782a114336c4ea54","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false,"enableSectionEditLinks":false},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgGuidedTourTestWikitextDescription":"A guider in your on-wiki tour can contain wikitext using onShow and parseDescription. Use it to create a wikilink to the \x3ca href=\"/wiki/Help:Guided_tours\" title=\"Help:Guided tours\"\x3eGuided tours documentation\x3c/a\x3e. Or an external link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3eto GitHub\x3c/a\x3e, for instance.","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-email-notificationspagetriage-mark-as-reviewed":true,"echo-web-notificationspagetriage-mark-as-reviewed":true,"echo-email-notificationspagetriage-add-maintenance-tag":true,"echo-web-notificationspagetriage-add-maintenance-tag":true,"echo-email-notificationspagetriage-add-deletion-tag":true,"echo-web-notificationspagetriage-add-deletion-tag":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,
+"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:b879f67219ff7270fa82da054ada6414 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Statistics skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Editing Statistics</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><div id="editnotice-area" class="editnotice-area" style="clear: both; width: 100%;"><div class="editnotice-namespace" style="width: 100%;">  </div><div class="editnotice-link editnotice-redlink sysop-show accountcreator-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/Statistics&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/Statistics (page does not exist)">Page notice</a></small> </div><div style="clear: both;"></div> </div>
+<div id="mw-anon-edit-warning">
+<table id="anoneditwarningtest" class="plainlinks fmbox fmbox-editnotice" style="background-color:#F8F5C1; font-family:Arial; border:none; height:38px;">
+<tr>
+<td class="mbox-image">
+  <a href="/wiki/File:AnonEditWarning.png" class="image"><img alt="AnonEditWarning.png" src="//upload.wikimedia.org/wikipedia/commons/6/6d/AnonEditWarning.png" width="10" height="20" /></a></td>
+<td class="mbox-text" style=""> <b>You are not logged in</b>. Your <a href="/wiki/IP_address" title="IP address">IP address</a> will be publicly visible if you make any edits. Please <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Statistics&amp;returntoquery=action%3Dedit">log in</a></b> or <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;returnto=Statistics&amp;returntoquery=action%3Dedit">sign up</a></b> to have your edits associated with a user name, among <a href="/wiki/Wikipedia:Why_create_an_account%3F#Summary_of_benefits" title="Wikipedia:Why create an account?">other benefits</a>. </td>
+</tr>
+</table></div>
+<div class="editpage-head-copywarn">
+<p><i>Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">verifiable</a>. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to <a href="/wiki/Wikipedia:REUSE" title="Wikipedia:REUSE" class="mw-redirect">certain terms and conditions</a>.</i>
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Statistics&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Anti-spam check.
+Do <b>NOT</b> fill this in!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="539927617" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225071954" name="wpStarttime" />
+<input type='hidden' value="20130223182602" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{About|the discipline}}
+
+'''Statistics''' is the study of the collection, organization, analysis, interpretation, and presentation of [[data]].&lt;ref name=Dodge>Dodge, Y. (2006) ''The Oxford Dictionary of Statistical Terms'', OUP. ISBN 0-19-920613-9&lt;/ref>&lt;ref>[http://www.thefreedictionary.com/dict.asp?Word=statistics The Free Online Dictionary]&lt;/ref> It deals with all aspects of this, including the planning of data collection in terms of the design of [[statistical survey|survey]]s and [[experimental design|experiments]].&lt;ref name=Dodge/>
+
+A [[statistician]] is someone who is particularly well-versed in the ways of thinking necessary to successful apply statistical analysis. Such people often gain experience through working in any of a [[list of fields of application of statistics|wide number of fields]]. A discipline called ''[[mathematical statistics]]'' studies statistics mathematically.
+
+The word ''statistics'', when referring to the scientific discipline, is singular, as in "Statistics is an art."&lt;ref>{{cite web | url = http://www.merriam-webster.com/dictionary/statistics | title = Statistics | work = Merriam-Webster Online Dictionary}}&lt;/ref> This should not be confused with the word ''statistic'', referring to a quantity (such as [[mean]] or [[median]]) calculated from a set of data,&lt;ref>{{cite web | url = http://www.merriam-webster.com/dictionary/statistic | title = Statistic | work = Merriam-Webster Online Dictionary}}&lt;/ref> whose plural is ''statistics'' ("this statistic seems wrong" or "these statistics are misleading").
+
+[[File:The Normal Distribution.svg|thumb|350px|right|More [[Probability density function|probability density]] is found the closer one gets to the expected (mean) value in a [[normal distribution]]. Statistics used in [[standardized testing]] assessment are shown. The scales include ''[[standard deviations]], cumulative percentages, percentile equivalents, Z-scores, T-scores, standard nines,'' and ''percentages in standard nines.'']]
+
+{{TOC limit|3}}
+
+==Scope==
+Some consider statistics a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of [[data]],&lt;ref>Moses, Lincoln E. (1986) ''Think and Explain with Statistics'', Addison-Wesley, ISBN 978-0-201-15619-5 . pp. 1–3&lt;/ref> while others consider it a branch of [[mathematics]]&lt;ref>Hays, William Lee, (1973) ''Statistics for the Social Sciences'', Holt, Rinehart and Winston, p.xii, ISBN 978-0-03-077945-9&lt;/ref> concerned with collecting and interpreting data. Because of its empirical roots and its focus on applications, statistics is usually considered a distinct mathematical science rather than a branch of mathematics.&lt;ref>{{cite book|last=Moore|first=David|title=Statistics for the Twenty-First Century|publisher=The Mathematical Association of America|editors= F. Gordon and S. Gordon|location=Washington, DC|year=1992|pages=14–25|chapter=Teaching Statistics as a Respectable Subject|isbn=978-0-88385-078-7}}
+&lt;/ref>&lt;ref>{{cite book|last=Chance|first=Beth L.|coauthors=Rossman, Allan J.|title=Investigating Statistical Concepts, Applications, and Methods|publisher=Duxbury Press|year=2005|chapter=Preface|isbn=978-0-495-05064-3|url=http://www.rossmanchance.com/iscam/preface.pdf}}&lt;/ref> Much of statistics is non-mathematical: ensuring that [[data collection]] is undertaken in a way that produces valid conclusions; coding and archiving data so that information is retained and made useful for international comparisons of [[official statistics]]; reporting of results and summarised data (tables and graphs) in ways comprehensible to those must use them; implementing procedures that ensure the [[Census#Privacy|privacy of census information]].
+
+Statisticians improve data quality by developing specific [[design of experiments|experiment designs]] and [[survey sampling|survey samples]]. Statistics itself also provides tools for prediction and forecasting the use of data and [[statistical model]]s. Statistics is applicable to a wide variety of [[academic discipline]]s, including [[natural]] and [[social science]]s, government, and business. [[Statistical consultant]]s can help organizations and companies that don't have in-house expertise relevant to their particular questions.
+
+Statistical methods can summarize or describe a collection of data. This is called ''[[descriptive statistics]]''. This is particularly useful in communicating the results of experiments and research. In addition, data patterns may be [[mathematical model|modeled]] in a way that accounts for [[randomness]] and uncertainty in the observations. 
+
+These models can be used to draw inferences about the process or population under study—a practice called ''[[inferential statistics]]''. Inference is a vital element of scientific advance, since it provides a way to draw conclusions from data that are subject to random variation. To prove the propositions being investigated further, the conclusions are tested as well, as part of the [[scientific method]]. Descriptive statistics and analysis of the new data tend to provide more information as to the truth of the proposition. 
+
+"Applied statistics" comprises descriptive statistics and the application of inferential statistics.&lt;ref>Anderson, D.R.; Sweeney, D.J.; Williams, T.A.. (1994) ''Introduction to Statistics: Concepts and Applications'', pp. 5–9. West Group. ISBN 978-0-314-03309-3&lt;/ref>{{Verify source|date=March 2012}} ''Theoretical statistics'' concerns both the logical arguments underlying justification of approaches to [[statistical inference]], as well encompassing ''[[mathematical statistics]]''. Mathematical statistics includes not only the manipulation of [[probability distribution]]s necessary for deriving results related to methods of estimation and inference, but also various aspects of [[computational statistics]] and the [[design of experiments]]. 
+
+Statistics is closely related to [[probability theory]], with which it is often grouped. The difference is, roughly, that probability theory starts from the given parameters of a total population to [[deductive reasoning|deduce]] probabilities that pertain to samples. Statistical inference, however, moves in the opposite direction—[[inductive reasoning|inductively inferring]] from samples to the parameters of a larger or total population.
+
+==History==
+{{Main|History of statistics|Founders of statistics}}
+
+Statistical methods date back at least to the 5th century BC. The earliest known writing on statistics appears in a 9th century book entitled ''Manuscript on Deciphering Cryptographic Messages'', written by [[Al-Kindi]]. In this book, Al-Kindi provides a detailed description of how to use statistics and [[frequency analysis]] to decipher encrypted messages. This was the birth of both statistics and cryptanalysis, according to the Saudi engineer Ibrahim Al-Kadi.&lt;ref name=ibr1992>Al-Kadi, Ibrahim A. (1992) "The origins of cryptology: The Arab contributions�?, ''[[Cryptologia]]'', 16(2) 97–126. {{doi|10.1080/0161-119291866801}}&lt;/ref>&lt;ref name=sim2000>{{cite book|last=Singh|first=Simon|title=The code book : the science of secrecy from ancient Egypt to quantum cryptography|year=2000|publisher=Anchor Books|location=New York|isbn=0-385-49532-3|edition=1st Anchor Books}} {{page needed|date=January 2012}}&lt;/ref>
+
+The ''[[Nuova Cronica]]'', a 14th century [[history of Florence]] by the Florentine banker and official [[Giovanni Villani]], includes much statistical information on population, ordinances, commerce, education, and religious facilities, and has been described as the first introduction of statistics as a positive element in history.&lt;ref name=Villani2008>Villani, Giovanni. Encyclopædia Britannica. [[Encyclopædia Britannica 2006 Ultimate Reference Suite DVD]]. Retrieved on 2008-03-04.&lt;/ref> 
+
+Some scholars pinpoint the origin of statistics to 1663, with the publication of ''Natural and Political Observations upon the Bills of Mortality'' by [[John Graunt]].&lt;ref>Willcox, Walter (1938) "The Founder of Statistics". ''Review of the [[International Statistical Institute]]'' 5(4):321–328. {{jstor|1400906}}&lt;/ref> Early applications of statistical thinking revolved around the needs of states to base policy on demographic and economic data, hence its [[History of statistics#Etymology|''stat-'' etymology]]. The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general. Today, statistics is widely employed in government, business, and natural and social sciences.
+
+Its mathematical foundations were laid in the 17th century with the development of the [[probability theory]] by [[Blaise Pascal]] and [[Pierre de Fermat]]. Probability theory arose from the study of games of chance. The [[method of least squares]] was first described by [[Carl Friedrich Gauss]] around 1794. The use of modern [[computer]]s has expedited large-scale statistical computation, and has also made possible new methods that are impractical to perform manually.
+&lt;!-- Hide statement about "greatest statisticians" that appeared in another article with a supposed source that didn't say anything close to this:
+The American Statistical Association has ranked [[W. Edwards Deming|Deming]], [[Ronald Fisher|R A Fisher]], and [[CR Rao| C R Rao]] as the greatest statisticians of all time.{{Citation needed|date=November 2009}} -->
+
+==Overview==
+In applying statistics to a scientific, industrial, or societal problem, it is necessary to begin with a [[statistical population|population]] or process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal". A population can also be composed of observations of a process at various times, with the data from each observation serving as a different member of the overall group.  Data collected about this kind of "population" constitutes what is called a [[time series]].
+
+For practical reasons, a chosen subset of the population called a [[sampling (statistics)|sample]] is studied—as opposed to compiling data about the entire group (an operation called [[census]]). Once a sample that is representative of the population is determined, data is collected for the sample members in an observational or [[experiment]]al setting. This data can then be subjected to statistical analysis, serving two related purposes: description and inference.
+* [[Descriptive statistics]] summarize the population data by describing what was observed in the sample numerically or graphically. Numerical descriptors include [[mean]] and [[standard deviation]] for [[Continuous probability distribution|continuous data]] types (like heights or weights), while frequency and percentage are more useful in terms of describing [[categorical data]] (like race).
+* [[Inferential statistics]] uses patterns in the sample data to draw inferences about the population represented, accounting for randomness. These inferences may take the form of: answering yes/no questions about the data ([[hypothesis testing]]), estimating numerical characteristics of the data ([[Estimation theory|estimation]]), describing [[Association (statistics)|associations]] within the data ([[correlation and dependence|correlation]]) and modeling relationships within the data (for example, using [[regression analysis]]).  Inference can extend to [[forecasting]], [[prediction]] and estimation of unobserved values either in or associated with the population being studied; it can include [[extrapolation]] and [[interpolation]] of time series or [[spatial data analysis|spatial data]], and can also include [[data mining]].&lt;ref>{{cite journal | authorlink = Leo Breiman | first = Leo | last = Breiman | year = 2001 | id = {{citeseerx|10.1.1.156.4933}} | title = Statistical Modelling: the two cultures | journal = [[Statistical Science]] | volume = 16 | issue = 3 | pages = 199–231 | doi = 10.1214/ss/1009213726 | mr = 1874152 }}&lt;/ref>
+{{Quote box
+ | quote = "... it is only the manipulation of uncertainty that interests us. We are not concerned with the matter that is uncertain. Thus we do not study the mechanism of rain; only whether it will rain."
+ | source = [[Dennis Lindley]], 2000&lt;ref>{{cite journal | authorlink = Dennis Lindley | last = Lindley | first = D. | year = 2000 | title = The Philosophy of Statistics | journal = [[Journal of the Royal Statistical Society]], Series D (The Statistician) | volume = 49 | issue = 3 | pages = 293–337 | jstor = 2681060 | doi = 10.1111/1467-9884.00238 }}&lt;/ref>
+ | width = 40%
+ | align= right
+}}
+The concept of [[correlation]] is particularly noteworthy for the potential confusion it can cause. Statistical analysis of a [[data set]] often reveals that two variables (properties) of the population under consideration tend to vary together, as if they were connected. For example, a study of annual income that also looks at age of death might find that poor people tend to have shorter lives than affluent people. The two variables are said to be correlated; however, they may or may not be the cause of one another. The correlation phenomena could be caused by a third, previously unconsidered phenomenon, called a lurking variable or [[confounding variable]]. For this reason, there is no way to immediately infer the existence of a causal relationship between the two variables. (See [[Correlation does not imply causation]].)
+
+To use a sample as a guide to an entire population, it is important that it truly representat that overall population. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. A major problem lies in determining the extent that the sample chosen is actually representative. Statistics offers methods to estimate and correct for any random trending within the sample and data collection procedures. There are also methods of [[experimental design]] for experiments that can lessen these issues at the outset of a study, strengthening its capability to discern truths about the population.
+ 
+Randomness is studied using the [[mathematics|mathematical discipline]] of [[probability theory]]. Probability is used in "[[mathematical statistics]]" (alternatively, "[[statistical theory]]") to study the [[sampling distribution]]s of [[sample statistic]]s and, more generally, the properties of [[statistical decision theory|statistical procedures]]. The use of any statistical method is valid when the system or population under consideration satisfies the  assumptions of the method.
+
+[[Misuse of statistics]] can produce subtle, but serious errors in description and interpretation—subtle in the sense that even experienced professionals make such errors, and serious in the sense that they can lead to devastating decision errors. For instance, social policy, medical practice, and the reliability of structures like bridges all rely on the proper use of statistics. [[#Misuse|See below]] for further discussion.
+
+Even when statistical techniques are correctly applied, the results can be difficult to interpret for those lacking expertise. The [[statistical significance]] of a trend in the data—which measures the extent to which a trend could be caused by random variation in the sample—may or may not agree with an intuitive sense of its significance. The set of basic statistical skills (and skepticism) that people need to deal with information in their everyday lives properly is referred to as [[statistical literacy]].
+
+==Statistical methods==
+===Experimental and observational studies===
+A common goal for a statistical research project is to investigate [[causality]], and in particular to draw a conclusion on the effect of changes in the values of predictors or [[independent variable]]s on [[dependent variable]]s or response. There are two major types of causal statistical studies: [[controlled experiment|experimental studies]] and [[observational study|observational studies]]. In both types of studies, the effect of differences of an independent variable (or variables) on the behavior of the dependent variable are observed. The difference between the two types lies in how the study is actually conducted. Each can be very effective.
+An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation. Instead, data are gathered and correlations between predictors and response are investigated.
+
+====Experiments====
+The basic steps of a statistical experiment are:
+# Planning the research, including finding the number of replicates of the study, using the following information:  preliminary estimates regarding the size of [[Average treatment effect|treatment effects]], [[alternative hypothesis|alternative hypotheses]], and the estimated [[experimental error|experimental variability]]. Consideration of the selection of experimental subjects and the ethics of research is necessary. Statisticians recommend that experiments compare (at least) one new treatment with a standard treatment or control, to allow an unbiased estimate of the difference in treatment effects.
+# [[Design of experiments]], using [[blocking (statistics)|blocking]] to reduce the influence of [[confounding variable]]s, and  [[randomized assignment]] of treatments to subjects to allow [[bias of an estimator|unbiased estimates]] of treatment effects and experimental error. At this stage, the experimenters and statisticians write the ''[[protocol (natural sciences)|experimental protocol]]'' that shall guide the performance of the experiment and that specifies the'' primary analysis'' of the experimental data.
+# Performing the experiment following the [[Protocol (natural sciences)|experimental protocol]] and [[analysis of variance|analyzing the data]] following the experimental protocol.
+# Further examining the data set in secondary analyses, to suggest new hypotheses for future study.
+# Documenting and presenting the results of the study.
+
+Experiments on human behavior have special concerns. The famous [[Hawthorne study]] examined changes to the working environment at the Hawthorne plant of the [[Western Electric Company]]. The researchers were interested in determining whether increased illumination would increase the productivity of the [[assembly line]] workers. The researchers first measured the productivity in the plant, then modified the illumination in an area of the plant and checked if the changes in illumination affected productivity. It turned out that productivity indeed improved (under the experimental conditions). However, the study is heavily criticized today for errors in experimental procedures, specifically for the lack of a [[control group]] and [[double-blind|blindness]]. The [[Hawthorne effect]] refers to finding that an outcome (in this case, worker productivity) changed due to observation itself. Those in the Hawthorne study became more productive not because the lighting was changed but because they were being observed.{{Citation needed|date=April 2009}}
+
+====Observational study====
+An example of an observational study is one that explores the correlation between smoking and lung cancer. This type of study typically uses a survey to collect observations about the area of interest and then performs statistical analysis. In this case, the researchers would collect observations of both smokers and non-smokers, perhaps through a [[case-control study]], and then look for the number of cases of lung cancer in each group.
+
+===Levels of measurement===
+{{Main|Levels of measurement}}
+There are four main [[level of measurement|levels of measurement]] used in statistics: nominal, ordinal, interval, and ratio.&lt;ref>Thompson, B. (2006). Foundations of behavioral statistics. New York, NY: Guilford Press.&lt;/ref> Each of these have different degrees of usefulness in statistical [[research]]. Ratio measurements have both a meaningful zero value and the distances between different measurements defined; they provide the greatest flexibility in statistical methods that can be used for analyzing the data.{{Citation needed|date=November 2010}} Interval measurements have meaningful distances between measurements defined, but the zero value is arbitrary (as in the case with [[longitude]] and temperature measurements in [[Celsius]] or [[Fahrenheit]]). Ordinal measurements have imprecise differences between consecutive values, but have a meaningful order to those values. Nominal measurements have no meaningful rank order among values.
+
+Because variables conforming only to nominal or ordinal measurements cannot be reasonably measured numerically, sometimes they are grouped together as [[categorical variable]]s, whereas ratio and interval measurements are grouped together as [[Variable (mathematics)#Applied statistics|quantitative variables]], which can be either [[Probability distribution#Discrete probability distribution|discrete]] or [[Probability distribution#Continuous probability distribution|continuous]], due to their numerical nature.
+
+===Key terms used in statistics===
+====Null hypothesis====
+Interpretation of statistical information can often involve the development of a [[null hypothesis]] in that the assumption is that whatever is proposed as a cause has no effect on the variable being measured.
+
+The best illustration for a novice is the predicament encountered by a jury trial. The null hypothesis, H&lt;sub>0&lt;/sub>, asserts that the defendant is innocent, whereas the alternative hypothesis, H&lt;sub>1&lt;/sub>, asserts that the defendant is guilty. The indictment comes because of suspicion of the guilt. The H&lt;sub>0&lt;/sub> (status quo) stands in opposition to H&lt;sub>1&lt;/sub> and is maintained unless H&lt;sub>1&lt;/sub> is supported by evidence"beyond a reasonable doubt". However,"failure to reject H&lt;sub>0&lt;/sub>" in this case does not imply innocence, but merely that the evidence was insufficient to convict. So the jury does not necessarily ''accept'' H&lt;sub>0&lt;/sub> but ''fails to reject'' H&lt;sub>0&lt;/sub>. While one can not "prove" a null hypothesis one can test how close it is to being true with a [[Statistical power|power test]], which tests for type II errors.
+
+====Error====
+Working from a [[null hypothesis]] two basic forms of error are recognized:
+*[[Type I and type II errors#Type I error|Type I errors]] where the null hypothesis is falsely rejected giving a "false positive".
+*[[Type I and type II errors#Type II error|Type II errors]] where the null hypothesis fails to be rejected and an actual difference between populations is missed giving a ''false negative''.
+
+Error also refers to the extent to which individual observations in a sample differ from a central value, such as the sample or population mean.  Many statistical methods seek to minimize the mean-squared error, and these are called "[[least squares|methods of least squares]]."
+
+Measurement processes that generate statistical data are also subject to error.  Many of these errors are classified as [[Random error|random]] (noise) or [[Systematic error|systematic]] ([[bias]]), but other important types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important.
+
+====Interval estimation====
+{{Main|Interval estimation}}
+Most studies only sample part of a population , so results don't fully represent the whole population. Any estimates obtained from the sample only approximate the population value. [[Confidence intervals]] allow statisticians to express how closely the sample estimate matches the true value in the whole population. Often they are expressed as 95% confidence intervals. Formally, a 95% confidence interval for a value is a range where, if the sampling and analysis were repeated under the same conditions (yielding a different dataset), the interval would include the true (population) value 95% of the time. This does ''not'' imply that the probability that the true value is in the confidence interval is 95%. From the [[frequentist inference|frequentist]] perspective, such a claim does not even make sense, as the true value is not a [[random variable]].  Either the true value is or is not within the given interval. However, it is true that, before any data are sampled and given a plan for how to construct the confidence interval, the probability is 95% that the yet-to-be-calculated interval will cover the true value: at this point, the limits of the interval are yet-to-be-observed [[random variable]]s. One approach that does yield an interval that can be interpreted as having a given probability of containing the true value is to use a [[credible interval]] from [[Bayesian statistics]]: this approach depends on a different way of [[Probability interpretations|interpreting what is meant by "probability"]], that is as a [[Bayesian probability]].
+
+====Significance====
+{{Main|Statistical significance}}
+{{No footnotes|section|date=May 2012}}
+Statistics rarely give a simple Yes/No type answer to the question asked of them. Interpretation often comes down to the level of statistical significance applied to the numbers and often refers to the probability of a value accurately rejecting the null hypothesis (sometimes referred to as the [[p-value]]).
+
+Referring to statistical significance does not necessarily mean that the overall result is significant in real world terms. For example, in a large study of a drug it may be shown that the drug has a statistically significant but very small beneficial effect, such that the drug is unlikely to help the patient noticeably.
+
+Criticisms arise because the hypothesis testing approach forces one hypothesis (the [[null hypothesis]]) to be "favored," and can also seem to exaggerate the importance of minor differences in large studies. A difference that is highly statistically significant can still be of no practical significance, but it is possible to properly formulate tests in account for this. (See also [[Statistical hypothesis testing#Controversy|criticism of hypothesis testing]].)
+
+One response involves going beyond reporting only the [[significance level]] to include the [[p-value|''p''-value]] when reporting whether a hypothesis is rejected or accepted. The ''p''-value, however, does not indicate the size of the effect. A better and increasingly common approach is to report [[confidence interval]]s. Although these are produced from the same calculations as those of hypothesis tests or ''p''-values, they describe both the size of the effect and the uncertainty surrounding it.
+
+===Examples===
+Some well-known statistical [[Statistical hypothesis testing|tests]] and [[Procedure (term)|procedures]] are:
+&lt;div style="-moz-column-count:2; column-count:2;">
+* [[Analysis of variance]] (ANOVA)
+* [[Chi-squared test]]
+* [[Correlation]]
+* [[Factor analysis]]
+* [[Mann–Whitney U|Mann–Whitney ''U'']]
+* [[Mean square weighted deviation]] (MSWD)
+* [[Pearson product-moment correlation coefficient]]
+* [[Regression analysis]]
+* [[Spearman's rank correlation coefficient]]
+* [[Student's t-test|Student's ''t''-test]]
+* [[Time series analysis]]
+&lt;/div>
+
+==Specialized disciplines==
+{{Main|List of fields of application of statistics}}
+
+Statistical techniques are used in a wide range of types of scientific and social research, including: [[biostatistics]],  [[computational biology]],  [[computational sociology]],  [[network biology]],  [[social science]],  [[sociology]] and  [[social research]]. Some fields of inquiry use applied statistics so extensively that they have [[specialized terminology]]. These disciplines include:
+&lt;div style="-moz-column-count:2; column-count:2;">
+* [[Actuarial science]] (assesses risk in the insurance and finance industries)
+* [[Applied information economics]]
+* [[Biostatistics]]
+* [[Business statistics]]
+* [[Chemometrics]] (for analysis of data from [[chemistry]])
+* [[Data mining]] (applying statistics and [[pattern recognition]] to discover knowledge from data)
+* [[Demography]]
+* [[Econometrics]]
+* [[Energy statistics]]
+* [[Engineering statistics]]
+* [[Epidemiology]]
+* [[Geography]] and [[Geographic Information Systems]], specifically in [[Spatial analysis]]
+* [[Image processing]]
+* [[Psychological statistics]]
+* [[Reliability engineering]]
+* [[Social statistics]]
+
+In addition, there are particular types of statistical analysis that have also developed their own specialised terminology and methodology:
+* [[Bootstrapping (statistics)|Bootstrap]] &amp; [[Resampling (statistics)|Jackknife Resampling]]
+* [[Multivariate statistics]]
+* [[Statistical classification]]
+* [[Statistical survey]]s
+* [[Structured data analysis (statistics)]]
+* [[Structural equation modelling]]
+* [[Survival analysis]]
+* Statistics in various sports, particularly [[Baseball statistics|baseball]] and [[Cricket statistics|cricket]]
+&lt;/div>
+
+Statistics form a key basis tool in business and manufacturing as well. It is used to understand measurement systems variability, control processes (as in [[statistical process control]] or SPC), for summarizing data, and to make data-driven decisions. In these roles, it is a key tool, and perhaps the only reliable tool.
+
+==Statistical computing==
+[[File:Gretl screenshot.png|thumb|300px|[[gretl]], an example of an [[open source]] statistical package]]
+{{Main|Computational statistics}}
+
+The rapid and sustained increases in computing power starting from the second half of the 20th century have had a substantial impact on the practice of statistical science. Early statistical models were almost always from the class of [[linear model]]s, but powerful computers, coupled with suitable numerical [[algorithms]], caused an increased interest in [[nonlinear regression|nonlinear models]] (such as [[neural networks]]) as well as the creation of new types, such as [[generalized linear model]]s and [[multilevel model]]s.
+
+Increased computing power has also led to the growing popularity of computationally intensive methods based on [[resampling (statistics)|resampling]], such as permutation tests and the [[bootstrapping (statistics)|bootstrap]], while techniques such as [[Gibbs sampling]] have made use of Bayesian models more feasible. The computer revolution has implications for the future of statistics with new emphasis on "experimental" and "empirical" statistics. A large number of both general and special purpose [[List of statistical packages|statistical software]] are now available.
+
+==Misuse==
+{{Main|Misuse of statistics}}
+
+There is a general perception that statistical knowledge is all-too-frequently intentionally [[Misuse of statistics|misused]] by finding ways to interpret only the data that are favorable to the presenter.&lt;ref name=Huff>Huff, Darrell (1954) ''[[How to Lie With Statistics]]'',  WW Norton &amp; Company, Inc. New York, NY.  ISBN 0-393-31072-8&lt;/ref> A  mistrust and misunderstanding of statistics is associated with the quotation, "[[Lies, damned lies, and statistics|There are three kinds of lies: lies, damned lies, and statistics]]". Misuse of statistics can be both inadvertent and intentional, and the book ''[[How to Lie With Statistics]]''&lt;ref name=Huff/> outlines a range of considerations. In an attempt to shed light on the use and misuse of statistics, reviews of statistical techniques used in particular fields are conducted (e.g. Warne, Lazo, Ramos, and Ritter (2012)).&lt;ref>Warne, R. Lazo, M., Ramos, T. and Ritter, N. (2012). Statistical Methods Used in Gifted Education Journals, 2006–2010. Gifted Child Quarterly, 56(3) 134–149. {{doi|10.1177/0016986212444122}}&lt;/ref>
+
+Ways to avoid misuse of statistics include using proper diagrams and avoiding bias.&lt;ref name="Statistics in Archaeology">{{cite book|title=Encyclopedia of Archaeology|year=2008|publisher=Oxford: Elsevier Science|location=Credo Reference|accessdate=17 September 2012}}&lt;/ref> "The misuse occurs when such conclusions are held to be representative of the universe by those who either deliberately or unconsciously overlook the sampling bias.&lt;ref name="Misuse of Statistics">{{cite journal |last=Cohen |first=Jerome B. |title=Misuse of Statistics |journal=Journal of the American Statistical Association |year=1938 |month=December |volume=33 |issue=204 |pages=657–674 |location=JSTOR |doi=10.1080/01621459.1938.10502344}}&lt;/ref>" Bar graphs are arguably the easiest diagrams to use and understand, and they can be made either with simple computer programs or hand drawn.&lt;ref name="Statistics in Archaeology" /> Unfortunately, most people do not look for bias or errors, so they do not see them. Thus, we believe something true that is not well-represented.&lt;ref name="Misuse of Statistics" /> To make data gathered from statistics believable and accurate, the sample taken must be representative of the whole.&lt;ref name="Modern Elementary Statistics">{{cite journal|last=Freund|first=J. F.|title=Modern Elementary Statistics|journal=Credo Reference|year=1988}}&lt;/ref>  As Huff's book states,"The dependability of a sample can be destroyed by [bias]… allow yourself some degree of skepticism."&lt;ref name="How to Lie with Statistics">{{cite book|last=Huff|first=Darrell|title=How to Lie with Statistics|year=1954|publisher=Norton|location=New York|coauthors=Irving Geis|quote=The dependability of a sample can be destroyed by [bias]… allow yourself some degree of skepticism.}}&lt;/ref>
+
+==Statistics applied to mathematics or the arts==
+Traditionally, statistics was concerned with drawing inferences using a semi-standardized methodology that was "required learning" in most sciences. This has changed with use of statistics in non-inferential contexts. What was once considered a dry subject, taken in many fields as a degree-requirement, is now viewed enthusiastically. Initially derided by some mathematical purists, it is now considered essential methodology in certain areas.
+* In [[number theory]], [[scatter plot]]s of data generated by a distribution function may be transformed with familiar tools used in statistics to reveal underlying patterns, which may then lead to hypotheses.
+* Methods of statistics including predictive methods in [[forecasting]] are combined with [[chaos theory]] and [[fractal geometry]] to create video works that are considered to have great beauty.
+* The [[process art]] of [[Jackson Pollock]] relied on artistic experiments whereby underlying distributions in nature were artistically revealed. With the advent of computers, methods of statistics were applied to formalize such distribution driven natural processes, in order to make and analyze moving video art.
+* Methods of statistics may be used predicatively in [[performance art]], as in a card trick based on a [[Markov process]] that only works some of the time, the occasion of which can be predicted using statistical methodology.
+* Statistics can be used to predicatively create art, as in the statistical or [[stochastic music]] invented by [[Iannis Xenakis]], where the music is performance-specific. Though this type of artistry does not always come out as expected, it does behave in ways that are predictable and tunable using statistics.
+
+==See also==
+{{Portal|Statistics}}
+{{Sister project links|Statistics}}
+{{Main|Outline of statistics}}
+&lt;!-- NOTE: This is mainly for statistics-related lists. Please consider adding links to either the "list of basic statistics topics" or the "list of statistical topics" entries rather than here.-->
+{{Multicol|75%}} 
+&lt;!-- Lists -->
+* [[Glossary of probability and statistics]]
+* [[Notation in probability and statistics]]
+* [[List of statistics articles]]
+* [[List of academic statistical associations]]
+* [[List of national and international statistical services]]
+* [[List of important publications in statistics]]
+* [[List of university statistical consulting centers]]
+* [[List of statistical packages]] (software)
+{{Multicol-break}} 
+&lt;!-- Foundations and major areas of statistics, closely related fields NOT already mentioned in "Specialised disciplines" section-->
+* [[Foundations of statistics]]
+* [[Official statistics]]
+* [[List of statisticians]]
+{{Multicol-end}}
+{{clear}}
+
+==References==
+{{Reflist}}
+
+{{Statistics|state=expanded}}
+
+{{Mathematics-footer|state=collapsed}}
+
+[[Category:Auxiliary sciences of history]]
+[[Category:Data]]
+[[Category:Evaluation methods]]
+[[Category:Information]]
+[[Category:Mathematical and quantitative methods (economics)]]
+[[Category:Mathematical sciences]]
+[[Category:Research methods]]
+[[Category:Scientific method]]
+[[Category:Statistics| ]]
+
+{{Link FA|eu}}
+
+[[be-x-old:Статы�?тыка]]
+[[si:සංඛ්&amp;zwj;ය�?නය]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe the changes you have made)</small></span></label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>By clicking the "Save page" button, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC-BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>.<br/> You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Save page" accesskey="s" title="Save your changes [s]" />
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes; please use this before saving. [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]" />
+	<span class='cancelLink'><a href="/wiki/Statistics" title="Statistics" id="mw-editform-cancel">Cancel</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Wikipedia:Cheatsheet">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ″ ′ ≈ ≠ ≤ ≥ ± − × ÷ �? → · §   <b>Sign your posts on talk pages:</b> ~~~~
+</p>
+<hr />
+<p><small>
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &amp;nbsp;   &lt;s&gt;&lt;/s&gt;   &lt;sup&gt;&lt;/sup&gt;   &lt;sub&gt;&lt;/sub&gt;   &lt;code&gt;&lt;/code&gt;   &lt;pre&gt;&lt;/pre&gt;   &lt;blockquote&gt;&lt;/blockquote&gt;   &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt;   {{Reflist}}   &lt;references /&gt;   &lt;includeonly&gt;&lt;/includeonly&gt;   &lt;noinclude&gt;&lt;/noinclude&gt;   {{DEFAULTSORT:}}   &lt;nowiki&gt;&lt;/nowiki&gt;   &lt;!-- --&gt;   &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+</small>
+</p>
+<hr />
+<p><small>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ �? «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™<br/>
+<b>Latin:</b> A a �? á À à Â â Ä ä �? ǎ Ă ă Ā �? Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č �? Ç ç   D d Ď �? �? đ Ḍ �? �? ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ �? ɛ �? ə   F f   G g Ġ ġ Ĝ �? Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı �? í Ì ì Î î �? ï �? �? Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ �? ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ �? Ō �? Õ õ Ǫ ǫ Ọ �? �? ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ �?   S s Ś ś Ŝ �? Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y �? ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß �? ð Þ þ Ŋ ŋ �? ə   {{Unicode|}} <br/>
+<b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ �? �? ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   �? ν Ξ ξ Ο ο Π π   Ρ �? Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} <br/>
+<b>Cyrillic:</b> �? а Б б В в Г г   �? ґ Ѓ ѓ Д д Ђ ђ   Е е �? ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   �? н Њ њ О о П п   Р р С �? Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч �? џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э �? Ю ю Я �?   �? <br/>
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ �? ç �? ɣ χ �? ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ �? ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ �?   ɨ ʉ ɯ   ɪ �? ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ �? ɞ ʌ ɔ   æ   �? ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ �?� ˡ   ˈ ˌ �? ˑ ̪   {{IPA|}}
+</small>
+</p>
+</div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages <a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">transcluded</a> onto the current version of this page:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:!" title="Template:!">Template:!</a> (<a href="/w/index.php?title=Template:!&amp;action=edit" title="Template:!">view source</a>) (protected)</li><li><a href="/wiki/Template:%3D" title="Template:=">Template:=</a> (<a href="/w/index.php?title=Template:%3D&amp;action=edit" title="Template:=">view source</a>) (protected)</li><li><a href="/wiki/Template:About" title="Template:About">Template:About</a> (<a href="/w/index.php?title=Template:About&amp;action=edit" title="Template:About">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox" title="Template:Ambox">Template:Ambox</a> (<a href="/w/index.php?title=Template:Ambox&amp;action=edit" title="Template:Ambox">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/category" title="Template:Ambox/category">Template:Ambox/category</a> (<a href="/w/index.php?title=Template:Ambox/category&amp;action=edit" title="Template:Ambox/category">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/core" title="Template:Ambox/core">Template:Ambox/core</a> (<a href="/w/index.php?title=Template:Ambox/core&amp;action=edit" title="Template:Ambox/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Basepage_subpage" title="Template:Basepage subpage">Template:Basepage subpage</a> (<a href="/w/index.php?title=Template:Basepage_subpage&amp;action=edit" title="Template:Basepage subpage">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler" title="Template:Category handler">Template:Category handler</a> (<a href="/w/index.php?title=Template:Category_handler&amp;action=edit" title="Template:Category handler">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/blacklist" title="Template:Category handler/blacklist">Template:Category handler/blacklist</a> (<a href="/w/index.php?title=Template:Category_handler/blacklist&amp;action=edit" title="Template:Category handler/blacklist">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/numbered" title="Template:Category handler/numbered">Template:Category handler/numbered</a> (<a href="/w/index.php?title=Template:Category_handler/numbered&amp;action=edit" title="Template:Category handler/numbered">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation_needed" title="Template:Citation needed">Template:Citation needed</a> (<a href="/w/index.php?title=Template:Citation_needed&amp;action=edit" title="Template:Citation needed">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/core" title="Template:Citation/core">Template:Citation/core</a> (<a href="/w/index.php?title=Template:Citation/core&amp;action=edit" title="Template:Citation/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/identifier" title="Template:Citation/identifier">Template:Citation/identifier</a> (<a href="/w/index.php?title=Template:Citation/identifier&amp;action=edit" title="Template:Citation/identifier">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/make_link" title="Template:Citation/make link">Template:Citation/make link</a> (<a href="/w/index.php?title=Template:Citation/make_link&amp;action=edit" title="Template:Citation/make link">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_book" title="Template:Cite book">Template:Cite book</a> (<a href="/w/index.php?title=Template:Cite_book&amp;action=edit" title="Template:Cite book">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_journal" title="Template:Cite journal">Template:Cite journal</a> (<a href="/w/index.php?title=Template:Cite_journal&amp;action=edit" title="Template:Cite journal">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (protected)</li><li><a href="/wiki/Template:Citeseerx" title="Template:Citeseerx">Template:Citeseerx</a> (<a href="/w/index.php?title=Template:Citeseerx&amp;action=edit" title="Template:Citeseerx">edit</a>) </li><li><a href="/wiki/Template:Clear" title="Template:Clear">Template:Clear</a> (<a href="/w/index.php?title=Template:Clear&amp;action=edit" title="Template:Clear">view source</a>) (protected)</li><li><a href="/wiki/Template:Doi" title="Template:Doi">Template:Doi</a> (<a href="/w/index.php?title=Template:Doi&amp;action=edit" title="Template:Doi">view source</a>) (protected)</li><li><a href="/wiki/Template:Fix" title="Template:Fix">Template:Fix</a> (<a href="/w/index.php?title=Template:Fix&amp;action=edit" title="Template:Fix">view source</a>) (protected)</li><li><a href="/wiki/Template:Fix/category" title="Template:Fix/category">Template:Fix/category</a> (<a href="/w/index.php?title=Template:Fix/category&amp;action=edit" title="Template:Fix/category">view source</a>) (protected)</li><li><a href="/wiki/Template:Hatnote" title="Template:Hatnote">Template:Hatnote</a> (<a href="/w/index.php?title=Template:Hatnote&amp;action=edit" title="Template:Hatnote">view source</a>) (protected)</li><li><a href="/wiki/Template:Hide_in_print" title="Template:Hide in print">Template:Hide in print</a> (<a href="/w/index.php?title=Template:Hide_in_print&amp;action=edit" title="Template:Hide in print">view source</a>) (protected)</li><li><a href="/wiki/Template:If_pagename" title="Template:If pagename">Template:If pagename</a> (<a href="/w/index.php?title=Template:If_pagename&amp;action=edit" title="Template:If pagename">view source</a>) (protected)</li><li><a href="/wiki/Template:Ifsubst" title="Template:Ifsubst">Template:Ifsubst</a> (<a href="/w/index.php?title=Template:Ifsubst&amp;action=edit" title="Template:Ifsubst">view source</a>) (protected)</li><li><a href="/wiki/Template:JSTOR" title="Template:JSTOR">Template:JSTOR</a> (<a href="/w/index.php?title=Template:JSTOR&amp;action=edit" title="Template:JSTOR">edit</a>) </li><li><a href="/wiki/Template:Jstor" class="mw-redirect" title="Template:Jstor">Template:Jstor</a> (<a href="/w/index.php?title=Template:Jstor&amp;action=edit" class="mw-redirect" title="Template:Jstor">edit</a>) </li><li><a href="/wiki/Template:Link_FA" title="Template:Link FA">Template:Link FA</a> (<a href="/w/index.php?title=Template:Link_FA&amp;action=edit" title="Template:Link FA">view source</a>) (protected)</li><li><a href="/wiki/Template:Main" title="Template:Main">Template:Main</a> (<a href="/w/index.php?title=Template:Main&amp;action=edit" title="Template:Main">view source</a>) (protected)</li><li><a href="/wiki/Template:Mathematics-footer" title="Template:Mathematics-footer">Template:Mathematics-footer</a> (<a href="/w/index.php?title=Template:Mathematics-footer&amp;action=edit" title="Template:Mathematics-footer">edit</a>) </li><li><a href="/wiki/Template:Multicol" title="Template:Multicol">Template:Multicol</a> (<a href="/w/index.php?title=Template:Multicol&amp;action=edit" title="Template:Multicol">view source</a>) (protected)</li><li><a href="/wiki/Template:Multicol-break" title="Template:Multicol-break">Template:Multicol-break</a> (<a href="/w/index.php?title=Template:Multicol-break&amp;action=edit" title="Template:Multicol-break">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Multicol-end" title="Template:Multicol-end">Template:Multicol-end</a> (<a href="/w/index.php?title=Template:Multicol-end&amp;action=edit" title="Template:Multicol-end">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Namespace_detect" title="Template:Namespace detect">Template:Namespace detect</a> (<a href="/w/index.php?title=Template:Namespace_detect&amp;action=edit" title="Template:Namespace detect">view source</a>) (protected)</li><li><a href="/wiki/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/w/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) (protected)</li><li><a href="/wiki/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/w/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) (protected)</li><li><a href="/wiki/Template:Navbox_with_collapsible_groups" title="Template:Navbox with collapsible groups">Template:Navbox with collapsible groups</a> (<a href="/w/index.php?title=Template:Navbox_with_collapsible_groups&amp;action=edit" title="Template:Navbox with collapsible groups">view source</a>) (protected)</li><li><a href="/wiki/Template:No_footnotes" title="Template:No footnotes">Template:No footnotes</a> (<a href="/w/index.php?title=Template:No_footnotes&amp;action=edit" title="Template:No footnotes">view source</a>) (protected)</li><li><a href="/wiki/Template:Only_in_print" title="Template:Only in print">Template:Only in print</a> (<a href="/w/index.php?title=Template:Only_in_print&amp;action=edit" title="Template:Only in print">view source</a>) (protected)</li><li><a href="/wiki/Template:Page_needed" title="Template:Page needed">Template:Page needed</a> (<a href="/w/index.php?title=Template:Page_needed&amp;action=edit" title="Template:Page needed">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Portal" title="Template:Portal">Template:Portal</a> (<a href="/w/index.php?title=Template:Portal&amp;action=edit" title="Template:Portal">view source</a>) (protected)</li><li><a href="/wiki/Template:Portal/Images/Statistics" title="Template:Portal/Images/Statistics">Template:Portal/Images/Statistics</a> (<a href="/w/index.php?title=Template:Portal/Images/Statistics&amp;action=edit" title="Template:Portal/Images/Statistics">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Portal/core" title="Template:Portal/core">Template:Portal/core</a> (<a href="/w/index.php?title=Template:Portal/core&amp;action=edit" title="Template:Portal/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Quote_box" title="Template:Quote box">Template:Quote box</a> (<a href="/w/index.php?title=Template:Quote_box&amp;action=edit" title="Template:Quote box">view source</a>) (protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (protected)</li><li><a href="/wiki/Template:Rellink" title="Template:Rellink">Template:Rellink</a> (<a href="/w/index.php?title=Template:Rellink&amp;action=edit" title="Template:Rellink">view source</a>) (protected)</li><li><a href="/wiki/Template:Sister_project_links" title="Template:Sister project links">Template:Sister project links</a> (<a href="/w/index.php?title=Template:Sister_project_links&amp;action=edit" title="Template:Sister project links">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Statistics" title="Template:Statistics">Template:Statistics</a> (<a href="/w/index.php?title=Template:Statistics&amp;action=edit" title="Template:Statistics">edit</a>) </li><li><a href="/wiki/Template:Str_left" title="Template:Str left">Template:Str left</a> (<a href="/w/index.php?title=Template:Str_left&amp;action=edit" title="Template:Str left">view source</a>) (protected)</li><li><a href="/wiki/Template:TOC_limit" title="Template:TOC limit">Template:TOC limit</a> (<a href="/w/index.php?title=Template:TOC_limit&amp;action=edit" title="Template:TOC limit">view source</a>) (protected)</li><li><a href="/wiki/Template:Template_other" title="Template:Template other">Template:Template other</a> (<a href="/w/index.php?title=Template:Template_other&amp;action=edit" title="Template:Template other">view source</a>) (protected)</li><li><a href="/wiki/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/w/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) (protected)</li><li><a href="/wiki/Template:URL" title="Template:URL">Template:URL</a> (<a href="/w/index.php?title=Template:URL&amp;action=edit" title="Template:URL">view source</a>) (protected)</li><li><a href="/wiki/Template:Verify_source" title="Template:Verify source">Template:Verify source</a> (<a href="/w/index.php?title=Template:Verify_source&amp;action=edit" title="Template:Verify source">view source</a>) (protected)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 8 hidden categories:
+</p></div><ul>
+<li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">Category:All articles lacking in-text citations</a></li>
+<li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">Category:All articles with unsourced statements</a></li>
+<li><a href="/wiki/Category:All_pages_needing_factual_verification" title="Category:All pages needing factual verification">Category:All pages needing factual verification</a></li>
+<li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2012" title="Category:Articles lacking in-text citations from May 2012">Category:Articles lacking in-text citations from May 2012</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2009" title="Category:Articles with unsourced statements from April 2009">Category:Articles with unsourced statements from April 2009</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Category:Articles with unsourced statements from November 2010</a></li>
+<li><a href="/wiki/Category:Wikipedia_articles_needing_factual_verification_from_March_2012" title="Category:Wikipedia articles needing factual verification from March 2012">Category:Wikipedia articles needing factual verification from March 2012</a></li>
+<li><a href="/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_January_2012" title="Category:Wikipedia articles needing page number citations from January 2012">Category:Wikipedia articles needing page number citations from January 2012</a></li>
+</ul></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/wiki/Statistics">http://en.wikipedia.org/wiki/Statistics</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Statistics&amp;returntoquery=action%3Dedit&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Statistics&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Statistics"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Statistics"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Statistics" >Read</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Statistics&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving.">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Statistics&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" role="navigation" id='p-interaction'>
+	<h3>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Statistics" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Statistics" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Statistics&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/Statistics" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.markAsHelpful","ext.Experiments.experiments","wikibase.client.init","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_bold.png", "Bold text", "\'\'\'", "\'\'\'", "Bold text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_italic.png", "Italic text", "\'\'", "\'\'", "Italic text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Internal link", "[[", "]]", "Link title", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "External link (remember http:// prefix)", "[", "]", "http://www.example.com link title", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Level 2 headline", "\n== ", " ==\n", "Headline text", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Embedded file", "[[File:", "]]", "Example.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "File link", "[[Media:", "]]", "Example.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematical formula (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Insert formula here", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Ignore wiki formatting", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Insert non-formatted text here", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Your signature with timestamp", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontal line (use sparingly)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1024 in 0.609 secs. -->
+	</body>
+</html>

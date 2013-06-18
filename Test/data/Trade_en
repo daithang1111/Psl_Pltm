@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<title>Editing Trade - Wikipedia, the free encyclopedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Trade&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Trade&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cteahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d11e4771671c2d6cdedf7c90d8131cd5 */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trade","wgTitle":"Trade","wgCurRevisionId":539439048,"wgArticleId":29678,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Trade","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":true,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"efe164428fea22d67c2555f517b79ec8","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgVisualEditor":{"isPageWatched":false,"enableSectionEditLinks":false},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgGuidedTourTestWikitextDescription":"A guider in your on-wiki tour can contain wikitext using onShow and parseDescription. Use it to create a wikilink to the \x3ca href=\"/wiki/Help:Guided_tours\" title=\"Help:Guided tours\"\x3eGuided tours documentation\x3c/a\x3e. Or an external link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3eto GitHub\x3c/a\x3e, for instance.","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"wikilove-enabled":1,"echo-email-notificationspagetriage-mark-as-reviewed":true,"echo-web-notificationspagetriage-mark-as-reviewed":true,"echo-email-notificationspagetriage-add-maintenance-tag":true,"echo-web-notificationspagetriage-add-maintenance-tag":true,"echo-email-notificationspagetriage-add-deletion-tag":true,"echo-web-notificationspagetriage-add-deletion-tag":true,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,
+"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-HotCat":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:b879f67219ff7270fa82da054ada6414 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.vector.footerCleanup","ext.wikimediaShopLink.core","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Trade skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Editing Trade</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><div id="editnotice-area" class="editnotice-area" style="clear: both; width: 100%;"><div class="editnotice-namespace" style="width: 100%;">  </div><div class="editnotice-link editnotice-redlink sysop-show accountcreator-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/Trade&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/Trade (page does not exist)">Page notice</a></small> </div><div style="clear: both;"></div> </div>
+<div id="mw-anon-edit-warning">
+<table id="anoneditwarningtest" class="plainlinks fmbox fmbox-editnotice" style="background-color:#F8F5C1; font-family:Arial; border:none; height:38px;">
+<tr>
+<td class="mbox-image">
+  <a href="/wiki/File:AnonEditWarning.png" class="image"><img alt="AnonEditWarning.png" src="//upload.wikimedia.org/wikipedia/commons/6/6d/AnonEditWarning.png" width="10" height="20" /></a></td>
+<td class="mbox-text" style=""> <b>You are not logged in</b>. Your <a href="/wiki/IP_address" title="IP address">IP address</a> will be publicly visible if you make any edits. Please <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Trade&amp;returntoquery=action%3Dedit">log in</a></b> or <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;returnto=Trade&amp;returntoquery=action%3Dedit">sign up</a></b> to have your edits associated with a user name, among <a href="/wiki/Wikipedia:Why_create_an_account%3F#Summary_of_benefits" title="Wikipedia:Why create an account?">other benefits</a>. </td>
+</tr>
+</table></div>
+<div class="editpage-head-copywarn">
+<p><i>Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">verifiable</a>. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to <a href="/wiki/Wikipedia:REUSE" title="Wikipedia:REUSE" class="mw-redirect">certain terms and conditions</a>.</i>
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Trade&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Anti-spam check.
+Do <b>NOT</b> fill this in!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="539439048" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225072004" name="wpStarttime" />
+<input type='hidden' value="20130221153930" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">{{About|the economic mechanism}}
+[[Image:Kaufmann-1568.png|thumb|right|Trader in Germany, 16th century]]
+[[Image:MercadodeSanJuandeDios.jpg|thumb|right|[[San Juan de Dios Market]] in [[Guadalajara, Jalisco]]]]
+
+'''Trade''' is the transfer of [[ownership]] of goods   and services from one person or entity to another by getting something in exchange from the [[buyer]]. Trade is sometimes loosely called [[commerce]] or [[financial transaction]] or barter. A network that allows trade is called a [[market]].  The original form of trade was [[barter (economics)|barter]], the direct exchange of goods and services.  Later one side of the barter were the metals, precious metals (poles{{Clarify|date=October 2012|Poles? What is a pole?}}, coins), bill, paper money. Modern traders instead generally negotiate through a medium of exchange, such as [[money]]. As a result, '''buying''' can be separated from '''selling''', or [[Earnings|earning]]. The invention of money (and later credit, paper money and non-physical money) greatly simplified and promoted trade.  Trade between two traders is called bilateral trade, while trade between more than two traders is called multilateral trade.
+
+Trade exists for man due to specialization and division of labor, in which most people concentrate on a small aspect of production, trading for other products.  Trade exists between regions because different regions have a [[comparative advantage]] in the production of some tradable [[commodity]], or because different regions size allows for the benefits of [[mass production]]. As such, trade at [[market price]]s between locations benefits both locations.
+
+[[Retail]] trade consists of the [[sales|sale]] of goods or merchandise from a very fixed location, such as a [[department store]], [[boutique]] or [[kiosk]], or by [[mail]], in small or individual lots for direct [[consumption (economics)|consumption]] by the purchaser.&lt;ref name="fas">{{cite web|date=2000-02-09|url=http://www.fas.usda.gov/info/factsheets/China/distribution.html|title=Distribution Services|publisher=[[Foreign Agricultural Service]]|accessdate=2006-04-04}}&lt;/ref> [[Wholesale]] trade is defined as the sale of goods or [[merchandise]] to [[retailer]]s, to industrial, commercial, institutional, or other professional [[business]] users, or to other wholesalers and related subordinated services.&lt;ref>[http://www.wto.org/english/thewto_e/acc_e/completeacc_e.htm#chn WTO – World Trade Organization]&lt;/ref>
+
+Trading can also refer to the action performed by [[trader (finance)|traders]] and other market agents in the [[financial markets]].
+
+==History of trade==
+{{Systemic bias|bias=European history|1=History section POV problem: Euro-centric|date=August 2010}}
+{{Trade route}}
+
+===Prehistory===
+Trade originated with the [[history of communication|start of communication]] in [[prehistoric]] times. Trading was the main facility of prehistoric people, who bartered goods and services from each other before the innovation of the modern day currency. [[Peter Watson (business writer)|Peter Watson]] dates the [[History of international trade|history of long-distance commerce]] from [[circa]] 150,000 years ago.&lt;ref name="Watson2005_150">[[#Watson2005|Watson (2005)]], Introduction.&lt;/ref>
+
+In the mediterranean region the earliest contact between cultures were of members of the species ''homo sapiens'' principally using the Danube river, at a time beginning 35-30,000 BC.&lt;ref name="Abulafia, Rackham, Suano">{{citation|url=http://books.google.fr/books?id=Ewjeoio1U-QC&amp;pg=PA20&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CFcQ6AEwBQ#v=onepage&amp;q=Obsidian%20trade&amp;f=false |author=D Abulafia, O Rackham, M Suano|publisher=Getty Publications, 1 Mar 2011 |title=The Mediterranean in History|accessdate=2012-06-26|isbn=1606060570}}&lt;/ref>&lt;ref>V Stefansson -[http://books.google.co.uk/books?id=nirPnnbkO9IC&amp;pg=PA3&amp;dq=ancient+mediterranean++trading+30,000+BC&amp;hl=en&amp;sa=X&amp;ei=YSPqT4u_H8el0QWC94xq&amp;ved=0CGoQ6AEwCQ#v=onepage&amp;q=ancient%20mediterranean%20%20trading%2030%2C000%20BC&amp;f=false Great Adventures and Explorations: From the Earliest Times to the Present As Told by the Explorers Themselves] Kessinger Publishing, 30 May 2005 ISBN 1417990902 Retrieved 2012-06-26&lt;/ref>&lt;ref>2nds-[https://www.google.co.uk/search?tbm=bks&amp;hl=en&amp;q=ancient+mediterranean+obsidian+trading+30%2C000+BC&amp;btnG=] Retrieved 2012-06-26&lt;/ref>
+
+===Ancient history===
+Trade is believed to have taken place throughout much of recorded human history. There is evidence of the exchange of obsidian and [[flint]] during the [[stone age]].
+
+====Obsidian====
+
+{{Main|Obsidian}}
+
+=====New Guinea=====
+
+Trade in obsidian is believed to have taken place in [[New Guinea]] from 17,000 BC.&lt;ref>(secondary)G G Lowder - [http://books.google.co.uk/books?id=gzEclkBq0u0C&amp;pg=PT738&amp;dq=the+Americas+obsidian+trading+Mesolithic&amp;hl=en&amp;sa=X&amp;ei=G2DsT6bBIImChQeTzp3SBQ&amp;ved=0CEcQ6AEwAw#v=onepage&amp;q=the%20Americas%20obsidian%20trading%20Mesolithic&amp;f=false Studies in volcanic petrology: I. Talasea, New Guinea. II. Southwest Utah] University of California, 1970 Retrieved 2012-06-28&lt;/ref>&lt;ref name="Darvill">{{citation|url=http://books.google.fr/books?id=LEqaIGsT8SsC&amp;pg=PA250&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CF0Q6AEwBg#v=onepage&amp;q=Obsidian%20trade&amp;f=false|author=T Darvill|publisher=Oxford University Press, 10 Oct 2008|title=The Concise Oxford Dictionary of Archaeology|accessdate=2012-06-28|isbn=0199534047}}&lt;/ref>
+
+=====Mediterranean and Near East=====
+
+{{quote |The earliest use of obsidian in the Near East dates to the Lower and Middle paleolithic.&lt;ref>[http://freepages.genealogy.rootsweb.ancestry.com/~royalty/japan/i197.html] - HIH Prince Mikasa no Miya Takahito -  [http://books.google.co.uk/books?id=EtiKgdv7C3IC&amp;pg=PA141&amp;dq=obsidian+trade&amp;hl=en&amp;sa=X&amp;ei=h9vcT6bWCcGH8gOlvKCOCw&amp;redir_esc=y#v=onepage&amp;q=obsidian%20trade&amp;f=false ''Essays on Anatolian Archaeology''] Otto Harrassowitz Verlag, 1993Retrieved 2012-06-16&lt;/ref>|  HIH [[Prince Mikasa|Prince Mikasa no Miya Takahito]]  }}
+Trade in the stone was investigated by [[Robert Carr Bosanquet]] in excavations of 1901.&lt;ref>[[James Silk Buckingham|J S Buckingham]], [[John Sterling]]{{dn|{{subst:DATE}}|date=February 2013}}, [[Frederick Denison Maurice|F D Maurice]], [[Henry Stebbing|H Stebbing]], [[Charles Wentworth Dilke|C W Dilke]], [[Thomas Kibble Hervey|T K Hervey]], [[William Hepworth Dixon|W H Dixon]], [[Norman Maccoll|N Maccoll]], [[Vernon Horace Rendall|V H Rendall]], [[John Middleton Murry|J M Murry]]  - [http://books.google.fr/books?id=LDs6AQAAIAAJ&amp;q=obsidian+trade&amp;dq=obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=n4fTT_-3EYSk0AWs_eX_Aw&amp;ved=0CEAQ6AEwATi0AQ The Athenaeum] [[W. Lewer]], 1904 -Retrieved 2012-06-09&lt;/ref>&lt;ref>Donald A. Mackenzie - [http://books.google.co.uk/books?id=dRXN9DsVKE0C&amp;pg=PA252&amp;lpg=PA252&amp;dq=Mr+Bosanquet+Obsidian&amp;source=bl&amp;ots=R9KWSC9X11&amp;sig=OZAWj-7v80f6A03m75Km1fJkkz0&amp;hl=en&amp;sa=X&amp;ei=TYjTT5PyIYeX1AXS49WUBA&amp;ved=0CG0Q6AEwCQ#v=onepage&amp;q=Mr%20Bosanquet%20Obsidian&amp;f=false Myths of Crete and Pre-Hellenic Europe] - [http://www.sacred-texts.com/cla/moc/moc19.htm published 1917] - ISBN 1605063754 Retrieved 2012-06-09&lt;/ref> Trade is believed to have first begun in south west of Asia.&lt;ref name="Richard Lee Smith">{{citation|url=http://books.google.fr/books?id=Ewjeoio1U-QC&amp;pg=PA20&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CFcQ6AEwBQ#v=onepage&amp;q=Obsidian%20trade&amp;f=false |author=R L Smith|publisher=Taylor &amp; Francis, 2009|title=Premodern Trade in World History|accessdate=2012-06-15|isbn=0415424763}}&lt;/ref>&lt;ref>secondary - P Singh ''Neolithic cultures of western Asia'' → [http://books.google.co.uk/books?id=k7RLTPocdhIC&amp;q=obsidian+trade&amp;dq=obsidian+trade&amp;hl=en&amp;sa=X&amp;ei=gv_pT6D1NYTK0QXtrJSqAQ&amp;ved=0CFEQ6AEwBTgK] Seminar Press, 20 Aug 1974&lt;/ref>
+
+Archaeological evidence of obsidian use provides data on how this material was increasingly the preferred choice rather than [[chert]] from the late Mesolithic to Neolithic, requiring exchange as deposits of obsidian are rare in the Mediterranean region.&lt;ref name="John Robb"/>&lt;ref>P Goldberg, V T Holliday, C Reid Ferring - [http://books.google.co.uk/books?id=eNI0yIPzeV8C&amp;pg=PA450&amp;dq=ancient+mediterranean+obsidian+trading+Mesolithic&amp;hl=en&amp;sa=X&amp;ei=8VfsT5CpJYXB0gWChqH6DA&amp;ved=0CFIQ6AEwBQ#v=onepage&amp;q=ancient%20mediterranean%20obsidian%20trading%20Mesolithic&amp;f=false Earth Sciences and Archaeology] Springer, 2001 ISBN 0306462796 Retrieved 2012-06-28&lt;/ref>&lt;ref>S L Dyson, R J Rowland - [http://books.google.co.uk/books?id=fw4XuEbKnQwC&amp;pg=PA24&amp;dq=obsidian+rare+Sardinia&amp;hl=en&amp;sa=X&amp;ei=BVrsT_G2OKr80QWj2u35DA&amp;redir_esc=y#v=onepage&amp;q=obsidian%20rare%20Sardinia&amp;f=false Archaeology And History In Sardinia From The Stone Age To The Middle Ages: Shepherds, Sailors, &amp; Conquerors] University of Pennsylvania - Museum of Archaeology, 2007 ISBN 1934536024 Retrieved 2012-06-28&lt;/ref>
+
+Obsidian is thought to have provided the material to make cutting utensils or tools, although since other more easily obtainable material were available, use was found exclusive to the higher status of the tribe using  "the rich man's flint".&lt;ref name="Richard Lee Smith"/>
+
+Obsidian was traded at distances of 900 kilometres within the region.&lt;ref>O. WILLIAMS-THORPE  - [http://onlinelibrary.wiley.com/doi/10.1111/j.1475-4754.1995.tb00740.x/abstract DOI: 10.1111/j.1475-4754.1995.tb00740.x] ArchaeometryVolume 37, Issue 2, pages 217–248, August 1995 , Retrieved 2102-06-28&lt;/ref>
+
+Trade in the Mediterranean during the Neolithic of Europe was greatest in this material.&lt;ref name="John Robb">
+{{citation|url=http://books.google.fr/books?id=0HeNr9h56uEC&amp;pg=PA192&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CEAQ6AEwAQ#v=onepage&amp;q=Obsidian%20trade&amp;f=false|author=J Robb|publisher=Cambridge University Press, 23 July 2007|title=The Early Mediterranean Village: Agency, Material Culture, and Social Change in Neolithic Italy|accessdate=2012-06-11|isbn=0521842417}}&lt;/ref>&lt;ref>[[Douglas Harper|D Harper]] - [http://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=obsidian&amp;searchmode=none etymology online] Retrieved 2012-06-09&lt;/ref> Networks were in existence at around 12,000 BCE&lt;ref name="Andrea">{{citation|url=http://books.google.fr/books?id=LEqaIGsT8SsC&amp;pg=PA250&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CF0Q6AEwBg#v=onepage&amp;q=Obsidian%20trade&amp;f=false|author=A. J. Andrea Ph.D.|publisher=ABC-CLIO,  2011 |title=World History Encyclopedia, Volume 2|accessdate=2012-06-11|isbn=1851099301}}&lt;/ref> Anatolia was the source primarily for trade with the Levant, Iran and Egypt according to Zarins study of 1990.&lt;ref>T A H Wilkinson -[http://books.google.fr/books?id=AR1ZZO6niVIC&amp;pg=PA164&amp;dq=obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=HZjTT83JIMXV0QXhhumBBA&amp;ved=0CEkQ6AEwAzgy#v=onepage&amp;q=obsidian%20trade&amp;f=false Early Dynastic Egypt: Strategies, Society and Security]&lt;/ref>&lt;ref>secondary - [https://docs.google.com/viewer?a=v&amp;q=cache:acg1cm48mxgJ:members.peak.org/~obsidian/iaos_bulletin_47.pdf+&amp;hl=en&amp;gl=uk&amp;pid=bl&amp;srcid=ADGEEShIssrzLSZAQFAOh75-RrGy3wg6wNqo9ntCUsyJRi-i-xrnGfH0qXyI7BX79sPElP2eIG9xqfmYVmWcu7maromIGVzNfV7fQWb-814pF_vNUN58lx8iH7suXw9vORtbdjIVGF4N&amp;sig=AHIEtbTV_EDsivnNauYErE3qYl_ITULeXA&amp;pli=1] + [http://books.google.fr/books?id=OJMOAAAAQAAJ&amp;pg=PA441&amp;dq=obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=HZjTT83JIMXV0QXhhumBBA&amp;ved=0CFMQ6AEwBTgy#v=onepage&amp;q=obsidian%20trade&amp;f=false] + [http://books.google.co.uk/books?id=Vzs8bFFnVeoC&amp;pg=PA305&amp;dq=earliest+obsidian+trading&amp;hl=en&amp;sa=X&amp;ei=xrLTT5XKLLOY1AWIlLWSBA&amp;ved=0CEsQ6AEwAw#v=onepage&amp;q=earliest%20obsidian%20trading&amp;f=false] + [http://books.google.co.uk/books?id=TzrNgAsJY1MC&amp;pg=PA19&amp;dq=Archaeology+Colin+Renfrew+Obsidian&amp;hl=en&amp;sa=X&amp;ei=fpXTT6-vAcis0QXgwcmNBA&amp;redir_esc=y#v=onepage&amp;q=Archaeology%20Colin%20Renfrew%20Obsidian&amp;f=false] + [http://books.google.fr/books?id=ZEqJxH6Oo1gC&amp;pg=PA168&amp;dq=obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=6obTT9_2Lqml0AWm2ZC7BA&amp;ved=0CGUQ6AEwCDgy#v=onepage&amp;q=obsidian%20trade&amp;f=false]&lt;/ref>&lt;ref name="Pliny the Elder">{{citation|url=http://books.google.fr/books?id=IEoMAAAAIAAJ&amp;pg=PA381&amp;dq=Obsius&amp;hl=fr&amp;sa=X&amp;ei=9zzWT6XXGqeU0QWB6MC6BA&amp;ved=0CE0Q6AEwBTgK#v=onepage&amp;q=Obsius&amp;f=false|author=(was secondary)[[Pliny the Elder]] (translated by [[John Bostock|J Bostock]], [[Henry Thomas Riley|H T Riley]])|publisher=H G Bohn 1857|title=The natural history of Pliny, Volume 6|accessdate=2012-06-11|isbn=1851099301}}&lt;/ref> [[Melos]] and [[Lipari]] sources produced among the most widespread trading in the Mediterranean region as known to archaeology.&lt;ref name="E Blake, A B Knapp">{{citation|url=http://books.google.co.uk/books?id=F15vfrJq8LUC&amp;pg=PA35&amp;dq=ancient+mediterranean+obsidian+trading&amp;hl=en&amp;sa=X&amp;ei=bNDlT8ulJOj80QWv9uX9CA&amp;sqi=2&amp;redir_esc=y#v=onepage&amp;q=ancient%20mediterranean%20obsidian%20trading&amp;f=false |author=E Blake, A B Knapp|publisher=John Wiley &amp; Sons, 21 Feb 2005 |title=The Archaeology Of Mediterranean Prehistory|accessdate=2012-06-22|isbn=0631232680}}&lt;/ref>
+
+=====Lapis Lazuli=====
+The [[Sar-i Sang|Sari-i-Sang]] mine in the mountains of Afghanistan was the largest source for trade.&lt;ref>Toby A. H. Wilkinson - [http://books.google.co.uk/books?id=AR1ZZO6niVIC&amp;pg=PA164&amp;dq=anatolian+obsidian&amp;hl=en&amp;sa=X&amp;ei=N_LyT92kMPGb1AWx78GwCQ&amp;redir_esc=y#v=onepage&amp;q=anatolian%20obsidian&amp;f=false Early Dynastic Egypt: Strategies, Society and Security] Routledge, 8 Aug 2001Retrieved 2012-07-03&lt;/ref>&lt;ref>D Collon - [http://books.google.co.uk/books?id=xt8fydZIT4IC&amp;pg=PA33&amp;dq=lapis+lazuli+trade&amp;hl=en&amp;sa=X&amp;ei=QjnzT83BFciM8gODyInaCQ&amp;ved=0CEUQ6AEwAg#v=onepage&amp;q=lapis%20lazuli%20trade&amp;f=false Near Eastern Seals] University of California Press, 4 Dec 1990 Retrieved 2012-07-03 ISBN 0520073088 (Interpreting the past: British Museum PublicationsArmenian Research Center collection)&lt;/ref> The material was most largely traded during the [[Kassites|Kassite period]] of Babylonia beginning 1595 BCE.&lt;ref>G Leick - [http://books.google.co.uk/books?id=akYorRIWPBEC&amp;pg=PA520&amp;dq=lapis+lazuli+trade&amp;hl=en&amp;sa=X&amp;ei=HD3zT66gG8eP8gOYuZi_CQ&amp;redir_esc=y#v=onepage&amp;q=lapis%20lazuli%20trade&amp;f=false The Babylonian world] Routledge 2007 Retrieved 2012-07-03 ISBN1134261284&lt;/ref>&lt;ref>S Bertman - [http://books.google.co.uk/books?id=1C4NKp4zgIQC&amp;pg=PT104&amp;dq=babylonia+kassite&amp;hl=en&amp;sa=X&amp;ei=ej3zT_z7NYiy8QOQuLngCQ&amp;redir_esc=y#v=onepage&amp;q=%20kassite&amp;f=false Handbook To Life In Ancient Mesopotamia] Oxford University Press, 7 Jul 2005 Retrieved 2012-07-03 ISBN 0195183649&lt;/ref>
+
+===Later trade===
+====Mediterranean and Near East====
+
+[[Ebla]] was a prominent trading centre during the third millennia, with a network reaching into Anatolia and north Mesopotamia.&lt;ref name="E Blake, A B Knapp"/>&lt;ref name="Laura S. Etheredge">{{citation|url=http://books.google.fr/books?id=Ewjeoio1U-QC&amp;pg=PA20&amp;dq=Obsidian+trade&amp;hl=fr&amp;sa=X&amp;ei=fDrWT6z-C_KY0QW_x_GFBA&amp;ved=0CFcQ6AEwBQ#v=onepage&amp;q=Obsidian%20trade&amp;f=false |author=L S Etheredge|publisher=The Rosen Publishing Group, 15 Jan 2011 |title=Syria, Lebanon, and Jordan|accessdate=2012-06-15|isbn=1615303294}}&lt;/ref>&lt;ref name="Dumper &amp; Stanley">{{citation|url=http://books.google.co.uk/books?id=3SapTk5iGDkC&amp;pg=PA141&amp;dq=Ebla+trade&amp;hl=en&amp;sa=X&amp;ei=XlXsT9PkJbCa1AWa25H6DA&amp;ved=0CFgQ6AEwBg#v=onepage&amp;q=Ebla%20trade&amp;f=false|author=M Dumper, B E Stanley|publisher=ABC-CLIO, 2007|title=Cities of The Middle East and North Africa: A Historical Encyclopedia|accessdate=2012-06-28|isbn=1576079198}}&lt;/ref>&lt;ref>[[Bamber Gascoigne|B.Gascoigne]] et al - History World .net&lt;/ref>
+[[File:P1030419 - Copie (2).JPG|thumb|right|A [[silver]] statuette of [[Mercury (mythology)|Mercury]] the [[Ancient Rome|Roman]] god of trade. Part of the [[Berthouville Treasure]]s]]
+
+Materials used for creating [[jewelry]] were traded with [[Egypt]] since 3000 BC. Long-range trade routes first appeared in the [[3rd millennium BC]], when [[Sumerians]] in [[Mesopotamia]] traded with the [[Indus Valley Civilization|Harappan civilization]] of the [[Indus River|Indus Valley]]. The [[Phoenicians]] were noted sea traders, traveling across the [[Mediterranean Sea]], and as far north as [[Prehistoric Britain|Britain]] for sources of [[tin]] to manufacture [[bronze]]. For this purpose they established trade colonies the Greeks called [[Emporia (ancient Greece)|emporia]]. From the beginning of [[Greece|Greek]] [[civilization]] until the fall of the [[Roman empire]] in the 5th century, a financially lucrative trade brought valuable [[spice]] to Europe from the far east, including [[India]] and [[China]]. [[Roman commerce]] allowed its empire to flourish and endure. The Roman empire produced a stable and secure transportation network that enabled the shipment of trade goods without fear of significant [[piracy]].
+
+In ancient Greece [[Hermes]] was the god of trade&lt;ref>P D Curtin - [http://books.google.co.uk/books?id=R4IiYFhliv4C&amp;printsec=frontcover&amp;dq=history+of+trade&amp;hl=en&amp;sa=X&amp;ei=kNLoT47ZI9OwhAfUxoz0DA&amp;redir_esc=y#v=onepage&amp;q=history%20of%20trade&amp;f=false Cross-Cultural Trade in World History] Cambridge University Press, 25 May 1984 ISBN 0521269318 Retrieved 2012-06-25&lt;/ref>&lt;ref>N. O. Brown - [http://books.google.co.uk/books?id=BzNfeQSXKfcC&amp;pg=PA36&amp;dq=Hermes+god+of+trade&amp;hl=en&amp;sa=X&amp;ei=k9PoT4rqM4yA8gPotPClCg&amp;ved=0CEIQ6AEwAg#v=onepage&amp;q=Hermes%20god%20of%20trade&amp;f=false Hermes the Thief: The Evolution of a Myth] SteinerBooks, 1 Mar 1990 ISBN 0940262266 Retrieved 2012-06-25&lt;/ref> (commerce) and weights and measures,&lt;ref>D Sacks, O Murray - [http://books.google.co.uk/books?id=KeEjUjSaDA0C&amp;pg=PA110&amp;dq=god+Hermes&amp;hl=en&amp;sa=X&amp;ei=6_rpT-PSN6HU0QXZnJGqAQ&amp;redir_esc=y#v=onepage&amp;q=god%20Hermes&amp;f=false A Dictionary of the Ancient Greek World] Oxford University Press, 6 Feb 1997 ISBN 0195112067 Retrieved 2012-06-26&lt;/ref> for Romans ''Mercurius'' also god of merchants, whose festival was celebrated by traders on the 25th day of the fifth month.&lt;ref>[[Alexander S. Murray]] - [http://books.google.co.uk/books?id=ZfpYS1fV2R8C&amp;pg=PA127&amp;dq=Hermes+god+of+trade&amp;hl=en&amp;sa=X&amp;ei=ntToT7WRKITG8gOA0YTUCg&amp;ved=0CEMQ6AEwAjgU#v=onepage&amp;q=Hermes%20god%20of%20trade&amp;f=false Manual of Mythology] Wildside Press LLC, 30 May 2008 ISBN 1434470288 Retrieved 2012-06-25&lt;/ref>&lt;ref>John R. Rice - [http://books.google.co.uk/books?id=6hl1wry0QrAC&amp;pg=PA323&amp;dq=Hermes+god+of+trade&amp;hl=en&amp;sa=X&amp;ei=yNXoT5v4HcfS8gOM7OzVCg&amp;ved=0CD0Q6AEwATgy#v=onepage&amp;q=Hermes%20god%20of%20trade&amp;f=false Filled With the Spirit] Sword of the Lord Publishers, 1 Aug 2000 ISBN 087398255X Retrieved 2012-06-25&lt;/ref> The concept of free trade was an antithesis to the will and economic direction of the sovereigns of the ancient Greek states. Free trade between states was stifled by the need for strict internal controls (via taxation) to maintain security within the treasury of the sovereign, which nevertheless enabled the maintenance of a ''[[Wikt:modicum|modicum]]'' of civility within the structures of functional community life.&lt;ref>[[Johannes Hasebroek]] - [http://books.google.co.uk/books?id=743zWquWmesC&amp;pg=PA151&amp;dq=ancient+treasury&amp;hl=en&amp;sa=X&amp;ei=hxX0T9H5MIXb8AOG8PG_Bw&amp;ved=0CFMQ6AEwBg#v=onepage&amp;q=ancient%20treasury&amp;f=false Trade and Politics in Ancient Greece] Biblo &amp; Tannen Publishers, 1 Mar 1933 Retrieved 2012-07-04 ISBN 0819601500&lt;/ref>&lt;ref>Cambridge dictionaries online&lt;/ref>
+
+The fall of the Roman empire, and the succeeding [[Dark Ages (historiography)|Dark Ages]] brought instability to [[Western Europe]] and a near collapse of the trade network in the western world. Trade however continued to flourish among the kingdoms of Africa, Middle East, India, China and Southeast Asia. Some trade did occur in the west. For instance, [[Radhanite]]s were a medieval guild or group (the precise meaning of the word is lost to history) of [[Jew]]ish merchants who traded between the [[Christian]]s in [[Europe]] and the [[Muslim]]s of the [[Near East]].
+
+====the Orient====
+
+Archaeological evidence (Greenberg 1951) of the first use of trade-marks are from China dated about 2700 BC.&lt;ref>AS Greenberg - J. Pat. Off. Soc'y, 1951 - HeinOnline&lt;/ref>
+
+==== Central America ====
+
+The emergence of exchange networks in the primitive societies of and near to Mexico are known to have occurred within recent years before and after 1500 BC.&lt;ref>K G Hirth - [http://www.jstor.org/stable/279629 American Antiquity Vol. 43, No. 1 (Jan., 1978), pp. 35-45] Retrieved 2012-06-28&lt;/ref>
+
+===Middle Ages===
+During the Middle Ages, Central Asia was the economic center of the world.&lt;ref name="Beckwith2011_xxiv">[[#Beckwith2011|Beckwith (2011)]], p.&amp;nbsp;xxiv.&lt;/ref> The [[Sogdiana|Sogdian]]s dominated the East-West trade route known as the [[Silk Road]] after the 4th century AD up to the 8th century AD, with [[Suyab]] and [[Taraz|Talas]] ranking among their main centers in the north. They were the main [[caravan (travellers)|caravan]] merchants of [[Central Asia]].
+
+From the 8th to the 11th century, the [[Viking]]s and [[Varangians]] traded as they sailed from and to [[Scandinavia]].  Vikings sailed to Western Europe, while Varangians to [[Russia]].  The [[Hanseatic League]] was an alliance of trading cities that maintained a trade [[monopoly]] over most of [[Northern Europe]] and the [[Baltic region|Baltic]], between the 13th and 17th centuries.
+
+===Age of Discovery===
+[[Vasco da Gama]] pioneered the European [[Spice trade]] in 1498 when he reached [[History of Kozhikode|Calicut]] after sailing around the [[Cape of Good Hope]] at the southern tip of the African continent. Prior to this, the flow of spice into Europe from India was controlled by Islamic powers, especially Egypt. The spice trade was of major economic importance and helped spur the [[Age of Discovery]] in Europe. Spices brought to Europe from the Eastern world were some of the most valuable commodities for their weight, sometimes rivaling [[gold]].
+
+In the 16th century, the [[Seventeen Provinces]] were the centre of free trade, imposing no [[exchange control]]s, and advocating the free movement of goods.  Trade in the [[East Indies]] was dominated by [[Portugal]] in the 16th century, [[Holland]] in the 17th century, and the [[United Kingdom|British]] in the 18th century. The [[Spanish Empire]] developed regular trade links across both the [[Atlantic Ocean|Atlantic]] and the [[Pacific Ocean|Pacific]] Oceans.
+[[File:Wojciech Gerson - Gdańsk in the XVII century.jpg|thumb|right|[[Danzig]] in the 17th century]]
+In 1776, [[Adam Smith]] published the paper ''[[An Inquiry into the Nature and Causes of the Wealth of Nations]]''. It criticised [[Mercantilism]], and argued that [[economic]] [[Specialization (functional)|specialisation]] could benefit nations just as much as firms.  Since the [[division of labour]] was restricted by the size of the market, he said that countries having access to larger markets would be able to divide labour more efficiently and thereby become more [[productive]]. Smith said that he considered all rationalisations of [[International trade|import]] and [[export]] controls "dupery", which hurt the trading nation as a whole for the benefit of specific industries.
+
+In 1799, the [[Dutch East India Company]], formerly the world's largest company, became [[bankrupt]], partly due to the rise of competitive free trade.
+[[File:Berber Trade with Timbuktu 1300s.jpg|thumb|left|Berber Trade with [[Timbuktu]], 1853]]
+
+===Age of Reason===
+In 1817, [[David Ricardo]], [[James Mill]] and [[Robert Torrens]] showed that free trade would benefit the industrially weak as well as the strong, in the famous theory of [[comparative advantage]]. In [[Principles of Political Economy and Taxation]] Ricardo advanced the doctrine still considered the most counterintuitive in [[economics]]:
+: ''When an inefficient producer sends the merchandise it produces best to a country able to produce it more efficiently, both countries benefit.''
+
+The ascendancy of free trade was primarily based on national advantage in the mid 19th century. That is, the calculation made was whether it was in any particular country's self-interest to open its borders to imports.
+
+[[John Stuart Mill]] proved that a country with monopoly [[pricing power]] on the international market could manipulate the [[terms of trade]] through maintaining [[tariff]]s, and that the response to this might be [[Reciprocity (international relations)|reciprocity]] in trade policy.  Ricardo and others had suggested this earlier.  This was taken as evidence against the universal doctrine of free trade, as it was believed that more of the [[economic surplus]] of trade would accrue to a country following ''reciprocal'', rather than completely free, trade policies.  This was followed within a few years by the [[infant industry]] scenario developed by Mill promoting the theory that government had the "duty" to [[protectionism|protect]] young industries, although only for a time necessary for them to develop full capacity. This became the policy in many countries attempting to [[industrialize|industrialise]] and out-compete [[England|English]] exporters. Milton Friedman later continued this vein of thought, showing that in a few circumstances tariffs might be beneficial to the host country; but never for the world at large.&lt;ref>Price theory Milton Friedman&lt;/ref>
+
+===20th century===
+The [[Great Depression]] was a major economic recession that ran from 1929 to the late 1930s.  During this period, there was a great drop in trade and other economic indicators.
+
+The lack of free trade was considered by many as a principal cause of the depression.{{Citation needed|date=August 2012}} Only during the [[World War II]] the recession ended in the United States. Also during the war, in 1944, 44 countries signed the Bretton Woods Agreement, intended to prevent national trade barriers, to avoid depressions.  It set up rules and institutions to regulate the [[international political economy]]: the International Monetary Fund and the International Bank for Reconstruction and Development (later divided into the World Bank and Bank for International Settlements).  These organisations became operational in 1946 after enough countries ratified the agreement.  In 1947, 23 countries agreed to the [[General Agreement on Tariffs and Trade]] to promote free trade.
+
+During the early years of the Cold-war, the United States of America and the then Soviet USSR were engaged in talks to exchange two captured military personnel, a "trade"  carried out during 1962 (Polmar p.&amp;nbsp;142).&lt;ref>N Polmar - ''Spyplane: The U-2 History Declassified'' Zenith Imprint, 14 Apr 2001 ISBN 0760309574 Retrieved 2012-06-28&lt;/ref>&lt;ref>(secondary) M Smith - [http://books.google.co.uk/books?id=Lf2VQgAACAAJ&amp;dq=China+Hidden+Cloak+and+Dagger+History+of+MI5&amp;hl=en&amp;sa=X&amp;ei=Z6DsT-yYE8LO8QOSkqXCBQ&amp;redir_esc=y V. Gollancz, 1996] ISBN 0575061502&lt;/ref>&lt;ref>(secondary) [[BBC|British Broadcasting Corporation]]-[http://www.bbc.co.uk/history/worldwars/coldwar/ history]&lt;/ref>
+
+===Free trade===
+{{main|Free trade}}
+Free trade advanced further in the late 20th century and early 2000s:
+* 1992 [[European Union]] lifted barriers to internal trade in [[good (accounting)|goods]] and [[labour (economics)|labour]].
+* January 1, 1994 the [[North American Free Trade Agreement]] (NAFTA) took effect
+* 1994 The GATT [[Marrakech Agreement]] specified formation of the WTO.
+* January 1, 1995 [[World Trade Organization]] was created to facilitate [[free trade]], by mandating mutual [[most favoured nation]] trading status between all signatories.
+* EC was transformed into the European Union, which accomplished the Economic and Monnetary Union (EMU) in 2002, through introducing the Euro, and creating this way a real single market between 13 member states as of January 1, 2007.
+* 2005, the [[Central American Free Trade Agreement]] was signed; It includes the United States and the Dominican Republic.
+
+===Protectionism===
+{{main|Protectionism}}
+Protectionism is the policy of restraining and discouraging trade between states and contrasts with the policy of free trade.  This policy often takes of form of [[tariffs]] and restrictive [[Import quota|quotas]].  Protectionist policies were particularly prevalent in the 1930s, between the [[great depression]] and the onset of World War II.
+
+===Religion===
+Muslim teachings encourage trading (and condemn usury or interest). By trade the whole society get benefits but interest makes the rich richer and the poor poorer.&lt;ref>[[#Nomani1994|Nomani &amp; Rahnema (1994)]], p.&amp;nbsp;?. "I want nine out of ten people from my Ummah (nation) as traders" and "Trader, who did trading in truth, and sold the right quantity and quality of goods, he will stand along Prophets and Martyrs, on Judgment day".&lt;/ref>&lt;ref>"O ye who believe! Eat not up your property among yourselves in vanities; but let there be among you traffic and trade by mutual good-will." {{cite quran|4|29|style=ref}} and "Allah has allowed trading and forbidden usury." {{cite quran|2|275|style=ref}}&lt;/ref>
+
+[[Judeo-Christian]] teachings encourage traders to avoid dishonest gain.{{Citation needed|date=November 2010}}
+
+===Development of money===
+{{Main|History of money}}
+[[Image:SNGCop 039.jpg|left|thumb|[[Ancient Athens|Ancient Athenian Greek]] [[Drachma]] coin]]
+[[Image:Maximinus denarius.jpg|right|thumb|[[Ancient Rome|Roman]] [[denarius]]]]
+The first instances of money were objects with intrinsic value. This is called [[commodity money]] and includes any commonly available commodity that has intrinsic value; historical examples include pigs, rare seashells, whale's teeth, and (often) cattle. In medieval [[Iraq]], bread was used as an early form of money.  In [[Mexico]] under [[Montezuma]]{{Disambiguation needed|date=June 2011}} cocoa beans were money.  [http://www.foodrevolution.org/slavery_chocolate.htm]
+
+[[Currency]] was introduced as a standardised money to facilitate a wider exchange of goods and services.  This first stage of currency, where metals were used to represent stored value, and symbols to represent commodities, formed the basis of trade in the Fertile Crescent for over 1500 years.
+
+[[Numismatist]]s have examples of coins from the earliest large-scale societies, although these were initially unmarked lumps of [[precious metal]].&lt;ref name="originsofmoney">Gold was an especially common form of early money, as described in [[#Davies2002|Davies (2002)]].&lt;/ref>
+
+Ancient Sparta minted [[coins]] from iron to discourage its citizens from engaging in foreign trade.
+
+==Current trends==
+===Doha rounds===
+{{Main|Doha round}}
+
+The Doha round of World Trade Organization negotiations aims to lower [[trade barrier|barriers to trade]] around the world, with a focus on making [[fair trade|trade fairer]] for [[developing countries]].  Talks have been hung over a divide between the rich [[developed countries]], represented by the [[G20]], and the major developing countries.  [[Agricultural subsidies]] are the most significant issue upon which agreement has been hardest to negotiate. By contrast, there was much agreement on [[trade facilitation]] and capacity building.
+
+The Doha round began in [[Doha]], [[Qatar]], and negotiations have subsequently continued in: [[Cancún]], Mexico; [[Geneva]], [[Switzerland]]; and [[Paris]], [[France]] and Hong Kong.
+
+===China===
+Beginning around 1978, the government of the [[People's Republic of China]] (PRC) began an experiment in [[economic reforms in China|economic reform]]. In contrast to the previous [[USSR|Soviet]]-style [[centrally planned economy]], the new measures progressively relaxed restrictions on farming, agricultural distribution and, several years later, urban enterprises and labor. The more market-oriented approach reduced inefficiencies and stimulated private investment, particularly by farmers, that led to increased productivity and output. One feature was the establishment of four (later five) [[Special Economic Zone]]s located along the South-east coast.
+
+The reforms proved spectacularly successful in terms of increased output, variety, quality, [[price]] and [[demand]]. In real terms, the economy doubled in size between 1978 and 1986, doubled again by 1994, and again by 2003. On a real per capita basis, doubling from the 1978 base took place in 1987, 1996 and 2006. By 2008, the economy was 16.7 times the size it was in 1978, and 12.1 times its previous per capita levels. International trade progressed even more rapidly, doubling on average every 4.5 years. Total two-way trade in January 1998 exceeded that for all of 1978; in the first quarter of 2009, trade exceeded the full-year 1998 level. In 2008, China's two-way trade totaled US$2.56 trillion.
+
+In 1991 the PRC joined the [[Asia-Pacific Economic Cooperation]] group, a trade-promotion forum. In 2001, it also joined the World Trade Organization.
+''See also:'' [[Economy of the People's Republic of China]]
+
+==International trade==
+{{Main|International trade}}
+{{Trade bloc}}
+
+International trade is the exchange of goods and services across national borders.  In most countries, it represents a significant part of [[Gross Domestic Product|GDP]]. While international trade has been present throughout much of history (see Silk Road, [[Amber Road]]), its economic, social, and political importance have increased in recent centuries, mainly because of [[Industrialization]], advanced transportation, [[globalization]], [[multinational corporation]]s, and [[outsourcing]]. In fact, it is probably the increasing prevalence of international trade that is usually meant by the term "globalization".
+
+Empirical evidence for the success of trade can be seen in the contrast between countries such as [[South Korea]], which adopted a policy of [[export-oriented industrialization]], and India, which historically had a more closed policy (although it has begun to open its economy, as of 2005).  South Korea has done much better by economic criteria than India over the past fifty years, though its success also has to do with effective state institutions.
+
+===Trade sanctions===
+[[Trade sanctions]] against a specific country are sometimes imposed, in order to punish that country for some action.  An [[embargo]], a severe form of externally imposed isolation, is a blockade of all trade by one country on another. For example, the United States has had an [[United States embargo against Cuba|embargo]] against [[Cuba]] for over 40 years.
+
+===Trade barriers===
+Although there are usually few trade restrictions within countries, international trade is usually regulated by governmental quotas and restrictions, and often taxed by tariffs.  Tariffs are usually on imports, but sometimes countries may impose export tariffs or [[subsidy|subsidies]].  All of these are called '''[[trade barriers]]'''.  If a government removes all trade barriers, a condition of free trade exists.  A government that implements a protectionist policy establishes trade barriers.
+
+===Fair trade===
+The '''[[fair trade]]''' movement, also known as the '''trade justice''' movement, promotes the use of [[Manual labour|labour]], [[environmental movement|environmental]] and [[Social issues|social]] standards for the production of [[commodities]], particularly those exported from the [[Third World|Third]] and [[Second World]]s to the [[First World]]. Such ideas have also sparked a debate on whether trade itself should be codified as a [[human right]].&lt;ref>{{cite web|title=Should trade be considered a human right?|date=9 December 2008|publisher=COPLA|url=http://www.cop-la.net/en/node/523}}&lt;/ref>
+
+Importing firms voluntarily adhere to fair trade standards or governments may enforce them through a combination of [[employment law|employment]] and [[commercial law]].  Proposed and practiced fair trade policies vary widely, ranging from the common prohibition of [[good (economics)|goods]] made using [[slave labour]] to minimum [[price support]] schemes such as those for coffee in the 1980s.  [[Non-governmental organization]]s also play a role in promoting fair trade standards by serving as independent monitors of compliance with [[fair trade labeling]] requirements.
+
+==Notes==
+{{Reflist}}
+
+==Bibliography==
+{{Portal|Economics}}
+{{Commons category|Trading|Trade}}
+* {{cite book |last=Beckwith |first=Christopher I |authorlink=Christopher I. Beckwith
+    |year=2011 |origyear=2009 |title=Empires of the Silk Road: A History of Central Eurasia from the Bronze Age to the Present
+    |location=Princeton |publisher=University Press
+    |isbn=978-0-691-15034-5 |ref=Beckwith2011 }}
+* {{cite book |last=Bernstein |first=William |authorlink=William Bernstein
+    |year=2008 |title=A Splendid Exchange: How Trade Shaped the World |edition=2009 British
+    |location=London |publisher=Atlantic Books
+    |isbn=9711843548034 {{Please check ISBN|reason=Check digit (4) does not correspond to calculated figure.}} {{Please check ISBN|reason=13 digit ISBN should start with 978 or 979.}} |ref=Bernstein2008}}
+* {{cite book |last=Davies |first=Glyn |year=2002  |origyear=1995
+    |title=Ideas: A History of Money from Ancient Times to the Present Day
+    |location=Cardiff |publisher=[[University of Wales Press]]
+    |isbn=978-0-7083-1773-0 |url=http://www.ex.ac.uk/~RDavies/arian/origins.html |ref=Davies2002 }}
+* {{cite book |last1=Nomani |first1=Farhad |last2=Rahnema |first2=Ali
+    |year=1994 |title=Islamic Economic Systems
+    |location=New Jersey |publisher=Zed Books
+    |isbn=1-85649-058-0 |ref=Nomani1994 }}
+* {{cite book |last=Watson |first=Peter |authorlink=Peter Watson (intellectual historian)
+    |year=2005 |title=Ideas: A History of Thought and Invention from Fire to Freud
+    |location=New York |publisher=HarperCollins Publishers
+    |isbn=978-0-06-621064-3 |ref=Watson2005}}
+
+[[Category:Trade| ]]
+
+[[az:Kommersiya]]
+[[tr:Ticaret]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe the changes you have made)</small></span></label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Enter a short summary [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<p>By clicking the "Save page" button, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC-BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>.<br/> You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Save page" accesskey="s" title="Save your changes [s]" />
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Show preview" accesskey="p" title="Preview your changes; please use this before saving. [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Show changes" accesskey="v" title="Show which changes you made to the text [v]" />
+	<span class='cancelLink'><a href="/wiki/Trade" title="Trade" id="mw-editform-cancel">Cancel</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Wikipedia:Cheatsheet">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ″ ′ ≈ ≠ ≤ ≥ ± − × ÷ �? → · §   <b>Sign your posts on talk pages:</b> ~~~~
+</p>
+<hr />
+<p><small>
+{{}}   {{{}}}   |   []   [[]]   [[Category:]]   #REDIRECT [[]]   &amp;nbsp;   &lt;s&gt;&lt;/s&gt;   &lt;sup&gt;&lt;/sup&gt;   &lt;sub&gt;&lt;/sub&gt;   &lt;code&gt;&lt;/code&gt;   &lt;pre&gt;&lt;/pre&gt;   &lt;blockquote&gt;&lt;/blockquote&gt;   &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt;   {{Reflist}}   &lt;references /&gt;   &lt;includeonly&gt;&lt;/includeonly&gt;   &lt;noinclude&gt;&lt;/noinclude&gt;   {{DEFAULTSORT:}}   &lt;nowiki&gt;&lt;/nowiki&gt;   &lt;!-- --&gt;   &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+</small>
+</p>
+<hr />
+<p><small>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶   # ∞   ‘ ’ “ �? «»   ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥   ♠ ♣ ♥ ♦   ♭ ♯ ♮   © ® ™<br/>
+<b>Latin:</b> A a �? á À à Â â Ä ä �? ǎ Ă ă Ā �? Ã ã Å å Ą ą Æ æ Ǣ ǣ   B b   C c Ć ć Ċ ċ Ĉ ĉ Č �? Ç ç   D d Ď �? �? đ Ḍ �? �? ð   E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ �? ɛ �? ə   F f   G g Ġ ġ Ĝ �? Ğ ğ Ģ ģ   H h Ĥ ĥ Ħ ħ Ḥ ḥ   I i İ ı �? í Ì ì Î î �? ï �? �? Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị   J j Ĵ ĵ   K k Ķ ķ   L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ �? ł Ḷ ḷ Ḹ ḹ   M m Ṃ ṃ   N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ   O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ �? Ō �? Õ õ Ǫ ǫ Ọ �? �? ő Ø ø Œ œ   Ɔ ɔ   P p   Q q   R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ �?   S s Ś ś Ŝ �? Š š Ş ş Ș ș Ṣ ṣ ß   T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ   U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ   V v   W w Ŵ ŵ   X x   Y y �? ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ   Z z Ź ź Ż ż Ž ž   ß �? ð Þ þ Ŋ ŋ �? ə   {{Unicode|}} <br/>
+<b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ �? �? ώ   Α α Β β Γ γ Δ δ   Ε ε Ζ ζ Η η Θ θ   Ι ι Κ κ Λ λ Μ μ   �? ν Ξ ξ Ο ο Π π   Ρ �? Σ σ ς Τ τ Υ υ   Φ φ Χ χ Ψ ψ Ω ω   {{Polytonic|}} <br/>
+<b>Cyrillic:</b> �? а Б б В в Г г   �? ґ Ѓ ѓ Д д Ђ ђ   Е е �? ё Є є Ж ж   З з Ѕ ѕ И и І і   Ї ї Й й Ј ј К к   Ќ ќ Л л Љ љ М м   �? н Њ њ О о П п   Р р С �? Т т Ћ ћ   У у Ў ў Ф ф Х х   Ц ц Ч ч �? џ Ш ш   Щ щ Ъ ъ Ы ы Ь ь   Э �? Ю ю Я �?   �? <br/>
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ   ɸ β θ ð ʃ ʒ ɕ ʑ ʂ �? ç �? ɣ χ �? ħ ʕ ʜ ʢ ɦ   ɱ ɳ ɲ ŋ ɴ   ʋ ɹ ɻ ɰ   ʙ ⱱ ʀ ɾ ɽ   ɫ ɬ ɮ ɺ ɭ ʎ ʟ   ɥ �? ɧ   ʼ   ɓ ɗ ʄ ɠ ʛ   ʘ ǀ ǃ ǂ �?   ɨ ʉ ɯ   ɪ �? ʊ   ø ɘ ɵ ɤ   ə ɚ   ɛ œ ɜ �? ɞ ʌ ɔ   æ   �? ɶ ɑ ɒ   ʰ ʱ ʷ ʲ ˠ ˤ �?� ˡ   ˈ ˌ �? ˑ ̪   {{IPA|}}
+</small>
+</p>
+</div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages <a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">transcluded</a> onto the current version of this page:</span>
+</p></div><ul>
+<li><a href="/wiki/Template:About" title="Template:About">Template:About</a> (<a href="/w/index.php?title=Template:About&amp;action=edit" title="Template:About">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox" title="Template:Ambox">Template:Ambox</a> (<a href="/w/index.php?title=Template:Ambox&amp;action=edit" title="Template:Ambox">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/category" title="Template:Ambox/category">Template:Ambox/category</a> (<a href="/w/index.php?title=Template:Ambox/category&amp;action=edit" title="Template:Ambox/category">view source</a>) (protected)</li><li><a href="/wiki/Template:Ambox/core" title="Template:Ambox/core">Template:Ambox/core</a> (<a href="/w/index.php?title=Template:Ambox/core&amp;action=edit" title="Template:Ambox/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Basepage_subpage" title="Template:Basepage subpage">Template:Basepage subpage</a> (<a href="/w/index.php?title=Template:Basepage_subpage&amp;action=edit" title="Template:Basepage subpage">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler" title="Template:Category handler">Template:Category handler</a> (<a href="/w/index.php?title=Template:Category_handler&amp;action=edit" title="Template:Category handler">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/blacklist" title="Template:Category handler/blacklist">Template:Category handler/blacklist</a> (<a href="/w/index.php?title=Template:Category_handler/blacklist&amp;action=edit" title="Template:Category handler/blacklist">view source</a>) (protected)</li><li><a href="/wiki/Template:Category_handler/numbered" title="Template:Category handler/numbered">Template:Category handler/numbered</a> (<a href="/w/index.php?title=Template:Category_handler/numbered&amp;action=edit" title="Template:Category handler/numbered">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation" title="Template:Citation">Template:Citation</a> (<a href="/w/index.php?title=Template:Citation&amp;action=edit" title="Template:Citation">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation_needed" title="Template:Citation needed">Template:Citation needed</a> (<a href="/w/index.php?title=Template:Citation_needed&amp;action=edit" title="Template:Citation needed">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/core" title="Template:Citation/core">Template:Citation/core</a> (<a href="/w/index.php?title=Template:Citation/core&amp;action=edit" title="Template:Citation/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/identifier" title="Template:Citation/identifier">Template:Citation/identifier</a> (<a href="/w/index.php?title=Template:Citation/identifier&amp;action=edit" title="Template:Citation/identifier">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation/make_link" title="Template:Citation/make link">Template:Citation/make link</a> (<a href="/w/index.php?title=Template:Citation/make_link&amp;action=edit" title="Template:Citation/make link">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_book" title="Template:Cite book">Template:Cite book</a> (<a href="/w/index.php?title=Template:Cite_book&amp;action=edit" title="Template:Cite book">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_quran" title="Template:Cite quran">Template:Cite quran</a> (<a href="/w/index.php?title=Template:Cite_quran&amp;action=edit" title="Template:Cite quran">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_web" title="Template:Cite web">Template:Cite web</a> (<a href="/w/index.php?title=Template:Cite_web&amp;action=edit" title="Template:Cite web">view source</a>) (protected)</li><li><a href="/wiki/Template:Clarify" title="Template:Clarify">Template:Clarify</a> (<a href="/w/index.php?title=Template:Clarify&amp;action=edit" title="Template:Clarify">view source</a>) (protected)</li><li><a href="/wiki/Template:Color" title="Template:Color">Template:Color</a> (<a href="/w/index.php?title=Template:Color&amp;action=edit" title="Template:Color">view source</a>) (protected)</li><li><a href="/wiki/Template:Commons" title="Template:Commons">Template:Commons</a> (<a href="/w/index.php?title=Template:Commons&amp;action=edit" title="Template:Commons">view source</a>) (protected)</li><li><a href="/wiki/Template:Commons_category" title="Template:Commons category">Template:Commons category</a> (<a href="/w/index.php?title=Template:Commons_category&amp;action=edit" title="Template:Commons category">view source</a>) (protected)</li><li><a href="/wiki/Template:Disambiguation_needed" title="Template:Disambiguation needed">Template:Disambiguation needed</a> (<a href="/w/index.php?title=Template:Disambiguation_needed&amp;action=edit" title="Template:Disambiguation needed">view source</a>) (protected)</li><li><a href="/wiki/Template:Dn" class="mw-redirect" title="Template:Dn">Template:Dn</a> (<a href="/w/index.php?title=Template:Dn&amp;action=edit" class="mw-redirect" title="Template:Dn">view source</a>) (protected)</li><li><a href="/wiki/Template:Fix" title="Template:Fix">Template:Fix</a> (<a href="/w/index.php?title=Template:Fix&amp;action=edit" title="Template:Fix">view source</a>) (protected)</li><li><a href="/wiki/Template:Fix/category" title="Template:Fix/category">Template:Fix/category</a> (<a href="/w/index.php?title=Template:Fix/category&amp;action=edit" title="Template:Fix/category">view source</a>) (protected)</li><li><a href="/wiki/Template:Hatnote" title="Template:Hatnote">Template:Hatnote</a> (<a href="/w/index.php?title=Template:Hatnote&amp;action=edit" title="Template:Hatnote">view source</a>) (protected)</li><li><a href="/wiki/Template:Hide_in_print" title="Template:Hide in print">Template:Hide in print</a> (<a href="/w/index.php?title=Template:Hide_in_print&amp;action=edit" title="Template:Hide in print">view source</a>) (protected)</li><li><a href="/wiki/Template:If_pagename" title="Template:If pagename">Template:If pagename</a> (<a href="/w/index.php?title=Template:If_pagename&amp;action=edit" title="Template:If pagename">view source</a>) (protected)</li><li><a href="/wiki/Template:Ifsubst" title="Template:Ifsubst">Template:Ifsubst</a> (<a href="/w/index.php?title=Template:Ifsubst&amp;action=edit" title="Template:Ifsubst">view source</a>) (protected)</li><li><a href="/wiki/Template:Main" title="Template:Main">Template:Main</a> (<a href="/w/index.php?title=Template:Main&amp;action=edit" title="Template:Main">view source</a>) (protected)</li><li><a href="/wiki/Template:Namespace_detect" title="Template:Namespace detect">Template:Namespace detect</a> (<a href="/w/index.php?title=Template:Namespace_detect&amp;action=edit" title="Template:Namespace detect">view source</a>) (protected)</li><li><a href="/wiki/Template:Navbar" title="Template:Navbar">Template:Navbar</a> (<a href="/w/index.php?title=Template:Navbar&amp;action=edit" title="Template:Navbar">view source</a>) (protected)</li><li><a href="/wiki/Template:Only_in_print" title="Template:Only in print">Template:Only in print</a> (<a href="/w/index.php?title=Template:Only_in_print&amp;action=edit" title="Template:Only in print">view source</a>) (protected)</li><li><a href="/wiki/Template:Please_check_ISBN" title="Template:Please check ISBN">Template:Please check ISBN</a> (<a href="/w/index.php?title=Template:Please_check_ISBN&amp;action=edit" title="Template:Please check ISBN">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Portal" title="Template:Portal">Template:Portal</a> (<a href="/w/index.php?title=Template:Portal&amp;action=edit" title="Template:Portal">view source</a>) (protected)</li><li><a href="/wiki/Template:Portal/Images/Business_and_economics" title="Template:Portal/Images/Business and economics">Template:Portal/Images/Business and economics</a> (<a href="/w/index.php?title=Template:Portal/Images/Business_and_economics&amp;action=edit" title="Template:Portal/Images/Business and economics">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Portal/Images/Economics" class="mw-redirect" title="Template:Portal/Images/Economics">Template:Portal/Images/Economics</a> (<a href="/w/index.php?title=Template:Portal/Images/Economics&amp;action=edit" class="mw-redirect" title="Template:Portal/Images/Economics">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Portal/core" title="Template:Portal/core">Template:Portal/core</a> (<a href="/w/index.php?title=Template:Portal/core&amp;action=edit" title="Template:Portal/core">view source</a>) (protected)</li><li><a href="/wiki/Template:Quote" title="Template:Quote">Template:Quote</a> (<a href="/w/index.php?title=Template:Quote&amp;action=edit" title="Template:Quote">view source</a>) (protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (protected)</li><li><a href="/wiki/Template:Rellink" title="Template:Rellink">Template:Rellink</a> (<a href="/w/index.php?title=Template:Rellink&amp;action=edit" title="Template:Rellink">view source</a>) (protected)</li><li><a href="/wiki/Template:Side_box" title="Template:Side box">Template:Side box</a> (<a href="/w/index.php?title=Template:Side_box&amp;action=edit" title="Template:Side box">view source</a>) (protected)</li><li><a href="/wiki/Template:Sidebar" title="Template:Sidebar">Template:Sidebar</a> (<a href="/w/index.php?title=Template:Sidebar&amp;action=edit" title="Template:Sidebar">view source</a>) (protected)</li><li><a href="/wiki/Template:Sidebar_with_collapsible_lists" title="Template:Sidebar with collapsible lists">Template:Sidebar with collapsible lists</a> (<a href="/w/index.php?title=Template:Sidebar_with_collapsible_lists&amp;action=edit" title="Template:Sidebar with collapsible lists">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Sidebar_with_collapsible_lists/row" title="Template:Sidebar with collapsible lists/row">Template:Sidebar with collapsible lists/row</a> (<a href="/w/index.php?title=Template:Sidebar_with_collapsible_lists/row&amp;action=edit" title="Template:Sidebar with collapsible lists/row">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Sister" title="Template:Sister">Template:Sister</a> (<a href="/w/index.php?title=Template:Sister&amp;action=edit" title="Template:Sister">view source</a>) (protected)</li><li><a href="/wiki/Template:Str_left" title="Template:Str left">Template:Str left</a> (<a href="/w/index.php?title=Template:Str_left&amp;action=edit" title="Template:Str left">view source</a>) (protected)</li><li><a href="/wiki/Template:Systemic_bias" title="Template:Systemic bias">Template:Systemic bias</a> (<a href="/w/index.php?title=Template:Systemic_bias&amp;action=edit" title="Template:Systemic bias">edit</a>) </li><li><a href="/wiki/Template:Trade_bloc" title="Template:Trade bloc">Template:Trade bloc</a> (<a href="/w/index.php?title=Template:Trade_bloc&amp;action=edit" title="Template:Trade bloc">edit</a>) </li><li><a href="/wiki/Template:Trade_route" title="Template:Trade route">Template:Trade route</a> (<a href="/w/index.php?title=Template:Trade_route&amp;action=edit" title="Template:Trade route">edit</a>) </li><li><a href="/wiki/Template:Transclude" title="Template:Transclude">Template:Transclude</a> (<a href="/w/index.php?title=Template:Transclude&amp;action=edit" title="Template:Transclude">view source</a>) (protected)</li><li><a href="/wiki/Template:%C2%B7" title="Template:·">Template:·</a> (<a href="/w/index.php?title=Template:%C2%B7&amp;action=edit" title="Template:·">view source</a>) (protected)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 9 hidden categories:
+</p></div><ul>
+<li><a href="/wiki/Category:All_NPOV_disputes" title="Category:All NPOV disputes">Category:All NPOV disputes</a></li>
+<li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">Category:All articles with unsourced statements</a></li>
+<li><a href="/wiki/Category:Articles_with_invalid_ISBNs" title="Category:Articles with invalid ISBNs">Category:Articles with invalid ISBNs</a></li>
+<li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_February_2013" title="Category:Articles with links needing disambiguation from February 2013">Category:Articles with links needing disambiguation from February 2013</a></li>
+<li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_June_2011" title="Category:Articles with links needing disambiguation from June 2011">Category:Articles with links needing disambiguation from June 2011</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Category:Articles with unsourced statements from August 2012</a></li>
+<li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2010" title="Category:Articles with unsourced statements from November 2010">Category:Articles with unsourced statements from November 2010</a></li>
+<li><a href="/wiki/Category:NPOV_disputes_from_August_2010" title="Category:NPOV disputes from August 2010">Category:NPOV disputes from August 2010</a></li>
+<li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2012" title="Category:Wikipedia articles needing clarification from October 2012">Category:Wikipedia articles needing clarification from October 2012</a></li>
+</ul></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/wiki/Trade">http://en.wikipedia.org/wiki/Trade</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Personal tools</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trade&amp;returntoquery=action%3Dedit&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trade&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namespaces</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Trade"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Trade"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Variants</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Views</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Trade" >Read</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Trade&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving.">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Trade&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Actions</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Search</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Search" width="12" height="13" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" role="navigation" id='p-interaction'>
+	<h3>Interaction</h3>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Toolbox</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Trade" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Trade" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Trade&amp;action=info">Page information</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/wiki/Trade" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","ext.articleFeedback.startup","ext.markAsHelpful","ext.Experiments.experiments","wikibase.client.init","mw.PopUpMediaTransform"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_bold.png", "Bold text", "\'\'\'", "\'\'\'", "Bold text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_italic.png", "Italic text", "\'\'", "\'\'", "Italic text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Internal link", "[[", "]]", "Link title", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "External link (remember http:// prefix)", "[", "]", "http://www.example.com link title", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Level 2 headline", "\n== ", " ==\n", "Headline text", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Embedded file", "[[File:", "]]", "Example.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "File link", "[[Media:", "]]", "Example.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematical formula (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Insert formula here", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Ignore wiki formatting", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Insert non-formatted text here", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Your signature with timestamp", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontal line (use sparingly)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="/w/index.php?title=MediaWiki:Gadget-ReferenceTooltips.js&amp;action=raw&amp;ctype=text/javascript&amp;508635914"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1084 in 0.484 secs. -->
+	</body>
+</html>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/topics/!svn/ver/4966/topicmod/projects/psl_pltm/Test
+END
+sample_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Test/sample_data.sh
+END
+crawl_wiki.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Test/crawl_wiki.sh
+END
+botNames.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Test/botNames.txt
+END
+Psl_PltmPreferences.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/topics/!svn/ver/4825/topicmod/projects/psl_pltm/Test/Psl_PltmPreferences.properties
+END
+analyze.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Test/analyze.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/topics/!svn/ver/4809/topicmod/projects/psl_pltm/Test/run.sh
+END

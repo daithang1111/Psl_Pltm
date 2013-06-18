@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="client-nojs">
+<head>
+<title>„Statistik“ – Bearbeiten – Wikipedia</title>
+<meta charset="UTF-8" />
+<meta name="generator" content="MediaWiki 1.21wmf9" />
+<meta name="robots" content="noindex,nofollow" />
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Statistik&amp;action=edit" />
+<link rel="edit" title="Seite bearbeiten" href="/w/index.php?title=Statistik&amp;action=edit" />
+<link rel="apple-touch-icon" href="//de.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (de)" />
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikipedia“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=ext.flaggedRevs.basic%7Cext.gadget.CommonsDirekt%2CWikiMiniAtlas%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmw.PopUpMediaTransform%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" />
+<!--[if IE 8]><link rel="stylesheet" href="//bits.wikimedia.org/static-1.21wmf9/skins/common/IE80Fixes.css?303-4" media="screen" /><![endif]--><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: dewiki:resourceloader:filter:minify-css:7:202e0c15afe28e9879bea5c8d4c1f2ee */</style>
+
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Statistik","wgTitle":"Statistik","wgCurRevisionId":114650261,"wgArticleId":5011,"wgIsArticle":false,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":true,"wgPageContentLanguage":"de","wgSeparatorTransformTable":[",	.",".	,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgMonthNamesShort":["","Jan.","Feb.","Mär.","Apr.","Mai","Jun.","Jul.","Aug.","Sep.","Okt.","Nov.","Dez."],"wgRelevantPageName":"Statistik","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"8e50f7154b2c3107a672f1c08dc3ed3a","wgArticleFeedbackv5Permissions":{"aft-reader":true,"aft-member":false,"aft-editor":false,"aft-monitor":false,"aft-administrator":false,"aft-oversighter":false},"wgGuidedTourHelpGuiderUrl":"Help:Geführte Touren/Leiter","wgGuidedTourTestWikitextDescription":"Ein Leiter in deiner Wikitour kann Wikitext durch Verwendung von onShow und parseDescription beinhalten. Benutze es, um einen Wikilink zur \x3ca href=\"/w/index.php?title=Hilfe:Gef%C3%BChrte_Touren\x26amp;action=edit\x26amp;redlink=1\" class=\"new\" title=\"Hilfe:Geführte Touren (Seite nicht vorhanden)\"\x3eDokumentation\x3c/a\x3e oder einen externen Link \x3ca rel=\"nofollow\" class=\"external text\" href=\"https://github.com/tychay/mwgadget.GuidedTour\"\x3ezu github\x3c/a\x3e zu erstellen.","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1,"quality":2,"pristine":4}}},"wgStableRevisionId":114650261,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"aftv5-last-filter":null,"variant":"de","language":"de","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"gadget-WikiMiniAtlas":1,"gadget-old-movepage":1,"gadget-CommonsDirekt":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});;},{},{});
+/* cache key: dewiki:resourceloader:filter:minify-js:7:63644c94a30babccab36c4bfde7bfa2c */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.action.edit","mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralNotice.bannerController"]);
+}</script>
+<script src="//bits.wikimedia.org/geoiplookup"></script><link rel="dns-prefetch" href="//meta.wikimedia.org" /><!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.21wmf9/skins/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr capitalize-all-nouns ns-0 ns-subject page-Statistik skin-vector action-edit vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- CentralNotice --><script>
+	mw.loader.using( 'ext.centralNotice.bannerController', function() { mw.centralNotice.initialize(); } );
+</script>
+</div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading" lang="de"><span dir="auto">„Statistik“ – Bearbeiten</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Wechseln zu:					<a href="#mw-head">Navigation</a>, 					<a href="#p-search">Suche</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text"><table class='flaggedrevs_editnotice plainlinks'><tr><td><b>Deine Änderungen werden angezeigt, sobald sie gesichtet wurden. (<a href="/wiki/Wikipedia:Gesichtete_Versionen" title="Wikipedia:Gesichtete Versionen">Hilfe</a>)</b></td></tr></table><div id="editnotice-ns-0"></div>
+<div id="mw-anon-edit-warning">
+<p>Du bearbeitest diese Seite <a href="/wiki/Spezial:Anmelden" title="Spezial:Anmelden">unangemeldet</a>. Wenn du deine Änderung speicherst, wird deine aktuelle <a href="/wiki/IP-Adresse" title="IP-Adresse">IP-Adresse</a> in der <span class="plainlinks"><a class="external text" href="//de.wikipedia.org/w/index.php?title=Statistik&amp;action=history">Versionsgeschichte</a></span> aufgezeichnet und ist damit öffentlich einsehbar. Wenn du ein <a href="/wiki/Spezial:Benutzerkonto_anlegen" title="Spezial:Benutzerkonto anlegen">Benutzerkonto anlegst</a>, bleibt deine IP-Adresse verborgen.
+</p>
+<b>Speichere hier bitte keine Textversuche ab. Dafür haben wir unsere <a href="/wiki/Wikipedia:Spielwiese" title="Wikipedia:Spielwiese">Spielwiese</a>.</b></div>
+<div id="mw-edit-longpage-hint">
+<p>Größe der Seite bzw. des bearbeiteten Abschnitts: 32 KB.
+</p>
+</div>
+<div id="wikiPreview" class="ontop" style="display: none;"></div><form id="editform" name="editform" method="post" action="/w/index.php?title=Statistik&amp;action=submit" enctype="multipart/form-data"><div id="antispam-container" style="display: none;">
+<label for="wpAntispam">Spamschutzprüfung.
+Hier <b>NICHTS</b> eintragen!</label> <input type="text" name="wpAntispam" id="wpAntispam" value="" />
+</div>
+
+<input type="hidden" value="114650261" name="baseRevId" />
+<input type="hidden" value="0" name="undidRev" /><input type='hidden' value="" name="wpSection" />
+<input type='hidden' value="20130225071955" name="wpStarttime" />
+<input type='hidden' value="20130225022124" name="wpEdittime" />
+<input type='hidden' value="" name="wpScrolltop" id="wpScrolltop" />
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="de" dir="ltr" name="wpTextbox1">{{Begriffsklärungshinweis}}
+
+'''Statistik''' „ist die Lehre von Methoden zum Umgang mit quantitativen Informationen“ ([[Daten]]). Sie ist eine Möglichkeit, „eine systematische Verbindung zwischen Erfahrung ([[Empirie]]) und Theorie herzustellen“.&lt;ref>Rinne, Horst (2008),'' Taschenbuch der Statistik'' (4. Auflage), Harri Deutsch Verlag, Frankfurt am Main, S. 1 ({{Google Buch | BuchID = _q5OzktC92AC | Seite = 1}})&lt;/ref> Sie ist damit unter anderem die Zusammenfassung bestimmter Methoden, um empirische Daten zu [[Analyse|analysieren]].
+
+== Einführung ==
+{| class="wikitable float-right" style="text-align:center;"
+! class="hintergrundfarbe6" | [[Datei:Fisher iris versicolor sepalwidth.svg|50px]] [[Portal:Statistik]]
+|-
+| [[Portal:Statistik/Aktuelles|Aktuelles]]
+|-
+! Gebiete der Statistik
+|-
+| [[Portal:Statistik/Themen4|Computational Statistics]]
+|-
+| [[Portal:Statistik/Themen2|Deskriptive Statistik]]
+|-
+| [[Portal:Statistik/Themen5|Empirische Forschungsmethoden]]
+|-
+| [[Portal:Statistik/Themen7|Explorative Statistik, grafische Verfahren und Visualisierung]]
+|-
+| [[Portal:Statistik/Themen3|Induktive Statistik]]
+|-
+| [[Portal:Statistik/Themen10|Lineare Modelle]]
+|-
+| [[Portal:Statistik/Themen9|Multivariate Statistik]]
+|-
+| [[Portal:Statistik/Themen8|Software]]
+|-
+| [[Portal:Statistik/Themen1|Wirtschafts- und Sozialstatistik]]
+|-
+| [[Portal:Statistik/Themen6|Zeitreihenanalyse]]
+|}
+
+Statistik wird einerseits als eigenständige mathematische [[Einzelwissenschaft|Disziplin]] über das Sammeln, die Analyse, die Interpretation oder Präsentation von Daten betrachtet, andererseits als Teilgebiet der [[Mathematik]], insbesondere der [[Stochastik]], angesehen.&lt;ref>{{Literatur | Autor=Lincoln E. Moses | Titel=Think and Explain with statistics | Verlag=Addison-Wesley | Jahr=1986 | ISBN=978-0201156195 | Seiten=1-3}}&lt;/ref>&lt;ref>{{Literatur | Autor=David Moore | Titel=Statistics for the Twenty-First Century | Verlag=The Mathematical Association of America | Ort=Washington, DC | Jahr=1992 | Seiten=14–25 | Kapitel=Teaching Statistics as a Respectable Subject}}&lt;/ref>&lt;ref>{{Literatur | Autor=William Lee Hays | Titel=Statistics for the social sciences | Verlag=Holt, Rinehart and Winston | Jahr=1973 | Seiten=xii | ISBN=978-0030779459}}&lt;/ref>
+
+Die Statistik wird in die folgenden drei Teilbereiche eingeteilt:
+
+* Die ''[[deskriptive Statistik]]'' (auch ''beschreibende Statistik'' oder ''empirische Statistik''): Vorliegende Daten werden in geeigneter Weise beschrieben, aufbereitet und zusammengefasst. Mit ihren Methoden verdichtet man quantitative Daten zu Tabellen, graphischen Darstellungen und Kennzahlen. Bei einigen Institutionen ist wie bei der [[Amtliche Statistik|amtlichen Statistik]] oder beim [[Sozio-oekonomisches Panel|sozio-oekonomischen Panel (SOEP)]] die Erstellung solcher Statistiken die Hauptaufgabe.
+* Die ''[[induktive Statistik]]'' (auch ''mathematische Statistik'', ''schließende Statistik'' oder ''Inferenzstatistik''): In der induktiven Statistik leitet man aus den Daten einer [[Stichprobe]] Eigenschaften einer [[Grundgesamtheit]] ab. Die [[Wahrscheinlichkeitstheorie]] liefert die Grundlagen für die erforderlichen Schätz- und Testverfahren.
+* Die ''[[explorative Statistik]]'' (auch ''hypothesen-generierende Statistik'', ''analytische Statistik'' oder ''[[Data-Mining]]''): Dies ist methodisch eine Zwischenform der beiden vorgenannten Teilbereiche, bekommt als Anwendungsform jedoch zunehmend eine eigenständige Bedeutung. Mittels deskriptiver Verfahren und induktiver Testmethoden sucht sie systematisch mögliche Zusammenhänge (oder Unterschiede) zwischen Daten in vorhandenen Datenbeständen und will sie zugleich in ihrer Stärke und Ergebnissicherheit bewerten. Die so gefundenen Ergebnisse lassen sich als Hypothesen verstehen, die erst, nachdem darauf aufbauende, induktive Testverfahren mit entsprechenden (prospektiven) [[Versuchsplanung]]en sie bestätigten, als statistisch gesichert gelten können.
+
+Der Unterschied zwischen ''deskriptiver'' und ''explorativer'' Statistik wird auch an den Fragestellungen deutlich:&lt;ref>{{Literatur
+ |Autor = Wolfgang Polasek
+ |Titel = Explorative Daten- Analyse
+ |TitelErg = Einführung in die deskriptive Statistik
+ |Auflage = 2.
+ |Verlag = Springer
+ |Ort = Berlin
+ |Jahr = 1994
+ |ISBN = 978-3540583943
+}}
+&lt;/ref>
+
+* Deskriptive Statistik: Wie kann man eine Verteilung eines Merkmals beschreiben?
+* Explorative Statistik: Was ist an einer Verteilung eines Merkmals bemerkenswert oder ungewöhnlich?
+
+== Wortherkunft ==
+Das Wort Statistik stammt von {{laS|''statisticum''}} „den [[Staat]] betreffend“ und {{itS|''statista''}} [[Staatsmann]] oder [[Politiker]]. Die deutsche Statistik, eingeführt von [[Gottfried Achenwall]] 1749, bezeichnete ursprünglich die „Lehre von den Daten über den Staat“. Im 19.&amp;nbsp;Jahrhundert hatte der Schotte [[John Sinclair (Ökonom)|John Sinclair]] das Wort erstmals in seiner heutigen Bedeutung des ''allgemeinen Sammelns und Auswertens von Daten'' benutzt.
+
+== Geschichte ==
+Die moderne Statistik entstand aus verschiedenen historischen (datenanalytischen) Entwicklungen, die im Laufe des 19. und 20. Jahrhunderts zu der heutigen Statistik zusammengewachsen sind. Insbesondere die Teilung der Statistik in eine ''deskriptive'' und eine ''schließende'' Statistik spiegelt diese historische Entwicklung wider.
+
+=== Amtliche Statistik ===
+{{Hauptartikel|Amtliche Statistik|Statistisches Amt}}
+
+Die Anfänge der [[Amtliche Statistik|amtlichen Statistik]] reichen bis weit vor Christi Geburt zurück. Die ersten amtlichen Statistiken waren [[Volkszählung]]en ([[Ägypten]] zirka 3050 v. Chr., in der Stadt [[Mari (Stadt)|Mari]] in [[Mesopotamien]] zirka 1700 v. Chr.,  [[China]] zirka 1000 v. Chr.). Im alten Griechenland gab es zumindest in Athen Bürgerregister, Register zur Bevölkerungsbewegung, Einfuhrlisten zollpflichtiger Waren (wie Importe von Getreide) und Vermögenskataster. Bei römischen Volkszählungen wurden die Bürger und ihr Vermögen erfasst. 
+
+In Deutschland fand die erste Volkszählung 1449 in [[Nürnberg]] statt. Die Stadtverwaltung wollte die Bevölkerung und Vorräte erfassen, um zu entscheiden, ob man Flüchtlinge aus dem [[Erster Markgrafenkrieg|Markgrafenkrieg]] noch in die Stadt lassen konnte oder nicht. Den Anfang mit umfangreichen (amtlichen) statistischen Erhebungen machte der französische Staatsmann [[Jean-Baptiste Colbert|Colbert]] 1665 mit der Einrichtung einer Handelsstatistik. 1801 wurde in [[Frankreich]] die erste allgemeine Volkszählung durchgeführt. 
+
+In [[Preußen]] wurden seit 1683 auf Anordnung des Kurfürsten [[Friedrich Wilhelm (Brandenburg)|Friedrich Wilhelm]] Bevölkerungsstatistiken (Geburten, Eheschließungen und Todesfälle) erstellt und im Lauf der Zeit erweitert: 1719 der Hausbestand und Kommunalfinanzen, 1778 der Viehbestand, Aussaat, Getreidepreise, Flachs- und Tabakanbau, Fabriken, Hütten- und Bergwerke, Schifffahrt und Handel. Andere deutsche Staaten und Städte zogen nach, so Bayern im Jahre 1771 mit der Dachsbergschen Volksbeschreibung. Seit der Errichtung des [[Kaiserliches Statistisches Amt|Statistischen Amtes des Deutschen Reiches]] 1872 wird in Deutschland eine gesamte amtliche Statistik geführt.&lt;ref>{{Literatur | Herausgeber=Statistisches Bundesamt Wiesbaden | Titel=Bevölkerung und Wirtschaft 1872-1972 | Verlag=W. Kohlhammer Stuttgart und Mainz | Jahr=1972 | Seiten=15–16}}&lt;/ref> Auch in [[Österreich]] wurde 1753 durch [[Maria Theresia]] eine erste Volkszählung durchgeführt.
+
+Im Gegensatz zu heutigen Ergebnissen der [[Amtliche Statistik|amtlichen Statistik]] wurden die erstellten Statistiken nicht veröffentlicht und galten als Staatsgeheimnisse.
+
+=== Universitätsstatistik ===
+Unabhängig von der amtlichen Statistik hat sich die sogenannte Universitätsstatistik, ein inzwischen kaum mehr geläufiger Begriff für die beschreibende Staats- und Länderkunde, entwickelt. Das Sammelwerk des Italieners [[Francesco Sansovino|Sansovino]] (1562) ist eine erste Auflistung der Regierungsformen von zwanzig Staaten.&lt;ref>Sansovino, F. (1578), ''Del governo et amministratione di diversi regni et repvbliche, cosi antiche come moderne'', Per ordine di Iacomo Sansouino, Venetia ([http://openlibrary.org/b/OL3473315M/Del_gouerno_et_amministratione_di_diuersi_regni_et_republiche_cosi_antiche_come_moderne Open Library])&lt;/ref>  Ähnliche Werke entstanden unter anderem von dem Italiener [[Giovanni Botero|Botero]] (1589), dem Franzosen d'Avitys (1616) und dem Niederländer de Laet (1624-1640).&lt;ref>Botero, G. (1589), ''Della ragion di Stato libri dieci'',  Appresso i Gioliti, Venetia ([http://openlibrary.org/b/OL1770899M/Della_ragion_di_Stato_libri_dieci Open Library])&lt;/ref> Der Hauptvertreter der Universitätsstatistik in Deutschland war der Statistiker [[Achenwall]].
+
+Die amtliche Statistik diente der Verwaltung und der Unterstützung von Regierungs- oder Verwaltungsentscheidungen. Die Universitätsstatistik sollte mehr eine allgemeine Informationsquelle für Staatsmänner sein und enthielt anfangs nur textuelle Beschreibungen. Dazu gehörten Regierungsform, Gesetzesbestimmungen und Einzeltatsachen, eben „Staatsmerkwürdigkeiten“ im Sinne von ''des Merkens würdig''. Erst später kamen tabellarische Aufstellungen hinzu, wie bei [[Anton Friedrich Büsching|Büsching]]. Die Universitätsstatistiker haben jedoch selbst keine Erhebungen durchgeführt, sondern durch den Zugang zu den amtlichen Statistiken diese bearbeitet und veröffentlicht.
+
+=== Politische Arithmetik ===
+Erst die politischen Arithmetiker begannen, nach Gesetzmäßigkeiten in den Daten zu forschen. Dies hatte ihren Ursprung in den populärer werdenden [[Tontine]]n, einer Art Rentenversicherung.&lt;ref name=Koch2005>{{Literatur |Autor=Peter Koch|Jahr=2005 |Titel=Beiträge zur Geschichte des deutschen Versicherungswesens, Teil 2 |Verlag=Verlag Versicherungswirtschaft |Seiten=28}}&lt;/ref> Der Engländer [[Graunt]] analysierte 1660 Geburts- und Sterbelisten und wollte allgemeine Gesetzmäßigkeiten über das Geschlechterverhältnis, das Verhältnis von Sterbe- und Geburtsfällen, Sterbehäufigkeiten finden.&lt;ref>Graunt, J. (1665) ''Natural and Political Observations mentioned in a following Index, and made upon the Bills of Mortality'', 1665 ([http://echo2.mpiwg-berlin.mpg.de/content/demography/demography/Graunt_1665 Digitalisat])
+&lt;/ref> Der englische Statistiker und Ökonom [[William Petty|Petty]] übertrug diese Art von Analyse auf Wirtschaftsdaten. Der Hauptvertreter der politischen Arithmetiker in Deutschland ist der Statistiker [[Johann Peter Süßmilch|Süßmilch]] mit seinem Werk ''Die Göttliche Ordnung in den Verhältnissen des menschlichen Geschlechts, aus der Geburt, dem Tode und der Fortpflanzung desselben erwiesen'' von 1741.
+
+Diese Art von Statistiken hatte auch Einfluss auf philosophische Fragen, beispielsweise zur Existenz des [[Freier Wille|freien Willens]] des Individuums.&lt;ref>Wappäus, J.E. (1861), ''Allgemeine Bevölkerungsstatistik (Zweither Theil)'' Verlag der J.C. Hinrichs'schen Buchhandlung, Leipzig, S. 411ff&lt;/ref> [[Quetelet]] stellte fest, dass die Zahl der Eheschließungen in belgischen Städten geringere Abweichungen vom Durchschnitt zeigt als die Zahl der Todesfälle. Und das, obwohl der Zeitpunkt der Eheschließung dem freien Willen unterliegt und der Todeszeitpunkt (in der Regel) nicht.
+
+=== Wahrscheinlichkeitsrechnung ===
+{{Hauptartikel|Geschichte der Wahrscheinlichkeitsrechnung}}
+
+Aus Betrachtungen von Glücksspielen entstand die moderne [[Wahrscheinlichkeitsrechnung]]. Als Geburtsstunde der Wahrscheinlichkeitsrechnung gilt der Briefwechsel zwischen [[Blaise Pascal|Pascal]] und [[Fermat]] im Jahr 1654. Das Fundament der modernen Wahrscheinlichkeitsrechnung wurde mit dem Erscheinen von [[Kolmogorov]]s Lehrbuch ''Grundbegriffe der Wahrscheinlichkeitsrechnung'' im Jahr 1933 abgeschlossen.
+
+== Schritte der praktischen Umsetzung der Statistik ==
+Die Durchführung einer statistischen Untersuchung erfolgt immer im Zusammenspiel von statistisch-mathematischer Methodik und theoretischem Fachwissen. Sie kann grob in fünf Schritte eingeteilt werden:
+
+=== Planung ===
+In der Planungsphase (oder auch Definitionsphase) müssen die Forschungsfragen (Problem- und Zielstellung der Untersuchung und ihre theoretische Begründung) klar festgelegt werden. Zur Beantwortung muss folgendes entschieden werden: 
+* Wie wird die [[Grundgesamtheit]] definiert,
+* an welchen [[Statistische Einheit|statistischen Einheiten]] soll gemessen werden,
+* welche [[Statistische Variable|Variablen]] sollen erhoben werden,
+* welche [[Operationalisierung]]en sollen vorgenommen werden,
+* welcher Art und welchen Umfang soll die Erhebung haben.
+Eine statistische Untersuchung ist selten eine unmittelbare Abfolge der fünf Schritte, sondern meist ein ständiger Wechsel zwischen den verschiedenen Phasen in Abhängigkeit von den Daten, Analyseergebnissen und theoretischen Überlegungen.
+
+=== Erhebung ===
+Nach der Festlegung der [[Datenerhebung|Erhebungsart]] ergeben sich entsprechende Schritte.
+;Primär-statistische Erhebung
+Der Forscher erhebt seine Daten selbst, etwa durch Umfrage. Damit muss das Prozedere der Datenerhebung, etwa durch das [[ADM-Design]], festgelegt werden und die Erhebung nach diesen Vorschriften durchgeführt werden.
+;Sekundär-statistische Erhebung
+Der Forscher nutzt Einzeldaten, die von anderen erhoben wurden, etwa durch ein [[Statistisches Amt]]. So spart er Arbeit, da er nicht selbst erhebt. Oft jedoch passen die erhobenen Variablen nicht exakt zur Forschungsfrage oder der gewünschten Operationalisierung.
+;Tertiär-statistische Erhebung
+Der Forscher nutzt nur für eine [[Bezugssystem#Statistik|statistische Raumbezugseinheit]]&lt;ref>[http://www.staedtestatistik.de/agk.html Statistisches Raumbezugssystem]&lt;/ref> [[Aggregation (Statistik)|aggregierte]] Daten, die von anderen erhoben und veröffentlicht wurden.
+
+=== Aufbereitung ===
+Die Aufbereitungsphase umfasst die Kodierung der Daten, die [[Datenbereinigung]] (Plausibilitätsprüfung und Korrektur, [[Ausreißer]], fehlende Werte) und evtl. (statistisch oder sachlogisch) notwendige Transformationen der erhobenen [[Statistische Variable|Variablen]].
+
+=== Analyse ===
+In der Analysephase werden die Methoden der explorativen, deskriptiven und induktiven Statistik auf die Daten angewandt (Kennziffern, Grafiken und Tests). Aufgrund der teilweise automatisch erhobenen Datenmengen und der immer komplexeren Auswertungsverfahren (etwa [[Bootstrapping (Statistik)|Bootstrap]]-Verfahren) ist eine Analyse ohne eine geeignete [[Statistik-Software]] kaum möglich.
+
+=== Interpretation ===
+Die Interpretation der Ergebnisse der statistischen Analyse erfolgt natürlich unter Berücksichtigung des jeweiligen Fachgebietes. Von großer und fachübergreifender Wichtigkeit jedoch ist die Umsetzung von Zahlen in Sprache, die treffsichere sprachliche Umsetzung der gewonnenen Ergebnisse, die wissenschaftliche Kriterien erfüllt. Ohne den Rückbezug auf die im Verlauf des im wissenschaftlichen Erkenntnisprozess aufgestellten Hypothesen und Fragestellungen bleibt die statistische Analyse ohne Belang. In der statistischen Auswertung werden auch die meisten Schwächen einer statistischen Analyse sichtbar. Zu oft bleibt nur die reine Zahlendarstellung und zu wenig wird das Augenmerk auf eine klare sprachliche Ergebnissicherung gelegt. Eine überzeugende statistische Auswertung wird die gewonnenen Ergebnisse in einen flüssigen Text einbauen, versehen mit der Relevanz, den ersten Schritten von der Frage zur statistischen Methode, dem Höhepunkt einer strukturierten Ergebnisdarstellung und - last but not least - dem Verweis auf den größeren wissenschaftlichen Kontext, durchaus auch im Bewusstsein möglicher Schwachstellen der Analyse. Erst der Verweis und Querbezug auf andere wissenschaftlich gewonnene und valide Studienergebnisse trägt dann zu einem Erkenntnisfortschritt bei.
+
+== Informationsgehalt und -bewertung ==
+Statistiken stellen eine Repräsentation gesammelter Daten dar. Je nach Art und Weise der Datengewinnung entspricht der Gehalt der Informationen einem brauchbaren Ergebnis. Bei Verlassen der reellen und objektiven Prozesse können aber auch falsche Schlüsse aus Statistiken gezogen werden. So lässt sich ermitteln, wie groß der Anteil von Schwarzfahrern in Zügen oder die Durchschnittseinkommen der Bevölkerung an einem bestimmten Ort sein könnten. Allein aus statistisch verknüpfbaren Daten sollten aber keine Zusammenhänge gebildet werden. 
+
+Im Umgang mit Statistiken gilt es stets, den gesamten Datengehalt auf Relevanz prüfen, auf Beziehung der Teilinformationen zueinander und zum Umfeld. Durch geeignete Interpretation der Daten können falsche Belege gefunden werden, wenn die eine oder andere Beziehung weggelassen wird oder falls sie ins falsche Umfeld gesetzt wird. Es wird daher von Statistiken gefordert, dass sie „[[Objektivität|objektiv]]“ (unabhängig vom Standpunkt des Statistikerstellers), „[[Reliabilität|reliabel]]“ (verlässlich), „[[Validität|valide]]“ (überkontextuell gültig), „[[Statistische Signifikanz|signifikant]]“ (bedeutend) und „[[Relevanz (Statistik)|relevant]]“ (wichtig) sind.
+
+== Schulen und Denkrichtungen ==
+In Lehrbüchern wird mitunter der Eindruck vermittelt, es gebe nur das eine, sich ständig weiterentwickelnde Statistikmodell. In der ''Deskriptiven Statistik'' gibt es wenig Kontroversen, in der ''Induktiven Statistik'' gibt es jedoch verschiedene Denkschulen, die ein Problem unterschiedlich analysieren, bewerten und numerisch berechnen.&lt;ref>Rinne, H. (1997),'' Taschenbuch der Statistik'' (2. Auflage), Harri Deutsch Verlag, Frankfurt am Main, S. 471ff.&lt;/ref> Wenig bekannte Ansätze sind
+* die ''Fiduzialinferenz'' von [[Ronald Aylmer Fisher]],
+* die ''Likelihoodinferenz'' basierend auf den Arbeiten von [[George Alfred Barnard]], [[Allan Birnbaum]] und [[Anthony W.F. Edwards]] und
+* die ''Strukturinferenz'' von [[Donald A. S. Fraser]].
+
+Dominiert wird die induktive Statistik durch 
+* die ''klassische Inferenz'', entwickelt durch Ronald Aylmer Fisher, [[Egon Pearson]] und [[Jerzy Neyman]],
+* die ''[[Bayessche Statistik|Bayes-Inferenz]]'', entwickelt durch [[Harold Jeffreys]], [[Dennis Victor Lindley]] und [[Leonard Jimmie Savage]], sowie
+* die ''statistische [[Entscheidungstheorie]]'' von [[Abraham Wald]].
+
+Die folgende Tabelle zeigt einige Unterschiede zwischen den Inferenzarten auf:
+
+{| class="wikitable"
+! 
+!Klassische Inferenz
+!Bayes-Inferenz
+!Statistische Entscheidungstheorie
+|-
+| Verwendetes [[Inferenzkonzept]]
+| Objektivistisch, kognitivistisch, frequentistisch
+| Subjektivistisch, kognitivistisch, nichtfrequentistisch
+| Subjektivistisch, dezisionistisch, nichtfrequentistisch
+|-
+| rowspan="2" | Verwendete Information 
+| colspan="3" align="center" | Früher: Priorinformation → Jetzt: Stichprobendaten → Später: Handlungsfolgen
+|-
+| nur Stichprobendaten
+| zusätzlich Priorinformation
+| zusätzlich Handlungsfolgen
+|-
+| Informationsverarbeitung
+| Stichproben- und Likelihoodfunktionen
+| zusätzlich Priorverteilungen für Priorinformationen und Posteriorverteilung mittels Bayes Formel
+| zusätzlich Verlustfunktion für Handlungsfolgen
+|-
+| Eingesetzte Methoden
+| Punkt- und Intervallschätzung sowie Testverfahren auf Basis der Stichprobenverteilungen
+| Punkt- und Intervallschätzung sowie Testverfahren auf Basis der Posteriorverteilungen
+| Aufstellung von Entscheidungsfunktionen
+|-
+| Methodenbeurteilung
+| Unbekannter Parameter &lt;math>\Theta&lt;/math> ist fix und Wahrscheinlichkeitsaussagen betreffen nur die Schätzung &lt;math>\hat{\Theta}_n&lt;/math> 
+| colspan="2" | Unbekannter Parameter &lt;math>\Theta&lt;/math> ist stochastisch und Wahrscheinlichkeitsaussagen betreffen auch &lt;math>\Theta&lt;/math>
+|}
+
+&lt;!--
+Im Gegensatz dazu lassen sich durchaus verschiedene Denkschulen finden, wie diese ein Problem unterschiedlich analysieren, bewerten und numerisch berechnen.
+* [[Kausalbeziehung]]en: [[Ronald Fisher]];
+* Gedächtnisleistungen, [[Receiver Operating Characteristic|ROC]]-Kurven: [[Jerzy Neyman]] und [[Karl Pearson]];
+* Urteile aufgrund unsicherer Annahmen: [[Karl Pearson]];
+* [[Induktion (Denken)|Induktion]] und Änderung der Meinung: [[Thomas Bayes]].
+-->
+
+== Anwendung ==
+Ursprünglich wurde die Statistik entwickelt für die [[amtliche Statistik]] und auch für die Analyse von [[Glücksspiel]]en. Bei vielen Fachwissenschaften bestand der Bedarf nach „objektiver“ Überprüfung und Entscheidung von Theorien, wozu die [[Mathematik]] und Regeln der Statistik geeignet sind. So haben sich aus der Anwendung von statistischen Methoden in den Fachwissenschaften eigene Teilgebiete entwickelt.
+
+* [[Amtliche Statistik]] ist die Gesamtheit der von offiziellen Institutionen, insbesondere den [[Statistisches Amt|Statistischen Ämtern]], erstellten Statistiken.
+
+* [[Betriebsstatistik]] bezeichnet einerseits die Beschreibung und Überprüfung innerbetrieblicher Abläufe mit Hilfe statistischer Methoden und andererseits externe Statistiken über eine Gesamtheit von Betrieben.
+
+* [[Bevölkerungsstatistik]] ist die Lehre von der systematischen Erfassung, Darstellung und Interpretation der demografischen Situation und Entwicklung mit Hilfe statistischer Methoden (s.a. [[Demografie]]).
+
+* [[Biostatistik]] (auch: [[Biometrie]]) beschäftigt sich mit Fragestellungen, die sich in der medizinischen Forschung und anderen sich mit Lebewesen befassenden Forschungsbereichen ergeben.
+
+* [[Chemometrik]] (auch Chemometrie) ist die chemische Teildisziplin, die sich mit der Anwendung mathematischer und statistischer Methoden beschäftigt, um in optimaler Weise chemische Verfahren und Experimente zu planen, zu entwickeln, auszuwählen oder auszuwerten.
+
+* [[Demografie]] oder Bevölkerungswissenschaft ist eine wissenschaftliche Disziplin, die sich statistisch mit der Entwicklung von Bevölkerungen und deren Strukturen befasst.
+
+* [[Epidemiologie]] ist jene wissenschaftliche Disziplin, die sich mit den Ursachen und Folgen sowie der Verbreitung von gesundheitsbezogenen Zuständen und Ereignissen in Populationen beschäftigt.
+
+* [[Finanzstatistik]] fokussiert sich auf drei Themen: empirische Analysen und Modellierung von Finanzzeitreihen sowie die [[Agentenbasierte Modelle|Agentenbasierte Modellierung]] für simulierte und reale Märkte.
+
+* [[Geostatistik]] bezeichnet bestimmte stochastische Methoden zur Charakterisierung und Schätzung von räumlich korrelierten georeferenzierten Daten.
+
+* [[Kommunalstatistik]] erstellt für [[Bezugssystem#Statistik|statistische Raumbezugseinheiten]]&lt;ref>Kommunales Raumbezugssystem: http://www.staedtestatistik.de/agk.html&lt;/ref> kleinräumige Primär-, Sekundär- und Tertiärstatistiken für die kommunalen Planungen und Entscheidungen.
+
+* [[Ökonometrie]] ist ein Teilgebiet der Wirtschaftswissenschaften, das die ökonomische Theorie sowie mathematische Methoden und statistische Daten zusammenführt, um wirtschaftstheoretische Modelle empirisch zu überprüfen und ökonomische Phänomene quantitativ zu analysieren.
+
+* [[Operations Research]] ist ein Teilgebiet der angewandten Mathematik, das sich mit der Optimierung bestimmter Prozesse oder Verfahren, auch mit statistischen Methoden, beschäftigt.
+
+* [[Quantitative Linguistik]] untersucht mit statistischen Methoden den Spracherwerb, den Sprachwandel sowie Verwendung und Struktur von Sprachen.
+
+* [[Populationsökologie]] ist ein Teilgebiet der Ökologie, das sich mit der Zusammensetzung, der Dynamik und der Wechselwirkung biologischer Populationen beschäftigt. Traditionell wird die Populationsökologie in die statische Populationsbeschreibung und in die Populationsdynamik unterteilt. Ein wesentlicher Inhalt derselben ist die Wechselwirkung von Populationen im Rahmen der Konkurrenz- sowie der Räuber-Beute-Beziehungen.
+
+* [[Psychometrie]] ist das Gebiet der Psychologie, das sich allgemein mit Theorie und Methode des psychologischen Messens befasst. Sie ist eine Zusammenstellung (spezifischer) mathematischer und statistischer Modelle und Methoden. Diese wurden entwickelt, um die im Rahmen psychologischer Forschung gewonnenen empirischen Daten zusammenzufassen und zu beschreiben, und um aus ihnen Schlussfolgerungen zu ziehen. Vor allem dienen sie der psychologischen Modellbildung, wie mathematisch-statistischer, also psychometrischer Modelle über verschiedene kognitive Funktionsbereiche, über Persönlichkeitsbereiche, die aus den entsprechenden grundlegenden Theorien abgeleitet und formalisiert werden.
+
+* [[Six Sigma]] ist eine Methode aus dem [[Qualitätsmanagement]], deren Kernelement die Beschreibung, Messung, Analyse, Verbesserung und Überwachung von Geschäftsvorgängen mit statistischen Mitteln ist.
+
+* [[Statistik (Sport)|Sportstatistiken]] dienen der Darstellung bereits erbrachter sportlicher Leistungen und werden dazu verwendet, diese Leistungen zu analysieren sowie Vorhersagen über zukünftig zu erwartende Leistungen zu machen. Sie sind die Grundlage für [[Sportwette]]n.
+
+* [[Statistische Mechanik]] (hierzu auch: Statistische Thermodynamik) war ursprünglich ein Anwendungsgebiet der Mechanik. Der Zustand eines physikalischen Systems wird nicht mehr durch den genauen zeitlichen Verlauf von Ort und Impuls, der einzelnen Teilchen charakterisiert, sondern durch die Wahrscheinlichkeit, derartige mikroskopische Zustände vorzufinden und steht somit für die (theoretische und experimentelle) Analyse zahlreicher, fundamentaler Eigenschaften von Systemen vieler Teilchen (Atome, Moleküle).
+
+* [[Statistische Physik]] beschäftigt sich mit der Beschreibung von Naturphänomenen, bei denen zwar eine große Anzahl an Teilsystemen (oder Teilchen) beteiligt ist, aber nur Aussagen über die Gesamtheit interessieren oder grundsätzlich nur eine unvollständige Information über das Detailverhalten der Teilsysteme vorhanden ist. Sie ist eine physikalische Disziplin, deren mathematische Basis Sätze aus der Wahrscheinlichkeitstheorie und der asymptotischen Statistik und einige wenige physikalische Hypothesen bilden.
+
+* [[Umweltstatistik]] beschäftigt sich mit dem Sammeln von Umweltdaten und der Analyse von Ökosysteme, deren Belastungen und Reaktionen, mit Hilfe statistischer Methoden.
+
+* [[Versicherungsmathematik]] ist die Wissenschaft, die mathematische und statistische Methoden zur Risikomessung im [[Versicherungswesen]] und im [[Bankensystem]] anwendet.
+
+* [[Wirtschaftsstatistik]] ist die Lehre von der systematischen Erfassung, Darstellung und Interpretation ökonomischer Tatbestände mit Hilfe statistischer Methoden.
+
+== Ausbildung ==
+{{Hauptartikel|Statistik (Studienfach)}}
+
+== Software ==
+{{Hauptartikel|Liste von Statistik-Software}}
+
+[[Datei:Gretl screenshot.png|miniatur|[[gretl]], eine [[Open-Source]]-Statistiksoftware]]
+
+Die Entwicklung der Computer seit der zweiten Hälfte des 20. Jahrhunderts hat einen großen Einfluss auf die Statistik. Frühe statistische Modelle waren fast immer [[Lineares Modell|lineare Modelle]]. Die immer größere Rechenkapazität und die Entwicklung geeigneter numerischer [[Algorithmus|Algorithmen]] verursachte ein gesteigertes Interesse an nicht-linearen Modellen, wie [[Neuronales Netzwerk|neuronalen Netzwerken]] und führte zur Entwicklung komplexer statistischer Modelle, beispielsweise [[Generalisierte Lineare Modelle]] oder [[Mehrebenenanalyse|Mehrebenenmodelle]]. 
+
+Durch die individuelle Verfügbarkeit von Statistik-Software kann man auch Daten selbst darstellen und eine Vielzahl von Berechnungen durchführen. Dies reicht von der Berechnung von Lageparametern (wie Mittelwerte, Median, Modus) und Streuungsmaßen (wie Standardabweichung, Varianz, Spannweite) bis zu komplexen statistischen Modellen. Auch ist in der Regel die Darstellung von Daten in einer Vielzahl von Diagrammen, wie Box-Plot-Diagrammen, Stamm-Blatt-Diagrammen möglich. Für spezialisierte Grafiken kann man auf [[Visualisierungsprogramm]]e zurückgreifen.
+
+Der Zuwachs an Rechenleistung hat ebenfalls zu einer zunehmenden Popularität computerintensiver Methoden auf der Basis von [[Resampling]]-Techniken (Permutationstests, [[Bootstrapping (Statistik)|Bootstrapping]]) geführt. Auch die [[Bayessche Statistik]] ist, durch [[Gibbs-Sampling]], möglich geworden.
+
+== Bedeutende Statistiker ==
+{{Hauptartikel|Liste bedeutender Statistiker}}
+
+== Literatur ==
+&lt;!-- Bitte Literatur beim Portal eintragen -->
+{{Portal|Statistik/Literatur}}
+
+== Weblinks ==
+{{Wiktionary|Statistik}}
+{{Wikiquote|Statistik}}
+{{Wikibooks|Mathematik:_Statistik|Einführung in Statistik}}
+* http://www.dagstat.de, Deutsche Arbeitsgemeinschaft Statistik mit Verweisen auf alle deutschen wissenschaftlichen Gesellschaften im Bereich Statistik.
+* [http://isi.cbs.nl/glossary.htm ISI Multilingual Glossary of Statistical Terms]
+* [http://www.nzzfolio.ch/www/61554707-6925-4a17-854b-b42244d0559d/showbooklet/574a0345-6cec-449a-acf8-440f7b0c1c51.aspx Statistik - Zählen und gezählt werden] - Themenschwerpunkt von NZZ-Folio, der Zeitschrift der Neuen Zürcher Zeitung, mit allgemeinverständlichen Artikeln zu vielen Aspekten des Themas.
+* http://www.axtimwal.de Statistikseite, die sich mit Manipulation per Statistik beschäftigt und kostenlose Hilfe für Studenten/Schüler anbietet - außerdem kommentierte Literaturliste zum Thema
+* http://www.statsoft.com/textbook/stathome.html Guter Überblick der wichtigsten statistischen Verfahren (englisch)
+* http://de.statista.com/ Umfangreiche Datensammlung unterschiedlichster Statistiken mit Quellenangaben
+* http://www.datavis.ca/milestones/ Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualization
+
+== Einzelnachweise ==
+&lt;references />
+
+{{Lückenhaft}}
+
+[[Kategorie:Statistik| ]]
+
+{{Link FA|eu}}
+
+[[af:Statistiek]]
+[[am:የ�?ር�?ር ሂሳብ (እስታቲስቲክስ)]]
+[[an:Estatistica]]
+[[ar:إحصاء]]
+[[az:Statistika]]
+[[ba:Стати�?тика]]
+[[bat-smg:Statėstėka]]
+[[be:Статы�?тыка]]
+[[be-x-old:Статы�?тыка]]
+[[bg:Стати�?тика]]
+[[bn:পরিসংখ�?যান]]
+[[br:Stadegoù]]
+[[bs:Statistika]]
+[[ca:Estadística]]
+[[ckb:ئامار]]
+[[cs:Statistika]]
+[[cy:Ystadegaeth]]
+[[da:Statistik]]
+[[dv:ތަފާ�?ް ހި�?ާބު]]
+[[el:Στατιστική]]
+[[en:Statistics]]
+[[eo:Statistiko]]
+[[es:Estadística]]
+[[et:Statistika]]
+[[eu:Estatistika]]
+[[ext:Estadística]]
+[[fa:آمار]]
+[[fi:Tilastotiede]]
+[[fiu-vro:Statistiga]]
+[[fo:Hagfrøði]]
+[[fr:Statistique]]
+[[fur:Statistiche]]
+[[fy:Statistyk]]
+[[ga:Staidreamh]]
+[[gan:統計學]]
+[[gd:Staitistearachd]]
+[[gl:Estatística]]
+[[gv:Staydraa]]
+[[he:סטטיסטיקה]]
+[[hi:सांख�?यिकी]]
+[[hr:Statistika]]
+[[hu:Statisztika]]
+[[ia:Statistica]]
+[[id:Statistika]]
+[[io:Statistiko]]
+[[is:Tölfræði]]
+[[it:Statistica]]
+[[iu:ᑭᓯᑦᓯᓯᖕᖑ�?ᓗᒋᑦ �?�ᓯᔅᓱᑎᔅᓴᑦ]]
+[[ja:統計学]]
+[[jv:Statistika]]
+[[ka:სტ�?ტისტიკ�? (მეცნიერებ�?)]]
+[[kk:Стати�?тика]]
+[[kn:ಸಂಖ�?ಯಾಶಾಸ�?ತ�?ರ]]
+[[ko:통계학]]
+[[ku:Amar]]
+[[ky:Стати�?тика]]
+[[la:Statistica]]
+[[lad:Estadistika]]
+[[lb:Statistik]]
+[[li:Sjtatistiek]]
+[[lo:ສະຖິຕິສາດ]]
+[[lt:Statistika (mokslas)]]
+[[lv:Statistika]]
+[[mg:Statistika]]
+[[mk:Стати�?тика]]
+[[ml:സ�?ഥിതിഗണിതം]]
+[[mr:संख�?याशास�?त�?र]]
+[[ms:Statistik]]
+[[my:စာရင်းအင်း ပညာ]]
+[[new:तथ�?यांक]]
+[[nl:Statistiek]]
+[[nn:Statistikk]]
+[[no:Statistikk]]
+[[oc:Estatistica]]
+[[or:ପରିସଂଖ�?ୟାନ]]
+[[pl:Statystyka]]
+[[pms:Statìstica]]
+[[pnb:سٹیٹ]]
+[[pt:Estatística]]
+[[ro:Statistică]]
+[[ru:Стати�?тика]]
+[[rue:Штаті�?тіка]]
+[[scn:Statìstica]]
+[[sco:Stateestics]]
+[[sh:Statistika]]
+[[si:සංඛ්�?ය�?නය]]
+[[simple:Statistics]]
+[[sk:Štatistika]]
+[[sl:Statistika]]
+[[sq:Statistika]]
+[[sr:Стати�?тика]]
+[[stq:Statistik]]
+[[su:Statistik]]
+[[sv:Statistik]]
+[[ta:ப�?ள�?ளியியல�?]]
+[[te:సంఖ�?యా శాస�?త�?రం]]
+[[tg:Омор]]
+[[th:สถิติศาสตร์]]
+[[tk:Statistika]]
+[[tl:Estadistika]]
+[[tr:İstatistik]]
+[[uk:Стати�?тика]]
+[[ur:احصاء]]
+[[vec:Statìstega]]
+[[vi:Khoa h�?c Thống kê]]
+[[war:Estadistiká]]
+[[yi:סט�?טיסטיק]]
+[[yo:Ìsirò Statistiki]]
+[[zh:统计学]]
+[[zh-min-nan:Thóng-kè-ha�?k]]
+[[zh-yue:統計學]]
+</textarea><input type="hidden" name="articleFeedbackv5_click_tracking" /><input type="hidden" name="articleFeedbackv5_ct_cttoken" /><input type="hidden" name="articleFeedbackv5_ct_usertoken" /><input type="hidden" name="articleFeedbackv5_ct_event" /><div class='editOptions'>
+<span class="mw-summary" id="wpSummaryLabel"><label for="wpSummary"><a href="/wiki/Hilfe:Zusammenfassung_und_Quellen" title="Hilfe:Zusammenfassung und Quellen"><span title="Bitte die vorgenommenen Änderungen kurz beschreiben.">Zusammenfassung und Quellen</span></a>:</label></span> <input class="mw-summary" id="wpSummary" maxlength="200" tabindex="1" size="60" spellcheck="true" title="Gib eine kurze Zusammenfassung ein. [b]" accesskey="b" name="wpSummary" /><div class='editCheckboxes'>
+</div>
+<div id="editpage-copywarn">
+<table cellspacing="4">
+
+<tr>
+<td align="center" style="font-size:110%"> <b><a href="/wiki/Wikipedia:Urheberrechte_beachten" title="Wikipedia:Urheberrechte beachten">Das Kopieren urheberrechtlich geschützter Werke ist verboten!</a></b>
+</td>
+<td> Mit dem Speichern dieser Seite versicherst du, dass du den Beitrag selbst verfasst hast bzw. dass er keine fremden Rechte verletzt, und willigst ein, ihn unter der <a rel="nofollow" class="external text" href="http://creativecommons.org/licenses/by-sa/3.0/deed.de">Creative Commons Attribution/Share-Alike Lizenz 3.0</a> und der <a rel="nofollow" class="external text" href="//www.gnu.org/copyleft/fdl.html">GNU-Lizenz für freie Dokumentation</a> zu veröffentlichen. Falls du den Text nicht selbst verfasst hast, muss er unter den <a href="//wikimediafoundation.org/wiki/Nutzungsbedingungen" class="extiw" title="wmf:Nutzungsbedingungen">Nutzungsbedingungen</a> verfügbar sein und du stimmst zu, notwendigen Lizenzanforderungen zu folgen. Du stimmst einer Autoren-Nennung mindestens durch URL oder Verweis auf den Artikel zu. <b>Wenn du nicht möchtest, dass dein Text weiterbearbeitet und weiterverbreitet wird, dann speichere ihn nicht.</b>
+</td></tr>
+<tr>
+<td align="center"> <b><a href="/wiki/Wikipedia:Belege" title="Wikipedia:Belege">Bitte gib Belege für hinzugefügte Informationen an!</a></b>
+</td>
+<td> Wikipedia-Artikel sollen nur überprüfbare Informationen aus zuverlässigen Publikationen enthalten.
+</td></tr></table>
+</div>
+<div class='editButtons'>
+<input id="wpSave" name="wpSave" type="submit" tabindex="3" value="Seite speichern" accesskey="s" title="Deine &#xC4;nderungen zur Sichtung vorschlagen [s]"/>
+<input id="wpPreview" name="wpPreview" type="submit" tabindex="4" value="Vorschau zeigen" accesskey="p" title="Vorschau der Änderungen an dieser Seite. Bitte vor dem Speichern benutzen! [p]" />
+
+<input id="wpDiff" name="wpDiff" type="submit" tabindex="5" value="Änderungen zeigen" accesskey="v" title="Änderungen am Text zeigen [v]" />
+	<span class='cancelLink'><a href="/wiki/Statistik" title="Statistik" id="mw-editform-cancel">Abbrechen</a> | </span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Hilfe:Bearbeiten">Bearbeitungshilfe</a> (wird in einem neuen Fenster geöffnet)</span>
+</div><!-- editButtons -->
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken" />
+<div class="mw-editTools"><div id="mw-editTools"></div>
+</div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Folgende <a href="/wiki/Hilfe:Vorlagen" title="Hilfe:Vorlagen">Vorlagen</a> werden von diesem Artikel verwendet:
+</p></div><ul>
+<li><a href="/wiki/Vorlage:Bausteindesign1" title="Vorlage:Bausteindesign1">Vorlage:Bausteindesign1</a> (<a href="/w/index.php?title=Vorlage:Bausteindesign1&amp;action=edit" title="Vorlage:Bausteindesign1">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Bausteindesign3" title="Vorlage:Bausteindesign3">Vorlage:Bausteindesign3</a> (<a href="/w/index.php?title=Vorlage:Bausteindesign3&amp;action=edit" title="Vorlage:Bausteindesign3">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Begriffskl%C3%A4rungshinweis" title="Vorlage:Begriffsklärungshinweis">Vorlage:Begriffsklärungshinweis</a> (<a href="/w/index.php?title=Vorlage:Begriffskl%C3%A4rungshinweis&amp;action=edit" title="Vorlage:Begriffsklärungshinweis">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Boolandnot" title="Vorlage:Boolandnot">Vorlage:Boolandnot</a> (<a href="/w/index.php?title=Vorlage:Boolandnot&amp;action=edit" title="Vorlage:Boolandnot">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:COinS" title="Vorlage:COinS">Vorlage:COinS</a> (<a href="/w/index.php?title=Vorlage:COinS&amp;action=edit" title="Vorlage:COinS">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Datum" title="Vorlage:Datum">Vorlage:Datum</a> (<a href="/w/index.php?title=Vorlage:Datum&amp;action=edit" title="Vorlage:Datum">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Google_Buch" title="Vorlage:Google Buch">Vorlage:Google Buch</a> (<a href="/w/index.php?title=Vorlage:Google_Buch&amp;action=edit" title="Vorlage:Google Buch">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Hauptartikel" title="Vorlage:Hauptartikel">Vorlage:Hauptartikel</a> (<a href="/w/index.php?title=Vorlage:Hauptartikel&amp;action=edit" title="Vorlage:Hauptartikel">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:ItS" title="Vorlage:ItS">Vorlage:ItS</a> (<a href="/w/index.php?title=Vorlage:ItS&amp;action=edit" title="Vorlage:ItS">bearbeiten</a>) </li><li><a href="/wiki/Vorlage:LaS" title="Vorlage:LaS">Vorlage:LaS</a> (<a href="/w/index.php?title=Vorlage:LaS&amp;action=edit" title="Vorlage:LaS">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Lang" title="Vorlage:Lang">Vorlage:Lang</a> (<a href="/w/index.php?title=Vorlage:Lang&amp;action=edit" title="Vorlage:Lang">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Link_FA" title="Vorlage:Link FA">Vorlage:Link FA</a> (<a href="/w/index.php?title=Vorlage:Link_FA&amp;action=edit" title="Vorlage:Link FA">Quelltext anzeigen</a>) (schreibgeschützt)</li><li><a href="/wiki/Vorlage:Literatur" title="Vorlage:Literatur">Vorlage:Literatur</a> (<a href="/w/index.php?title=Vorlage:Literatur&amp;action=edit" title="Vorlage:Literatur">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:L%C3%BCckenhaft" title="Vorlage:Lückenhaft">Vorlage:Lückenhaft</a> (<a href="/w/index.php?title=Vorlage:L%C3%BCckenhaft&amp;action=edit" title="Vorlage:Lückenhaft">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Portal" title="Vorlage:Portal">Vorlage:Portal</a> (<a href="/w/index.php?title=Vorlage:Portal&amp;action=edit" title="Vorlage:Portal">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Wikibooks" title="Vorlage:Wikibooks">Vorlage:Wikibooks</a> (<a href="/w/index.php?title=Vorlage:Wikibooks&amp;action=edit" title="Vorlage:Wikibooks">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Wikiquote" title="Vorlage:Wikiquote">Vorlage:Wikiquote</a> (<a href="/w/index.php?title=Vorlage:Wikiquote&amp;action=edit" title="Vorlage:Wikiquote">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li><li><a href="/wiki/Vorlage:Wiktionary" title="Vorlage:Wiktionary">Vorlage:Wiktionary</a> (<a href="/w/index.php?title=Vorlage:Wiktionary&amp;action=edit" title="Vorlage:Wiktionary">Quelltext anzeigen</a>) (schreibgeschützt für unangemeldete und neue Benutzer)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>Diese Seite gehört zu 1 Wartungskategorie:
+</p></div><ul>
+<li><a href="/wiki/Kategorie:Wikipedia:L%C3%BCckenhaft" title="Kategorie:Wikipedia:Lückenhaft">Kategorie:Wikipedia:Lückenhaft</a></li>
+</ul></div>
+</form>
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Von „<a href="http://de.wikipedia.org/wiki/Statistik">http://de.wikipedia.org/wiki/Statistik</a>“				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks catlinks-allhidden'></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<div id="mw-navigation">
+			<h2>Navigationsmenü</h2>
+			<!-- header -->
+			<div id="mw-head" class="noprint">
+				
+<!-- 0 -->
+<div id="p-personal" role="navigation" class="">
+	<h3>Meine Werkzeuge</h3>
+	<ul>
+<li id="pt-createaccount"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Statistik&amp;returntoquery=action%3Dedit&amp;type=signup">Benutzerkonto anlegen</a></li><li id="pt-login"><a href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Statistik&amp;returntoquery=action%3Dedit" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o">Anmelden</a></li>	</ul>
+</div>
+
+<!-- /0 -->
+				<div id="left-navigation">
+					
+<!-- 0 -->
+<div id="p-namespaces" role="navigation" class="vectorTabs">
+	<h3>Namensräume</h3>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Statistik"  title="Seiteninhalt anzeigen [c]" accesskey="c">Artikel</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Diskussion:Statistik"  title="Diskussion zum Seiteninhalt [t]" accesskey="t">Diskussion</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet">
+	<h3 id="mw-vector-current-variant">
+		</h3>
+	<h3><span>Varianten</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+				</div>
+				<div id="right-navigation">
+					
+<!-- 0 -->
+<div id="p-views" role="navigation" class="vectorTabs">
+	<h3>Ansichten</h3>
+	<ul>
+					<li id="ca-view"><span><a href="/wiki/Statistik" >Lesen</a></span></li>
+					<li id="ca-edit" class="selected"><span><a href="/w/index.php?title=Statistik&amp;action=edit"  title="Seite bearbeiten. Bitte vor dem Speichern die Vorschaufunktion benutzen.">Bearbeiten</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Statistik&amp;action=history"  title="Frühere Versionen dieser Seite [h]" accesskey="h">Versionsgeschichte</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet">
+	<h3><span>Aktionen</span><a href="#"></a></h3>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search" role="search">
+	<h3><label for="searchInput">Suche</label></h3>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input name="search" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Suche nach Seiten, die diesen Text enthalten" id="searchButton"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/vector/images/search-ltr.png?303-4" alt="Volltext" width="12" height="13" /></button>								<input type='hidden' name="title" value="Spezial:Suche"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+				</div>
+			</div>
+			<!-- /header -->
+			<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/e/ec/Wikipedia-logo-v2-de.png);" href="/wiki/Wikipedia:Hauptseite"  title="Hauptseite"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" role="navigation" id='p-navigation'>
+	<h3>Navigation</h3>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z">Hauptseite</a></li>
+			<li id="n-topics"><a href="/wiki/Portal:Wikipedia_nach_Themen">Themenportale</a></li>
+			<li id="n-alphindex"><a href="/wiki/Spezial:Alle_Seiten">Von A bis Z</a></li>
+			<li id="n-randompage"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x">Zufälliger Artikel</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- Mitmachen -->
+<div class="portal" role="navigation" id='p-Mitmachen'>
+	<h3>Mitmachen</h3>
+	<div class="body">
+		<ul>
+			<li id="n-Artikel-verbessern"><a href="/wiki/Wikipedia:Beteiligen">Artikel verbessern</a></li>
+			<li id="n-Neuerartikel"><a href="/wiki/Wikipedia:Neuen_Artikel_anlegen">Neuen Artikel anlegen</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten">Autorenportal</a></li>
+			<li id="n-help"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Hilfeseite anzeigen">Hilfe</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r">Letzte Änderungen</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Kontakt">Kontakt</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_de.wikipedia.org&amp;uselang=de" title="Unterstütze uns">Spenden</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /Mitmachen -->
+
+<!-- TOOLBOX -->
+<div class="portal" role="navigation" id='p-tb'>
+	<h3>Werkzeuge</h3>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Spezial:Linkliste/Statistik" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j">Links auf diese Seite</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Statistik" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k">Änderungen an verlinkten Seiten</a></li>
+			<li id="t-specialpages"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q">Spezialseiten</a></li>
+			<li id="t-info"><a href="/w/index.php?title=Statistik&amp;action=info">Seiteninformationen</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+
+<!-- /LANGUAGES -->
+			</div>
+			<!-- /panel -->
+		</div>
+		<!-- footer -->
+		<div id="footer" role="contentinfo">
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="/wiki/Wikipedia:Datenschutz" title="Wikipedia:Datenschutz">Datenschutz</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia" title="Wikipedia:Über Wikipedia">Über Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Impressum" title="Wikipedia:Impressum">Impressum</a></li>
+											<li id="footer-places-mobileview"><a href="http://de.m.wikipedia.org/wiki/Statistik" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.21wmf9/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script>if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.loader.load(["ext.wikiEditor.toolbar","ext.wikiEditor.dialogs","ext.wikiEditor.toolbar.hideSig","mediawiki.user","mediawiki.page.ready","mediawiki.searchSuggest","mediawiki.hidpi","mobile.desktop","ext.gadget.WikiMiniAtlas","ext.gadget.CommonsDirekt","mw.MwEmbedSupport.style","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.UserBuckets","mw.PopUpMediaTransform","ext.flaggedRevs.advanced"], null, true);
+}</script>
+<script>if(window.mw){
+mw.loader.using("mediawiki.action.edit", function() {mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_bold.png", "Fetter Text", "\'\'\'", "\'\'\'", "Fetter Text", "mw-editbutton-bold");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/de/button_italic.png", "Kursiver Text", "\'\'", "\'\'", "Kursiver Text", "mw-editbutton-italic");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_link.png", "Interner Link", "[[", "]]", "Link-Text", "mw-editbutton-link");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_extlink.png", "Externer Link (http:// beachten)", "[", "]", "http://www.example.com Link-Text", "mw-editbutton-extlink");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_headline.png", "Überschrift", "\n== ", " ==\n", "Überschrift", "mw-editbutton-headline");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_image.png", "Dateilink", "[[Datei:", "]]", "Beispiel.jpg", "mw-editbutton-image");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_media.png", "Mediendatei-Link", "[[Medium:", "]]", "Beispiel.ogg", "mw-editbutton-media");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_math.png", "Mathematische Formel (LaTeX)", "\x3cmath\x3e", "\x3c/math\x3e", "Formel hier einfügen", "mw-editbutton-math");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_nowiki.png", "Unformatierter Text", "\x3cnowiki\x3e", "\x3c/nowiki\x3e", "Unformatierten Text hier einfügen", "mw-editbutton-nowiki");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_sig.png", "Deine Signatur mit Zeitstempel", "--~~~~", "", "", "mw-editbutton-signature");
+mw.toolbar.addButton("//bits.wikimedia.org/static-1.21wmf9/skins/common/images/button_hr.png", "Horizontale Linie (sparsam verwenden)", "\n----\n", "", "", "mw-editbutton-hr");
+
+// Create button bar
+$(function() { mw.toolbar.init(); } );
+});
+}</script>
+<script src="//bits.wikimedia.org/de.wikipedia.org/load.php?debug=false&amp;lang=de&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<!-- Served by mw1044 in 0.246 secs. -->
+	</body>
+</html>

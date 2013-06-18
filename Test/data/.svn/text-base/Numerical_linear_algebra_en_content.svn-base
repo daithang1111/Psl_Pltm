@@ -1,0 +1,29 @@
+<input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary" /><input type="hidden" value="0" name="oldid" /><input type="hidden" value="text/x-wiki" name="format" /><input type="hidden" value="wikitext" name="model" /><div class="wikiEditor-oldToolbar" style="display:none;"><div id="toolbar"></div></div><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" lang="en" dir="ltr" name="wpTextbox1">'''Numerical linear algebra''' is the study of [[algorithms]] for performing [[linear algebra]] computations, most notably [[Matrix (mathematics)|matrix]] operations, on [[computer]]s. It is often a fundamental part of [[engineering]] and [[computational science]] problems, such as [[image processing|image]] and [[signal processing]], [[telecommunication]], [[computational finance]], [[materials science]] simulations, [[structural biology]], [[data mining]], and [[bioinformatics]], [[fluid dynamics]], and many other areas.  Such software relies heavily on the development, analysis, and implementation of state-of-the-art algorithms for solving various numerical linear algebra problems, in large part because of the role of matrices in [[finite difference method|finite difference]] and [[finite element method]]s.
+
+Common problems in numerical linear algebra include computing the following: [[LU decomposition]], [[QR decomposition]], [[singular value decomposition]], [[eigenvalue]]s.
+
+== See also ==
+*[[Numerical analysis]], of which numerical linear algebra is a subspecialty
+*[[Gaussian elimination]], an important algorithm in numerical linear algebra
+*[[BLAS]] and [[LAPACK]], highly optimized computer libraries which implement most basic algorithms in numerical linear algebra
+*[[List of numerical analysis software]]
+*[[List of numerical libraries]]
+
+== References ==
+*{{cite book |last=Leader |first=Jeffery J. | title=Numerical Analysis and Scientific Computation |year=2004 |publisher=Addison Wesley |location= |isbn= 0-201-73499-0 }}
+* {{Cite book | last1=Bau III | first1=David | last2=Trefethen | first2=Lloyd N. | author2-link=Lloyd N. Trefethen | title=Numerical linear algebra | publisher=Society for Industrial and Applied Mathematics | location=Philadelphia | isbn=978-0-89871-361-9 | year=1997 | postscript=&lt;!--None-->}}
+* [[James H. Wilkinson|J. H. Wilkinson]] and C. Reinsch, "Linear Algebra, volume II of Handbook for Automatic Computation" SIAM Review 14, 658 (1972).
+* [[Gene H. Golub|Golub, Gene H.]]; [[Charles F. Van Loan|van Loan, Charles F.]] (1996), Matrix Computations, 3rd edition, Johns Hopkins University Press, ISBN 978-0-8018-5414-9
+
+==External links==
+* [http://www.netlib.org/utk/people/JackDongarra/la-sw.html Freely available software for numerical algebra on the web], composed by Jack Dongarra and Hatem Ltaief, University of Tennessee
+
+{{mathapplied-stub}}
+[[Category:Numerical linear algebra| ]]
+
+[[de:Numerische lineare Algebra]]
+[[es:�?lgebra lineal numérica]]
+[[fa:جبر خطی عددی]]
+[[id:Aljabar linear numerik]]
+[[pt:�?lgebra linear numérica]]
+[[zh:数值线性代数]]
